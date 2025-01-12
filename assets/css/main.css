@@ -7,6 +7,21 @@
   padding: 0;
 }
 
+@font-face {
+  font-family: vazirmatn;
+  src: url(fonts/vazirmatn/Vazirmatn-Medium.woff2) format(woff2),
+    url(fonts/vazirmatn/Vazirmatn-Bold.woff2) format(woff2),
+    url(fonts/vazirmat/Vazirmatn-ExtraBold.woff2) format(woff2),
+    url(fonts/vazirmat/Vazirmatn-ExtraLight.woff2) format(woff2),
+    url(fonts/vazirmat/Vazirmatn-Light.woff2) format(woff2),
+    url(fonts/vazirmat/Vazirmatn-Regular.woff2) format(woff2),
+    url(fonts/vazirmat/Vazirmatn-semiBold.woff2) format(woff2),
+    url(fonts/vazirmat/Vazirmatn-Thin.woff2) format(woff2),
+    url(fonts/vazirmat/Vazirmatn[whgt].woff2) format(woff2),
+    url(fonts/vazirmat/Vazirmatn-black.woff2) format(woff2),
+    url(fonts/vazirmat/Vazirmatn-Medium.woff2) format(woff2);
+}
+
 article,
 aside,
 footer,
