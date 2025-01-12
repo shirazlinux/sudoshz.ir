@@ -7,6 +7,19 @@
   padding: 0;
 }
 
+#pcb-title {
+  text-align: right !important;
+}
+
+#pcb-txt {
+  text-align: right !important;
+}
+
+/* .pcb__buttons .pcb__btn {
+  flex: auto !important;
+} */
+
+
 @font-face {
   font-family: vazirmatn;
   src: url(fonts/vazirmatn/Vazirmatn-Medium.woff2) format(woff2),
@@ -2462,3 +2475,4 @@ textarea {
 .footer {
   background-color: var(--lighter) !important;
 }
+
