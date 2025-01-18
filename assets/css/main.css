@@ -993,7 +993,7 @@ textarea {
 .navbar .navbar__toggle-inner {
   display: block;
   top: 50%;
-  text-indent: -9999999em;
+  text-indent: 9999999em;
 }
 .navbar .navbar__toggle-inner::before {
   content: "";
