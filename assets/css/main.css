@@ -993,7 +993,7 @@ textarea {
 .navbar .navbar__toggle-inner {
   display: block;
   top: 50%;
-  text-indent: 9999999em;
+  /* text-indent: -9999999em; */
 }
 .navbar .navbar__toggle-inner::before {
   content: "";
@@ -2452,4 +2452,67 @@ textarea {
   height: 150px; /* ارتفاع ثابت برای تصاویر */
   object-fit: cover; /* تصاویر را به صورت مناسب در باکس قرار می‌دهد */
   border-radius: 8px; /* گوشه‌های گرد برای تصاویر */
+}
+
+
+@media (min-width: 37.5em) {
+  #selfphototeam .gallery__item{
+    flex:0 0 16% !important;
+  }
+  #selfphototeam .gallery__item .is-loaded{
+    border-radius: 50%;
+    border: 3px solid #db7c00;
+  }
+}
+
+@media (min-width: 30em) {
+  #selfphototeam .gallery__item{
+    flex:0 0 16% !important;
+  }
+  #selfphototeam .gallery__item .is-loaded{
+    border-radius: 50%;
+    border: 3px solid #db7c00;
+  }
+}
+
+@media (min-width: 20em) {
+  #selfphototeam .gallery__item{
+    flex:0 0 16% !important;
+  }
+  #selfphototeam .gallery__item .is-loaded{
+    border-radius: 50%;
+    border: 3px solid #db7c00;
+  }
+}
+
+
+
+@media (min-width: 37.5em) {
+  #selfphoto .gallery__item{
+    flex:0 0 25% !important;
+  }
+  #selfphoto .gallery__item .is-loaded{
+    border-radius: 50%;
+    border: 5px solid #f1c40f;
+  }
+}
+
+@media (min-width: 30em) {
+  #selfphoto .gallery__item{
+    flex:0 0 25% !important;
+  }
+  #selfphoto .gallery__item .is-loaded{
+    border-radius: 50%;
+    border: 5px solid #f1c40f;
+  }
+}
+
+@media (min-width: 20em) {
+  #selfphoto .gallery__item{
+    flex:0 0 25% !important;
+  }
+  #selfphoto .gallery__item .is-loaded{
+    border-radius: 50%;
+    border: 3px solid #f1c40f;
+  } 
 }
