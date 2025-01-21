@@ -5,6 +5,8 @@
           box-sizing: border-box;
   margin: 0;
   padding: 0;
+  font-family: vazirmatn !important;
+  direction: rtl;
 }
 
 #pcb-title {
@@ -2442,17 +2444,16 @@ textarea {
 
 .contentbio {
   display: flex;
-  flex-wrap: wrap; /* اجازه می‌دهد که تصاویر به خط بعدی بروند */
-  justify-content: center; /* تصاویر را در مرکز قرار می‌دهد */
-  gap: 10px; /* فاصله بین تصاویر */
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px; 
 }
 
 .bioavatar {
-  width: 150px; /* عرض ثابت برای تصاویر */
-  height: 150px; /* ارتفاع ثابت برای تصاویر */
-  object-fit: cover; /* تصاویر را به صورت مناسب در باکس قرار می‌دهد */
-  border-radius: 8px; /* گوشه‌های گرد برای تصاویر */
-}
+  width: 150px;
+  height: 150px; 
+  object-fit: cover;
+  border-radius: 8px; 
 
 
 @media (min-width: 37.5em) {
@@ -2515,4 +2516,152 @@ textarea {
     border-radius: 50%;
     border: 3px solid #f1c40f;
   } 
+}
+
+.home-template .wrapper {
+  max-width: none !important;
+}
+
+
+* {
+  font-family: vazirmatn !important;
+   direction: rtl;
+}
+
+.box-container {
+  background: #f4f4f4;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+  padding: 20px;
+  max-width: 1200px;
+  margin: 10px auto;
+  border-radius: 10px;
+}
+
+.box {
+  background: white;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.box:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+}
+
+.box img {
+  width: 80px;
+  height: 80px;
+  margin-bottom: 15px;
+  transition: transform 0.3s ease;
+}
+
+.box:hover img {
+  transform: scale(1.1);
+}
+
+.box h3 {
+  font-size: 1.2em;
+  color: #333;
+  margin: 0 0 10px 0;
+}
+
+
+.box p {
+  font-size: 0.9em;
+  color: #666;
+  margin: 0;
+}
+
+
+.terminal-window {
+  width: 97%;
+  max-width: none;
+  background: #300a24;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+  font-family: 'Ubuntu Mono', monospace;
+  margin: 20px auto;
+}
+
+
+.terminal-header {
+  background: #3c3c3c;
+  padding: 8px;
+  text-align: center;
+  border-bottom: 1px solid #555;
+}
+
+
+.title {
+  color: #f0f0f0;
+  font-size: 0.9em;
+}
+
+
+.terminal-body {
+  direction: ltr;
+  padding: 15px;
+  color: #e7f5e7;
+  font-size: 1em;
+  line-height: 1.5;
+}
+
+.terminal-body .ltr {
+  color: #fff !important;
+  display: inline;
+  text-align: left;
+  margin: 0;
+}
+
+.prompt {
+  color: #00ff00;
+  font-weight: bold;
+}
+
+
+.output {
+  color: #ffffff;
+}
+
+
+.cursor {
+  color: #fff !important;
+  margin: 0;
+  display: inline-block;
+  animation: blink 1s steps(2, start) infinite;
+}
+
+@keyframes blink {
+  to {
+    visibility: hidden;
+  }
+}
+
+@media (max-width: 768px) {
+  .terminal-window {
+    width: 98%;
+    font-size: 0.9em;
+  }
+}
+
+.terminal-body {
+  padding: 10px;
+}
+}
+
+@media (max-width: 480px) {
+  .terminal-window {
+    width: 98%;
+    font-size: 0.8em;
+  }
+
+  .terminal-body {
+    padding: 8px;
+  }
 }
