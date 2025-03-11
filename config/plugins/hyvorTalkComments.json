@@ -1,0 +1,13 @@
+{
+    "websiteId": "12381",
+    "textHeader": "نظرات",
+    "headingLevel": "2",
+    "textFallback": "Please enable JS to use the comments form.",
+    "cssWrapperClass": "comments",
+    "cssInnerWrapperClass": "comments-wrapper",
+    "cssHeaderClass": "",
+    "lazyload": true,
+    "cookieBannerIntegration": false,
+    "cookieBannerGroup": "",
+    "cookieBannerNoConsentText": "Comments are disabled because you have not consented to their use. You can change your cookie preferences through our 'cookie banner'."
+}

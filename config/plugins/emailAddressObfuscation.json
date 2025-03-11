@@ -1,0 +1,7 @@
+{
+    "globalObfuscation": true,
+    "specificEmailsList": "",
+    "obfuscationMethod": "replace",
+    "atReplacement": "[AT]",
+    "dotReplacement": "[DOT]"
+}
