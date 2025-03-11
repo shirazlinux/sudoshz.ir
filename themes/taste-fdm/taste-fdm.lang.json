@@ -1,0 +1,82 @@
+{
+    "partials": {
+
+        "menu": {
+            "menu": " "
+        },
+        
+        "pagination": {
+            "prev": "قبلی",
+            "next": "بعدی"
+        },
+        
+        "shareButtons": {
+            "shareWithFacebook": "Facebook",
+            "shareWithTwitter": "(X)Twitter",
+            "shareWithPinterest": "Pinterest",
+            "shareWithMix": "Mix",
+            "shareWithLinkedIn": "LinkedIn",
+            "shareWithBuffer": "Buffer",
+            "shareWithWhatsApp": "WhatsApp"
+        },
+        
+        "footer": {
+            "backToTop": "برو بالا",
+            "followTelegram": "Telegram",
+            "followX": "X",
+            "followInstagram": "Instagram",
+            "followLinkedIn": "LinkedIn",
+            "followGithub": "GitHub",
+            "followMastadon": "Mastadon",
+            "followmatrix": "Matrix",
+            "followYoutube": "Youtube"
+        }
+    },
+    
+    "common": {
+		"published": "منتشر شده",
+		"publishedBy": "توسط",
+		"updated": "آخرین آپدیت : ",
+		"readmore": "مطالعه بیشتر",
+		"comments": "نظرات"
+	},
+
+    "post": {
+        "publishedBy": "توسط",
+        "relatedPosts": "همچنین میتوانید بخوانید:(نشست‌ها و پست آزاد)",
+        "readMore": "ادامه مطلب...",
+        "lastUpdatedDate": "این مقاله به روز شد",
+        "comments": "نظرات",
+        "previousPost": "قبلی",
+        "nextPost": "بعدی",
+        "shareIt": "اشتراک گذاری"
+    },
+
+    "page": {
+        "childPages": "Child pages"
+    },
+    
+    "tags": {
+        "tagsPageTitle": "تگ",
+        "description": "مجموعه ای از همه تگ های %s",
+        "featuringPosts": "دارای %s پست"
+    },
+
+    "author": {
+        "visitWebsite": "به وب سایت مراجعه کنید"
+    },
+
+    "error": {
+        "404": "404",
+        "message": "به نظر می رسد صفحه ای که به دنبال آن بودید منتقل شده، حذف شده یا وجود ندارد. می توانید به جایی که بودید برگردید یا مستقیماً به صفحه اصلی ما بروید.",
+        "button": "برگرد به خانه"
+    },
+    
+    "search": {
+        "placeholder": "جستجو...",
+        "search": "سرچ",
+        "close": "خروج",
+        "title": "سرچ",
+        "submit": "تایید"
+    }
+}

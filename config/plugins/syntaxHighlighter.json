@@ -1,0 +1,9 @@
+{
+    "theme": "black",
+    "showLineNumbers": true,
+    "enableCopyToClipboard": true,
+    "enableInlineColorPreview": true,
+    "enableAutoLinker": false,
+    "enableShowInvisibles": false,
+    "loadOn": "postsAndPages"
+}

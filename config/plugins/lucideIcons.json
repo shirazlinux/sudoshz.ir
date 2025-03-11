@@ -1,0 +1,11 @@
+{
+    "iconSize": "24",
+    "iconSizeUnit": "px",
+    "iconStrokeWidth": "2",
+    "iconStrokeColorOption": "currentColor",
+    "iconCustomStrokeColor": "#000000",
+    "iconVerticalAlign": "middle",
+    "iconVerticalAlignCustom": "",
+    "ariaHiddenDefault": "false",
+    "iconLoadingMethod": "internal"
+}

@@ -1,0 +1,8 @@
+{
+    "endpoint": "https://sudoshz.ir",
+    "previewMode": true,
+    "showVisitCounter": true,
+    "visitCounterSelector": "footer",
+    "visitCounterType": "svg",
+    "noBranding": false
+}
