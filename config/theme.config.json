@@ -14,8 +14,8 @@
         "frontPost": 63,
         "hero": true,
         "heroSource": "static",
-        "textHero": "",
-        "buttonHeroLinkName": "",
+        "textHero": "<p class=\"align-right\"> ما <strong><span style=\"color: #e67e23;\">شیرازلینوکس</span></strong> هستیم، یه جامعه‌ی دوستانه و پرانرژی که دور هم جمع شدیم تا فرهنگ دنیای نرم‌افزارهای آزاد و متن‌باز رو ترویج بدیم. اسممون شاید شیرازلوکس باشه، ولی<span style=\"color: #ba372a;\"> <strong>فقط محدود به شیراز نیستیم</strong></span>؛ تو شهرهای دیگه هم فعالیم و <span style=\"color: #3598db;\">همایش‌ها</span> و <span style=\"color: #3598db;\">رویدادهای</span> مختلف برگزار می‌کنیم. البته <strong><span style=\"color: #e67e23;\">شیراز قلب فعالیت‌هامونه</span></strong> و از همونجا کارمون رو شروع کردیم.<br><br><strong>ما چی کار می‌کنیم؟</strong><br>جامعه ای هستیم برای علاقه مندان به نرم افزار آزاد، اما در کنارش می‌خوایم به همه نشون بدیم که <strong>نرم‌افزار آزاد و متن‌باز</strong> چقدر می‌تونن مفید و قدرتمند باشن. از <span style=\"color: #e67e23;\">سیستم‌عامل‌ها</span> گرفته تا<span style=\"color: #e67e23;\"> ابزارهای برنامه‌نویسی</span> و طراحی، همه‌چیز رو بررسی می‌کنیم.<br>  <br><strong>همایش و کارگاه برگزار می‌کنیم</strong><br><span style=\"color: #2dc26b;\">تو شیراز و شهرهای دیگه،</span> دور هم جمع می‌شیم، آموزش می‌دیم، تجربه‌هامون رو به اشتراک می‌ذاریم و از ارائه دهندگان دعوت می‌کنیم تا ازشون چیزای جدید یاد بگیریم<br><br><strong>پروژه‌های متن‌باز رو حمایت می‌کنیم<br></strong> اگه تو هم ایده‌ای داری یا می‌خوای تو یه پروژه‌ی متن‌باز مشارکت کنی، ما کنارت هستیم. اینجا همه می‌تونن با هم همفکری کنن و پروژه‌هاشون رو جلو ببرن.<br><br><strong>یه جامعه‌ی صمیمی می‌سازیم</strong><br><strong><span style=\"color: #e67e23;\">شیرازلینوکس</span></strong> فقط یه گروه تخصصی نیست، <strong><span style=\"color: #e67e23;\">یه جورایی خانواده‌ست!</span></strong> اینجا همه می‌تونن دوست‌های جدید پیدا کنن، از هم یاد بگیرن و <strong><span style=\"color: #e67e23;\">با هم رشد کنن</span></strong><br><br><strong>چرا شیرازلینوکس؟</strong><br><span style=\"color: #169179;\">اگه دوست داری بیا پیشمون</span><br>چه برنامه‌نویس باشی، چه دانشجو، چه یه کاربر عادی که تازه می‌خواد با گنولینوکس و نرم‌افزارهای آزاد آشنا بشه، شیرازلینوکس جای خوبیه برای شروع. ما همیشه به استقبال آدم‌های جدید و ایده‌های تازه هستیم. پس بزن بریم، بیا تو جمع ما و باهم دنیای متن‌باز رو کشف کنیم! 😊<br><br>پینوشت: یادت نره، شیرازلینوکس فقط یه اسمه، ما همه‌جای ایرانیم! 🚀</p>",
+        "buttonHeroLinkName": "درباره ما",
         "frontGallery": true,
         "layoutFrontpage": "grid",
         "layoutFrontpageGrid": "l-grid--3",
@@ -70,17 +70,17 @@
         "shareLinkedin": true,
         "shareBuffer": false,
         "shareWhatsApp": true,
-        "copyrightText": "",
+        "copyrightText": "<p>info@sudoshz.ir</p>\n<p>این وب‌سایت تحت لایسنس MIT منتشر شده است</p>\n<p>حق نشر <strong class=\"copyleft\">©</strong> 2025 <a href=\"https://sudoshz.ir\" title=\"shiraz linux website\" target=\"_blank\" rel=\"noopener\">شیرازلینوکس</a></p>\n<p>قدرت گرفته شده از <a href=\"https://getpublii.com\">Publii</a></p>",
         "websiteUpdatedDate": true,
         "socialButtons": true,
-        "socialTelegram": "",
-        "socialTwitter": "",
-        "socialInstagram": "",
-        "socialLinkedin": "",
-        "socialGitHub": "",
-        "socialMastadon": "",
-        "socialmatrix": "",
-        "socialYoutube": "",
+        "socialTelegram": "https://t.me/shirazlinuxcommunity",
+        "socialTwitter": "https://x.com/shirazlinux",
+        "socialInstagram": "https://instagram.com/shirazlinux",
+        "socialLinkedin": "https://www.linkdin.com/posts/shirazlinux",
+        "socialGitHub": "https://github.com/shirazlinux/sudoshz.ir",
+        "socialMastadon": "https://techhub.social/@shirazlinux",
+        "socialmatrix": "https://matrix.to/#/#shirazlinux:matrix.org",
+        "socialYoutube": "https://youtube.com/@shirazlinux?si=BTI0Hh6DIRqfp9XW",
         "galleryItemGap": "0.5rem",
         "searchFeature": false,
         "createSearchPage": false,

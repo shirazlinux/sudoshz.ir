@@ -1,1 +1,160 @@
-[]
+[
+    {
+        "name": "منو اصلی",
+        "position": "mainMenu",
+        "items": [
+            {
+                "id": 1735478552937,
+                "label": "خانه",
+                "title": "",
+                "type": "frontpage",
+                "target": "_self",
+                "rel": "",
+                "link": "empty",
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1735740332484,
+                "label": "نشست‌ها",
+                "title": "",
+                "type": "tag",
+                "target": "_self",
+                "rel": "",
+                "link": 3,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1735938213442,
+                "label": "کارگاه‌ها",
+                "title": "",
+                "type": "tag",
+                "target": "_self",
+                "rel": "",
+                "link": 6,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1735740371585,
+                "label": "همایش‌ها",
+                "title": "",
+                "type": "tag",
+                "target": "_self",
+                "rel": "",
+                "link": 4,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1735942626280,
+                "label": "پست آزاد",
+                "title": "",
+                "type": "tag",
+                "target": "_self",
+                "rel": "",
+                "link": 5,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1735740539076,
+                "label": "درباره ما",
+                "title": "",
+                "type": "page",
+                "target": "_self",
+                "rel": "",
+                "link": 78,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1735813585899,
+                "label": "تیم اجرایی",
+                "title": "",
+                "type": "page",
+                "target": "_self",
+                "rel": "",
+                "link": 72,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            }
+        ],
+        "maxLevels": "-1"
+    },
+    {
+        "name": "منو فوت",
+        "position": "",
+        "items": [
+            {
+                "id": 1736554445801,
+                "label": "چرا شیرازلینوکس",
+                "title": "",
+                "type": "separator",
+                "target": "_self",
+                "rel": "",
+                "link": "",
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 17365544516751,
+                "label": "چرا شیرازلینوکس",
+                "title": "",
+                "type": "separator",
+                "target": "_self",
+                "rel": "",
+                "link": "",
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 17365544522361,
+                "label": "چرا شیرازلینوکس",
+                "title": "",
+                "type": "separator",
+                "target": "_self",
+                "rel": "",
+                "link": "",
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 17365544529241,
+                "label": "چرا شیرازلینوکس",
+                "title": "",
+                "type": "separator",
+                "target": "_self",
+                "rel": "",
+                "link": "",
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 17365544533961,
+                "label": "چرا شیرازلینوکس",
+                "title": "",
+                "type": "separator",
+                "target": "_self",
+                "rel": "",
+                "link": "",
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            }
+        ],
+        "maxLevels": ""
+    }
+]

@@ -1,12 +1,12 @@
 {
-    "uuid": "uuid-1741739917030-797365272",
-    "name": "wrjn-nsby-apdyt-khnyd",
-    "displayName": "ورژن نصبی (آپدیت کنید)",
-    "description": "برای دریافت آپدیت در ریشه فایل به آدرس \ninput\nدستور گیت پول رو بزنید \ngit pull\nپس از آپدیت برنامه رو باز و بسته کنید",
+    "uuid": "uuid-1736992717705-106152683",
+    "name": "install-version-shirazlinux",
+    "displayName": "شیرازلینوکس",
+    "description": "ما یک جامعه فعال و پویا از علاقه‌مندان به نرم‌افزارهای آزاد و متن‌باز فعال در قلب شیراز هستیم. هدف اصلی این جامعه ترویج فرهنگ نرم‌افزار آزاد و ایجاد فضایی برای تبادل دانش و تجربیات میان کاربران، توسعه‌دهندگان و علاقه‌مندان به فناوری‌های آزاد است.",
     "synced": "synced",
     "logo": {
         "color": 1,
-        "icon": "web-power"
+        "icon": "web-pizza"
     },
     "domain": "https://sudoshz.ir",
     "language": "Fa",
@@ -177,7 +177,7 @@
         }
     },
     "deployment": {
-        "protocol": "",
+        "protocol": "git",
         "relativeUrls": false,
         "port": "",
         "server": "",
@@ -201,20 +201,20 @@
             "acl": "public-read"
         },
         "git": {
-            "url": "",
-            "branch": "",
-            "user": "",
-            "password": "",
-            "commitAuthor": "",
-            "commitEmail": "",
-            "commitMessage": "Publii: update content"
+            "url": "https://github.com/shirazlinux/sudoshz.ir.git",
+            "branch": "main",
+            "user": "shirazlinux",
+            "password": "publii-git-password uuid-1736992717705-106152683",
+            "commitAuthor": "abbasdp",
+            "commitEmail": "abbasdp@proton.me",
+            "commitMessage": "add post matrix - fix grep on anuther - add and fix backend publii - add matrix aand mastodon svg"
         },
         "github": {
-            "server": "api.github.com",
-            "user": "",
-            "repo": "",
-            "branch": "",
-            "token": "",
+            "server": "",
+            "user": "abbasdp",
+            "repo": "https://github.com/abbasdp/sudoshz.ir.git",
+            "branch": "main",
+            "token": "publii-gh-token uuid-1736992717705-106152683",
             "parallelOperations": 1,
             "apiRateLimiting": 1
         },
@@ -235,8 +235,8 @@
             "prefix": ""
         },
         "manual": {
-            "output": "catalog",
-            "outputDirectory": ""
+            "output": "tar-archive",
+            "outputDirectory": "/home/abbas/Pictures/New Folder"
         }
     },
     "theme": "taste-fdm",
