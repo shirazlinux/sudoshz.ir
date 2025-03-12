@@ -1,6 +1,13 @@
+## **استاتیک وب‌سایت شیرازلینوکس**
 
-Persian Translate - Simple v.3 - run by getpublii
 
-Simple v.3 - The Perfect Theme for Minimalist Bloggers and Authors
+و‌ب‌سایت [شیرازلینوکس](https://sudoshz.ir/) بر بستر یک سایت ساز اوپن‌سورس **(Publii)** طراحی و میزبانی و مدیریت می‌شود.
 
-Simple is a clean and minimal blogging theme. Readable article previews provide titles and text snippets to draw readers in, and a full suite of typography options let you stylize text and insert photos for pixel-perfect reading experiences.
+پابلی یک **استاتیک سایت ساز** هست که به صورت **سلف هاست** در سیستم شخصی کابر قابل مدیریت، ایجاد و تغییر می‌باشد.
+همین امر باعث شده راحتی بیشتری بین اعضای تیم ما به نسبت دیگر سایت سازها وجود داشته باشه و از پابلی برای توسعه وب سایت شیرازلینوکس استفاده کنیم 
+
+این ریپو دارای چند برنچ هست که مربوط به بخش های مختلف این پروژه هست 
+در برنچ ‌main فایل های استاتیک سایت شیرازلینوکس هست 
+در برنچ [selfhost-database](https://github.com/shirazlinux/sudoshz.ir/tree/selfhost-database) دیتابیس شیرازلینوکس در بستر پابلی هست که برای همرسانی بین تیم شیرازلینوکس برای مشارکت می‌باشد اما برای عموم نیز قابل دسترس و آزاد در استفاده می باشد
+
+شما هم میتونید در آپدیت طراحی سایت یا نوشتار پست آزاد با ما مشارکت کنید و کافیه پس از انجام تغییرات، تغییرات خودتون رو پول کنید تا روی وب‌سایت شیرازلینوکس قرار گرفته بشه
