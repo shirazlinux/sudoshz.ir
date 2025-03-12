@@ -1,0 +1,72 @@
+{
+    "destination": "front",
+    "sliderH": "405px",
+    "showControl1": true,
+    "imageSlider": [
+        {
+            "image": "743862A0-C20C-4606-A858-8D7FBD34EFE5_1_105_c.jpg",
+            "textTitle": "جامعه لینوکسی شیراز",
+            "textBody": "#شیرازلینوکس",
+            "linkUrl": "",
+            "textPosition": "SW",
+            "linkNewTab": false,
+            "alt": "دسته جمعی نشست سوم شیرازلینوکس",
+            "title": ""
+        },
+        {
+            "image": "4A1A2256-85AA-4A2E-B899-828864033484_1_105_c.jpg",
+            "textTitle": "شبکه سازی با طعم قهوه",
+            "textBody": "در کنار هم برای هم",
+            "linkUrl": "",
+            "textPosition": "SW",
+            "linkNewTab": false,
+            "alt": "دسته جمعی افتتاحیه جامعه لینوکسی شیراز",
+            "title": ""
+        },
+        {
+            "image": "937039FC-53EE-42B8-9C34-7C9E4C33586E_1_105_c.jpg",
+            "textTitle": "همایش‌های نرم‌افزارآزاد",
+            "textBody": "همایش نیم روزه با حضور علاقه مندان نرم افزار آزاد",
+            "linkUrl": "",
+            "textPosition": "SW",
+            "linkNewTab": false,
+            "alt": "دسته جمعی همایش گنولینوکس شیراز",
+            "title": ""
+        },
+        {
+            "image": "914544CA-7E06-41EA-A2CD-AF9BEDA8F0E0_1_105_c.jpg",
+            "textTitle": "کارگاه های تخصصی",
+            "textBody": "",
+            "linkUrl": "",
+            "textPosition": "SW",
+            "linkNewTab": false,
+            "alt": "همایش گنولینوکس شیرازلینوکس",
+            "title": ""
+        }
+    ],
+    "showControl2": true,
+    "staticTextTitle": "جامعه لینوکسی شیراز",
+    "staticTextBody": "#شیرازلینوکس",
+    "staticTextPosition": "SE",
+    "textColor": "#ffffff",
+    "textBgColor": "rgba(0,0,0,.2)",
+    "textPadding": "20px",
+    "textLeftRight": "40px",
+    "textTopBottom": "40px",
+    "showControl3": true,
+    "transitionTime": "2000",
+    "transitionDirectionX": "null",
+    "transitionDirectionY": "null",
+    "transitionZoom": "null",
+    "bullets": true,
+    "bulletsHide": false,
+    "bulletColor": "#BA1A1A",
+    "arrows": false,
+    "arrowsHide": false,
+    "swipe": true,
+    "auto": true,
+    "autoTime": "2000",
+    "autoPauseOnHover": true,
+    "sliderPosition": "1",
+    "customCSS": "header.top {z-index: 0;}\n"
+}

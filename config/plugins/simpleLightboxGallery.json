@@ -1,0 +1,23 @@
+{
+    "fitView": true,
+    "infinigall": true,
+    "uniqueGalleryGroups": true,
+    "overlayClose": true,
+    "spinner": "plane",
+    "navigation": true,
+    "numeration": true,
+    "share": true,
+    "shareStyle": "pill",
+    "titlePosition": "top",
+    "titleStyle": "transparent",
+    "maxWidth": "100%",
+    "overlayColor": "rgba(0,0,0,0.8)",
+    "bgcolor": "rgba(38, 40, 44, 1)",
+    "toolsBackground": "#1C1C1C",
+    "toolsColor": "#d2d2d2",
+    "navKeyboard": true,
+    "navTouch": true,
+    "initialScale": 0.9,
+    "transitionSpeed": 200,
+    "navSpeed": 300
+}

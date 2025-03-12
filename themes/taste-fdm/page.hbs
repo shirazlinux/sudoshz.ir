@@ -1,0 +1,151 @@
+{{> head}}
+{{> navbar}}
+<main class="page">
+   <div class="wrapper">
+      {{#if @customHTML.beforePage}}
+         <div class="banner banner--before-content">
+            {{{@customHTML.beforePage }}}
+         </div>
+      {{/if}}
+      {{#page}}
+         <article class="content">
+            <header class="content__header">
+               <h1 class="content__title">
+                  {{title}}
+               </h1>
+               {{#checkIfAny @config.page.displayAuthor @config.page.displayDate @config.page.displayComments}}
+                  <div class="content__meta">
+                     {{#if @config.page.displayAuthor}}
+                        <div class="content__author">{{ translate 'post.publishedBy' }}
+                           {{#author}}
+                              <a href="{{url}}" class="invert" rel="author" title="{{name}}">{{name}}</a>
+                           {{/author}}
+                        </div>
+                     {{/if}}
+                     {{#if @config.page.displayDate}}
+                        <time datetime="{{date createdAt 'YYYY-MM-DDTHH:mm'}}">
+                           {{#checkIf @config.custom.formatDate '!=' 'custom'}}
+                              {{date createdAt @config.custom.formatDate}}
+                           {{else}}
+                              {{date createdAt @config.custom.formatDateCustom}}
+                           {{/checkIf}}
+                        </time>
+                     {{/if}}
+
+                     {{#if @config.page.displayComments}}
+                        <div class="content__comments">
+                           <a href="{{url}}#comments" rel="nofollow" aria-label="{{ translate 'common.comments' }}">
+                              <svg aria-hidden="true">
+                                 <title>{{ translate 'common.comments' }}</title>
+                                 <use xlink:href="{{@website.assetsUrl}}/svg/svg-map.svg#comments"/>
+                              </svg>
+                           </a>
+                        </div>
+                     {{/if}}
+                  </div>
+               {{/checkIfAny}}
+            </header>
+
+            {{#featuredImage}}
+               {{#if url}}
+                  <figure class="content__featured-image">
+                     <img
+                        src="{{url}}"
+                        {{#if @config.site.responsiveImages}}
+                           {{responsiveImageAttributes 'featuredImage' srcset sizes}}
+                        {{/if}}
+                        {{ lazyload "eager" }}
+                        height="{{height}}"
+                        width="{{width}}"
+                        alt="{{alt}}">
+
+                     {{#checkIfAny caption credits}}
+                        <figcaption>
+                           {{caption}}
+                           {{credits}}
+                        </figcaption>
+                     {{/checkIfAny}}
+                  </figure>
+               {{/if}}
+            {{/featuredImage}}
+            <div class="content__inner">
+               <div class="content__entry">
+                  {{{text}}}
+               </div>
+               {{#checkIfAny @config.page.displayLastUpdatedDate @config.page.displayShareButtons @config.page.displayAuthorBio}}
+                  <footer>
+
+                     {{#if @config.page.displayLastUpdatedDate}}
+                        {{#if modifiedAt}}
+                           <p class="content__last-updated">
+                              {{ translate 'post.lastUpdatedDate' }}
+                              {{#checkIf @config.custom.formatDate '!=' 'custom'}}
+                                 {{date modifiedAt @config.custom.formatDate}}
+                              {{else}}
+                                 {{date modifiedAt @config.custom.formatDateCustom}}
+                              {{/checkIf}}
+                           </p>
+                        {{/if}}
+                     {{/if}}
+
+                     {{#if @config.page.displayShareButtons}}
+                        <div class="content__tags-share">
+                              {{#checkIfAll @plugins.socialSharing @plugins.socialSharing.state}}
+                                 <aside class="content__share">
+                                    {{{@customSocialSharing}}}
+                                 </aside>
+                              {{else}}
+                                 <aside class="content__share">
+                                    {{> share-buttons}}
+                                 </aside>
+                              {{/checkIfAll}}          
+                        </div>
+                     {{/if}}
+
+                     {{#if @config.page.displayAuthorBio}}
+                        {{#author}}
+                           <div class="content__bio bio">
+                              {{#if avatar}}                              
+                                 <img 
+                                    src="{{avatarImage.url}}" 
+                                    {{ lazyload "lazy" }}
+                                    height="{{avatarImage.height}}"
+                                    width="{{avatarImage.width}}" 
+                                    class="bio__avatar" 
+                                    alt="{{avatarImage.alt}}">  
+                              {{/if}}
+                              <div>
+                                 {{#if name}}
+                                    <h3 class="h6 bio__name">
+                                       <a href="{{url}}" class="invert" title="{{name}}">{{name}}</a>
+                                    </h3>
+                                 {{/if}}
+                                 {{#if description}}
+                                    <div class="bio__desc">{{{description}}}</div>
+                                 {{/if}}
+                              </div>
+                           </div>
+                        {{/author}}
+                     {{/if}}
+
+                  </footer>
+               {{/checkIfAny}}
+            </div>
+         </article>
+      {{/page}}
+
+      {{#if @config.page.displayComments}}
+         <div class="comments-area content__inner" id="comments">
+            {{{@commentsCustomCode}}}
+         </div>
+      {{/if}}
+
+      {{#if @customHTML.afterPage}}
+         <div class="banner banner--after-content">
+            {{{@customHTML.afterPage}}}
+         </div>
+      {{/if}}
+   </div>
+
+</main>
+{{> footer}}
