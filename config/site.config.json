@@ -1,6 +1,6 @@
 {
-    "uuid": "uuid-1736992717705-106152683",
-    "name": "install-version-shirazlinux",
+    "uuid": "uuid-1741798522141-426829387",
+    "name": "shyrzlynwkhs",
     "displayName": "شیرازلینوکس",
     "description": "ما یک جامعه فعال و پویا از علاقه‌مندان به نرم‌افزارهای آزاد و متن‌باز فعال در قلب شیراز هستیم. هدف اصلی این جامعه ترویج فرهنگ نرم‌افزار آزاد و ایجاد فضایی برای تبادل دانش و تجربیات میان کاربران، توسعه‌دهندگان و علاقه‌مندان به فناوری‌های آزاد است.",
     "synced": "synced",
@@ -177,7 +177,7 @@
         }
     },
     "deployment": {
-        "protocol": "git",
+        "protocol": "",
         "relativeUrls": false,
         "port": "",
         "server": "",
@@ -201,20 +201,20 @@
             "acl": "public-read"
         },
         "git": {
-            "url": "https://github.com/shirazlinux/sudoshz.ir.git",
-            "branch": "main",
-            "user": "shirazlinux",
-            "password": "publii-git-password uuid-1736992717705-106152683",
-            "commitAuthor": "abbasdp",
-            "commitEmail": "abbasdp@proton.me",
-            "commitMessage": "add post matrix - fix grep on anuther - add and fix backend publii - add matrix aand mastodon svg"
+            "url": "",
+            "branch": "",
+            "user": "",
+            "password": "",
+            "commitAuthor": "",
+            "commitEmail": "",
+            "commitMessage": "Publii: update content"
         },
         "github": {
-            "server": "",
-            "user": "abbasdp",
-            "repo": "https://github.com/abbasdp/sudoshz.ir.git",
-            "branch": "main",
-            "token": "publii-gh-token uuid-1736992717705-106152683",
+            "server": "api.github.com",
+            "user": "",
+            "repo": "",
+            "branch": "",
+            "token": "",
             "parallelOperations": 1,
             "apiRateLimiting": 1
         },
@@ -235,8 +235,8 @@
             "prefix": ""
         },
         "manual": {
-            "output": "tar-archive",
-            "outputDirectory": "/home/abbas/Pictures/New Folder"
+            "output": "catalog",
+            "outputDirectory": ""
         }
     },
     "theme": "taste-fdm",
