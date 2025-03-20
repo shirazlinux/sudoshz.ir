@@ -177,7 +177,7 @@
         }
     },
     "deployment": {
-        "protocol": "",
+        "protocol": "git",
         "relativeUrls": false,
         "port": "",
         "server": "",
@@ -201,13 +201,13 @@
             "acl": "public-read"
         },
         "git": {
-            "url": "",
-            "branch": "",
-            "user": "",
-            "password": "",
-            "commitAuthor": "",
-            "commitEmail": "",
-            "commitMessage": "Publii: update content"
+            "url": "https://github.com/shirazlinux/sudoshz.ir.git",
+            "branch": "main",
+            "user": "shirazlinux",
+            "password": "publii-git-password uuid-1741798522141-426829387",
+            "commitAuthor": "abbasdp",
+            "commitEmail": "abbasdp@proton.me",
+            "commitMessage": "edit map svg"
         },
         "github": {
             "server": "api.github.com",
