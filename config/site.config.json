@@ -207,7 +207,7 @@
             "password": "publii-git-password uuid-1741798522141-426829387",
             "commitAuthor": "abbasdp",
             "commitEmail": "abbasdp@proton.me",
-            "commitMessage": "fix photo post charshnbesori"
+            "commitMessage": "fix photo post fsfp"
         },
         "github": {
             "server": "api.github.com",
@@ -240,5 +240,5 @@
         }
     },
     "theme": "taste-fdm",
-    "syncDate": 1741658482603
+    "syncDate": 1742449061470
 }
