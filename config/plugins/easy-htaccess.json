@@ -1,0 +1,22 @@
+{
+    "output": "htaccess.txt",
+    "rewriteUrl": true,
+    "redirect": "8",
+    "redirectSeo": false,
+    "repeaterUrlList": [
+        {
+            "oldUrl": "",
+            "newUrl": "",
+            "type": "301"
+        }
+    ],
+    "redirect404": false,
+    "path404": "",
+    "protectFileList": true,
+    "gzip": true,
+    "expires": false,
+    "cache": "2",
+    "custom": false,
+    "personal": "",
+    "destroy": false
+}

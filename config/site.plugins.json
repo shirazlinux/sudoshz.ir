@@ -1,1 +1,27 @@
-{}
+{
+    "front-slider": true,
+    "Publii-Plugin-404-Glitch-Effect-main": false,
+    "Publii-Plugin-Easy-Htaccess-main": false,
+    "Simple-Tehme-publii": false,
+    "comquick-main": false,
+    "cusdisComments": false,
+    "disable-right-click": false,
+    "docSearch": false,
+    "easy-htaccess": true,
+    "emailAddressObfuscation": true,
+    "externalLinks": true,
+    "featherIcons": false,
+    "goatcounter-analytics-plugin-1.1.0": false,
+    "googleCustomSearch": false,
+    "graphComment": false,
+    "hyvorTalkComments": false,
+    "lucideIcons": false,
+    "publii-2pdf": false,
+    "publii-humans-txt-1.0.0": true,
+    "publii-reading-progress-bar": false,
+    "reading-time-plugin-1.0.0": false,
+    "simpleLightboxGallery": false,
+    "simplehighlight": false,
+    "syntaxHighlighter": false,
+    "telegramComments": false
+}
