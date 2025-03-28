@@ -1,6 +1,6 @@
 {
     "uuid": "uuid-1741798522141-426829387",
-    "name": "shirazlinux",
+    "name": "shyrzlynwkhs",
     "displayName": "شیرازلینوکس",
     "description": "ما یک جامعه فعال و پویا از علاقه‌مندان به نرم‌افزارهای آزاد و متن‌باز فعال در قلب شیراز هستیم. هدف اصلی این جامعه ترویج فرهنگ نرم‌افزار آزاد و ایجاد فضایی برای تبادل دانش و تجربیات میان کاربران، توسعه‌دهندگان و علاقه‌مندان به فناوری‌های آزاد است.",
     "synced": "synced",
@@ -15,11 +15,11 @@
         "cssCompression": 1,
         "htmlCompression": true,
         "htmlCompressionRemoveComments": 1,
-        "imagesQuality": "50",
-        "alphaQuality": "50",
+        "imagesQuality": "10",
+        "alphaQuality": "10",
         "forceWebp": true,
-        "webpLossless": true,
-        "responsiveImages": 1,
+        "webpLossless": false,
+        "responsiveImages": true,
         "mediaLazyLoad": 1,
         "versionSuffix": 1,
         "sitemapEnabled": 1,
@@ -48,9 +48,9 @@
         "homepageMetaDescription": "",
         "homepageMetaRobotsIndex": "index, follow",
         "postMetaTitle": "%posttitle - %sitename ",
-        "postMetaDescription": "",
+        "postMetaDescription": "%posttitle - %authorname",
         "pageMetaTitle": "%pagetitle - %sitename ",
-        "pageMetaDescription": "",
+        "pageMetaDescription": "%sitename - %authorname",
         "pageUseTextWithoutCustomExcerpt": false,
         "postUseTextWithoutCustomExcerpt": false,
         "tagMetaTitle": "Tag: %tagname - %sitename",
@@ -62,12 +62,12 @@
         "tagsMetaDescription": "",
         "metaRobotsTagsList": "noindex, follow",
         "authorMetaTitle": "Author: %authorname - %sitename",
-        "authorMetaDescription": "",
+        "authorMetaDescription": "\nدر شیرازلینوکس، ما به‌طور دوره‌ای میزبان کادر اجرایی هستیم که با هدف پیشبرد اهداف مشترک و ارتقای فرهنگ نرم‌افزار آزاد فعالیت می‌کنند. اعضای تیم اجرایی ما با اشتیاق و انگیزه، به‌صورت داوطلبانه در سمت‌های مختلف مشغول به کار هستند.",
         "metaRobotsAuthors": "noindex, follow",
         "authorNoIndexPagination": false,
         "authorNoPagination": false,
-        "displayEmptyAuthors": false,
-        "displayEmptyTags": false,
+        "displayEmptyAuthors": true,
+        "displayEmptyTags": true,
         "errorMetaTitle": "Error 404 - %sitename",
         "errorMetaDescription": "به نظر می رسد صفحه ای که به دنبال آن بودید منتقل شده، حذف شده یا وجود ندارد. می توانید به جایی که بودید برگردید یا مستقیماً به صفحه اصلی ما بروید.",
         "metaRobotsError": "noindex, follow",
@@ -85,12 +85,12 @@
         "feed": {
             "title": "displayName",
             "titleValue": "",
-            "showFullText": false,
+            "showFullText": true,
             "numberOfPosts": 10,
             "showFeaturedImage": 1,
             "enableRss": 1,
             "enableJson": 1,
-            "updatedDateType": "createdAt",
+            "updatedDateType": "modifiedAt",
             "showOnlyFeatured": true,
             "excludeFeatured": false
         },
@@ -182,7 +182,7 @@
         "port": "",
         "server": "",
         "username": "",
-        "password": "",
+        "password": "publii uuid-1741798522141-426829387",
         "askforpassword": false,
         "rejectUnauthorized": true,
         "path": "",
@@ -192,8 +192,8 @@
             "customProvider": false,
             "provider": "aws",
             "endpoint": "",
-            "id": "",
-            "key": "",
+            "id": "publii-s3-id uuid-1741798522141-426829387",
+            "key": "publii-s3-key uuid-1741798522141-426829387",
             "bucket": "",
             "region": "",
             "customRegion": "",
@@ -214,7 +214,7 @@
             "user": "",
             "repo": "",
             "branch": "",
-            "token": "",
+            "token": "publii-gh-token uuid-1741798522141-426829387",
             "parallelOperations": 1,
             "apiRateLimiting": 1
         },
@@ -223,11 +223,11 @@
             "rejectUnauthorized": true,
             "repo": "",
             "branch": "",
-            "token": ""
+            "token": "publii-gl-token uuid-1741798522141-426829387"
         },
         "netlify": {
-            "id": "",
-            "token": ""
+            "id": "publii-netlify-id uuid-1741798522141-426829387",
+            "token": "publii-netlify-token uuid-1741798522141-426829387"
         },
         "google": {
             "key": "",
@@ -240,5 +240,5 @@
         }
     },
     "theme": "taste-fdm",
-    "syncDate": 1743153678371
+    "syncDate": 1743166026847
 }

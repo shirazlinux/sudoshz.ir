@@ -64,18 +64,6 @@
                 "items": []
             },
             {
-                "id": 1735740539076,
-                "label": "درباره ما",
-                "title": "",
-                "type": "page",
-                "target": "_self",
-                "rel": "",
-                "link": 78,
-                "cssClass": "",
-                "isHidden": false,
-                "items": []
-            },
-            {
                 "id": 1735813585899,
                 "label": "تیم اجرایی",
                 "title": "",
@@ -83,6 +71,18 @@
                 "target": "_self",
                 "rel": "",
                 "link": 72,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1735740539076,
+                "label": "درباره ما",
+                "title": "",
+                "type": "page",
+                "target": "_self",
+                "rel": "",
+                "link": 78,
                 "cssClass": "",
                 "isHidden": false,
                 "items": []
