@@ -30,7 +30,7 @@ Documents/
 
 ## راه‌اندازی اولیه
 
-1. **نصب بکاپ اولیه**:
+1. **نصب وزژن نصبی اولیه**:
    - آخرین نسخه بکاپ دیتابیس را از مخزن دریافت کنید
    - در Publii به بخش `Add Site from Backup` رفته و فایل بکاپ را import کنید
 
@@ -83,7 +83,6 @@ git push origin selfhost-database
 
 برای گزارش مشکلات یا پیشنهادات:
 - [مخزن گیت‌هاب پروژه](https://github.com/shirazlinux/website)
-- [انجمن شیرازلینوکس](https://forum.shirazlinux.ir)
 
 ```markdown
 توجه: قبل از هر تغییر عمده، حتماً از سایت backup بگیرید.
