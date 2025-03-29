@@ -163,7 +163,8 @@
             "wysiwygAdditionalValidElements": "",
             "customElements": "",
             "codemirrorTabSize": 4,
-            "codemirrorAutoIndent": true
+            "codemirrorAutoIndent": true,
+            "wysiwygCustomElements": ""
         },
         "customHTML": {
             "custom-comments-code": "",
