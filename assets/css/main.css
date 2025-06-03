@@ -256,7 +256,7 @@ blockquote > :nth-child(1) {
 
 ul,
 ol {
-  margin-left: 2rem;
+ margin-right: 2rem;
 }
 ul > li,
 ol > li {
