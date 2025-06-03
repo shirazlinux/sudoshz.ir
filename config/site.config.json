@@ -164,7 +164,7 @@
             "customElements": "",
             "codemirrorTabSize": 4,
             "codemirrorAutoIndent": true,
-            "wysiwygCustomElements": "email[*]"
+            "wysiwygCustomElements": ""
         },
         "customHTML": {
             "custom-comments-code": "",
@@ -241,5 +241,5 @@
         }
     },
     "theme": "taste-fdm",
-    "syncDate": 1745039181105
+    "syncDate": 1745049659233
 }

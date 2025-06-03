@@ -1879,6 +1879,20 @@
                 }
             ]
         },
+                {
+            "name": "socialPreetube",
+            "label": "Preetube",
+            "group": "Footer",
+            "placeholder": "Please enter your Preetube URL",
+            "value": "",
+            "type": "text",
+            "dependencies": [
+                {
+                    "field": "socialButtons",
+                    "value": "true"
+                }
+            ]
+        },
         {
             "name": "socialYoutube",
             "label": "Youtube",

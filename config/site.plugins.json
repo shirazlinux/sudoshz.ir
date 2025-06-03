@@ -8,7 +8,7 @@
     "disable-right-click": false,
     "docSearch": false,
     "easy-htaccess": true,
-    "emailAddressObfuscation": true,
+    "emailAddressObfuscation": false,
     "externalLinks": true,
     "featherIcons": false,
     "goatcounter-analytics-plugin-1.1.0": false,
