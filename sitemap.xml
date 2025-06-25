@@ -76,6 +76,18 @@
 </image:image>
 </url>
 <url>
+<loc>https://sudoshz.ir/dorehami-01/</loc>
+<lastmod>2025-06-25T08:48:32+03:30</lastmod>
+<image:image>
+<image:loc>https://sudoshz.ir/media/posts/112/01-dorehami.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://sudoshz.ir/media/posts/112/gallery/photo_2025-06-25_08-00-45-thumbnail.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://sudoshz.ir/event-01/</loc>
 <lastmod>2025-01-17T03:30:30+03:30</lastmod>
 <image:image>
@@ -441,7 +453,7 @@
 </url>
 <url>
 <loc>https://sudoshz.ir/executive-team/</loc>
-<lastmod>2025-04-19T10:27:32+03:30</lastmod>
+<lastmod>2025-06-05T08:15:36+03:30</lastmod>
 <image:image>
 <image:loc>https://sudoshz.ir/media/posts/72/gallery/mmd-500-thumbnail.webp</image:loc>
 <image:title><![CDATA[محمد زارع]]></image:title>
@@ -470,10 +482,6 @@
 <image:loc>https://sudoshz.ir/media/posts/72/gallery/hosein-salmani-240-thumbnail.webp</image:loc>
 <image:title><![CDATA[حسین سلمانی]]></image:title>
 </image:image>
-<image:image>
-<image:loc>https://sudoshz.ir/media/posts/72/gallery/etemaddar-thumbnail.webp</image:loc>
-<image:title><![CDATA[محمد اعتماددار]]></image:title>
-</image:image>
 </url>
 <url>
 <loc>https://sudoshz.ir/fanoos-qalam-conf/</loc>
@@ -493,7 +501,7 @@
 </url>
 <url>
 <loc>https://sudoshz.ir/freefont/</loc>
-<lastmod>2025-04-09T02:30:59+03:30</lastmod>
+<lastmod>2025-06-25T10:32:20+03:30</lastmod>
 <image:image>
 <image:loc>https://sudoshz.ir/media/posts/109/freefont.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -592,6 +600,14 @@
 <lastmod>2025-03-11T03:42:22+03:30</lastmod>
 <image:image>
 <image:loc>https://sudoshz.ir/media/posts/90/asahilinux-p.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://sudoshz.ir/how-matrix/</loc>
+<lastmod>2025-06-25T09:29:05+03:30</lastmod>
+<image:image>
+<image:loc>https://sudoshz.ir/media/posts/115/photo_2025-06-25_07-40-57.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -704,6 +720,14 @@
 </image:image>
 </url>
 <url>
+<loc>https://sudoshz.ir/matrix-user-guide/</loc>
+<lastmod>2025-06-25T10:26:07+03:30</lastmod>
+<image:image>
+<image:loc>https://sudoshz.ir/media/posts/117/photo_2025-06-25_07-40-59.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://sudoshz.ir/obs-studio/</loc>
 <lastmod>2025-01-17T03:34:48+03:30</lastmod>
 <image:image>
@@ -768,12 +792,24 @@
 </image:image>
 </url>
 <url>
+<loc>https://sudoshz.ir/register-in-matrix/</loc>
+<lastmod>2025-06-25T09:50:53+03:30</lastmod>
+<image:image>
+<image:loc>https://sudoshz.ir/media/posts/116/photo_2025-06-25_07-40-53.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://sudoshz.ir/report-saber-rastikerdar/</loc>
 <lastmod>2025-01-17T01:32:27+03:30</lastmod>
 <image:image>
 <image:loc>https://sudoshz.ir/media/posts/17/IMG-20241110-WA0005-2.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
+</url>
+<url>
+<loc>https://sudoshz.ir/shop/</loc>
+<lastmod>2025-06-25T08:40:53+03:30</lastmod>
 </url>
 <url>
 <loc>https://sudoshz.ir/terror-active/</loc>
