@@ -16,6 +16,18 @@
                 "items": []
             },
             {
+                "id": 1749089881742,
+                "label": "دورهمی‌ها",
+                "title": "",
+                "type": "tag",
+                "target": "_self",
+                "rel": "",
+                "link": 7,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
                 "id": 1735740332484,
                 "label": "نشست‌ها",
                 "title": "",
@@ -83,6 +95,18 @@
                 "target": "_self",
                 "rel": "",
                 "link": 78,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1749089915210,
+                "label": "فروشگاه",
+                "title": "",
+                "type": "page",
+                "target": "_self",
+                "rel": "",
+                "link": 114,
                 "cssClass": "",
                 "isHidden": false,
                 "items": []

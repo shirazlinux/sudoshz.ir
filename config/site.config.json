@@ -36,7 +36,7 @@
         "twitterCardsType": "summary_large_image",
         "twitterUsername": "shirazlinux",
         "metaTitle": "%sitename",
-        "metaDescription": "شیرازلینوکس، جامعه فعال کاربران لینوکس در شیراز مشارکت در پروژه های متن‌باز، برگزاری رویدادهای ماهانه، آموزش رایگان و تبادل دانش میان علاقهمندان و متخصصان",
+        "metaDescription": "شیرازلینوکس، جامعه فعال کاربران نرم‌افزار‌آزاد با فلسفه‌ی بنیاد نرم‌افزارآزاد در ایران فعالیت میکند",
         "noIndexThisPage": false,
         "noIndexForChatGPTBot": false,
         "noIndexForChatGPTUser": false,
@@ -81,7 +81,7 @@
         "hiddenPostsListingOrderBy": "created_at",
         "hiddenPostsListingOrder": "DESC",
         "usePageAsFrontpage": false,
-        "pageAsFrontpage": 0,
+        "pageAsFrontpage": "",
         "feed": {
             "title": "displayName",
             "titleValue": "",
@@ -241,5 +241,5 @@
         }
     },
     "theme": "taste-fdm",
-    "syncDate": 1745049659233
+    "syncDate": 1750836275229
 }
