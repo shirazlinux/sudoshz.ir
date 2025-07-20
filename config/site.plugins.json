@@ -23,5 +23,7 @@
     "simpleLightboxGallery": false,
     "simplehighlight": false,
     "syntaxHighlighter": false,
-    "telegramComments": false
+    "telegramComments": false,
+    "collapsibleToC": false,
+    "mermaidSupport": false
 }
