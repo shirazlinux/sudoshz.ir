@@ -30,7 +30,7 @@
         "sitemapExcludedFiles": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap-image/1.1\"\n        xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"\n        xsi:schemaLocation=\"http://www.sitemaps.org/schemas/sitemap-image/1.1\n        http://www.sitemaps.org/schemas/sitemap-image/1.1/sitemap-image.xsd\">\n\n    <url>\n        <loc>https://sudoshz.ir/</loc>\n        <lastmod>2023-10-01</lastmod>\n        <changefreq>daily</changefreq>\n        <priority>1.0</priority>\n    </url>\n    \n    <url>\n        <loc>https://sudoshz.ir/about</loc>\n        <lastmod>2023-10-01</lastmod>\n        <changefreq>monthly</changefreq>\n        <priority>0.8</priority>\n    </url>\n\n    <url>\n        <loc>https://sudoshz.ir/tags/event/</loc>\n        <lastmod>2023-10-01</lastmod>\n        <changefreq>weekly</changefreq>\n        <priority>0.8</priority>\n    </url>\n\n    <url>\n        <loc>https://sudoshz.ir/contact</loc>\n        <lastmod>2023-10-01</lastmod>\n        <changefreq>monthly</changefreq>\n        <priority>0.6</priority>\n    </url>\n\n    <url>\n        <loc>https://sudoshz.ir/tags/blog/</loc>\n        <lastmod>2023-10-01</lastmod>\n        <changefreq>weekly</changefreq>\n        <priority>0.7</priority>\n    </url>\n</urlset>",
         "usePageTitleInsteadItemName": true,
         "openGraphEnabled": true,
-        "openGraphImage": "slider3.jpeg",
+        "openGraphImage": "photo_2025-07-26_04-31-48.jpg",
         "openGraphAppId": "",
         "twitterCardsEnabled": true,
         "twitterCardsType": "summary_large_image",
@@ -83,7 +83,7 @@
         "usePageAsFrontpage": false,
         "pageAsFrontpage": "",
         "feed": {
-            "title": "customTitle",
+            "title": "displayName",
             "titleValue": "",
             "showFullText": true,
             "numberOfPosts": "15",
@@ -242,5 +242,5 @@
         }
     },
     "theme": "taste-fdm",
-    "syncDate": 1752977459848
+    "syncDate": 1753279887040
 }
