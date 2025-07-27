@@ -88,6 +88,18 @@
                 "items": []
             },
             {
+                "id": 1753593319085,
+                "label": "راهنمای جامعه",
+                "title": "",
+                "type": "tag",
+                "target": "_self",
+                "rel": "",
+                "link": 36,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
                 "id": 1735740539076,
                 "label": "درباره ما",
                 "title": "",
