@@ -343,6 +343,14 @@ sup {
 small {
   font-size: 0.7901234568rem;
 }
+/* before edit */
+  .line {
+    border: none !important;
+    height: 1px !important;
+    background: linear-gradient(to right, transparent, #999, transparent) !important;
+    margin: 20px 0 !important;
+  }
+/* after edit */
 
 hr,
 .separator {
@@ -845,7 +853,7 @@ textarea {
   font-variation-settings: "wght" var(--font-weight-bold);
   line-height: var(--line-height);
   letter-spacing: 0.03em;
-  padding: 0;
+  padding: 22px 0;
   position: relative;
   white-space: nowrap;
 }
@@ -880,7 +888,7 @@ textarea {
 .navbar .has-submenu:active > .navbar__submenu,
 .navbar .has-submenu:focus > .navbar__submenu,
 .navbar .has-submenu:hover > .navbar__submenu {
-  left: 0;
+  left: auto;
   opacity: 1;
   -webkit-transform: scale(1);
           transform: scale(1);
@@ -948,6 +956,7 @@ textarea {
   font-size: 0.7901234568rem;
   padding: 0 0.75rem;
   text-transform: none;
+  text-align: right;
 }
 .navbar .navbar__submenu li a,
 .navbar .navbar__submenu li span[aria-haspopup=true] {
@@ -1203,10 +1212,10 @@ textarea {
   width: 0;
   height: 0;
   border-style: solid;
-  border-width: 5px 5px 0 5px;
+  border-width: 6px 6px 0 6px;
   border-color: var(--gray-1) transparent transparent transparent;
-  right: 0;
-  top: 18px;
+  left: 25px;
+  top: 17px;
   position: absolute;
 }
 .navbar_mobile_sidebar .navbar__submenu {

@@ -16,52 +16,65 @@
                 "items": []
             },
             {
-                "id": 1749089881742,
-                "label": "دورهمی‌ها",
+                "id": 1753670579057,
+                "label": "رویدادها",
                 "title": "",
-                "type": "tag",
+                "type": "separator",
                 "target": "_self",
                 "rel": "",
-                "link": 7,
+                "link": "",
                 "cssClass": "",
                 "isHidden": false,
-                "items": []
-            },
-            {
-                "id": 1735740332484,
-                "label": "نشست‌ها",
-                "title": "",
-                "type": "tag",
-                "target": "_self",
-                "rel": "",
-                "link": 3,
-                "cssClass": "",
-                "isHidden": false,
-                "items": []
-            },
-            {
-                "id": 1735938213442,
-                "label": "کارگاه‌ها",
-                "title": "",
-                "type": "tag",
-                "target": "_self",
-                "rel": "",
-                "link": 6,
-                "cssClass": "",
-                "isHidden": false,
-                "items": []
-            },
-            {
-                "id": 1735740371585,
-                "label": "همایش‌ها",
-                "title": "",
-                "type": "tag",
-                "target": "_self",
-                "rel": "",
-                "link": 4,
-                "cssClass": "",
-                "isHidden": false,
-                "items": []
+                "items": [
+                    {
+                        "id": 1749089881742,
+                        "label": "دورهمی‌ها",
+                        "title": "",
+                        "type": "tag",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 7,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1735740332484,
+                        "label": "نشست‌ها",
+                        "title": "",
+                        "type": "tag",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 3,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1735938213442,
+                        "label": "کارگاه‌ها",
+                        "title": "",
+                        "type": "tag",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 6,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1735740371585,
+                        "label": "همایش‌ها",
+                        "title": "",
+                        "type": "tag",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 4,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    }
+                ]
             },
             {
                 "id": 1735942626280,
@@ -71,18 +84,6 @@
                 "target": "_self",
                 "rel": "",
                 "link": 5,
-                "cssClass": "",
-                "isHidden": false,
-                "items": []
-            },
-            {
-                "id": 1735813585899,
-                "label": "تیم اجرایی",
-                "title": "",
-                "type": "page",
-                "target": "_self",
-                "rel": "",
-                "link": 72,
                 "cssClass": "",
                 "isHidden": false,
                 "items": []
@@ -103,13 +104,38 @@
                 "id": 1735740539076,
                 "label": "درباره ما",
                 "title": "",
-                "type": "page",
+                "type": "separator",
                 "target": "_self",
                 "rel": "",
-                "link": 78,
+                "link": "",
                 "cssClass": "",
                 "isHidden": false,
-                "items": []
+                "items": [
+                    {
+                        "id": 1753670972882,
+                        "label": "درباره شیرازلینوکس",
+                        "title": "",
+                        "type": "page",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 78,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1735813585899,
+                        "label": "تیم اجرایی",
+                        "title": "",
+                        "type": "page",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 72,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    }
+                ]
             },
             {
                 "id": 1749089915210,
