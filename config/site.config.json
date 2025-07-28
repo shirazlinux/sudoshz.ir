@@ -106,7 +106,7 @@
             "errorPage": "404.html",
             "searchPage": "search.html"
         },
-        "customHeadCode": "<script defer src=\"https://cloud.umami.is/script.js\" data-website-id=\"2b96ce35-9261-4736-9730-09a4fcd896ad\"></script>\n\n<script\n                       src=\"https://statics.payping.ir/donate.min.js\"\n                       type=\"text/javascript\"\n                       charset=\"utf-8\"\n                       pp-userName=\"shirazlinux\"\n                       pp-description=\"ما به عنوان یک گروه داوطلبانه، متعهد هستیم که هر ریال از کمک‌های شما را صرف پیشرفت پروژه‌ها و ارتقاء کیفیت خدمات خود کنیم. با هم می‌توانیم دنیای نرم‌افزار را به جایی بهتر تبدیل کنیم.\"\n                       pp-amounts=\"\"\n                       pp-avatar=\"\"\n></script> ",
+        "customHeadCode": "<script\n                       src=\"https://statics.payping.ir/donate.min.js\"\n                       type=\"text/javascript\"\n                       charset=\"utf-8\"\n                       pp-userName=\"shirazlinux\"\n                       pp-description=\"ما به عنوان یک گروه داوطلبانه، متعهد هستیم که هر ریال از کمک‌های شما را صرف پیشرفت پروژه‌ها و ارتقاء کیفیت خدمات خود کنیم. با هم می‌توانیم دنیای نرم‌افزار را به جایی بهتر تبدیل کنیم.\"\n                       pp-amounts=\"\"\n                       pp-avatar=\"\"\n></script> ",
         "customBodyCode": "",
         "customCommentsCode": "",
         "customSearchInput": "",
@@ -242,5 +242,5 @@
         }
     },
     "theme": "taste-fdm",
-    "syncDate": 1753593976723
+    "syncDate": 1753685990596
 }

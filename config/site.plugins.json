@@ -25,5 +25,9 @@
     "syntaxHighlighter": false,
     "telegramComments": false,
     "collapsibleToC": false,
-    "mermaidSupport": false
+    "mermaidSupport": false,
+    "comeBackBrowserTab": false,
+    "disqusComments": false,
+    "metaTabColors": false,
+    "umamiAnalyticsIntegration": true
 }
