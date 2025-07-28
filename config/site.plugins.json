@@ -12,7 +12,7 @@
     "externalLinks": true,
     "featherIcons": false,
     "goatcounter-analytics-plugin-1.1.0": false,
-    "googleCustomSearch": false,
+    "googleCustomSearch": true,
     "graphComment": false,
     "hyvorTalkComments": false,
     "lucideIcons": false,
@@ -22,12 +22,13 @@
     "reading-time-plugin-1.0.0": false,
     "simpleLightboxGallery": false,
     "simplehighlight": false,
-    "syntaxHighlighter": false,
+    "syntaxHighlighter": true,
     "telegramComments": false,
     "collapsibleToC": false,
     "mermaidSupport": false,
-    "comeBackBrowserTab": false,
-    "disqusComments": false,
-    "metaTabColors": false,
-    "umamiAnalyticsIntegration": true
+    "comeBackBrowserTab": true,
+    "disqusComments": true,
+    "metaTabColors": true,
+    "umamiAnalyticsIntegration": true,
+    "staticCustomSearch": false
 }

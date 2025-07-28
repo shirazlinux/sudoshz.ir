@@ -83,8 +83,8 @@
         "socialPreetube": "https://tubedu.org/c/shirazlinux/videos",
         "socialYoutube": "https://www.youtube.com/@shirazlinux",
         "galleryItemGap": "0.5rem",
-        "searchFeature": false,
-        "createSearchPage": false,
+        "searchFeature": true,
+        "createSearchPage": true,
         "galleryLightboxStyle": "pswp--dark",
         "galleryLightboxOpacity": "0.7",
         "galleryAdvanced": false,
@@ -131,7 +131,7 @@
         "displayAuthorBio": 1,
         "displayPostNavigation": 1,
         "displayRelatedPosts": 1,
-        "displayComments": 0
+        "displayComments": "1"
     },
     "pageConfig": {
         "displayAuthor": "1",

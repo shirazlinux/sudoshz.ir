@@ -5,5 +5,5 @@
     "enableInlineColorPreview": true,
     "enableAutoLinker": false,
     "enableShowInvisibles": false,
-    "loadOn": "postsAndPages"
+    "loadOn": "all"
 }

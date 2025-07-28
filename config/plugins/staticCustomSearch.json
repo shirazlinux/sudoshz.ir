@@ -1,0 +1,7 @@
+{
+    "jsonFeedUrl": "./feed.json",
+    "searchParam": "q",
+    "searchAutofocus": true,
+    "searchPlaceholder": "search...",
+    "searchSubmitLabel": "Submit"
+}

@@ -1,11 +1,11 @@
 {
     "searchId": "2006c39f3ead345ee",
     "searchParam": "q",
-    "searchPlaceholder": "search...",
-    "searchAutofocus": false,
-    "searchSubmitButtonInBox": false,
+    "searchPlaceholder": "کلمه مورد نظر را وارد کنید",
+    "searchAutofocus": true,
+    "searchSubmitButtonInBox": true,
     "searchSubmitButtonOnPage": true,
-    "searchSubmitLabel": "Submit",
+    "searchSubmitLabel": "جستجو",
     "cookieBannerIntegration": false,
     "cookieBannerGroup": "",
     "cookieBannerNoConsentText": "The search results are disabled because you have not consented to their use. You can change your cookie preferences through our 'cookie banner'."
