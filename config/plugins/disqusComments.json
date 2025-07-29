@@ -1,7 +1,7 @@
 {
-    "shortname": "shirazlinnux",
+    "shortname": "shirazlinux",
     "language": "fa",
-    "textHeader": "Comments",
+    "textHeader": "ثبت نظر و دیدگاه",
     "headingLevel": "2",
     "textFallback": "Please enable JS to use the comments form.",
     "cssWrapperClass": "comments",
