@@ -36,7 +36,7 @@
         "twitterCardsType": "summary_large_image",
         "twitterUsername": "shirazlinux",
         "metaTitle": "%sitename",
-        "metaDescription": "شیرازلینوکس، جامعه فعال کاربران نرم‌افزار‌آزاد با فلسفه‌ی بنیاد نرم‌افزارآزاد در ایران فعالیت میکند",
+        "metaDescription": "شیرازلینوکس، جامعه پیشرو در ترویج فرهنگ و دانش نرم‌افزارهای آزاد برای اعمال عملیات بنیادی آزادی کاربران کامپیوتر در ایران/شیراز هست",
         "noIndexThisPage": false,
         "noIndexForChatGPTBot": false,
         "noIndexForChatGPTUser": false,
@@ -62,7 +62,7 @@
         "tagsMetaDescription": "",
         "metaRobotsTagsList": "noindex, follow",
         "authorMetaTitle": "Author: %authorname - %sitename",
-        "authorMetaDescription": "\nدر شیرازلینوکس، ما به‌طور دوره‌ای میزبان کادر اجرایی هستیم که با هدف پیشبرد اهداف مشترک و ارتقای فرهنگ نرم‌افزار آزاد فعالیت می‌کنند. اعضای تیم اجرایی ما با اشتیاق و انگیزه، به‌صورت داوطلبانه در سمت‌های مختلف مشغول به کار هستند.",
+        "authorMetaDescription": "در شیرازلینوکس، ما به‌طور دوره‌ای میزبان کادر اجرایی هستیم که با هدف پیشبرد اهداف مشترک و ارتقای فرهنگ نرم‌افزار آزاد فعالیت می‌کنند. اعضای تیم اجرایی ما با اشتیاق و انگیزه، به‌صورت داوطلبانه در سمت‌های مختلف مشغول به کار هستند.",
         "metaRobotsAuthors": "noindex, follow",
         "authorNoIndexPagination": false,
         "authorNoPagination": false,
@@ -242,5 +242,5 @@
         }
     },
     "theme": "taste-fdm",
-    "syncDate": 1753832085406
+    "syncDate": 1753833135497
 }
