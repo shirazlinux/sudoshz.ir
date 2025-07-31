@@ -2001,6 +2001,12 @@ textarea {
 .page--error__title {
   font-size: 10vw;
 }
+/* before edit */
+.error-template .hero p {
+  color: black !important;
+
+}
+/* after edit  */
 .page--author__website {
   align-items: center;
   display: inline-flex;
