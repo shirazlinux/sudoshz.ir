@@ -57,13 +57,13 @@
         "tagMetaDescription": "",
         "tagNoIndexPagination": false,
         "tagNoPagination": false,
-        "metaRobotsTags": "noindex, follow",
+        "metaRobotsTags": "index, follow",
         "tagsMetaTitle": "All tags - %sitename",
-        "tagsMetaDescription": "",
-        "metaRobotsTagsList": "noindex, follow",
+        "tagsMetaDescription": "موضوعات و تگ‌های مرتبط با نرم‌افزار آژاد و اوپن‌سورس و گنولینوکس و.. را در شیرازلینوکس کاوش کنید.",
+        "metaRobotsTagsList": "index, follow",
         "authorMetaTitle": "Author: %authorname - %sitename",
         "authorMetaDescription": "در شیرازلینوکس، ما به‌طور دوره‌ای میزبان کادر اجرایی هستیم که با هدف پیشبرد اهداف مشترک و ارتقای فرهنگ نرم‌افزار آزاد فعالیت می‌کنند. اعضای تیم اجرایی ما با اشتیاق و انگیزه، به‌صورت داوطلبانه در سمت‌های مختلف مشغول به کار هستند.",
-        "metaRobotsAuthors": "noindex, follow",
+        "metaRobotsAuthors": "index, follow",
         "authorNoIndexPagination": false,
         "authorNoPagination": false,
         "displayEmptyAuthors": true,
@@ -72,7 +72,7 @@
         "errorMetaDescription": "به نظر می رسد صفحه ای که به دنبال آن بودید منتقل شده، حذف شده یا وجود ندارد. می توانید به جایی که بودید برگردید یا مستقیماً به صفحه اصلی ما بروید.",
         "metaRobotsError": "noindex, follow",
         "searchMetaTitle": "Search - %sitename",
-        "searchMetaDescription": "",
+        "searchMetaDescription": "جستجوی پیشرفته در محتوای شیرازلینوکس. پیدا کردن مقالات آموزشی، راهنمای نصب، ترفندهای لینوکس و آخرین اخبار متن‌باز\n",
         "metaRobotsSearch": "noindex, follow",
         "postsListingOrderBy": "created_at",
         "postsListingOrder": "DESC",
@@ -242,5 +242,5 @@
         }
     },
     "theme": "taste-fdm",
-    "syncDate": 1753833135497
+    "syncDate": 1753839417189
 }
