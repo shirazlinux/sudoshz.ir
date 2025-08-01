@@ -1,7 +1,7 @@
 {
     "awayTitle": "!دلمون برات تنگ شده، برگرد 👀",
     "returnTitle": "🎉  خوش اومدی",
-    "delay": 0,
+    "delay": "5000",
     "returnDelay": 0,
     "returnTitleDuration": 2000
 }
