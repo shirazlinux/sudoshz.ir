@@ -1,0 +1,1747 @@
+<!DOCTYPE html>
+<html lang="fa">
+  <head>
+    <title>تاریخچه‌ی نرم‌افزار آزاد</title>
+
+    <!-- License: Except where otherwise stated, the page is licensed as
+         Creative Commons Attribution Share Alike 4.0 International
+         SPDX: CC-BY-SA-4.0
+         http://creativecommons.org/licenses/by-sa/4.0/" -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="twitter:title" content="تاریخچه‌ی جامعه نرم‌افزار آزاد">
+    <meta name="twitter:description" content="شیرازلینوکس، جامعه پیشرو در ترویج فرهنگ و دانش نرم‌افزارهای آزاد برای اعمال عملیات بنیادی آزادی کاربران کامپیوتر در ایران/شیراز هست">
+    <meta name="twitter:image" content="https://sudoshz.ir/media/website/photo_2025-07-26_04-31-48.jpg">
+    <link rel="shortcut icon" href="https://sudoshz.ir/media/website/webicon320.png" type="image/x-icon">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <script async="" defer="defer" type="text/javascript" src="https://cloud.umami.is/script.js" data-website-id="2b96ce35-9261-4736-9730-09a4fcd896ad" data-auto-track="true" data-do-not-track="false" data-cache="false"></script>
+    <!--
+    <link rel="stylesheet" href="//static.fsf.org/nosvn/libs/bootstrap/5.0.2/css/bootstrap.min.css">
+    -->
+    <meta name="description" content="نرم‌افزار آزاد به یک جنبش جهانی قدرتمند برای آزادی کاربران تبدیل شده است و در این مدت در بنیاد نرم‌افزار آزاد اتفاقات زیادی رخ داده است. تصور کنید با حمایت شما چقدر بیشتر می‌توانیم انجام دهیم">
+<style>
+
+    @font-face {
+      font-family: vazirmatn;
+      src: url(../assets/css/fonts/vazirmatn/Vazirmatn-Medium.woff2) format(woff2),
+        url(../assets/css/fonts/vazirmatn/Vazirmatn-Bold.woff2) format(woff2),
+        url(../assets/css/fonts/Vazirmatn-ExtraBold.woff2) format(woff2),
+        url(../assets/css/fonts/vazirmat/Vazirmatn-ExtraLight.woff2) format(woff2),
+        url(../assets/css/fonts/vazirmat/Vazirmatn-Light.woff2) format(woff2),
+        url(../assets/css/fonts/vazirmat/Vazirmatn-Regular.woff2) format(woff2),
+        url(../assets/css/fonts/vazirmat/Vazirmatn-semiBold.woff2) format(woff2),
+        url(../assets/css/fonts/vazirmat/Vazirmatn-Thin.woff2) format(woff2),
+        url(../assets/css/fonts/vazirmat/Vazirmatn[whgt].woff2) format(woff2),
+        url(../assets/css/fonts/vazirmat/Vazirmatn-black.woff2) format(woff2),
+        url(../assets/css/fonts/vazirmat/Vazirmatn-Medium.woff2) format(woff2);
+    }
+
+    @font-face {
+      font-family: estedadmad;
+      src: url(../assets/css/fonts/estedadmad/Estedad-Mad.woff2) format(woff2);
+    }
+
+
+    html,body
+    {
+       min-width: 346px;
+       width: 100%;
+    }
+    body {
+      /*font-family: Tahoma, Verdana, Arial, sans-serif;*/
+      font-family: vazirmatn;
+    }
+    div > a {
+      font-family: estedadmad !important;
+    }
+
+    div > p , a {
+      text-align: right;
+    }
+    #pagelicense {
+      direction: rtl;
+    }
+    .header, .footer {
+      background: #7c45ad;
+      color: white;
+      z-index: 30;
+      /* DEBUG */
+      /* position: absolute; */
+      /* width: 100%; */
+      position: relative;
+    }
+    .fsf35 {
+      float: left;
+      height: 75%;
+    }
+    .vcenter {
+      display: flex;
+      align-items: center;
+    }
+    a, a:visited, a:hover, a:active {
+      color: #7c45ad;
+      text-decoration: none;
+    }
+    .message {
+      direction: rtl;
+      z-index: 11;
+      /* height: 80px; */
+    }
+    .message a, .message a:visited, .message a:hover, .message a:active, .opening, .footer p a, .footer p a:hover, .footer p a:active, .footer p a:visited {
+      color: white;
+      text-decoration: none;
+      /*font-size: calc(5px + 0.5vw);*/
+      font-size: calc(0.8rem + 0.1vw);
+    }
+    .intro {
+      float: right;
+      padding-top: 0.8em;
+      padding-left: 1em;
+      font-weight: normal !important;
+    }
+    .background {
+      background-image: url(img/bg-wo-stations.jpg),
+                        linear-gradient(to right, #a6bff6, #a6bff6, #a6bff6,
+                                                  #a6bff6, #a6bff6, #eee8d6,
+                                                  #c5d8a0, #68ac68, #68ac68);
+      /* Linear gradient matches the colors of the bg img while bg loads. */
+      background-position: top right;
+      background-repeat: repeat-y;
+      background-size: contain;
+    }
+
+    .train {
+      z-index: 9;
+      /* Move train with page down. */
+      position: fixed;
+      width: 4vw;
+      left:  82.2%;
+      top: calc(-100px - 20vw);
+    }
+
+    .story {
+      /* DEBUG */
+      /* margin-top: 100px; */
+      padding-top: 50px;
+      padding-bottom: 50px;
+    }
+    .wimg {
+      text-align: right;
+      padding-left: 12vw !important;
+    }
+
+
+    #gnu-manifesto {
+      padding-top: 0px
+    }
+
+    .history {
+      direction: rtl;
+      z-index: 10;
+      margin: 1vw;
+      background-color: #ffffff;
+      width: 29vw;
+      position: relative;
+      color: #7c45ad;
+      font-size: calc(0.8rem + 0.1vw);
+      padding: 1vw;
+      /* DEBUG */
+      border-radius: 2px;
+      box-shadow: 0 0 10px -3px;
+    }
+
+    p:first-child, p:last-child {
+      font-weight: bold;
+    }
+
+    .date {
+      width: 4vw;
+      /*height: 15px;*/
+      position: relative;
+      /*top: -103px;*/
+      /*margin-left: 59vw;*/
+      font-size: 1em;
+    }
+
+    .event img {
+      z-index: 11;
+      position: relative;
+      width: 35vw;
+      background: white;
+      /* DEBUG */
+      padding: 1vw;
+      border: 1px;
+      border-style: solid;
+      /* DEBUG */
+      /*border-color: #7c45ad;*/
+      border-color: #7c45ad99;
+      border-radius: 2px;
+      box-shadow: 0 0 10px -4px #999;
+      max-width: 600px;
+    }
+    .circle img {
+      width: 20.5vw;
+      left: 15vw;
+      border-radius: 50%;
+      padding: 1.5vw;
+      max-width: 400px;
+    }
+    .signpost-svg {
+      width:10vw;
+      position: relative;
+      z-index: 8;
+      font-size: 1rem;
+    }
+
+    svg text {
+      font-style: normal;
+      font-variant: normal;
+      font-weight: bold;
+      font-stretch: normal;
+      font-size: 7.5px;
+      line-height: 1.25;
+      /*font-family: 'Courier Prime';*/
+      font-family: vazirmatn;
+      -inkscape-font-specification:'Courier Prime, Bold';
+      fill: #502f72;
+      fill-opacity: 1;
+      stroke: none;
+      stroke-width: 0.03;
+    }
+
+    .station img {
+      width:6vw;
+      position: relative;
+      left:  -30%;
+    }
+
+    .footer {
+      font-size: calc(0.8rem + 0.1vw);
+      display: block;
+      /* DEBUG */
+      padding-top: 22px;
+      margin-top: 25px;
+    }
+    .footer p {
+      padding: 0 2vw 0;
+    }
+    .footer p:first-child {
+      padding-top: 1em;
+    }
+    a[href="#top"] {
+      background: #fff;
+      position: absolute;
+      margin-top: -64px;
+      /* DEBUG */
+      /* margin: 0 auto; */
+      margin-left: 38%;
+      margin-right: 62%;
+      /* left: 43vw; */
+      width: 150px;
+      border-radius: 5px 5px 0 0px;
+      text-align: center;
+    }
+
+    @media (max-width: 800px) {
+
+    .train {
+      /* DEBUG */
+/*
+      top: -24px;
+*/
+      top: -2px;
+    }
+    .event img {
+      z-index: 11;
+      position: relative;
+      width: 73vw;
+      max-width: 190px;
+      /* DEBUG */
+      /* margin-left: -13px; */
+    }
+    .circle img {
+      width: 25vw !important;
+      left: 4vw !important;
+      max-width: 160px;
+    }
+    .history {
+      width: 57vw;
+      padding: 2vw !important;
+    }
+    .sign-s {
+      /* DEBUG */
+      /* width: 15vw; */
+      width: 20vw;
+      margin-left: -5px;
+    }
+    .signpost-svg {
+      /* DEBUG */
+      /* width: 15vw; */
+      width: 17vw;
+      margin-left: -5px;
+    }
+    .station {
+      display: none;
+    }
+    }
+    /* @media (max-width: 754px) {
+      .header {
+        line-height: 1;
+      }
+    } */
+    @media (min-width: 768px) {
+    .offset-md-3 {
+      margin-left: 25.5% !important;
+    }
+    }
+
+/* DEBUG */
+.footer p:last-child {
+  margin-bottom: 0;
+  padding-bottom: 10px;
+}
+a[target="_parent"]:hover {
+  color: #592b82;
+  text-decoration: underline;
+}
+
+</style>
+</head>
+<body>
+  <div id="top" class="container-fluid background">
+
+    <div class="row content header">
+      <div class="col-12 message vcenter">
+        <p class="intro">
+          <span class="opening">نرم‌افزار آزاد به یک جنبش جهانی قدرتمند برای آزادی کاربران تبدیل شده است و در این مدت در بنیاد نرم‌افزار آزاد اتفاقات زیادی رخ داده است. تصور کنید با حمایت شما چقدر بیشتر می‌توانیم انجام دهیم.:</span>
+          <a class="link" style="text-decoration: none;" href="https://member.fsf.org" target="_parent">
+          لطفاً همین امروز به عنوان عضو وابسته ثبت‌نام کنید!
+          </a>
+           <span class="highlight"><a style="text-decoration: none;" href="https://member.fsf.org" target="_parent">ادامه مطالب &gt;</a></span>
+        </p>
+      </div>
+    </div>
+
+      <img class="train" src="img/train5.png" alt="FSF train">
+
+      <!-- A sign pattern for complete milestones. -->
+      <svg class="signpost-svg-def"
+        xmlns="http://www.w3.org/2000/svg"
+        preserveAspectRatio="xMidYMid meet"
+        width="0"
+        height="0"
+        viewBox="0 0 52.67838 76.15921">
+        <!--
+        Definition has 0 width and height.
+        Original dimensions:
+        width="199.0994"
+        height="287.84583"-->
+        <defs>
+          <pattern id="sign"  width="133" height="192" patternUnits="userSpaceOnUse">
+            <g id="Page-1">
+              <g
+                 id="layer10"
+                 style="display:inline"
+                 transform="translate(-293.20,-390.28)">
+                <g
+                   id="g77028"
+                   transform="matrix(8.11,0,0,8.11,-310.22,-900.33)">
+                  <g
+                     id="g77026"
+                     transform="translate(0,0.08)">
+                    <!-- Diamond -->
+                    <path
+                       id="path76998"
+                       style="opacity:1;fill:#ffe240;fill-opacity:1;stroke:#7c45ad;stroke-width:0.26;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                       d="m 77.36,159.27 2.72,2.72 -2.72,2.72 -2.72,-2.72 z" />
+                    <!-- Circle -->
+                    <circle
+                       style="opacity:1;fill:#fff2ab;fill-opacity:1;stroke:none;stroke-width:0.36;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                       id="circle77000"
+                       cx="77.36"
+                       cy="161.99"
+                       r="1.5248348" />
+                    <!-- Post -->
+                    <path
+                       style="opacity:1;fill:#d5e5ff;fill-opacity:1;stroke:#7c45ad;stroke-width:0.26;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                       d="m 77.35,164.66 0,3.13"
+                       id="path77002" />
+                    <g
+                       id="g77012"
+                       transform="translate(0.01,0.65)" />
+                    <!-- Grass -->
+                    <path
+                       style="fill:#9ec836;fill-opacity:1;stroke:none;stroke-width:0.23470899;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98039198"
+                       d="m 75,168.01 4.87,0 -0.14,-0.07 0.26,-0.23 c 0,0 -0.29,0.17 -0.36,0.19 -0.07,0.02 0.23,-0.42 0.23,-0.42 0,0 -0.4,0.44 -0.4,0.38 -0.08,-0.22 -0.09,-0.35 -0.27,-0.03 l -0.15,-0.19 -0.09,0.17 -0.41,-0.32 0.07,0.31 -0.4,-0.28 c -0.28,0.48 -2.19,0.27 -2.43,0.02 l -0.04,0.29 -0.3,-0.21 c 0,0 -0.06,0.32 -0.06,0.29 0.004,-0.03 -0.26,-0.22 -0.26,-0.22 l -0.04,0.19 -0.37,-0.15 z"
+                       id="path77014" />
+                    <path
+                       style="fill:#9ec836;fill-opacity:1;stroke:none;stroke-width:0.23470899;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98039198"
+                       d="m 79.44,168.01 -4.31,0 0.12,-0.09 -0.23,-0.33 c 0,0 0.26,0.25 0.32,0.29 0.06,0.04 -0.21,-0.63 -0.21,-0.63 0,0 0.36,0.66 0.35,0.57 0,-0.09 0.08,-0.45 0.11,-0.40 0.03,0.05 0.13,0.36 0.13,0.36 l 0.14,-0.28 0.08,0.25 0.33,-0.42 -0.03,0.40 0.36,-0.42 c 0.21,0.59 1.34,0.47 1.88,0.18 -0.01,0.05 -0.05,0.34 -0.05,0.34 l 0.31,-0.50 0.04,0.43 0.26,-0.31 c 0,0 0.06,0.47 0.05,0.43 0,-0.05 0.23,-0.33 0.23,-0.33 l 0.03,0.29 0.32,-0.22 z"
+                       id="path77016" />
+                    <!-- Base -->
+                    <rect
+                       style="fill:#c8beb7;fill-opacity:1;stroke:#7d6c5f;stroke-width:0.26;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                       id="rect77018"
+                       width="1.37"
+                       height="0.82"
+                       x="76.67"
+                       y="167.08"
+                       ry="0.08" />
+                    <!-- Dirt -->
+                    <path
+                       style="fill:#7d6c5f;fill-opacity:1;stroke:#7d6c5f;stroke-width:0.26;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                       d="m 79.75,167.97 -4.69,0"
+                       id="path77020" />
+                    <!-- Ground -->
+                    <path
+                       style="opacity:1;fill:#7d6c5f;fill-opacity:1;stroke:#c8beb7;stroke-width:0.26;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                       d="m 78.66,168.39 1.35,0"
+                       id="path77022" />
+                    <path
+                       style="opacity:1;fill:#7d6c5f;fill-opacity:1;stroke:#c8beb7;stroke-width:0.26;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                       d="m 74.58,168.40 1.40,0"
+                       id="path77024" />
+                  </g>
+                </g>
+              </g>
+            </g>
+          </pattern>
+        </defs>
+      </svg>
+
+      <!-- A sign pattern without the base for brief milestones. -->
+      <svg class="signpost-svg-def"
+        xmlns="http://www.w3.org/2000/svg"
+        preserveAspectRatio="xMidYMid meet"
+        width="0"
+        height="0"
+        viewBox="0 0 52.67838 46.967897">
+        <!--
+        Definition has 0 width and height.
+        Original dimensions:
+        width="199.0994"
+        height="115.84583"-->
+        <defs>
+          <pattern id="sign-s"  width="133" height="192" patternUnits="userSpaceOnUse">
+            <g id="Page-2">
+              <g
+                 id="layer11"
+                 style="display:inline"
+                 transform="translate(-293.20,-390.28)">
+                <g
+                   id="g77029"
+                   transform="matrix(8.11,0,0,8.11,-310.22,-900.33)">
+                  <g
+                     id="g77027"
+                     transform="translate(0,0.08)">
+                    <!-- Diamond -->
+                    <path
+                       id="path76999"
+                       style="opacity:1;fill:#ffe240;fill-opacity:1;stroke:#7c45ad;stroke-width:0.26;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                       d="m 77.36,159.27 2.72,2.72 -2.72,2.72 -2.72,-2.72 z" />
+                    <!-- Circle -->
+                    <circle
+                       style="opacity:1;fill:#fff2ab;fill-opacity:1;stroke:none;stroke-width:0.36;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                       id="circle77001"
+                       cx="77.36"
+                       cy="161.99"
+                       r="1.5248348" />
+                  </g>
+                </g>
+              </g>
+            </g>
+          </pattern>
+        </defs>
+      </svg>
+
+    <!-- Text is up-to-date with brains commit 0ce4522b5b11ad405ce9aa28a47904a90d042c07 by Michael. -->
+
+    <!-- There are four milestone types: rectagular image, circle image,
+         without image, without description. -->
+
+    <div id="gnu-announce" class="row story">
+      <div class="col-md-3 col-sm-12 col-xs-12 event">
+        <a href="https://www.gnu.org/gnu/initial-announcement.html" target="_parent">
+        <img src="img/event/gnusenet-manifesto.png" alt="Usenet posting of the GNU system announcement, captured on the olduse.net archive">
+        </a> 
+      </div>
+      <div class="col-md-4 col-sm-7 col-xs-8 history wimg">
+        <a href="#gnu-announce">
+          <p>اعلام پروژه گنو</p>
+        </a>
+        <p>در تاریخ ۲۷ سپتامبر ۱۹۸۳، ریچارد ام. استالمن (RMS) اولین اعلامیه پروژه گنو را منتشر کرد، پروژه‌ای برای توسعه یک سیستم‌عامل کاملاً آزاد (به معنای آزادی). اگرچه پروژه گنو به طور رسمی تا ژانویه ۱۹۸۴ آغاز نشد، اعلامیه RMS طرح اولیه توسعه گنو و اجزای اصلی آن را ترسیم می‌کند.</p>
+        <a href="https://www.gnu.org/gnu/initial-announcement.html" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://www.gnu.org/gnu/initial-announcement.html" target="_parent">
+        <svg class="signpost-svg"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="287.84583"
+             viewBox="0 0 52.67838 76.15921">
+          <rect width="100%" height="100%" fill="url(#sign)"></rect>
+          <text x="12" y="22">سپتامبر</text>
+          <text x="17" y="30">۱۹۸۳</text>
+        </svg>
+        </a> 
+      </div>
+      <div class="class-md-2 vcenter station">
+        <img src="img/station.png" alt="Picture of train station.">
+      </div>
+    </div>
+
+    <div id="rms-hackers-1984" class="row story">
+      <div class="col-md-3 col-sm-12 col-xs-12 event">
+        <a href="https://www.gnu.org/gnu/first-hackers-conference-1984.html" target="_parent">
+        <img src="img/event/rms-bw.jpg" alt="A black and white photograph of Richard M. Stallman.">
+        </a> 
+      </div>
+      <div class="col-md-4 col-sm-7 col-xs-8 history wimg">
+        <a href="#rms-hackers-1984">
+          <p>ریچارد ام. استالمن اولین اعلام عمومی خود را مبنی بر اینکه همه نرم‌افزارها باید آزاد باشند، مطرح کرد</p>
+        </a>
+        <p>در اولین کنفرانس هکرها در ساوسالیتو، کالیفرنیا، ریچارد استالمن اولین اعلام عمومی خود را اظهار داشت که<i>همه نرم‌افزارها</i> باید آزاد باشند و «تا حد امکان به‌صورت آزاد در دسترس همه قرار گیرند.» بخش‌هایی از این کنفرانس در مستند <i>هکرها: جادوگران عصر الکترونیک</i>ضبط شده و این فیلم‌ها هنوز هم قابل مشاهده هستند.</p>
+        <a href="https://www.gnu.org/gnu/first-hackers-conference-1984.html" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://www.gnu.org/gnu/first-hackers-conference-1984.html" target="_parent">
+        <svg class="signpost-svg"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="287.84583"
+             viewBox="0 0 52.67838 76.15921">
+          <rect width="100%" height="100%" fill="url(#sign)"></rect>
+          <text x="15" y="22">نوامبر</text>
+          <text x="17" y="30">۱۹۸۴</text>
+        </svg>
+        </a> 
+      </div>
+      <div class="class-md-2 vcenter station">
+        <img src="img/station.png" alt="Picture of train station.">
+      </div>
+    </div>
+
+    <div id="gnu-manifesto" class="row story">
+      <div class="col-md-3 col-sm-12 col-xs-12 event">
+        <a href="https://www.gnu.org/gnu/manifesto.html" target="_parent">
+        <img src="img/event/00100manifesto.jpg" alt="Illustration of RMS holding the GNU Manifesto.">
+        </a> 
+      </div>
+      <div class="col-md-4 col-sm-7 col-xs-8 history wimg">
+        <a href="#gnu-manifesto">
+          <p>ریچارد ام. استالمن مانیفست گنو را منتشر کرد</p>
+        </a>
+        <p>مانیفست گنو در سال ۱۹۸۵ توسط ریچارد استالمن نوشته شد تا از مردم برای توسعه سیستم‌عامل گنو حمایت بخواهد. این مانیفست اهمیت توسعه پروژه گنو را توضیح می‌دهد و پایه‌ای فلسفی برای راه‌اندازی این پروژه ارائه می‌کند. بخشی از متن از اعلامیه اولیه که در ۲۷ سپتامبر ۱۹۸۳ منتشر شده بود، گرفته شده است. تا سال ۱۹۸۷، این متن به‌صورت جزئی برای انعکاس پیشرفت‌ها به‌روزرسانی شد..</p>
+        <a href="https://www.gnu.org/gnu/manifesto.html" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://www.gnu.org/gnu/manifesto.html" target="_parent">
+        <svg class="signpost-svg"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="287.84583"
+             viewBox="0 0 52.67838 76.15921">
+          <rect width="100%" height="100%" fill="url(#sign)"></rect>
+          <text x="15" y="22">مارس</text>
+          <text x="17" y="30">۱۹۸۵</text>
+        </svg>
+        </a> 
+      </div>
+      <div class="class-md-2 vcenter station">
+        <img src="img/station.png" alt="Picture of train station.">
+      </div>
+    </div>
+
+    <div id="fsf-incorporated" class="row story">
+      <div class="col-md-3 col-sm-12 col-xs-12 event">
+        <a href="https://www.fsf.org/" target="_parent">
+        <img src="img/event/00200fsf.jpg" alt="Picture of incorporating the FSF.">
+        </a> 
+      </div>
+      <div class="col-md-4 col-sm-7 col-xs-8 history wimg">
+        <a href="#fsf-incorporated">
+          <p>بنیاد نرم‌افزار آزاد (FSF) با ریاست ریچارد استالمن تأسیس شد</p>
+        </a>
+        <p>این رویداد نقطه آغاز بنیاد نرم‌افزار آزاد (FSF) است که همچنان پایگاه سازمانی پروژه گنو باقی مانده و زیرساخت‌های حیاتی را برای آن و دیگر پروژه‌های نرم‌افزار آزاد فراهم می‌کند. FSF همچنین نگهبان مجموعه مجوزهای گنو، از جمله مجوز عمومی گنو (GPL)، است و کارهای مربوط به رعایت GPL را برای برنامه‌های جداگانه‌ای که سیستم‌عامل گنو را تشکیل می‌دهند، انجام می‌دهد. تیم کمپین‌های FSF از طریق منابع متنوع، مقالات و فعالیت‌های حضوری به آموزش عمومی درباره نرم‌افزار آزاد می‌پردازد.</p>
+        <a href="https://www.fsf.org/" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://www.fsf.org/" target="_parent">
+        <svg class="signpost-svg"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="287.84583"
+             viewBox="0 0 52.67838 76.15921">
+          <rect width="100%" height="100%" fill="url(#sign)"></rect>
+          <text x="17" y="22">اکتبر</text>
+          <text x="17" y="30">۱۹۸۵</text>
+        </svg>
+        </a> 
+      </div>
+      <div class="class-md-2 vcenter station">
+        <img src="img/station.png" alt="Picture of train station.">
+      </div>
+    </div>
+
+    <div id="definition" class="row story">
+      <div class="col-md-3 col-sm-12 col-xs-12 event">
+        <a href="https://www.gnu.org/philosophy/free-sw.html" target="_parent">
+        <img src="img/event/FS-definition.png" alt="A screenshot of the first Bulletin and the definition of free software.">
+        </a> 
+      </div>
+      <div class="col-md-4 col-sm-7 col-xs-8 history wimg">
+        <a href="#definition">
+          <p>اولین انتشار تعریف نرم‌افزار آزاد</p>
+        </a>
+        <p>اگرچه تعریف نرم‌افزار آزاد برای اولین بار به‌صورت رسمی در سال ۱۹۹۶ در وب‌سایت gnu.org منتشر شد، تعریف اولیه آن در اولین بولتن در سال ۱۹۸۶ منتشر شده بود. دلیل شماره‌گذاری چهار آزادی کنونی و قطعی به‌صورت ۰، ۱، ۲ و ۳، ریشه‌ای تاریخی دارد. حدود سال ۱۹۹۰، سه آزادی وجود داشت که با شماره‌های ۱، ۲ و ۳ شناخته می‌شدند. سپس تصمیم گرفته شد که آزادی اجرای برنامه باید به‌صورت صریح ذکر شود. به‌جای تغییر شماره‌گذاری دیگران، آزادی شماره ۰ اضافه شد.</p>
+        <a href="https://www.gnu.org/philosophy/free-sw.html" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://www.gnu.org/philosophy/free-sw.html" target="_parent">
+        <svg class="signpost-svg"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="287.84583"
+             viewBox="0 0 52.67838 76.15921">
+          <rect width="100%" height="100%" fill="url(#sign)"></rect>
+          <text x="15" y="22">فوریه</text>
+          <text x="17" y="30">۱۹۸۶</text>
+        </svg>
+        </a> 
+      </div>
+      <div class="class-md-2 vcenter station">
+        <img src="img/station.png" alt="Picture of train station.">
+      </div>
+    </div>
+
+    <div id="gpl" class="row story">
+      <div class="col-md-3 col-sm-12 col-xs-12 event">
+        <a href="https://www.gnu.org/licenses/licenses.html" target="_parent">
+        <img src="img/event/00300printer.jpg" alt="Picture of Richard Stallman standing next to a printer.">
+        </a> 
+      </div>
+      <div class="col-md-4 col-sm-7 col-xs-8 history wimg">
+        <a href="#gpl">
+          <p>انتشار رسمی مجوز عمومی گنو (GPL)</p>
+        </a>
+        <p>مجوز عمومی گنو (GPL) هسته اصلی تداوم قدرت و وجود نرم‌افزار آزاد است. قدرت این مجوز و جوهره آزادی نرم‌افزار در این است که هر اثر مشتق‌شده یا ترکیبی باید تحت همان مجوز منتشر شود، و بدین ترتیب آزادی آن حفظ می‌شود. این امکان را به کاربران می‌دهد تا آزادانه نرم‌افزار را اجرا، کپی، اصلاح و به اشتراک بگذارند. تا به امروز، خانواده مجوزهای GPL محبوب‌ترین گروه مجوزهای کپی‌لفت هستند. در سال ۱۹۹۱، نسخه دوم مجوز عمومی گنو منتشر شد.</p>
+        <a href="https://www.gnu.org/licenses/licenses.html" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://www.gnu.org/licenses/licenses.html" target="_parent">
+        <svg class="signpost-svg"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="287.84583"
+             viewBox="0 0 52.67838 76.15921">
+          <rect width="100%" height="100%" fill="url(#sign)"></rect>
+          <text x="15" y="22">فوریه</text>
+          <text x="17" y="30">۱۹۸۹</text>
+        </svg>
+        </a> 
+      </div>
+      <div class="class-md-2 vcenter station">
+        <img src="img/station.png" alt="Picture of train station.">
+      </div>
+    </div>
+
+    <div id="fsd" class="row story">
+      <div class="col-md-3 col-sm-12 col-xs-12 event">
+        <a href="https://directory.fsf.org/" target="_parent">
+        <img src="img/event/00400fsd.jpg" alt="Picture of the Free Software Directory on a desktop computer.">
+        </a> 
+      </div>
+      <div class="col-md-4 col-sm-7 col-xs-8 history wimg">
+        <a href="#fsd">
+          <p>یونسکو و بنیاد نرم‌افزار آزاد (FSF) دایرکتوری نرم‌افزار آزاد را راه‌اندازی کردند</p>
+        </a>
+        <p>دایرکتوری نرم‌افزار آزاد یک کاتالوگ همکاری‌محور از برنامه‌های کامپیوتری است که کاملاً آزاد هستند (به معنای آزادی). این دایرکتوری در حال حاضر بیش از ده‌ها هزار بسته نرم‌افزاری از انواع مختلف را در خود جای داده است. اکنون این دایرکتوری توسط کارکنان FSF و داوطلبان نگهداری می‌شود. هر جمعه، جلسه‌ای در IRC در کانال #fsf در Libera.Chat برگزار می‌شود که در آن پیشنهادات و تغییرات مربوط به دایرکتوری بحث می‌شوند.</p>
+        <a href="https://directory.fsf.org/" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://directory.fsf.org/" target="_parent">
+        <svg class="signpost-svg"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="287.84583"
+             viewBox="0 0 52.67838 76.15921">
+          <rect width="100%" height="100%" fill="url(#sign)"></rect>
+          <text x="17" y="22">اکتبر</text>
+          <text x="17" y="30">۱۹۹۹</text>
+        </svg>
+        </a> 
+      </div>
+      <div class="class-md-2 vcenter station">
+        <img src="img/station.png" alt="Picture of train station.">
+      </div>
+    </div>
+
+    <div id="bkuhn" class="row story">
+      <div class="col-xs-8 col-sm-7 col-md-4 offset-md-3 history">
+        <a href="#bkuhn">
+          <p>Bradley Kuhn به عنوان اولین مدیر اجرایی بنیاد نرم‌افزار آزاد (FSF) منصوب شد</p>
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Bradley_M._Kuhn" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://en.wikipedia.org/wiki/Bradley_M._Kuhn" target="_parent">
+        <svg class="signpost-svg sign-s"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="115.84583"
+             viewBox="0 0 52.67838 46.967897">
+          <rect width="100%" height="100%" fill="url(#sign-s)"></rect>
+          <text x="15" y="22">مارس</text>
+          <text x="17" y="30">۲۰۰۱</text>
+        </svg>
+        </a> 
+      </div>
+    </div>
+
+    <div id="fsfe" class="row story">
+      <div class="col-md-3 col-sm-12 col-xs-12 event vcenter circle">
+        <a href="https://fsfe.org/" target="_parent">
+        <img src="img/event/00440fsfe.svg" alt="Logo of Free Software Foundation Europe.">
+        </a> 
+      </div>
+      <div class="col-md-4 col-sm-7 col-xs-8 history wimg">
+        <a href="#fsfe">
+          <p>بنیاد نرم‌افزار آزاد اروپا (FSFE) تأسیس شد</p>
+        </a>
+        <p>بنیاد نرم‌افزار آزاد اروپا (FSFE) یک سازمان خیریه است که کاربران را قادر می‌سازد تا کنترل فناوری خود را در دست داشته باشند. FSFE به افراد و سازمان‌ها کمک می‌کند تا درک کنند چگونه نرم‌افزار آزاد به آزادی، شفافیت و خودمختاری کمک می‌کند. این بنیاد با رفع موانع پذیرش نرم‌افزار آزاد، تشویق افراد به استفاده و توسعه نرم‌افزار آزاد، و ارائه منابع برای توانمندسازی همه در ترویج نرم‌افزار آزاد در اروپا، حقوق کاربران را ارتقا می‌دهد</p>
+        <a href="https://fsfe.org/" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://fsfe.org/" target="_parent">
+        <svg class="signpost-svg"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="287.84583"
+             viewBox="0 0 52.67838 76.15921">
+          <rect width="100%" height="100%" fill="url(#sign)"></rect>
+          <text x="15" y="22">مارس</text>
+          <text x="17" y="30">۲۰۰۱</text>
+        </svg>
+        </a> 
+      </div>
+      <div class="class-md-2 vcenter station">
+        <img src="img/station.png" alt="Picture of train station.">
+      </div>
+    </div>
+
+    <div id="fsff" class="row story">
+      <div class="col-md-3 col-sm-12 col-xs-12 event vcenter circle">
+        <a href="https://www.fsffrance.org/" target="_parent">
+        <img src="img/event/00440fsff.svg" alt="Logo of Free Software Foundation France.">
+        </a> 
+      </div>
+      <div class="col-md-4 col-sm-7 col-xs-8 history wimg">
+        <a href="#fsff">
+          <p>بنیاد نرم‌افزار آزاد فرانسه تأسیس شد</p>
+        </a>
+        <p>بنیاد نرم‌افزار آزاد فرانسه یک انجمن غیرانتفاعی است که با هدف ترویج نرم‌افزار آزاد (به معنای «free speech») در فرانسه فعالیت می‌کند.</p>
+        <a href="https://www.fsffrance.org/" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://www.fsffrance.org/" target="_parent">
+        <svg class="signpost-svg"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="287.84583"
+             viewBox="0 0 52.67838 76.15921">
+          <rect width="100%" height="100%" fill="url(#sign)"></rect>
+          <text x="15" y="22">آوریل</text>
+          <text x="17" y="30">۲۰۰۱</text>
+        </svg>
+        </a> 
+      </div>
+      <div class="class-md-2 vcenter station">
+        <img src="img/station.png" alt="Picture of train station.">
+      </div>
+    </div>
+
+    <div id="fsfi" class="row story">
+      <div class="col-md-4 offset-md-3 col-sm-7 col-xs-8 history">
+        <a href="#fsfi">
+          <p>بنیاد نرم‌افزار آزاد هند (FSFI) تأسیس شد</p>
+        </a>
+        <a href="https://fsf.org.in/" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://fsf.org.in/" target="_parent">
+        <svg class="signpost-svg sign-s"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="115.84583"
+             viewBox="0 0 52.67838 46.967897">
+          <rect width="100%" height="100%" fill="url(#sign-s)"></rect>
+          <text x="14" y="22">جولای</text>
+          <text x="17" y="30">۲۰۰۱</text>
+        </svg>
+        </a> 
+      </div>
+    </div>
+
+    <div id="licensing" class="row story">
+      <div class="col-md-3 col-sm-12 col-xs-12 event">
+        <a href="https://fsf.org/licensing" target="_parent">
+        <img src="img/event/compliancelab.jpg" alt="Donald Robertson giving a talk on licensing.">
+        </a> 
+      </div>
+      <div class="col-md-4 col-sm-7 col-xs-8 history wimg">
+        <a href="#licensing">
+          <p>آزمایشگاه مجوزها و انطباق (Licensing and Compliance Lab) تأسیس شد</p>
+        </a>
+        <p>این آزمایشگاه از سال ۱۹۹۲ به‌صورت غیررسمی زیرمجموعه‌ای از بنیاد نرم‌افزار آزاد (FSF) فعالیت می‌کرد و در دسامبر ۲۰۰۱ به‌صورت رسمی ایجاد شد. این تیم با کمک بسیاری از داوطلبان خیّردوست فعالیت می‌کند. فعالیت اصلی آن‌ها، کمک به توسعه‌دهندگان و توزیع‌کنندگان برای رعایت بهترین شیوه‌های صدور مجوز است، از جمله انجام اقدامات اجرایی برای اطمینان از رعایت مجوز GPL.
+
+این آزمایشگاه فرآیند ثبت و واگذاری حق‌نشر (کپی‌رایت) برای پروژه‌های گنو را مدیریت می‌کند و از طریق وبلاگ خود و همچنین دوره‌های آموزش حقوقی مداوم (CLE)، حقوقدانان و دانشجویان را درباره آخرین تحولات کپی‌لفت (Copyleft) آموزش می‌دهد.
+
+علاوه بر این، آزمایشگاه برنامه‌های مختلفی برای گواهی‌نامه نرم‌افزارهای آزاد اجرا می‌کند، مانند برنامه گواهی‌نامه «احترام به آزادی شما» (RYF) و همچنین «دایرکتوری نرم‌افزارهای آزاد» (Free Software Directory).</p>
+        <a href="https://fsf.org/licensing" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://fsf.org/licensing" target="_parent">
+        <svg class="signpost-svg"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="287.84583"
+             viewBox="0 0 52.67838 76.15921">
+          <rect width="100%" height="100%" fill="url(#sign)"></rect>
+          <text x="13" y="22">دسامبر</text>
+          <text x="17" y="30">۲۰۰۱</text>
+        </svg>
+        </a> 
+      </div>
+      <div class="class-md-2 vcenter station">
+        <img src="img/station.png" alt="Picture of train station.">
+      </div>
+    </div>
+
+    <div id="associate" class="row story">
+      <div class="col-md-3 col-sm-12 col-xs-12 event">
+        <a href="https://www.fsf.org/associate" target="_parent">
+        <img src="img/event/fsfcard.gif" alt="Photo of the FSF Membership card">
+        </a> 
+      </div>
+      <div class="col-md-4 col-sm-7 col-xs-8 history wimg">
+        <a href="#associate">
+          <p>راه‌اندازی برنامه عضویت وابسته</p>
+        </a>
+        <p>برنامه عضویت وابسته با هدف پشتیبانی از فعالیت‌های اصلی جنبش نرم‌افزار آزاد و کاهش وابستگی به کمک‌های مالی کلان افراد یا شرکت‌های بزرگ راه‌اندازی شد. مزایای این عضویت به مرور زمان افزایش یافته و حالا شامل مواردی مانند شرکت رایگان در کنفرانس سالانه LibrePlanet، تخفیف ۲۰ درصدی برای محصولات FSF و حتی دسترسی به سرور کنفرانس ویدیویی اختصاصی FSF (که در سال ۲۰۲۰ راه‌اندازی شد) می‌شود.
+
+درآمد حاصل از این برنامه، بخش بزرگی از بودجه سالانه بنیاد نرم‌افزار آزاد را تأمین می‌کند، و این حمایت مستمر جامعه است که امکان ادامه فعالیت‌های FSF را فراهم می‌سازد.</p>
+        <a href="https://www.fsf.org/associate" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://www.fsf.org/associate" target="_parent">
+        <svg class="signpost-svg"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="287.84583"
+             viewBox="0 0 52.67838 76.15921">
+          <rect width="100%" height="100%" fill="url(#sign)"></rect>
+          <text x="15" y="22">نوامبر</text>
+          <text x="17" y="30">۲۰۰۲</text>
+        </svg>
+        </a> 
+      </div>
+      <div class="class-md-2 vcenter station">
+        <img src="img/station.png" alt="Picture of train station.">
+      </div>
+    </div>
+
+    <div id="meeting" class="row story">
+      <div class="col-md-3 col-sm-12 col-xs-12 event">
+        <a href="https://www.gnu.org/events/first-assoc-members-meeting.html" target="_parent">
+        <img src="img/event/membermeeting.jpg" alt="Photo of the first membership meeting.">
+        </a> 
+      </div>
+      <div class="col-md-4 col-sm-7 col-xs-8 history wimg">
+        <a href="#meeting">
+          <p>بنیاد نرم‌افزار آزاد (FSF) میزبان اولین نشست سالانه اعضا شد</p>
+        </a>
+        <p>یکی از مزایای برنامه عضویت وابسته، دعوت به نشست سالانه اعضا در منطقه بوستون است. اولین نشست در ۱۵ مارس ۲۰۰۳ در دانشگاه MIT واقع در کمبریج، ماساچوست برگزار شد.
+
+در این مراسم، اِبِن موگلِن، جرالد جِی ساسمن و ریچارد استالمن به عنوان سخنران حضور داشتند و شرکت‌کنندگان این فرصت را داشتند تا پرسش‌های خود را مستقیماً از مدیران FSF بپرسند.
+
+این نشست سالانه بعدها به کنفرانس LibrePlanet تبدیل شد که هم‌اکنون نیز بخشی از آن به جلسه سالانه اعضا اختصاص دارد.</p>
+        <a href="https://www.gnu.org/events/first-assoc-members-meeting.html" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://www.gnu.org/events/first-assoc-members-meeting.html" target="_parent">
+        <svg class="signpost-svg"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="287.84583"
+             viewBox="0 0 52.67838 76.15921">
+          <rect width="100%" height="100%" fill="url(#sign)"></rect>
+          <text x="15" y="22">مارس</text>
+          <text x="17" y="30">۲۰۰۳</text>
+        </svg>
+        </a> 
+      </div>
+      <div class="class-md-2 vcenter station">
+        <img src="img/station.png" alt="Picture of train station.">
+      </div>
+    </div>
+
+    <div id="pbrown" class="row story">
+      <div class="col-md-4 offset-md-3 col-sm-7 col-xs-8 history">
+        <a href="#pbrown">
+          <p>Peter Brown دومین مدیر اجرایی بنیاد نرم‌افزار آزاد می‌شود</p>
+        </a>
+        <a href="https://www.fsf.org/news/new-executive-director.html" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://www.fsf.org/news/new-executive-director.html" target="_parent">
+        <svg class="signpost-svg sign-s"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="115.84583"
+             viewBox="0 0 52.67838 46.967897">
+          <rect width="100%" height="100%" fill="url(#sign-s)"></rect>
+          <text x="15" y="22">فوریه</text>
+          <text x="17" y="30">۲۰۰۵</text>
+        </svg>
+        </a> 
+      </div>
+    </div>
+
+    <div id="fsfla" class="row story">
+      <div class="col-md-4 offset-md-3 col-sm-7 col-xs-8 history">
+        <a href="#fsfla">
+          <p>بنیاد نرم‌افزار آزاد آمریکای لاتین (FSFLA) تأسیس می‌شود</p>
+        </a>
+        <a href="https://fsfla.org/" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://fsfla.org/" target="_parent">
+        <svg class="signpost-svg sign-s"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="115.84583"
+             viewBox="0 0 52.67838 46.967897">
+          <rect width="100%" height="100%" fill="url(#sign-s)"></rect>
+          <text x="15" y="22">نوامبر</text>
+          <text x="17" y="30">۲۰۰۵</text>
+        </svg>
+        </a> 
+      </div>
+    </div>
+
+    <div id="dbd" class="row story">
+      <div class="col-md-3 col-sm-12 col-xs-12 event vcenter circle">
+        <a href="https://www.defectivebydesign.org/" target="_parent">
+        <img src="img/event/00800dbd.jpg" alt="Logo of Defective By Design.">
+        </a> 
+      </div>
+      <div class="col-md-4 col-sm-7 col-xs-8 history wimg">
+        <a href="#dbd">
+          <p>راه‌اندازی کمپین «معیوب از پایه» (Defective by Design)</p>
+        </a>
+        <p>مدیریت محدودیت‌های دیجیتال (DRM) روشی است که با اعمال محدودیت‌های تکنولوژیکی، کنترل می‌کند کاربران چه اقداماتی می‌توانند با محتوای دیجیتال انجام دهند. وقتی برنامه‌ای طراحی می‌شود تا شما را از کپی یا اشتراک‌گذاری یک آهنگ، خواندن کتاب الکترونیکی روی دستگاه دیگر، یا اجرای یک بازی تک‌نفره بدون اتصال به اینترنت بازدارد، شما در حال تجربه محدودیت‌های DRM هستید.
+
+تخریب حقوق کاربران، بنیاد نرم‌افزار آزاد (FSF) را بر آن داشت تا کمپین «معیوب از پایه» (DBD) را برای مقابله با DRM راه‌اندازی کند. روز جهانی مبارزه با DRM (IDAD) که هر ساله با مشارکت سازمان‌های مختلف در سراسر جهان برای اعتراض به استفاده از DRM برگزار می‌شود، از طریق این کمپین سازماندهی می‌شود.</p>
+        <a href="https://www.defectivebydesign.org/" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://www.defectivebydesign.org/" target="_parent">
+        <svg class="signpost-svg"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="287.84583"
+             viewBox="0 0 52.67838 76.15921">
+          <rect width="100%" height="100%" fill="url(#sign)"></rect>
+          <text x="18" y="22">می</text>
+          <text x="17" y="30">۲۰۰۶</text>
+        </svg>
+        </a> 
+      </div>
+      <div class="class-md-2 vcenter station">
+        <img src="img/station.png" alt="Picture of train station.">
+      </div>
+    </div>
+
+    <div id="gplv3" class="row story">
+      <div class="col-md-3 col-sm-12 col-xs-12 event vcenter circle">
+        <a href="https://www.gnu.org/licenses/gpl-3.0.html" target="_parent">
+        <img src="img/event/00700gplv3.jpg" alt="Picture of GPLv3.">
+        </a> 
+      </div>
+      <div class="col-md-4 col-sm-7 col-xs-8 history wimg">
+        <a href="#gplv3">
+          <p>انتشار GPL نسخه ۳</p>
+        </a>
+        <p>اجازه‌نامه عمومی گنو (GPLv3) جدیدترین نسخه از این مجوز معتبر است. پس از یک سال و نیم مشاوره عمومی، هزاران نظر ارسال شده و چهار پیش‌نویس، سرانجام نسخه سوم GPL در ۲۹ ژوئن ۲۰۰۷ منتشر شد. اولین پیش‌نویس این نسخه در ژانویه ۲۰۰۶ برای دریافت بازخورد منتشر شده بود.
+
+یکی از تفاوت‌های عمده این نسخه، پرداختن به مفهوم "تیوویزاسیون" بود - شیوه غیراخلاقی که در آن سازندگان دستگاه‌ها، کاربران را از تغییر نرم‌افزار آزاد نصب‌شده بر روی دستگاه‌هایشان منع می‌کنند.
+
+GPLv3 همچنین شامل بهبودهای متعددی شد تا استفاده و درک این مجوز برای همه ساده‌تر شود. این به‌روزرسانی‌ها باعث شد مجوز بهتر از آزادی‌های کاربران در عصر دیجیتال محافظت کند.</p>
+        <a href="https://www.gnu.org/licenses/gpl-3.0.html" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://www.gnu.org/licenses/gpl-3.0.html" target="_parent">
+        <svg class="signpost-svg"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="287.84583"
+             viewBox="0 0 52.67838 76.15921">
+          <rect width="100%" height="100%" fill="url(#sign)"></rect>
+          <text x="17" y="22">ژوئن</text>
+          <text x="17" y="30">۲۰۰۷</text>
+        </svg>
+        </a> 
+      </div>
+      <div class="class-md-2 vcenter station">
+        <img src="img/station.png" alt="Picture of train station.">
+      </div>
+    </div>
+
+    <div id="mem2500" class="row story">
+      <div class="col-md-4 offset-md-3 col-sm-7 col-xs-8 history">
+        <a href="#mem2500">
+          <p>تعداد اعضای وابسته به ۲۵۰۰ نفر رسید</p>
+        </a>
+        <a href="https://member.fsf.org" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://member.fsf.org" target="_parent">
+        <svg class="signpost-svg sign-s"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="115.84583"
+             viewBox="0 0 52.67838 46.967897">
+          <rect width="100%" height="100%" fill="url(#sign-s)"></rect>
+          <text x="13" y="22">آگوست</text>
+          <text x="17" y="30">۲۰۰۷</text>
+        </svg>
+        </a> 
+      </div>
+    </div>
+
+    <div id="agplv3" class="row story">
+      <div class="col-md-3 col-sm-12 col-xs-12 event vcenter circle">
+        <a href="https://www.gnu.org/licenses/agpl-3.0.html" target="_parent">
+        <img src="img/event/00900agplv3.jpg" alt="Picture of AGPLv3.">
+        </a> 
+      </div>
+      <div class="col-md-4 col-sm-7 col-xs-8 history wimg">
+        <a href="#agplv3">
+          <p>انتشار AGPL نسخه ۳</p>
+        </a>
+        <p>اجازه‌نامه عمومی Affero گنو (AGPL) نسخه‌ای اصلاح‌شده از GPLv3 است با یک تفاوت عمده که بر اجرای برنامه‌های آزاد در سرویس‌های شبکه تأثیر می‌گذارد. AGPL تضمین می‌کند کاربرانی که با نسخه‌های تغییر یافته نرم‌افزار آزاد از طریق شبکه تعامل دارند، امکان دریافت کد منبع آن نسخه‌های تغییر یافته را داشته باشند. بدین ترتیب کاربر می‌تواند عملکرد نسخه تغییر یافته را درک کند، یک نمونه از آن را خودش اجرا کند یا نسخه تغییر یافته را بهبود بخشد و با دیگران به اشتراک بگذارد.</p>
+        <a href="https://www.gnu.org/licenses/agpl-3.0.html" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://www.gnu.org/licenses/agpl-3.0.html" target="_parent">
+        <svg class="signpost-svg"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="287.84583"
+             viewBox="0 0 52.67838 76.15921">
+          <rect width="100%" height="100%" fill="url(#sign)"></rect>
+          <text x="15" y="22">نوامبر</text>
+          <text x="17" y="30">۲۰۰۷</text>
+        </svg>
+        </a> 
+      </div>
+      <div class="class-md-2 vcenter station">
+        <img src="img/station.png" alt="Picture of train station.">
+      </div>
+    </div>
+
+    <div id="fss-launch" class="row story">
+      <div class="col-md-4 offset-md-3 col-sm-7 col-xs-8 history">
+        <a href="#fss-launch">
+          <p>نخستین شماره از <i>حامی نرم‌افزار آزاد</i> منتشر شد</p>
+        </a>
+        <p>در مارس ۲۰۰۸، بنیاد نرم‌افزار آزاد (FSF) خبرنامه‌ای ماهانه با نام <i>حامی نرم‌افزار آزاد</i> برای مشترکین راه‌اندازی کرد. تا امروز، این خبرنامه دیجیتال ماهانه <i>حامی نرم‌افزار آزاد</i> به معرفی برخی از مهم‌ترین فعالیت‌های FSF می‌پردازد و شما را از آخرین اخبار جنبش نرم‌افزار آزاد مطلع می‌سازد. خبرنامه <i>حامی نرم‌افزار آزاد</i> به زبان‌های انگلیسی، اسپانیایی، پرتغالی برزیلی و فرانسوی منتشر می‌شود.</p>
+        <a href="https://www.fsf.org/free-software-supporter" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://www.fsf.org/free-software-supporter" target="_parent">
+        <svg class="signpost-svg"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="287.84583"
+             viewBox="0 0 52.67838 76.15921">
+          <rect width="100%" height="100%" fill="url(#sign)"></rect>
+          <text x="15" y="22">مارس</text>
+          <text x="17" y="30">۲۰۰۸</text>
+        </svg>
+        </a> 
+      </div>
+      <div class="class-md-2 vcenter station">
+        <img src="img/station.png" alt="Picture of train station.">
+      </div>
+    </div>
+
+    <div id="fry" class="row story">
+      <div class="col-md-3 col-sm-12 col-xs-12 event">
+        <a href="https://www.gnu.org/fry/" target="_parent">
+        <img src="img/stephen-fry.png" alt="Frame from the video with Stephen Fry sitting in a chair">
+        </a> 
+      </div>
+      <div class="col-md-4 col-sm-7 col-xs-8 history wimg">
+        <a href="#fry">
+          <p>FSF و Stephen Fry بیست‌وپنجمین سالگرد پروژه گنو را جشن گرفتند</p>
+        </a>
+        <p>در سال ۲۰۰۸ پروژه گنو ۲۵ ساله شد. به همین مناسبت، بنیاد نرم‌افزار آزاد (FSF) با Stephen Fry - بازیگر، کمدین و نویسنده انگلیسی - همکاری کرد تا ویدیویی تولید کند که در آن فرای با بیان خود مشکلات نرم‌افزارهای انحصاری را شرح می‌دهد. مت لی، مدیر کمپین‌های FSF، این فیلم کوتاه را نوشت و تولید کرد. این ویدیو به روشنی توضیح می‌دهد که پروژه گنو چگونه شکل گرفت، فلسفه بنیادین آن شامل مشارکت، برابری و آزادی چیست، و چگونه می‌توان از جنبش نرم‌افزار آزاد حمایت کرد.</p>
+        <a href="https://www.gnu.org/fry/" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://www.gnu.org/fry/" target="_parent">
+        <svg class="signpost-svg"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="287.84583"
+             viewBox="0 0 52.67838 76.15921">
+          <rect width="100%" height="100%" fill="url(#sign)"></rect>
+          <text x="13" y="22">سپتامبر</text>
+          <text x="17" y="30">۲۰۰۸</text>
+        </svg>
+        </a> 
+      </div>
+      <div class="class-md-2 vcenter station">
+        <img src="img/station.png" alt="Picture of train station.">
+      </div>
+    </div>
+
+    <div id="lp" class="row story">
+      <div class="col-md-3 col-sm-12 col-xs-12 event">
+        <a href="https://libreplanet.org/conference" target="_parent">
+        <img src="img/event/00500meeting.jpg" alt="Illustration of a gathering at LibrePlanet">
+        </a> 
+      </div>
+      <div class="col-md-4 col-sm-7 col-xs-8 history wimg">
+        <a href="#lp">
+          <p>اولین کنفرانس سالانه لیبره‌پلنت برگزار شد</p>
+        </a>
+        <p>نشست اعضای وابسته FSF به تدریج به لیبره‌پلنت تبدیل شد، یک کنفرانس سالانه درباره فناوری و عدالت اجتماعی. اولین دوره این کنفرانس در مرکز علوم هاروارد برگزار شد و سپس به مرکز استاتای MIT منتقل گردید. این کنفرانس یک جشن جهانی آخر هفته‌ای است که تمامی جنبه‌های مرتبط با نرم‌افزار آزاد را پوشش می‌دهد. این رویداد شامل برنامه‌ای کامل از سخنرانان، مجموعه‌ای از رویدادهای اجتماعی، یک شب هک‌اتون است و سال‌هاست که ضبط و به صورت زنده پخش می‌شود. در سال ۲۰۲۰، کنفرانس در آخرین لحظات به دلیل دستورات ماندن در خانه ناشی از ویروس کرونا، به صورت آنلاین برگزار شد. از جمله سخنرانان اصلی این رویداد می‌توان به سومانا هاریهارسوارا، بروستر کاهل و ادوارد اسنودن اشاره کرد.</p>
+        <a href="https://libreplanet.org/conference" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://libreplanet.org/conference" target="_parent">
+        <svg class="signpost-svg"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="287.84583"
+             viewBox="0 0 52.67838 76.15921">
+          <rect width="100%" height="100%" fill="url(#sign)"></rect>
+          <text x="15" y="22">مارس</text>
+          <text x="17" y="30">۲۰۰۹</text>
+        </svg>
+        </a> 
+      </div>
+      <div class="class-md-2 vcenter station">
+        <img src="img/station.png" alt="Picture of train station.">
+      </div>
+    </div>
+
+    <div id="patabsurdity" class="row story">
+      <div class="col-md-3 col-sm-12 col-xs-12 event">
+        <a href="http://patentabsurdity.com/watch.html" target="_parent">
+        <img src="img/event/absurdity.jpg" alt="Movie poster for patent absurdity film">
+        </a> 
+      </div>
+      <div class="col-md-4 col-sm-7 col-xs-8 history wimg">
+        <a href="#patabsurdity">
+          <p> فیلم <i>Patent Absurdity</i> منتشر شد</p>
+        </a>
+<p>فیلم <i>پتنت آبسوردیتی: چگونه حق امتیازهای نرم‌افزاری سیستم را مختل کردند</i> یک اثر نیم‌ساعته درباره حق امتیازهای نرم‌افزاری است. این فیلم به بررسی پرونده حق امتیازهای نرم‌افزاری و سابقه فعالیّت قضایی که منجر به گسترش آنها شد می‌پردازد، همچنین آسیب‌های وارده به توسعه‌دهندگان نرم‌افزار و اقتصاد کلان را تحلیل می‌کند. این اثر بر اساس مجموعه‌ای از مصاحبه‌های انجام شده در جریان بررسی پرونده "In re Bilski" توسط دیوان عالی آمریکا ساخته شده است - پرونده‌ای که می‌توانست تأثیرات عمیقی بر نظام ثبت اختراع نرم‌افزار داشته باشد.</p>        <a href="http://patentabsurdity.com/watch.html" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="http://patentabsurdity.com/watch.html" target="_parent">
+        <svg class="signpost-svg"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="287.84583"
+             viewBox="0 0 52.67838 76.15921">
+          <rect width="100%" height="100%" fill="url(#sign)"></rect>
+          <text x="15" y="22">آوریل</text>
+          <text x="17" y="30">۲۰۱۰</text>
+        </svg>
+        </a> 
+      </div>
+      <div class="class-md-2 vcenter station">
+        <img src="img/station.png" alt="Picture of train station.">
+      </div>
+    </div>
+
+    <div id="johns" class="row story">
+      <div class="col-md-4 offset-md-3 col-sm-7 col-xs-8 history">
+        <a href="#johns">
+          <p>John Sullivan به عنوان سومین مدیر اجرایی FSF منصوب شد</p>
+        </a>
+        <a href="https://www.fsf.org/news/fsf-announces-new-executive-director" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://www.fsf.org/news/fsf-announces-new-executive-director" target="_parent">
+        <svg class="signpost-svg sign-s"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="115.84583"
+             viewBox="0 0 52.67838 46.967897">
+          <rect width="100%" height="100%" fill="url(#sign-s)"></rect>
+          <text x="15" y="22">مارس</text>
+          <text x="17" y="30">۲۰۱۱</text>
+        </svg>
+        </a> 
+      </div>
+    </div>
+
+    <div id="fss50k" class="row story">
+      <div class="col-md-4 offset-md-3 col-sm-7 col-xs-8 history">
+        <a href="#fss50k">
+          <p><i>حامی نرم‌افزار آزاد</i> به ۵۰٬۰۰۰ مشترک رسید</p>
+        </a>
+        <a href="https://www.fsf.org/free-software-supporter" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://www.fsf.org/free-software-supporter" target="_parent">
+        <svg class="signpost-svg sign-s"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="115.84583"
+             viewBox="0 0 52.67838 46.967897">
+          <rect width="100%" height="100%" fill="url(#sign-s)"></rect>
+          <text x="17" y="22">اکتبر</text>
+          <text x="17" y="30">۲۰۱۱</text>
+        </svg>
+        </a> 
+      </div>
+    </div>
+
+    <div id="ryf" class="row story">
+      <div class="col-md-3 col-sm-12 col-xs-12 event">
+        <a href="https://ryf.fsf.org/" target="_parent">
+        <img src="img/7-RYF.png" alt="Illustration of the Lulzbot with RYF logo certification.">
+        </a> 
+      </div>
+      <div class="col-md-4 col-sm-7 col-xs-8 history wimg">
+        <a href="#ryf">
+          <p>دستگاه Lulzbot اولین سخت‌افزاری است که گواهی "احترام به آزادی شما" (RYF) را دریافت کرد</p>
+        </a>
+        <p>چاپگر سه‌بعدی Aleph Objects LulzBot AO-100 اولین محصول سخت‌افزاری شد که موفق به دریافت نشان گواهی "احترام به آزادی شما" (RYF) از FSF گردید. این برنامه گواهی‌دهی، تولید و فروش سخت‌افزارهایی را تشویق می‌کند که تا حد امکان به آزادی و حریم خصوصی شما احترام بگذارند و کنترل شما بر دستگاهتان را تضمین کنند</p>
+        <a href="https://ryf.fsf.org/" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://ryf.fsf.org/" target="_parent">
+        <svg class="signpost-svg"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="287.84583"
+             viewBox="0 0 52.67838 76.15921">
+          <rect width="100%" height="100%" fill="url(#sign)"></rect>
+          <text x="17" y="22">اکتبر</text>
+          <text x="17" y="30">۲۰۱۲</text>
+        </svg>
+        </a> 
+      </div>
+      <div class="class-md-2 vcenter station">
+        <img src="img/station.png" alt="Picture of train station.">
+      </div>
+    </div>
+
+    <div id="gluglug" class="row story">
+      <div class="col-md-3 col-sm-12 col-xs-12 event vcenter circle">
+        <a href="https://www.fsf.org/news/gluglug-x60-laptop-now-certified-to-respect-your-freedom" target="_parent">
+        <img src="img/event/01100ryf.jpg" alt="Picture of Respects Your Freedom.">
+        </a> 
+      </div>
+      <div class="col-md-4 col-sm-7 col-xs-8 history wimg">
+        <a href="#gluglug">
+          <p>لپ‌تاپ Gluglug X60 اولین دستگاه رایانه‌ای است که گواهی RYF را دریافت کرد</p>
+        </a>
+        <p>لپ‌تاپ Gluglug X60 اولین کامپیوتری شد که موفق به دریافت گواهی «احترام به آزادی شما» (RYF) از FSF گردید. بنیاد نرم‌افزار آزاد از سال ۲۰۰۵ درخواست ارائه لپ‌تاپی با سیستم عامل و بوت آزاد را داشت که این درخواست در سال ۲۰۱۳ محقق شد. این گواهی به لطف توسعه پروژه Libreboot ممکن گردید که اجازه جایگزینی BIOS انحصاری دستگاه با نرم‌افزار آزاد را فراهم کرد.</p>
+        <a href="https://www.fsf.org/news/gluglug-x60-laptop-now-certified-to-respect-your-freedom" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://www.fsf.org/news/gluglug-x60-laptop-now-certified-to-respect-your-freedom" target="_parent">
+        <svg class="signpost-svg"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="287.84583"
+             viewBox="0 0 52.67838 76.15921">
+          <rect width="100%" height="100%" fill="url(#sign)"></rect>
+          <text x="13" y="22">دسامبر</text>
+          <text x="17" y="30">۲۰۱۳</text>
+        </svg>
+        </a> 
+      </div>
+      <div class="class-md-2 vcenter station">
+        <img src="img/station.png" alt="Picture of train station.">
+      </div>
+    </div>
+
+    <div id="esd" class="row story">
+      <div class="col-md-3 col-sm-12 col-xs-12 event">
+        <a href="https://emailselfdefense.fsf.org/en/" target="_parent">
+        <img src="img/event/email-self-defense.png" alt="Illustration of the Email Self-Defense robot fighting snooping eyes">
+        </a> 
+      </div>
+      <div class="col-md-4 col-sm-7 col-xs-8 history wimg">
+        <a href="#esd">
+          <p>راهنمای دفاع از خود در ایمیل توسط FSF منتشر شد</p>
+        </a>
+        <p>راهنمای «دفاع از خود در ایمیل» یک راهنمای عملی برای تنظیم و استفاده از رمزنگاری ایمیل است. این راهنما با ارائه توضیحات گام‌به‌گام جامع، به کاربران می‌آموزد که چگونه یک سیستم دفاعی اولیه در برابر نظارت انبوه ایجاد کنند.
+
+درک این نکته ضروری است که رمزنگاری ایمیل نه تنها از کاربر فردی محافظت می‌کند، بلکه به حفظ ناشناس بودن سایر کاربران در سراسر جهان که برای انجام کارهای خود (روزنامه‌نگاران) و زندگی روزمره (فعالان نرم‌افزار آزاد و افشاگران) به این ناشناس بودن وابسته هستند نیز کمک می‌کند.
+
+نسخه اصلی این راهنما با کمک داوطلبان به پانزده زبان ترجمه شده است</p>
+        <a href="https://emailselfdefense.fsf.org/en/" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://emailselfdefense.fsf.org/en/" target="_parent">
+        <svg class="signpost-svg"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="287.84583"
+             viewBox="0 0 52.67838 76.15921">
+          <rect width="100%" height="100%" fill="url(#sign)"></rect>
+          <text x="17" y="22">ژوئن</text>
+          <text x="17" y="30">۲۰۱۴</text>
+        </svg>
+        </a> 
+      </div>
+      <div class="class-md-2 vcenter station">
+        <img src="img/station.png" alt="Picture of train station.">
+      </div>
+    </div>
+
+    <div id="fsf30" class="row story">
+      <div class="col-md-3 col-sm-12 col-xs-12 event">
+        <a href="https://www.fsf.org/fsf30/" target="_parent">
+        <img src="img/event/fsf30.png" alt="Image of someone in front of a Happy Birthday FSF30 banner">
+        </a> 
+      </div>
+      <div class="col-md-4 col-sm-7 col-xs-8 history wimg">
+        <a href="#fsf30">
+          <p>سیامین سالگرد تأسیس بنیاد نرم‌افزار آزاد</p>
+        </a>
+        <p>سیامین سالگرد در ۳ اکتبر ۲۰۱۵ با عنوان "The User Freedom Summit" برگزار شد، یک کنفرانس کوچک که شامل دو بخش با دو جلسه در هر بخش بود و با سخنرانی پایانی از اِبِن موگلِن به پایان رسید. پیام‌هایی از حامیان برجسته نرم‌افزار آزاد مانند کوری داکترو و ورنور وینج جمع‌آوری شد و سپس جشنی در مرکز نوآوری کمبریج در کمبریج، ماساچوست برگزار گردید.</p>
+        <a href="https://www.fsf.org/fsf30/" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://www.fsf.org/fsf30/" target="_parent">
+        <svg class="signpost-svg"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="287.84583"
+             viewBox="0 0 52.67838 76.15921">
+          <rect width="100%" height="100%" fill="url(#sign)"></rect>
+          <text x="17" y="22">اکتبر</text>
+          <text x="17" y="30">۲۰۱۵</text>
+        </svg>
+        </a> 
+      </div>
+      <div class="class-md-2 vcenter station">
+        <img src="img/station.png" alt="Picture of train station.">
+      </div>
+    </div>
+
+    <div id="fss100k" class="row story">
+      <div class="col-md-4 offset-md-3 col-sm-7 col-xs-8 history">
+        <a href="#fss100k">
+          <p><i>حامی نرم‌افزار آزاد</i> به ۱۰۰٬۰۰۰ مشترک رسید</p>
+        </a>
+        <a href="https://www.fsf.org/free-software-supporter" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://www.fsf.org/free-software-supporter" target="_parent">
+        <svg class="signpost-svg sign-s"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="115.84583"
+             viewBox="0 0 52.67838 46.967897">
+          <rect width="100%" height="100%" fill="url(#sign-s)"></rect>
+          <text x="13" y="22">دسامبر</text>
+          <text x="17" y="30">۲۰۱۵</text>
+        </svg>
+        </a> 
+      </div>
+    </div>
+
+    <div id="snowden" class="row story">
+      <div class="col-md-3 col-sm-12 col-xs-12 event">
+        <a href="https://media.libreplanet.org/u/libreplanet/m/libreplanet-2016-the-last-lighthouse-3d51/" target="_parent">
+        <img src="img/event/snowden.jpg" alt="Image of ادوارد اسنودن speaking at LibrePlanet">
+        </a> 
+      </div>
+      <div class="col-md-4 col-sm-7 col-xs-8 history wimg">
+        <a href="#snowden">
+          <p>ادوارد اسنودن سخنران اصلی لیبرپلنت ۲۰۱۶</p>
+        </a>
+        <p>در روز شنبه، ۱۹ مارس ۲۰۱۶، ادوارد اسنودن به مرکز استاتای MIT تماس گرفت تا با دانیل کان گیلمور و سالنی پر از حضار گفتگو کند. احساس انرژی، هیجان و شادی در سالن موج می‌زد وقتی اسنودن از جامعه برای خلق نرم‌افزار آزاد تشکر کرد، قبل از اینکه سخنرانی برنامه‌ریزی شده خود با عنوان "آخرین فانوس دریایی: نرم‌افزار آزاد در دوران تاریکی" را آغاز کند.
+
+گیلمور و اسنودن درباره نرم‌افزار آزاد، نظارت، قدرت و کنترل آینده به بحث پرداختند.</p>
+        <a href="https://media.libreplanet.org/u/libreplanet/m/libreplanet-2016-the-last-lighthouse-3d51/" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://media.libreplanet.org/u/libreplanet/m/libreplanet-2016-the-last-lighthouse-3d51/" target="_parent">
+        <svg class="signpost-svg"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="287.84583"
+             viewBox="0 0 52.67838 76.15921">
+          <rect width="100%" height="100%" fill="url(#sign)"></rect>
+          <text x="15" y="22">مارس</text>
+          <text x="17" y="30">۲۰۱۶</text>
+        </svg>
+        </a> 
+      </div>
+      <div class="class-md-2 vcenter station">
+        <img src="img/station.png" alt="Picture of train station.">
+      </div>
+    </div>
+
+    <div id="mem4k" class="row story">
+      <div class="col-md-4 offset-md-3 col-sm-7 col-xs-8 history">
+        <a href="#mem4k">
+          <p>تعداد اعضای وابسته به ۴٬۰۰۰ نفر رسید</p>
+        </a>
+        <a href="https://member.fsf.org" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://member.fsf.org" target="_parent">
+        <svg class="signpost-svg sign-s"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="115.84583"
+             viewBox="0 0 52.67838 46.967897">
+          <rect width="100%" height="100%" fill="url(#sign-s)"></rect>
+          <text x="13" y="22">دسامبر</text>
+          <text x="17" y="30">۲۰۱۶</text>
+        </svg>
+        </a> 
+      </div>
+    </div>
+
+    <div id="pineapple" class="row story">
+      <div class="col-md-4 offset-md-3 col-sm-7 col-xs-8 history">
+        <a href="#pineapple">
+          <p>بنیاد نرم‌افزار آزاد (FSF) یک میلیون دلار کمک مالی بیت‌کوین از صندوق آناناس دریافت کرد</p>
+        </a>
+        <p>شرکت‌های بزرگ فناوری بودجه‌های میلیارد دلاری دارند که می‌توانند برای محدود کردن آزادی کاربران هزینه کنند. در مقایسه، کارهایی که ما در FSF انجام می‌دهیم گاهی کوچک به نظر می‌رسد. کمک مالی بزرگ از صندوق آناناس هم بیانگر ارزش کارهای ما بود و هم تقویت مالی قابل توجهی برای ماموریت ما محسوب می‌شد.
+
+John Sullivan، مدیر اجرایی، در بیانیه خود پس از دریافت این کمک مالی نوشت: "اکنون زمان بحرانی برای آزادی کاربران کامپیوتر است و این هدیه تأثیر فوق‌العاده‌ای در توانایی ما به عنوان یک جنبش برای مقابله با چالش‌ها خواهد داشت."</p>
+        <a href="https://www.fsf.org/news/free-software-foundation-receives-1-million-donation-from-pineapple-fund" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://www.fsf.org/news/free-software-foundation-receives-1-million-donation-from-pineapple-fund" target="_parent">
+        <svg class="signpost-svg"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="287.84583"
+             viewBox="0 0 52.67838 76.15921">
+          <rect width="100%" height="100%" fill="url(#sign)"></rect>
+          <text x="13" y="22">ژانویه</text>
+          <text x="17" y="30">۲۰۱۸</text>
+        </svg>
+        </a> 
+      </div>
+      <div class="class-md-2 vcenter station">
+        <img src="img/station.png" alt="Picture of train station.">
+      </div>
+    </div>
+
+    <div id="handshake" class="row story">
+      <div class="col-md-4 offset-md-3 col-sm-7 col-xs-8 history">
+        <a href="#handshake">
+          <p>بنیاد نرم‌افزار آزاد (FSF) یک میلیون دلار کمک مالی از Handshake دریافت کرد</p>
+        </a>
+        <p>Handshake در بیانیه خود اعلام کرد: «FSF با حمایت از تولید نرم‌افزارهای آزاد از جمله سیستم‌عامل گنو و کمپین‌های آگاهی‌بخشی مانند «معیوب از پایه»، پیشرو جهانی در دفاع از حقوق کاربران رایانه است. Handshake مفتخر است که از FSF در این مأموریت مهم برای حفظ آزادی‌های ما حمایت می‌کند.»
+
+John Sullivan، مدیر اجرایی FSF، در پاسخ گفت: «امروز بیش از هر زمان دیگری اهمیت آزادی نرم‌افزار برای جهان آشکار است.»</p>
+        <a href="https://www.fsf.org/news/free-software-foundation-receives-1-million-from-handshake" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://www.fsf.org/news/free-software-foundation-receives-1-million-from-handshake" target="_parent">
+        <svg class="signpost-svg"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="287.84583"
+             viewBox="0 0 52.67838 76.15921">
+          <rect width="100%" height="100%" fill="url(#sign)"></rect>
+          <text x="13" y="22">دسامبر</text>
+          <text x="17" y="30">۲۰۱۸</text>
+        </svg>
+        </a> 
+      </div>
+      <div class="class-md-2 vcenter station">
+        <img src="img/station.png" alt="Picture of train station.">
+      </div>
+    </div>
+
+    <div id="fss200k" class="row story">
+      <div class="col-md-4 offset-md-3 col-sm-7 col-xs-8 history">
+        <a href="#fss200k">
+          <p><i>حامی نرم‌افزار آزاد</i> به ۲۰۰٬۰۰۰ مشترک رسید</p>
+        </a>
+        <a href="https://www.fsf.org/free-software-supporter" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://www.fsf.org/free-software-supporter" target="_parent">
+        <svg class="signpost-svg sign-s"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="115.84583"
+             viewBox="0 0 52.67838 46.967897">
+          <rect width="100%" height="100%" fill="url(#sign-s)"></rect>
+          <text x="15" y="22">مارس</text>
+          <text x="17" y="30">۲۰۱۹</text>
+        </svg>
+        </a> 
+      </div>
+    </div>
+
+    <div id="knauth" class="row story">
+      <div class="col-md-4 offset-md-3 col-sm-7 col-xs-8 history">
+        <a href="#knauth">
+          <p>Geoffrey Knauth به ریاست بنیاد نرم‌افزار آزاد انتخاب شد</p>
+        </a>
+        <a href="https://www.fsf.org/news/geoffrey-knauth-elected-free-software-foundation-president-odile-benassy-joins-the-board" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://www.fsf.org/news/geoffrey-knauth-elected-free-software-foundation-president-odile-benassy-joins-the-board" target="_parent">
+        <svg class="signpost-svg sign-s"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="115.84583"
+             viewBox="0 0 52.67838 46.967897">
+          <rect width="100%" height="100%" fill="url(#sign-s)"></rect>
+          <text x="13" y="22">آگوست</text>
+          <text x="17" y="30">۲۰۲۰</text>
+        </svg>
+        </a> 
+      </div>
+    </div>
+
+    <div id="fsf35" class="row story">
+      <div class="col-md-3 col-sm-12 col-xs-12 event">
+        <a href="https://www.fsf.org/events/fsf35/" target="_parent">
+        <img src="img/event/01400fsf35.jpg" alt="Picture of FSF35.">
+        </a> 
+      </div>
+      <div class="col-md-4 col-sm-7 col-xs-8 history wimg">
+        <a href="#fsf35">
+          <p>سی و پنجمین سالگرد بنیاد نرم‌افزار آزاد</p>
+        </a>
+        <p>اکتبر ۲۰۲۰ سی و پنجمین سالگرد بنیاد نرم‌افزار آزاد (FSF) بود. FSF فعالیت‌هایی برای یک هفته کامل سازماندهی کرد که شامل معرفی ظاهر جدید برای صفحه اصلی fsf.org، انتشار یک ویدیو، عرضه آثار هنری و محصولات جدید برای این مناسبت بود و در نهایت هفته با یک مراسم گالا به پایان رسید که به دلیل همه‌گیری COVID-19 به صورت آنلاین برگزار شد. مهمانانی از سراسر جهان به FSF پیوستند تا نرم‌افزار آزاد را جشن بگیرند و درباره آن گفتگو کنند..</p>
+        <a href="https://www.fsf.org/events/fsf35/" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://www.fsf.org/events/fsf35/" target="_parent">
+        <svg class="signpost-svg"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="287.84583"
+             viewBox="0 0 52.67838 76.15921">
+          <rect width="100%" height="100%" fill="url(#sign)"></rect>
+          <text x="17.5" y="22">اکتبر</text>
+          <text x="17" y="30">۲۰۲۰</text>
+        </svg>
+        </a> 
+      </div>
+      <div class="class-md-2 vcenter station">
+        <img src="img/station.png" alt="Picture of train station.">
+      </div>
+    </div>
+
+    <div id="char100" class="row story">
+      <div class="col-md-4 offset-md-3 col-sm-7 col-xs-8 history">
+        <a href="#char100">
+          <p>بنیاد نرم‌افزار آزاد (FSF) امتیاز کامل را از Charity Navigator دریافت کرد</p>
+        </a>
+        <p>Charity Navigator بزرگترین ارزیاب مستقل سازمان‌های غیرانتفاعی آمریکایی است. FSF همچنین در فهرست "ده سازمان خیریه ارزشمند برای دنبال کردن" Charity Navigator قرار گرفت. این عناوین نشان‌دهنده سلامت مالی قوی و تعهد FSF به پاسخگویی و شفافیت است. امسال همچنین FSF برای هشتمین سال متوالی موفق به دریافت رتبه چهارستاره شد..</p>
+        <a href="https://www.fsf.org/news/free-software-foundation-awarded-perfect-score-from-charity-navigator-plus-eighth-consecutive-four-star-rating" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a> 
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-2 date">
+        <a href="https://www.fsf.org/news/free-software-foundation-awarded-perfect-score-from-charity-navigator-plus-eighth-consecutive-four-star-rating" target="_parent">
+        <svg class="signpost-svg"
+             xmlns="http://www.w3.org/2000/svg"
+             preserveAspectRatio="xMidYMid meet"
+             width="199.0994"
+             height="287.84583"
+             viewBox="0 0 52.67838 76.15921">
+          <rect width="100%" height="100%" fill="url(#sign)"></rect>
+          <text x="15" y="22">فوریه</text>
+          <text x="17" y="30">۲۰۲۱</text>
+        </svg>
+        </a> 
+      </div>
+      <div class="class-md-2 vcenter station">
+        <img src="img/station.png" alt="Picture of train station.">
+      </div>
+    </div>
+
+    <div id="you" class="row story">
+      <div class="col-md-4 offset-md-3 col-sm-7 col-xs-8 history">
+        <a href="#you">
+          <p>آنچه بعداً اتفاق می‌افتد به شما بستگی دارد</p>
+        </a>
+        <p>از شما برای همراهی در جامعه نرم‌افزار آزاد و کمک به دستیابی به این نقاط عطف سپاسگزاریم. اگر پیشنهاد یا اصلاحی درباره رویدادهای تاریخی دارید، به <a href="mailto:campaigns@fsf.org">campaigns@fsf.org</a> اطلاع دهید. همچنین می‌توانید @fsf و @endDRM را در شبکه‌های اجتماعی دنبال کنید و به گفتگوهای نرم‌افزار آزاد در IRC با #fsf (روی Libera.Chat) بپیوندید. همین امروز به بنیاد نرم‌افزار آزاد بپیوندید و به دفاع از آزادی نرم‌افزار کمک کنید.</p>
+        <a href="https://my.fsf.org/join" target="_parent">
+          <p>ادامه مطالب &gt;</p>
+        </a>
+        <!-- DEBUG
+        <a href="#top">
+          <p>Back to top</p>
+        </a> -->
+      </div>
+    </div>
+
+    <div id="pagelicense" class="row content footer">
+      <a href="#top">
+          <p style="">بازگشت به بالا</p>
+      </a>
+      <p>
+       کپی‌لفت ۲۰۲۱ بنیاد نرم‌افزار آزاد
+      </p>
+
+      <p>
+        مطالب این صفحه تحت مجوز <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a> منتشر شده‌اند.
+      </p>
+
+      <p>
+        این صفحه با استفاده از نرم‌افزارهای آزاد شامل <a href="https://directory.fsf.org/wiki/Vim">Vim</a>، <a href="https://directory.fsf.org/wiki/Inkscape">Inkscape</a> و <a href="https://directory.fsf.org/wiki/Gimp">GIMP</a> تولید شده است.
+      </p>
+
+      <p>
+        <b>اعتبار تصاویر</b>
+      </p>
+
+      <p>
+        تصاویر <a href="#gnu-announce">gnu-announce</a>، <a href="#gnu-manifesto">gnu-manifesto</a>، <a href="#fsf-incorporated">fsf-incorporated</a>، <a href="#gpl">gpl</a>، <a href="#fsd">fsd</a>، <a href="#licensing">licensing</a>، <a href="#dbd">dbd</a>، <a href="#lp">lp</a>، <a href="#ryf">ryf</a>، <a href="#esd">esd</a>، <a href="#fsf30">fsf30</a>، <a href="#snowden">snowden</a> و <a href="#fsf35">fsf35</a> © بنیاد نرم‌افزار آزاد. این تصاویر تحت مجوز <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a> منتشر شده‌اند. تصاویر <a href="#rms-hackers-1984">rms-hackers-1984</a>، <a href="#definition">definition</a>، <a href="#associate">association</a>، <a href="#meeting">meeting</a>، <a href="#fry">fry</a> و <a href="#patabsurdity">patabsurdity</a> © بنیاد نرم‌افزار آزاد. این تصاویر تحت مجوز <a href="https://creativecommons.org/licenses/by-nd/3.0/us/">Creative Commons Attribution-NoDerivatives 3.0 United States</a> منتشر شده‌اند. تصاویر <a href="#gplv3">gplv3</a> و <a href="#agplv3">agplv3</a> جزو دارایی عمومی هستند. تصاویر <a href="#fsfe">fsfe</a> و <a href="#fsff">fsff</a> با مجوز استفاده شده‌اند.
+      </p>
+
+      <p>
+        <a href="fsf-history.tar.gz">فایل‌های منبع</a>
+      </p>
+
+      <p>
+        سپاسگزاریم!
+      </p>
+    </div>
+
+  </div>
+</body>
+</html>
