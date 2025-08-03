@@ -9,9 +9,23 @@
   direction: rtl;
 }
 
+
+/* styles for markdown post create */
 #pcb-title {
   text-align: right !important;
 }
+
+.left-txt {
+  text-align: left !important;
+}
+.left-dir {
+  direction: ltr !important;
+}
+.title-color {
+  color: rgb(241 89 45) !important;
+}
+/* styles for markdown post create */
+
 
 #pcb-txt {
   text-align: right !important;
