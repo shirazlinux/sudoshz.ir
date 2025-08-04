@@ -1,7 +1,7 @@
 {
     "iconChoice": "extlink-icon-4",
     "iconPosition": "after",
-    "scope": "site",
+    "scope": "both",
     "addNofollow": false,
     "addNoopener": false,
     "addNoreferrer": false,

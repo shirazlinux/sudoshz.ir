@@ -193,6 +193,6 @@
                 "items": []
             }
         ],
-        "maxLevels": "1"
+        "maxLevels": "-1"
     }
 ]
