@@ -44,7 +44,7 @@
             "title": ""
         }
     ],
-    "showControl2": true,
+    "showControl2": false,
     "staticTextTitle": "جامعه نرم‌افزار آزاد ایران/شیراز",
     "staticTextBody": "فرهنگ‌آزاد، دا‌ش‌آزاد، نرم‌افزار آزاد",
     "staticTextPosition": "SE",

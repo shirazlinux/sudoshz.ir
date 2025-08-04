@@ -154,69 +154,45 @@
     },
     {
         "name": "منو فوت",
-        "position": "",
+        "position": "footerMenu",
         "items": [
             {
                 "id": 1736554445801,
-                "label": "چرا شیرازلینوکس",
+                "label": "تاریخچه‌ی نرم‌افزار آزاد",
                 "title": "",
-                "type": "separator",
+                "type": "internal",
                 "target": "_self",
                 "rel": "",
-                "link": "",
+                "link": "/free-software-history/index.html",
                 "cssClass": "",
                 "isHidden": false,
                 "items": []
             },
             {
                 "id": 17365544516751,
-                "label": "چرا شیرازلینوکس",
+                "label": "نرم‌افزار آزاد چیه؟",
                 "title": "",
-                "type": "separator",
+                "type": "post",
                 "target": "_self",
                 "rel": "",
-                "link": "",
+                "link": 125,
                 "cssClass": "",
                 "isHidden": false,
                 "items": []
             },
             {
                 "id": 17365544522361,
-                "label": "چرا شیرازلینوکس",
+                "label": "مانیفست گنو",
                 "title": "",
-                "type": "separator",
+                "type": "post",
                 "target": "_self",
                 "rel": "",
-                "link": "",
-                "cssClass": "",
-                "isHidden": false,
-                "items": []
-            },
-            {
-                "id": 17365544529241,
-                "label": "چرا شیرازلینوکس",
-                "title": "",
-                "type": "separator",
-                "target": "_self",
-                "rel": "",
-                "link": "",
-                "cssClass": "",
-                "isHidden": false,
-                "items": []
-            },
-            {
-                "id": 17365544533961,
-                "label": "چرا شیرازلینوکس",
-                "title": "",
-                "type": "separator",
-                "target": "_self",
-                "rel": "",
-                "link": "",
+                "link": 124,
                 "cssClass": "",
                 "isHidden": false,
                 "items": []
             }
         ],
-        "maxLevels": ""
+        "maxLevels": "1"
     }
 ]
