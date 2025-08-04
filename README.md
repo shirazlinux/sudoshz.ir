@@ -1,6 +1,31 @@
+  GNU nano 6.2                                    README.md                                             
+# مخزن سورس وبسایت شیرازلینوکس
 
-Persian Translate - Simple v.3 - run by getpublii
+## 🚀 درباره این مخزن
 
-Simple v.3 - The Perfect Theme for Minimalist Bloggers and Authors
+این مخزن حاوی سورس بیلدشده وبسایت شیرازلینوکس است که به عنوان [GitHub Pages](https://pages.github.com) >
 
-Simple is a clean and minimal blogging theme. Readable article previews provide titles and text snippets to draw readers in, and a full suite of typography options let you stylize text and insert photos for pixel-perfect reading experiences.
+⚠️ **توجه مهم**: این برنچ (`main`) صرفاً برای نمایش نسخه نهایی وبسایت است و **مستقیماً روی آن تغییری اعمال>
+
+## 🤝 راهنمای مشارکت
+
+### نحوه مشارکت در توسعه:
+
+1. از برنچ [`selfhost-detabase`](https://github.com/shirazlinux/shirazlinux.github.io/tree/selfhost-det>
+2. تغییرات خود را اعمال کنید
+3. یک Pull Request به برنچ `selfhost-detabase` ارسال کنید
+4. منتظر بررسی و ادغام تغییرات باشید
+
+❌ **لطفاً توجه کنید**:
+- نیازی به ارسال PR برای محتوای دیپلوی شده نیست
+- فقط تغییرات سورس کد را ارسال کنید
+- تمامی Issues و بحث‌ها در برنچ `selfhost-detabase` انجام می‌شود
+
+## 📜 مجوز
+
+```text
+سورس کد این پروژه تحت مجوز GNU AGPLv3 منتشر شده است.
+هرگونه استفاده از کد مشروط به رعایت شرایط این مجوز است.
+
+
+
