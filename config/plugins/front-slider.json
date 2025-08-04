@@ -8,7 +8,7 @@
             "textTitle": "",
             "textBody": "",
             "linkUrl": "",
-            "textPosition": "SW",
+            "textPosition": "SE",
             "linkNewTab": false,
             "alt": "دسته جمعی نشست سوم شیرازلینوکس",
             "title": ""
@@ -44,7 +44,7 @@
             "title": ""
         }
     ],
-    "showControl2": false,
+    "showControl2": true,
     "staticTextTitle": "جامعه نرم‌افزار آزاد ایران/شیراز",
     "staticTextBody": "فرهنگ‌آزاد، دا‌ش‌آزاد، نرم‌افزار آزاد",
     "staticTextPosition": "SE",
