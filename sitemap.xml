@@ -717,10 +717,18 @@
 </url>
 <url>
 <loc>https://sudoshz.ir/initial-announcement/</loc>
-<lastmod>2025-08-03T21:00:16+03:30</lastmod>
+<lastmod>2025-08-05T23:40:38+03:30</lastmod>
 <image:image>
 <image:loc>https://sudoshz.ir/media/posts/122/00400fsd.png</image:loc>
 <image:title><![CDATA[اعلامیه اولیه ریچارد استالمن]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://sudoshz.ir/invidious/</loc>
+<lastmod>2025-08-05T23:40:21+03:30</lastmod>
+<image:image>
+<image:loc>https://sudoshz.ir/media/posts/128/1024.jpg</image:loc>
+<image:title><![CDATA[Invidious]]></image:title>
 </image:image>
 </url>
 <url>
@@ -897,7 +905,7 @@
 </url>
 <url>
 <loc>https://sudoshz.ir/metro-shiraz/</loc>
-<lastmod>2025-08-04T17:01:48+03:30</lastmod>
+<lastmod>2025-07-29T02:55:06+03:30</lastmod>
 <image:image>
 <image:loc>https://sudoshz.ir/media/posts/118/metro-poster-1x1.jpeg</image:loc>
 <image:title><![CDATA[مشارکت عمومی برای پروژه برنامه ریزی سفر در مترو شیراز]]></image:title>
@@ -1136,6 +1144,9 @@
 </url>
 <url>
 <loc>https://sudoshz.ir/tags/post/page/4/</loc>
+</url>
+<url>
+<loc>https://sudoshz.ir/tags/post/page/5/</loc>
 </url>
 <url>
 <loc>https://sudoshz.ir/tags/shirazlinux/</loc>
