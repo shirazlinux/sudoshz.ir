@@ -20,7 +20,7 @@
     "publii-humans-txt-1.0.0": true,
     "publii-reading-progress-bar": false,
     "reading-time-plugin-1.0.0": false,
-    "simpleLightboxGallery": false,
+    "simpleLightboxGallery": true,
     "simplehighlight": false,
     "syntaxHighlighter": true,
     "telegramComments": false,
@@ -30,5 +30,7 @@
     "disqusComments": true,
     "metaTabColors": true,
     "umamiAnalyticsIntegration": true,
-    "staticCustomSearch": false
+    "staticCustomSearch": false,
+    "pagePrefetching": false,
+    "imageDecoding": true
 }

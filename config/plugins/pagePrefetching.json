@@ -1,0 +1,8 @@
+{
+    "prerender": true,
+    "el": "body",
+    "delay": "5",
+    "limit": "7",
+    "throttle": "4",
+    "timeout": 2000
+}
