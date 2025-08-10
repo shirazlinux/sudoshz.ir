@@ -1830,27 +1830,40 @@ textarea {
 .content__bio {
   background-color: #fb5e00;
   border-radius: 12px;
-  -webkit-box-shadow: 0 0 32px rgba(0, 0, 0, 0.08);
-          box-shadow: 0 0 32px rgba(0, 0, 0, 0.08);
+  -webkit-box-shadow: -2px 4px 2px rgba(84, 89, 91, 0.93);
+          box-shadow: -2px 4px 2px rgba(84, 89, 91, 0.93);
   display: flex;
   font-size: 0.8888888889rem;
   margin-top: calc(2rem + 1vw);
-  padding: 2.25rem;
+  padding: 0.3rem;
+  position: relative;
 }
 /* after edit */
 .bio__avatar {
-  border-radius: var(--border-radius);
+  position: absolute;
+  border-radius: 50%;
   flex-shrink: 0;
+  top: -32px;
+  right: 0;
+  border: 4px solid #fb5e00;
   height: 5rem;
-  margin-left: 1.75rem;
+  margin-left: 0.8rem;
   width: 5rem;
 }
 .bio__name {
   margin: 0;
+  text-align: center;
 }
+
+/* before edit  */
+.bio__name .invert{
+  color: #f4da00 !important;
+}
+/* after edit */
+
 .bio__desc {
   color: white;
-  margin-top: 0.75rem;
+  margin-top: 1.5rem;
 }
 .bio__desc > :nth-child(1) {
   margin-top: 0;
