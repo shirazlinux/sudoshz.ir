@@ -31,6 +31,5 @@
     "metaTabColors": true,
     "umamiAnalyticsIntegration": true,
     "staticCustomSearch": false,
-    "pagePrefetching": false,
-    "imageDecoding": true
+    "pagePrefetching": true
 }
