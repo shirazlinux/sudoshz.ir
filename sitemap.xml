@@ -178,9 +178,6 @@
 </image:image>
 </url>
 <url>
-<loc>https://sudoshz.ir/docs/</loc>
-</url>
-<url>
 <loc>https://sudoshz.ir/dorehami-01/</loc>
 <lastmod>2025-07-29T02:48:28+03:30</lastmod>
 <image:image>
@@ -652,6 +649,14 @@
 </image:image>
 </url>
 <url>
+<loc>https://sudoshz.ir/fsf-history-redirect/</loc>
+<lastmod>2025-08-13T04:21:27+03:30</lastmod>
+<image:image>
+<image:loc>https://sudoshz.ir/media/posts/133/01400fsf35.jpg</image:loc>
+<image:title><![CDATA[تاریخچه‌ نرم‌افزاز آزاد]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://sudoshz.ir/fsfp-culture/</loc>
 <lastmod>2025-07-29T02:38:05+03:30</lastmod>
 <image:image>
@@ -677,7 +682,7 @@
 </url>
 <url>
 <loc>https://sudoshz.ir/gnulinux-conf/</loc>
-<lastmod>2025-07-27T06:04:40+03:30</lastmod>
+<lastmod>2025-08-13T04:06:02+03:30</lastmod>
 <image:image>
 <image:loc>https://sudoshz.ir/media/posts/8/gnulinux.jpg</image:loc>
 <image:title><![CDATA[همایش گنولینوس شیراز]]></image:title>
