@@ -74,7 +74,7 @@
         "searchMetaTitle": "Search - %sitename",
         "searchMetaDescription": "جستجوی پیشرفته در محتوای شیرازلینوکس. پیدا کردن مقالات آموزشی، راهنمای نصب، ترفندهای لینوکس و آخرین اخبار متن‌باز\n",
         "metaRobotsSearch": "noindex, follow",
-        "postsListingOrderBy": "id",
+        "postsListingOrderBy": "created_at",
         "postsListingOrder": "DESC",
         "featuredPostsListingOrderBy": "title",
         "featuredPostsListingOrder": "ASC",
@@ -88,10 +88,10 @@
             "showFullText": true,
             "numberOfPosts": "15",
             "showFeaturedImage": 1,
-            "enableRss": 1,
-            "enableJson": 1,
+            "enableRss": false,
+            "enableJson": false,
             "updatedDateType": "modifiedAt",
-            "showOnlyFeatured": true,
+            "showOnlyFeatured": false,
             "excludeFeatured": false
         },
         "urls": {
@@ -242,5 +242,5 @@
         }
     },
     "theme": "taste-fdm",
-    "syncDate": 1754920605558
+    "syncDate": 1755046731720
 }
