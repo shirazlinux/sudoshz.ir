@@ -2445,7 +2445,7 @@ textarea {
   text-align: center !important;
   font-size: clamp(0.5710900065rem, 1.34510900065rem + 1.424540906 * (50vw - 20rem) / 70, 2.9956309125rem) !important;
   padding: 20px;
-  box-shadow: 1px 0px 7px 2px #cc5b08;
+  box-shadow: 1px 2px 7px 1px #28211c;
   border-radius: 5px;
 }
 
