@@ -83,14 +83,14 @@
         "usePageAsFrontpage": false,
         "pageAsFrontpage": "",
         "feed": {
-            "title": "displayName",
-            "titleValue": "",
+            "title": "customTitle",
+            "titleValue": "feed shirazlinux",
             "showFullText": true,
             "numberOfPosts": "15",
             "showFeaturedImage": 1,
-            "enableRss": false,
-            "enableJson": false,
-            "updatedDateType": "modifiedAt",
+            "enableRss": true,
+            "enableJson": true,
+            "updatedDateType": "createdAt",
             "showOnlyFeatured": false,
             "excludeFeatured": false
         },
@@ -242,5 +242,5 @@
         }
     },
     "theme": "taste-fdm",
-    "syncDate": 1755485033946
+    "syncDate": 1755575563177
 }
