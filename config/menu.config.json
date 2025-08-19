@@ -89,6 +89,18 @@
                 "items": []
             },
             {
+                "id": 1755569179687,
+                "label": "دوره آموزشی",
+                "title": "",
+                "type": "tag",
+                "target": "_self",
+                "rel": "",
+                "link": 40,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
                 "id": 1753593319085,
                 "label": "راهنمای جامعه",
                 "title": "",
