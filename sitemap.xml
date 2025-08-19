@@ -142,6 +142,14 @@
 </image:image>
 </url>
 <url>
+<loc>https://sudoshz.ir/bumpbuddy/</loc>
+<lastmod>2025-08-19T05:31:59+03:30</lastmod>
+<image:image>
+<image:loc>https://sudoshz.ir/media/posts/140/aur-arch.jpg</image:loc>
+<image:title><![CDATA[انتشار دبین ۱۳]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://sudoshz.ir/chaharshanbesori/</loc>
 <lastmod>2025-07-29T02:27:00+03:30</lastmod>
 <image:image>
@@ -154,19 +162,19 @@
 <lastmod>2025-08-17T23:28:00+03:30</lastmod>
 </url>
 <url>
-<loc>https://sudoshz.ir/dbyn-32-slh-shd/</loc>
-<lastmod>2025-08-17T22:58:13+03:30</lastmod>
-<image:image>
-<image:loc>https://sudoshz.ir/media/posts/136/debian13.jpg</image:loc>
-<image:title><![CDATA[دبیان ۳۲ ساله شد!]]></image:title>
-</image:image>
-</url>
-<url>
 <loc>https://sudoshz.ir/debian-13-release/</loc>
 <lastmod>2025-08-13T17:55:48+03:30</lastmod>
 <image:image>
 <image:loc>https://sudoshz.ir/media/posts/131/debian-13.jpg</image:loc>
 <image:title><![CDATA[انتشار دبین ۱۳]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://sudoshz.ir/debian-32/</loc>
+<lastmod>2025-08-19T07:22:06+03:30</lastmod>
+<image:image>
+<image:loc>https://sudoshz.ir/media/posts/136/debian13.jpg</image:loc>
+<image:title><![CDATA[دبیان ۳۲ ساله شد!]]></image:title>
 </image:image>
 </url>
 <url>
@@ -199,6 +207,26 @@
 <image:image>
 <image:loc>https://sudoshz.ir/media/posts/112/gallery/photo_2025-06-25_08-00-45-thumbnail.webp</image:loc>
 <image:title><![CDATA[آمار حضور دورهمی آنلاین شیرازلینوکس]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://sudoshz.ir/dwrh-amwzshy-gymp/</loc>
+<lastmod>2025-08-19T07:20:06+03:30</lastmod>
+<image:image>
+<image:loc>https://sudoshz.ir/media/posts/139/dwrh-y-amwzsh-rygn-w-frsy-nrm-fzr-gimp-jygzyn-khwb-bry-ftwshp.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://sudoshz.ir/media/posts/139/amwzsh-nrm-fzr-grfykhy-gimp-y-gymp-2.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://sudoshz.ir/media/posts/139/amwzsh-gimp-bSwrt-rygn-w-frsy-twsT-std-nykh-zd.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://sudoshz.ir/media/posts/139/dwrh-y-amwzsh-grfykh-dr-mHyT-lynwkhs-ftwshp-bry-lynwkhs.png</image:loc>
+<image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
@@ -1243,6 +1271,9 @@
 </url>
 <url>
 <loc>https://sudoshz.ir/tags/lan-party/</loc>
+</url>
+<url>
+<loc>https://sudoshz.ir/tags/libre-learn/</loc>
 </url>
 <url>
 <loc>https://sudoshz.ir/tags/libreplanet/</loc>
