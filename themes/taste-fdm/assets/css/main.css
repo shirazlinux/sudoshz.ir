@@ -298,6 +298,7 @@ code {
 }
 
 pre {
+  font-family: var(--body-font);
   background-color: var(--lighter);
   border-radius: 3px;
   font-size: 1rem;
@@ -2666,7 +2667,6 @@ textarea {
   border-radius: 8px;
   overflow: hidden;
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
-  font-family: 'Ubuntu Mono', monospace;
   margin: 20px auto;
 }
 
@@ -2686,6 +2686,7 @@ textarea {
 
 
 .terminal-body {
+  
   direction: ltr;
   padding: 15px;
   color: #e7f5e7;
