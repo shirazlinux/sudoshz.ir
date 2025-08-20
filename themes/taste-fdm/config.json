@@ -791,6 +791,21 @@
                     "group": "System"
                 },
                 {
+                    "label": "EstedadMad",
+                    "value": "estedadmad",
+                    "group": "Persian"
+                },
+                {
+                    "label": "Vazirmatn",
+                    "value": "vazirmatn",
+                    "group": "Persian"
+                },
+                {
+                    "label": "Vazirmatn-Black",
+                    "value": "vazirmatn-black",
+                    "group": "Persian"
+                },
+                {
                     "label": "Aleo",
                     "value": "aleo",
                     "group": "Serif"
@@ -1122,7 +1137,7 @@
             "dependencies": [
                 {
                     "field": "fontBody",
-                    "value": "adventpro,aleo,andadapro,archivonarrow,asap,besley,bitter,brygada1918,cabin,exo,faustina,figtree,glory,instrumentsans,jetbrainsmono,karla,labrada,librefranklin,lora,manuale,merriweathersans,montserrat,nunito,petrona,playfairdisplay,plusjakartasans,publicsans,raleway,redhatdisplay,redhatmono,rokkitt,rubik,sourcecodepro,urbanist,worksans,yrsa"
+                    "value": "adventpro,aleo,estedadmad,vazirmatn,andadapro,archivonarrow,asap,besley,bitter,brygada1918,cabin,exo,faustina,figtree,glory,instrumentsans,jetbrainsmono,karla,labrada,librefranklin,lora,manuale,merriweathersans,montserrat,nunito,petrona,playfairdisplay,plusjakartasans,publicsans,raleway,redhatdisplay,redhatmono,rokkitt,rubik,sourcecodepro,urbanist,worksans,yrsa"
                 }
             ]
         },
@@ -1139,8 +1154,28 @@
                     "group": "System"
                 },
                 {
+                    "label": "EstedadMad",
+                    "value": "estedadmad",
+                    "group": "Persian"
+                },
+                {
+                    "label": "Vazirmatn",
+                    "value": "vazirmatn",
+                    "group": "Persian"
+                },
+                {
+                    "label": "Vazirmatn-Black",
+                    "value": "vazirmatn-black",
+                    "group": "Persian"
+                },
+                {
                     "label": "Aleo",
                     "value": "aleo",
+                    "group": "Serif"
+                },
+                {
+                    "label": "EstedadMad",
+                    "value": "estedadmad",
                     "group": "Serif"
                 },
                 {
@@ -1470,7 +1505,7 @@
             "dependencies": [
                 {
                     "field": "fontHeadings",
-                    "value": "adventpro,aleo,andadapro,archivonarrow,asap,besley,bitter,brygada1918,cabin,exo,faustina,figtree,glory,instrumentsans,jetbrainsmono,karla,labrada,librefranklin,lora,manuale,merriweathersans,montserrat,nunito,petrona,playfairdisplay,plusjakartasans,publicsans,raleway,redhatdisplay,redhatmono,rokkitt,rubik,sourcecodepro,urbanist,worksans,yrsa"
+                    "value": "adventpro,aleo,estedadmad,vazirmatn,andadapro,archivonarrow,asap,besley,bitter,brygada1918,cabin,exo,faustina,figtree,glory,instrumentsans,jetbrainsmono,karla,labrada,librefranklin,lora,manuale,merriweathersans,montserrat,nunito,petrona,playfairdisplay,plusjakartasans,publicsans,raleway,redhatdisplay,redhatmono,rokkitt,rubik,sourcecodepro,urbanist,worksans,yrsa"
                 }
             ]
         },

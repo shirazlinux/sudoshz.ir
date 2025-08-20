@@ -5,7 +5,6 @@
           box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: vazirmatn !important;
   direction: rtl;
 }
 
@@ -36,7 +35,7 @@
   text-align: right;
 }
 
-@font-face {
+/* @font-face {
   font-family: vazirmatn;
   src: url(fonts/vazirmatn/Vazirmatn-Medium.woff2) format(woff2),
     url(fonts/vazirmatn/Vazirmatn-Bold.woff2) format(woff2),
@@ -49,7 +48,7 @@
     url(fonts/vazirmat/Vazirmatn[whgt].woff2) format(woff2),
     url(fonts/vazirmat/Vazirmatn-black.woff2) format(woff2),
     url(fonts/vazirmat/Vazirmatn-Medium.woff2) format(woff2);
-}
+} */
 
 
 article,

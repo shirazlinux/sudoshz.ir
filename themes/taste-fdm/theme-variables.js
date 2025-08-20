@@ -15,6 +15,24 @@ var generateThemeVariables = function (params) {
       weight: '100 900',
       hasItalic: true
     },
+    'vazirmatn': {
+      name: 'vazirmatn',
+      family: '\'vazirmatn\', sans-serif',
+      weight: '100 300 400 500 700 900', 
+      hasItalic: false 
+    },
+    'vazirmatn-black': {
+      name: 'vazirmatn-black',
+      family: '\'vazirmatn-black\', sans-serif',
+      weight: '100 300 400 500 700 900', 
+      hasItalic: false 
+    },
+    'estedadmad': {
+      name: 'estedadmad',
+      family: '\'estedadmad\', sans-serif',
+      weight: '100 200 300 400 500 600 700 800 900',
+      hasItalic: false
+    },
     'aleo': {
       name: 'Aleo',
       family: '\'Aleo\', serif',

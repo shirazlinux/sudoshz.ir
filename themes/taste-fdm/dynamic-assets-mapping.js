@@ -7,7 +7,10 @@ module.exports = function (themeConfig) {
    let assets = new Set();
  
    const fontParams = {
-     'adventpro': { hasItalic: true },
+     'adventpro': { hasItalic: true },        
+     'estedadmad': { hasItalic: true },
+     'vazirmatn-black': { hasItalic: true },
+     'vazirmatn': { hasItalic: true },
      'aleo': { hasItalic: true },
      'andadapro': { hasItalic: true },
      'antonio': { hasItalic: false },

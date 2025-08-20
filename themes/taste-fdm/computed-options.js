@@ -1,6 +1,9 @@
 module.exports = function (themeConfig) {
     const fontParams = {
         'adventpro': { hasItalic: true },
+        'estedadmad': { hasItalic: true },
+        'vazirmatn': { hasItalic: true },
+        'vazirmatn-black': { hasItalic: true },
         'aleo': { hasItalic: true },
         'andadapro': { hasItalic: true },
         'antonio': { hasItalic: false },
