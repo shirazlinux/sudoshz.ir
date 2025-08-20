@@ -5,7 +5,6 @@
           box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: vazirmatn !important;
   direction: rtl;
 }
 
@@ -36,7 +35,7 @@
   text-align: right;
 }
 
-@font-face {
+/* @font-face {
   font-family: vazirmatn;
   src: url(fonts/vazirmatn/Vazirmatn-Medium.woff2) format(woff2),
     url(fonts/vazirmatn/Vazirmatn-Bold.woff2) format(woff2),
@@ -49,7 +48,7 @@
     url(fonts/vazirmat/Vazirmatn[whgt].woff2) format(woff2),
     url(fonts/vazirmat/Vazirmatn-black.woff2) format(woff2),
     url(fonts/vazirmat/Vazirmatn-Medium.woff2) format(woff2);
-}
+} */
 
 
 article,
@@ -299,6 +298,7 @@ code {
 }
 
 pre {
+  font-family: var(--body-font);
   background-color: var(--lighter);
   border-radius: 3px;
   font-size: 1rem;
@@ -2445,7 +2445,7 @@ textarea {
   text-align: center !important;
   font-size: clamp(0.5710900065rem, 1.34510900065rem + 1.424540906 * (50vw - 20rem) / 70, 2.9956309125rem) !important;
   padding: 20px;
-  box-shadow: 1px 0px 7px 2px #cc5b08;
+  box-shadow: 1px 2px 7px 1px #28211c;
   border-radius: 5px;
 }
 
@@ -2667,7 +2667,6 @@ textarea {
   border-radius: 8px;
   overflow: hidden;
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
-  font-family: 'Ubuntu Mono', monospace;
   margin: 20px auto;
 }
 
@@ -2687,6 +2686,7 @@ textarea {
 
 
 .terminal-body {
+  
   direction: ltr;
   padding: 15px;
   color: #e7f5e7;
