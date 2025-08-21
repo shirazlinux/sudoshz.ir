@@ -83,15 +83,15 @@
         "usePageAsFrontpage": false,
         "pageAsFrontpage": "",
         "feed": {
-            "title": "customTitle",
-            "titleValue": "feed shirazlinux",
+            "title": "displayName",
+            "titleValue": "شیرازلینوکس - جامعه نرم‌افزار آزاد",
             "showFullText": true,
             "numberOfPosts": "15",
             "showFeaturedImage": 1,
             "enableRss": true,
             "enableJson": true,
             "updatedDateType": "createdAt",
-            "showOnlyFeatured": false,
+            "showOnlyFeatured": true,
             "excludeFeatured": false
         },
         "urls": {
@@ -242,5 +242,5 @@
         }
     },
     "theme": "taste-fdm",
-    "syncDate": 1755687165292
+    "syncDate": 1755688238641
 }
