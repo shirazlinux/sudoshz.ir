@@ -4,8 +4,317 @@
 {{> frontpage-post}}
 {{else}}
 <main>
+   <style>
+      .content-section {
+         background-color: #fff;
+         border-radius: 10px;
+         box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
+         padding: 1rem;
+         margin-bottom: 3rem;
+      }
+
+      .content-section h2 {
+         color: #2e8540;
+         margin-bottom: 1.5rem;
+         font-size: 1.8rem;
+      }
+
+      .content-section > p {
+         margin-top: 0;
+         margin-bottom: 1.5rem;
+         font-size: 1.1rem;
+         text-align: justify;
+      }
+
+      .content-section p:last-child {
+         margin-bottom: 0;
+      }
+
+              .container {
+            max-width: 1400px;
+            margin: 4rem auto;
+            padding: 0 1rem;
+        }
+
+        /* استایل عنوان اصلی */
+        .main-heading {
+            text-align: center;
+            color: #d34544; /* رنگ اصلی نرم‌افزار آزاد */
+            margin-bottom: 3rem;
+            font-size: 2.5rem;
+        }
+
+        /* گرید برای چیدمان چهار باکس */
+        .freedoms-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 1.5rem;
+            margin-top: 2rem;
+        }
+
+        /* استایل هر کارت (باکس) آزادی */
+        .freedom-card {
+            background: #fff;
+            border-radius: 12px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+            padding: 2rem 1.5rem;
+            text-align: center;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            border-top: 5px solid #d34544; /* خط قرمز بالای کارت */
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+        }
+
+        .freedom-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.12);
+        }
+
+        /* استایل آیکون */
+        .freedom-icon {
+            width: 70px;
+            height: 70px;
+            margin: 0 auto 1.2rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #fce8e8; /* پس‌زمینه قرمز بسیار روشن */
+            border-radius: 50%;
+            padding: 12px;
+        }
+
+        .freedom-icon svg {
+            width: 100%;
+            height: 100%;
+            fill: #d34544; /* رنگ قرمز برای آیکون */
+        }
+
+        /* استایل شماره آزادی */
+        .freedom-number {
+            color: #7e7e7e;
+            margin-bottom: 0.5rem;
+            font-size: 1rem;
+            font-weight: 500;
+        }
+
+        /* استایل عنوان هر آزادی */
+        .freedom-title {
+            color: #d34544;
+            margin-bottom: 1rem;
+            font-size: 1.3rem;
+            font-weight: 700;
+            min-height: 3.5rem;
+        }
+
+        /* استایل متن توضیحی */
+        .freedom-description {
+            color: #555;
+            font-size: 0.95rem;
+            line-height: 1.7;
+            flex-grow: 1;
+        }
+
+        /* بخش مثال‌ها */
+        .examples-section {
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
+            padding: 2.5rem;
+            margin-bottom: 2.5rem;
+        }
+
+        .examples-section h2 {
+            color: #d34544;
+            margin-bottom: 1.5rem;
+            font-size: 1.6rem;
+            text-align: center;
+        }
+
+        .example-card {
+            background-color: #fce8e8;
+            border-radius: 8px;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+            border-right: 4px solid #d34544;
+        }
+
+        .example-card:last-child {
+            margin-bottom: 0;
+        }
+
+        .example-title {
+            color: #d34544;
+            font-weight: 700;
+            margin-bottom: 0.8rem;
+            font-size: 1.2rem;
+        }
+
+        .example-description {
+            color: #555;
+            line-height: 1.8;
+        }
+
+        /* بخش نتیجه‌گیری */
+        .conclusion {
+            background-color: #fce8e8;
+            border-radius: 10px;
+            padding: 1rem;
+            margin-top: 1rem;
+            text-align: center;
+            font-weight: 500;
+            border-right: 4px solid #d34544;
+        }
+
+        .conclusion > p {
+         margin-top: 0 !important;
+        }
+        /* رسپانسیو برای صفحه‌های کوچک‌تر */
+        @media (max-width: 1200px) {
+            .freedoms-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+        
+        @media (max-width: 768px) {
+            .freedoms-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+   </style>
    <div class="wrapper">
-      <h2><strong style="text-align: center; color: #d34544;   ">چرا نرم‌افزار آزاد!؟</strong></h2>
+      <figure class="post__image post__image--wide"><img loading="lazy"
+            src="file:///home/abbas/Documents/Publii/sites/shyrzlynwkhs/preview/media/posts/130/FSF40-banner.png"
+            height="555" width="4000" alt="بنیاد نرم‌افزار آزاد" sizes="(max-width: 48em) 100vw, 100vw"
+            class="is-loaded">
+         <figcaption></figcaption>
+      </figure>
+      <section class="content-section">
+         <p>
+            نرم‌افزار عمیقاً در تمام جنبه‌های زندگی ما دخیل است و به طور نامرئی در تار و پود اساسی جامعه ادغام شده است.
+            با توجه به اینکه وابستگی ما به نرم‌افزار به طور فزاینده‌ای افزایش می‌یابد، چگونه می‌توانیم اطمینان حاصل کنیم
+            که نرم‌افزاری که هر روز استفاده می‌کنیم، به جای اینکه به طور ناعادلانه توسط شرکت‌های بزرگ فناوری کنترل شود،
+            از شما دستور می‌گیرد؟
+         </p>
+         <p>
+            نرم‌افزار آزاد به همه آزادی استفاده، مطالعه، اصلاح و توزیع نرم‌افزار را می‌دهد. این حقوق ما را قادر می‌سازد
+            تا نرم‌افزار را درک و بهبود بخشیم، ضمن اینکه به حمایت از سایر حقوق اساسی مانند آزادی بیان، حریم خصوصی و حق
+            تعمیر نیز کمک می‌کند.
+         </p>
+      </section>
+
+      <div class="container">
+         <h2 class="main-heading">نرم‌افزار آزاد چیست؟</h2>
+         <p style="text-align: center; font-size: 1.2rem; margin-bottom: 3rem; color: #444;">ما معتقدیم که هر برنامه‌ای
+            باید آزادی‌های زیر را برای شما فراهم کند:</p>
+
+         <div class="freedoms-grid">
+            <!-- آزادی صفرم: استفاده -->
+            <div class="freedom-card">
+               <div class="freedom-icon">
+                  <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                     <path d="M8 5v14l11-7z" />
+                  </svg>
+               </div>
+               <p class="freedom-number">آزادی شماره ۰</p>
+               <h3 class="freedom-title">از آن استفاده کنید</h3>
+               <p class="freedom-description">شما آزادید که برنامه را به هر شکلی که می‌خواهید، برای هر هدفی و بدون هیچ
+                  محدودیتی اجرا کنید.</p>
+            </div>
+
+            <!-- آزادی یکم: تغییر -->
+            <div class="freedom-card">
+               <div class="freedom-icon">
+                  <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                     <path
+                        d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34a.9959.9959 0 0 0-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z" />
+                  </svg>
+               </div>
+               <p class="freedom-number">آزادی شماره ۱</p>
+               <h3 class="freedom-title">آن را تغییر دهید</h3>
+               <p class="freedom-description">شما می‌توانید کد منبع برنامه را مطالعه کنید و تغییرات دلخواه خود را در آن
+                  اعمال کنید.</p>
+            </div>
+
+            <!-- آزادی دوم: به اشتراک گذاری -->
+            <div class="freedom-card">
+               <div class="freedom-icon">
+                  <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                     <path
+                        d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92 1.61 0 2.92-1.31 2.92-2.92s-1.31-2.92-2.92-2.92z" />
+                  </svg>
+               </div>
+               <p class="freedom-number">آزادی شماره ۲</p>
+               <h3 class="freedom-title">آن را به اشتراک بگذارید</h3>
+               <p class="freedom-description">شما آزادی توزیع مجدد نسخه‌هایی از برنامه‌ها را دارید تا بتوانید به دیگران
+                  کمک کنید.</p>
+            </div>
+
+            <!-- آزادی سوم: همکاری -->
+            <div class="freedom-card">
+               <div class="freedom-icon">
+                  <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                     <path
+                        d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zM8 17.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5zM9.5 8c0-1.38 1.12-2.5 2.5-2.5s2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5S9.5 9.38 9.5 8zm6.5 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z" />
+                  </svg>
+               </div>
+               <p class="freedom-number">آزادی شماره ۳</p>
+               <h3 class="freedom-title">روی آن همکاری کنید</h3>
+               <p class="freedom-description">می‌توانید بهبودهای برنامه را با دیگران به اشتراک بگذارید و از طریق تلاش
+                  مشترک، نرم‌افزار بهتری بسازید.</p>
+            </div>
+         </div>
+      </div>
+         <div class="conclusion">
+            <p>وقتی یک برنامه این چهار آزادی اساسی را رعایت کند، <strong>نرم‌افزار آزاد</strong> است. اگر هر یک از چهار
+               آزادی وجود نداشته باشد، نرم‌افزار <strong>اختصاصی</strong> یا <strong>غیرآزاد</strong> است.</p>
+         </div>
+    <div class="container">
+        <h2 class="main-heading">بی‌عدالتی در مالکیت خصوصی</h2>
+
+        <section class="content-section">
+            <p>
+                نرم‌افزار اختصاصی یا نرم‌افزار غیرآزاد، آزادی استفاده، مطالعه، اصلاح و/یا اشتراک‌گذاری نرم‌افزار را از شما سلب می‌کند. در عمل، نرم‌افزار اختصاصی اغلب با پنهان کردن کد منبع و منع شما از اصلاح برنامه، حریم خصوصی و امنیت شما را به خطر می‌اندازد.
+            </p>
+        </section>
+
+        <section class="examples-section">
+            <h3>نمونه‌هایی از نرم‌افزارهای اختصاصی مضر</h3>
+            
+            <div class="example-card">
+                <div class="example-title">مایکروسافت ویندوز</div>
+                <div class="example-description">
+                    به محض بوت شدن و بدون درخواست هیچ اجازه‌ای، به طور خودکار داده‌ها را به بسیاری از سرورهای آنلاین ارسال می‌کند. مرورگر وب آنها، Edge، سایت‌هایی را که کاربر بازدید می‌کند به Bing نشت می‌دهد و تصاویری را که کاربر مشاهده می‌کند به مایکروسافت ارسال می‌کند.
+                </div>
+            </div>
+            
+            <div class="example-card">
+                <div class="example-title">پیندودو</div>
+                <div class="example-description">
+                    غول تجارت الکترونیک، از آسیب‌پذیری‌های تلفن‌های همراه سوءاستفاده می‌کند تا حذف بدافزار اندرویدی خود را دشوار کند، در برنامه‌های دیگر جاسوسی کند و کنترل آنها را به دست گیرد.
+                </div>
+            </div>
+            
+            <div class="example-card">
+                <div class="example-title">تیک‌تاک</div>
+                <div class="example-description">
+                    اسکریپت‌های شبیه کی‌لاگر را به مرورگر درون‌برنامه‌ای iOS خود تزریق می‌کند که می‌تواند هر ضربه و ورودی کاربر را ردیابی کند.
+                </div>
+            </div>
+        </section>
+
+        <section class="content-section">
+            <p>
+                اینها تنها چند نمونه از برنامه‌های اختصاصی هستند که برای آسیب رساندن به کاربران طراحی شده‌اند. علاوه بر این، آنها از راه‌های بسیار دیگری برای جاسوسی از کاربران، محدود کردن آنها، سانسور کردن و سوءاستفاده از آنها استفاده می‌کنند.
+            </p>
+        </section>
+
+        <div class="conclusion">
+            <p>نرم‌افزار اختصاصی نه تنها آزادی‌های دیجیتال شما را محدود می‌کند، بلکه اغلب به حریم خصوصی و امنیت شما نیز آسیب می‌زند.</p>
+        </div>
+    </div>
+
+      <h2 style="text-align: center; color: #d34544;   " class="main-heading">چرا نرم‌افزار آزاد!؟</h2>
       <div class="box-container">
 
          <div class="box">
