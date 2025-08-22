@@ -1,145 +1,151 @@
 {{> head}}
 {{> navbar}}
 {{#checkIf @config.custom.frontSource '==' "post" }}
-   {{> frontpage-post}}
+{{> frontpage-post}}
 {{else}}
-   <main>
-      <div class="wrapper">
+<main>
+   <div class="wrapper">
+      <h2><strong style="text-align: center; color: #d34544;   ">چرا نرم‌افزار آزاد!؟</strong></h2>
+      <div class="box-container">
 
-                     <div class="box-container">
-               <div class="box">
-                  <img src="linux.png" alt="نرم‌افزار آزاد">
-                  <h3>آزاد</h3>
-                  <p>شیرازلینوکس بر پایه‌ی فلسفه‌ی نرم‌افزارهای آزاد و متن‌باز فعالیت می‌کند. ما به آزادی کاربران در استفاده، مطالعه، تغییر و توزیع اعتقاد داریم و از آن حمایت می‌کنیم.
-</p>
-               </div>
-               <div class="box">
-                  <img src="linux(2).png" alt="بروزرسانی ماهانه">
-                  <h3>بروزرسانی ماهانه</h3>
-                  <p>با عضویت در شیرازلینوکس، هر ماه از جدیدترین اخبار، آموزش‌ها و رویدادهای مرتبط با دنیای نرم‌افزارهای آزاد مطلع شوید. ما هر ماه مطالب به‌روز و کاربردی را برای شما آماده می‌کنیم.</p>
-               </div>
-               <div class="box">
-                  <img src="window.png" alt="صمیمیت">
-                  <h3>صمیمیت</h3>
-                  <p>ما در شیرازلینوکس به روابط صمیمی و دوستانه بین اعضا اهمیت می‌دهیم. اینجا همه می‌توانند سوالات خود را بپرسند، ایده‌هایشان را به اشتراک بگذارند و در فضایی گرم و صمیمی یاد بگیرند.</p>
-               </div>
-               <div class="box">
-                  <img src="people.png" alt="شبکه‌سازی">
-                  <h3>شبکه‌سازی</h3>
-                  <p>شیرازلینوکس به شما امکان می‌دهد با جامعه‌ی بزرگی از متخصصان و علاقه‌مندان به نرم‌افزارهای آزاد ارتباط برقرار کنید. در رویدادها و کارگاه‌های ما شرکت کنید و شبکه‌ی حرفه‌ای خود را گسترش دهید.</p>
-               </div>
-            
-            </div>
-         {{#if @config.custom.hero}}
-            {{#checkIf @config.custom.heroSource '==' "static" }}
-               <div class="">
-                  <div class="terminal-window">
-                     <div class="terminal-header">
-                        <div class="title">user@shirazlinux: ~</div>
-                     </div>
-                     <div class="terminal-body">
-                        <p class="ltr"><span class="prompt">user@shirazlinux:~$</span> ./about
-                        <p class="cursor">|</p>
-                        </p>
-                        {{{@config.custom.textHero}}}
-                        {{#if @config.custom.buttonHeroLinkName}}
-                        <a href="https://terminal.sudoshz.ir" class="btn hero__btn">{{@config.custom.buttonHeroLinkName}}</a>
-                        {{/if}}
-                        {{!-- <p class="output">به جامعه‌ی شیرازلینوکس خوش آمدید!</p> --}}
-                     </div>
-                  </div>
-               </div>
-            {{else}}
-               {{#featuredPosts}}
-                  <div class="hero">
-                     <div class="hero__date">
-                        {{ translate 'common.published' }}
-                        <time datetime="{{date createdAt 'YYYY-MM-DDTHH:mm'}}">
-                           {{#checkIf @config.custom.formatDate '!=' 'custom'}}
-                              {{date createdAt @config.custom.formatDate}}
-                           {{else}}
-                              {{date createdAt @config.custom.formatDateCustom}}
-                           {{/checkIf}}
-                        </time>
-                     </div>
-                     <h1>{{title}}</h1>
-                     <p>{{{excerpt}}}</p>
-                     <a href="{{url}}" class="btn hero__btn">{{ translate 'common.readmore' }}</a>
-                  </div>
-               {{/featuredPosts}}
-            {{/checkIf}}
-         {{/if}}
-         <div class="{{#checkIf @config.custom.layoutFrontpage '==' "grid"}}l-grid {{@config.custom.layoutFrontpageGrid}} {{else}}l-masonry {{@config.custom.layoutFrontpageMasonry}}{{/checkIf}}">
-            {{#each posts}}
-               <article class="c-card {{@config.custom.cardsLayout}}{{#isFeatured}} c-card--featured{{/isFeatured}}">
-                  {{#if @config.custom.cardsImage}}
-                     {{#featuredImage}}
-                        {{#if url}}
-                           <a href="{{../url}}" class="c-card__image">
-                              <img
-                                 src="{{url}}"
-                                 {{#if @config.site.responsiveImages}}
-                                    {{responsiveImageAttributes 'featuredImage' srcset sizes}}
-                                 {{/if}}
-                                 {{ lazyload "lazy" }}
-                                 height="{{height}}"
-                                 width="{{width}}"
-                                 alt="{{alt}}">
-                           </a>
-                        {{/if}}
-                     {{/featuredImage}}
-                  {{/if}}
-                  <div class="c-card__wrapper">
-                     <header class="c-card__header">
-                        {{#if @config.custom.cardsTag}}
-                           {{#if mainTag}}
-                              <div class="c-card__tag">
-                                 <a href="{{ mainTag.url }}">{{ mainTag.name }}</a>
-                              </div>
-                           {{/if}}
-                        {{/if}}
-                        <h2 class="c-card__title">
-                           <a href="{{url}}" class="invert">
-                              {{title}}
-                           </a>
-                        </h2>
-                     </header>
-                     {{#if @config.custom.cardsExcerpt}}
-                        {{#if hasCustomExcerpt}}
-                           <div class="c-card__text">{{{ excerpt }}}</div>
-                        {{else}}
-                           <p class="c-card__text">{{{ excerpt }}}</p>
-                        {{/if}}
-                     {{/if}}
-                     {{#checkIfAny @config.custom.cardsDate @config.custom.cardsComments}}
-                        <footer class="c-card__meta">
-                           {{#if @config.custom.cardsDate}}
-                              <time datetime="{{date createdAt 'YYYY-MM-DDTHH:mm'}}">
-                                 {{#checkIf @config.custom.formatDate '!=' 'custom'}}
-                                    {{date createdAt @config.custom.formatDate}}
-                                 {{else}}
-                                    {{date createdAt @config.custom.formatDateCustom}}
-                                 {{/checkIf}}
-                              </time>
-                           {{/if}}
-                           {{#if @config.custom.cardsComments}}
-                              <div class="c-card__comments">
-                                 <a href="{{url}}#comments" rel="nofollow" aria-label="{{ translate 'common.comments' }}">
-                                    <svg aria-hidden="true">
-                                       <title>{{ translate 'common.comments' }}</title>
-                                       <use xlink:href="{{@website.assetsUrl}}/svg/svg-map.svg#comments"/>
-                                    </svg>
-                                 </a>
-                              </div>
-                           {{/if}}
-                        </footer>
-                     {{/checkIfAny}}
-                  </div>
-               </article>
-            {{/each}}
+         <div class="box">
+            <img src="inspect.svg" alt="نحریم خصوصی و امنیت">
+            <h3>حریم خصوصی و امنیت</h3>
+            <p>
+               با در دسترس بودن کد منبع، هر کسی می‌تواند نحوه‌ی عملکرد نرم‌افزار را بررسی کند و مطمئن شود که حریم خصوصی
+               شما را به خطر نمی‌اندازد و امنیت مورد انتظار را برآورده می‌کند.</p>
          </div>
-        {{> pagination}}
+         <div class="box">
+            <img src="unlock.svg" alt="آزادی استفاده">
+            <h3>آزادی استفاده</h3>
+            <p>
+               یک نرم‌افزار تنها زمانی «آزاد» محسوب می‌شود که کاربرانش دارای آزادی‌هایی از جمله استفاده برای هر هدف (حتی
+               تجاری)، مطالعه و تغییر، و توزیع مجدد آن باشند. بنابراین، اعمال محدودیت‌هایی مانند «فقط برای استفاده
+               غیرتجاری»، «دوره آزمایشی» یا «اجازه‌نامه برای یک رایانه» ناقض این آزادی‌هاست و نرم‌افزاری که چنین
+               محدودیت‌هایی داشته باشد، به عنوان نرم‌افزار آزاد شناخته نمی‌شود</p>
+         </div>
+         <div class="box">
+            <img src="fixing.svg" alt="بهبودها">
+            <h3>بهبودها</h3>
+            <p>
+               شما می‌توانید در صورت نیاز، تغییرات لازم را در برنامه ایجاد کنید و نسخه اصلاح‌شده خودتان را نصب کنید. این
+               امر همچنین زمینه‌ساز حق تعمیر حرکت است. </p>
+         </div>
+         <div class="box">
+            <img src="teamwork.svg" alt="اشتراک‌گذاری و همکاری">
+            <h3>اشتراک‌گذاری و همکاری</h3>
+            <p>
+               شما این حق را دارید که به تعداد نامحدود از نرم‌افزارهای آزاد کپی تهیه کرده و آنها را توزیع کنید. توزیع
+               می‌تواند با دریافت هزینه یا به صورت رایگان انجام شود. شما همچنین آزادی دارید که تغییرات خود را با دیگران
+               به اشتراک بگذارید و از تغییرات دیگران در برنامه‌ی خود استفاده کنید. این امر به جامعه این امکان را می‌دهد
+               تا با همکاری یکدیگر، نرم‌افزارهای بهتری بسازند.
+            </p>
+         </div>
       </div>
-   </main>
+      {{#if @config.custom.hero}}
+      {{#checkIf @config.custom.heroSource '==' "static" }}
+      <div class="">
+         <div class="terminal-window">
+            <div class="terminal-header">
+               <div class="title">user@shirazlinux: ~</div>
+            </div>
+            <div class="terminal-body">
+               <p class="ltr"><span class="prompt">user@shirazlinux:~$</span> ./about
+               <p class="cursor">|</p>
+               </p>
+               {{{@config.custom.textHero}}}
+               {{#if @config.custom.buttonHeroLinkName}}
+               <a href="https://terminal.sudoshz.ir" class="btn hero__btn">{{@config.custom.buttonHeroLinkName}}</a>
+               {{/if}}
+               {{!-- <p class="output">به جامعه‌ی شیرازلینوکس خوش آمدید!</p> --}}
+            </div>
+         </div>
+      </div>
+      {{else}}
+      {{#featuredPosts}}
+      <div class="hero">
+         <div class="hero__date">
+            {{ translate 'common.published' }}
+            <time datetime="{{date createdAt 'YYYY-MM-DDTHH:mm'}}">
+               {{#checkIf @config.custom.formatDate '!=' 'custom'}}
+               {{date createdAt @config.custom.formatDate}}
+               {{else}}
+               {{date createdAt @config.custom.formatDateCustom}}
+               {{/checkIf}}
+            </time>
+         </div>
+         <h1>{{title}}</h1>
+         <p>{{{excerpt}}}</p>
+         <a href="{{url}}" class="btn hero__btn">{{ translate 'common.readmore' }}</a>
+      </div>
+      {{/featuredPosts}}
+      {{/checkIf}}
+      {{/if}}
+      <div class="{{#checkIf @config.custom.layoutFrontpage '==' " grid"}}l-grid {{@config.custom.layoutFrontpageGrid}}
+         {{else}}l-masonry {{@config.custom.layoutFrontpageMasonry}}{{/checkIf}}">
+         {{#each posts}}
+         <article class="c-card {{@config.custom.cardsLayout}}{{#isFeatured}} c-card--featured{{/isFeatured}}">
+            {{#if @config.custom.cardsImage}}
+            {{#featuredImage}}
+            {{#if url}}
+            <a href="{{../url}}" class="c-card__image">
+               <img src="{{url}}" {{#if @config.site.responsiveImages}} {{responsiveImageAttributes 'featuredImage'
+                  srcset sizes}} {{/if}} {{ lazyload "lazy" }} height="{{height}}" width="{{width}}" alt="{{alt}}">
+            </a>
+            {{/if}}
+            {{/featuredImage}}
+            {{/if}}
+            <div class="c-card__wrapper">
+               <header class="c-card__header">
+                  {{#if @config.custom.cardsTag}}
+                  {{#if mainTag}}
+                  <div class="c-card__tag">
+                     <a href="{{ mainTag.url }}">{{ mainTag.name }}</a>
+                  </div>
+                  {{/if}}
+                  {{/if}}
+                  <h2 class="c-card__title">
+                     <a href="{{url}}" class="invert">
+                        {{title}}
+                     </a>
+                  </h2>
+               </header>
+               {{#if @config.custom.cardsExcerpt}}
+               {{#if hasCustomExcerpt}}
+               <div class="c-card__text">{{{ excerpt }}}</div>
+               {{else}}
+               <p class="c-card__text">{{{ excerpt }}}</p>
+               {{/if}}
+               {{/if}}
+               {{#checkIfAny @config.custom.cardsDate @config.custom.cardsComments}}
+               <footer class="c-card__meta">
+                  {{#if @config.custom.cardsDate}}
+                  <time datetime="{{date createdAt 'YYYY-MM-DDTHH:mm'}}">
+                     {{#checkIf @config.custom.formatDate '!=' 'custom'}}
+                     {{date createdAt @config.custom.formatDate}}
+                     {{else}}
+                     {{date createdAt @config.custom.formatDateCustom}}
+                     {{/checkIf}}
+                  </time>
+                  {{/if}}
+                  {{#if @config.custom.cardsComments}}
+                  <div class="c-card__comments">
+                     <a href="{{url}}#comments" rel="nofollow" aria-label="{{ translate 'common.comments' }}">
+                        <svg aria-hidden="true">
+                           <title>{{ translate 'common.comments' }}</title>
+                           <use xlink:href="{{@website.assetsUrl}}/svg/svg-map.svg#comments" />
+                        </svg>
+                     </a>
+                  </div>
+                  {{/if}}
+               </footer>
+               {{/checkIfAny}}
+            </div>
+         </article>
+         {{/each}}
+      </div>
+      {{> pagination}}
+   </div>
+</main>
 {{/checkIf}}
 {{> footer}}
