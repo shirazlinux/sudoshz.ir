@@ -35,6 +35,14 @@
   text-align: right;
 }
 
+@font-face {
+  font-family: estedadmad;
+  src: url(fonts/estedadmad/Estedad-Mad.woff2);
+}
+
+.estedadmad {
+  font-family: estedadmad !important;
+}
 /* @font-face {
   font-family: vazirmatn;
   src: url(fonts/vazirmatn/Vazirmatn-Medium.woff2) format(woff2),

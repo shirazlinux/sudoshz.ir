@@ -5,6 +5,12 @@
 {{else}}
    <main>
        <style>
+
+         @font-face {
+  font-family: estedadmad;
+  src: url(fonts/estedadmad/Estedad-Mad.woff2);
+}
+
       .content-section {
          background-color: #fff;
          border-radius: 10px;
@@ -36,15 +42,14 @@
             padding: 0 1rem;
         }
 
-        /* استایل عنوان اصلی */
+
         .main-heading {
             text-align: center;
-            color: #d34544; /* رنگ اصلی نرم‌افزار آزاد */
+            color: #d34544; 
             margin-bottom: 3rem;
             font-size: 2.5rem;
         }
 
-        /* گرید برای چیدمان چهار باکس */
         .freedoms-grid {
             display: grid;
             grid-template-columns: repeat(4, 1fr);
@@ -52,7 +57,6 @@
             margin-top: 2rem;
         }
 
-        /* استایل هر کارت (باکس) آزادی */
         .freedom-card {
             background: #fff;
             border-radius: 12px;
@@ -60,7 +64,7 @@
             padding: 2rem 1.5rem;
             text-align: center;
             transition: transform 0.3s ease, box-shadow 0.3s ease;
-            border-top: 5px solid #d34544; /* خط قرمز بالای کارت */
+            border-top: 5px solid #d34544;
             display: flex;
             flex-direction: column;
             height: 100%;
@@ -71,7 +75,6 @@
             box-shadow: 0 15px 35px rgba(0, 0, 0, 0.12);
         }
 
-        /* استایل آیکون */
         .freedom-icon {
             width: 70px;
             height: 70px;
@@ -79,7 +82,7 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            background-color: #fce8e8; /* پس‌زمینه قرمز بسیار روشن */
+            background-color: #fce8e8; 
             border-radius: 50%;
             padding: 12px;
         }
@@ -87,10 +90,9 @@
         .freedom-icon svg {
             width: 100%;
             height: 100%;
-            fill: #d34544; /* رنگ قرمز برای آیکون */
+            fill: #d34544;
         }
 
-        /* استایل شماره آزادی */
         .freedom-number {
             color: #7e7e7e;
             margin-bottom: 0.5rem;
@@ -98,7 +100,6 @@
             font-weight: 500;
         }
 
-        /* استایل عنوان هر آزادی */
         .freedom-title {
             color: #d34544;
             margin-bottom: 1rem;
@@ -107,7 +108,6 @@
             min-height: 3.5rem;
         }
 
-        /* استایل متن توضیحی */
         .freedom-description {
             color: #555;
             font-size: 0.95rem;
@@ -115,7 +115,6 @@
             flex-grow: 1;
         }
 
-        /* بخش مثال‌ها */
         .examples-section {
             background-color: #fff;
             border-radius: 10px;
@@ -124,6 +123,7 @@
             margin-bottom: 2.5rem;
         }
 
+         
         .examples-section h2 {
             color: #d34544;
             margin-bottom: 1.5rem;
@@ -155,7 +155,6 @@
             line-height: 1.8;
         }
 
-        /* بخش نتیجه‌گیری */
         .conclusion {
             background-color: #fce8e8;
             border-radius: 10px;
@@ -169,7 +168,7 @@
         .conclusion > p {
          margin-top: 0 !important;
         }
-        /* رسپانسیو برای صفحه‌های کوچک‌تر */
+
         @media (max-width: 1200px) {
             .freedoms-grid {
                 grid-template-columns: repeat(2, 1fr);
@@ -189,27 +188,16 @@
             class="is-loaded">
          <figcaption></figcaption>
       </figure>
-      <section class="content-section">
-         <p>
-            نرم‌افزار عمیقاً در تمام جنبه‌های زندگی ما دخیل است و به طور نامرئی در تار و پود اساسی جامعه ادغام شده است.
-            با توجه به اینکه وابستگی ما به نرم‌افزار به طور فزاینده‌ای افزایش می‌یابد، چگونه می‌توانیم اطمینان حاصل کنیم
-            که نرم‌افزاری که هر روز استفاده می‌کنیم، به جای اینکه به طور ناعادلانه توسط شرکت‌های بزرگ فناوری کنترل شود،
-            از شما دستور می‌گیرد؟
-         </p>
-         <p>
-            نرم‌افزار آزاد به همه آزادی استفاده، مطالعه، اصلاح و توزیع نرم‌افزار را می‌دهد. این حقوق ما را قادر می‌سازد
-            تا نرم‌افزار را درک و بهبود بخشیم، ضمن اینکه به حمایت از سایر حقوق اساسی مانند آزادی بیان، حریم خصوصی و حق
-            تعمیر نیز کمک می‌کند.
-         </p>
-      </section>
+         <section class="content-section">
+         <p>نرم‌افزار عمیقاً در <strong>تمام جنبه‌های زندگی ما دخیل است</strong> و به طور نامرئی در تار و پود اساسی جامعه ادغام شده است.<br>با توجه به اینکه <strong>وابستگی ما به نرم‌افزار به طور فزاینده‌ای افزایش می‌یابد</strong>، چگونه می‌توانیم اطمینان حاصل کنیم که نرم‌افزاری که هر روز استفاده می‌کنیم، به جای اینکه به طور ناعادلانه توسط شرکت‌های بزرگ فناوری کنترل شود، <span style="color: #e03e2d;">از شما دستور می‌گیرد؟</span></p>
+         <p><a href="#INTERNAL_LINK#/post/125">نرم‌افزار آزاد</a> به همه <span style="color: #169179;">آزادی استفاده، مطالعه، اصلاح و توزیع نرم‌افزار</span> را می‌دهد. این حقوق ما را قادر می‌سازد تا نرم‌افزار را درک و بهبود بخشیم، ضمن اینکه به حمایت از سایر حقوق اساسی مانند آزادی بیان، حریم خصوصی و حق تعمیر نیز کمک می‌کند.</p>
+         </section>
 
       <div class="container">
          <h2 class="main-heading">نرم‌افزار آزاد چیست؟</h2>
-         <p style="text-align: center; font-size: 1.2rem; margin-bottom: 3rem; color: #444;">ما معتقدیم که هر برنامه‌ای
-            باید آزادی‌های زیر را برای شما فراهم کند:</p>
+<p style="text-align: center; font-size: 1.2rem; margin-bottom: 3rem; color: #444;"><span style="color: #169179;">ما معتقدیم که هر برنامه‌ای باید آزادی‌های زیر را برای شما فراهم کند</span></p>
 
          <div class="freedoms-grid">
-            <!-- آزادی صفرم: استفاده -->
             <div class="freedom-card">
                <div class="freedom-icon">
                   <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -222,7 +210,6 @@
                   محدودیتی اجرا کنید.</p>
             </div>
 
-            <!-- آزادی یکم: تغییر -->
             <div class="freedom-card">
                <div class="freedom-icon">
                   <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -236,7 +223,6 @@
                   اعمال کنید.</p>
             </div>
 
-            <!-- آزادی دوم: به اشتراک گذاری -->
             <div class="freedom-card">
                <div class="freedom-icon">
                   <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -245,12 +231,11 @@
                   </svg>
                </div>
                <p class="freedom-number">آزادی شماره ۲</p>
-               <h3 class="freedom-title">آن را به اشتراک بگذارید</h3>
+               <h3 class="freedom-title">به اشتراک بگذارید</h3>
                <p class="freedom-description">شما آزادی توزیع مجدد نسخه‌هایی از برنامه‌ها را دارید تا بتوانید به دیگران
                   کمک کنید.</p>
             </div>
 
-            <!-- آزادی سوم: همکاری -->
             <div class="freedom-card">
                <div class="freedom-icon">
                   <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -273,35 +258,24 @@
         <h2 class="main-heading">بی‌عدالتی در مالکیت خصوصی</h2>
 
         <section class="content-section">
-            <p>
-                نرم‌افزار اختصاصی یا نرم‌افزار غیرآزاد، آزادی استفاده، مطالعه، اصلاح و/یا اشتراک‌گذاری نرم‌افزار را از شما سلب می‌کند. در عمل، نرم‌افزار اختصاصی اغلب با پنهان کردن کد منبع و منع شما از اصلاح برنامه، حریم خصوصی و امنیت شما را به خطر می‌اندازد.
-            </p>
+<p>نرم‌افزار اختصاصی یا <strong>نرم‌افزار غیرآزاد</strong>، آزادی <strong>استفاده، مطالعه، اصلاح و/یا اشتراک‌گذاری</strong> نرم‌افزار را از شما <strong><span style="color: #ba372a;">سلب</span></strong> می‌کند. در عمل، نرم‌افزار اختصاصی اغلب با پنهان کردن کد منبع و منع شما از اصلاح برنامه، <strong>حریم خصوصی و امنیت </strong>شما را به خطر می‌اندازد.</p>
         </section>
 
-        <section class="examples-section">
-            <h3>نمونه‌هایی از نرم‌افزارهای اختصاصی مضر</h3>
-            
-            <div class="example-card">
-                <div class="example-title">مایکروسافت ویندوز</div>
-                <div class="example-description">
-                    به محض بوت شدن و بدون درخواست هیچ اجازه‌ای، به طور خودکار داده‌ها را به بسیاری از سرورهای آنلاین ارسال می‌کند. مرورگر وب آنها، Edge، سایت‌هایی را که کاربر بازدید می‌کند به Bing نشت می‌دهد و تصاویری را که کاربر مشاهده می‌کند به مایکروسافت ارسال می‌کند.
-                </div>
-            </div>
-            
-            <div class="example-card">
-                <div class="example-title">پیندودو</div>
-                <div class="example-description">
-                    غول تجارت الکترونیک، از آسیب‌پذیری‌های تلفن‌های همراه سوءاستفاده می‌کند تا حذف بدافزار اندرویدی خود را دشوار کند، در برنامه‌های دیگر جاسوسی کند و کنترل آنها را به دست گیرد.
-                </div>
-            </div>
-            
-            <div class="example-card">
-                <div class="example-title">تیک‌تاک</div>
-                <div class="example-description">
-                    اسکریپت‌های شبیه کی‌لاگر را به مرورگر درون‌برنامه‌ای iOS خود تزریق می‌کند که می‌تواند هر ضربه و ورودی کاربر را ردیابی کند.
-                </div>
-            </div>
-        </section>
+<section class="examples-section">
+<h3>نمونه‌هایی از نرم‌افزارهای اختصاصی مضر</h3>
+<div class="example-card">
+<div class="example-title">مایکروسافت ویندوز</div>
+<div class="example-description">به محض بوت شدن و <strong>بدون درخواست هیچ اجازه‌ای، به طور خودکار</strong> داده‌ها را به بسیاری از سرورهای آنلاین ارسال می‌کند. مرورگر وب آنها، Edge، سایت‌هایی را که کاربر بازدید می‌کند به Bing <strong>نشت</strong> می‌دهد و <strong>تصاویری را که کاربر مشاهده می‌کند به مایکروسافت ارسال می‌کند</strong>.</div>
+</div>
+<div class="example-card">
+<div class="example-title">پیندودو</div>
+<div class="example-description">غول تجارت الکترونیک، از آسیب‌پذیری‌های تلفن‌های همراه سوءاستفاده می‌کند تا <strong>حذف بدافزار اندرویدی خود را دشوار کند</strong>، در برنامه‌های دیگر جاسوسی کند و کنترل آنها را به دست گیرد.</div>
+</div>
+<div class="example-card">
+<div class="example-title">تیک‌تاک</div>
+<div class="example-description"><strong>اسکریپت‌های شبیه کی‌لاگر</strong> را به مرورگر درون‌برنامه‌ای iOS خود تزریق می‌کند که می‌تواند هر ضربه و ورودی کاربر را ردیابی کند.</div>
+</div>
+</section>
 
         <section class="content-section">
             <p>
@@ -366,7 +340,6 @@
                         {{#if @config.custom.buttonHeroLinkName}}
                         <a href="https://terminal.sudoshz.ir" class="btn hero__btn">{{@config.custom.buttonHeroLinkName}}</a>
                         {{/if}}
-                        {{!-- <p class="output">به جامعه‌ی شیرازلینوکس خوش آمدید!</p> --}}
                      </div>
                   </div>
                </div>
