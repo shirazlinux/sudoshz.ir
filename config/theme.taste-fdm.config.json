@@ -46,7 +46,7 @@
         "defaultTabColor": "#F1592D",
         "darkModeTabColor": "#F1592D",
         "fontBody": "vazirmatn",
-        "disableFontBodyItalic": false,
+        "disableFontBodyItalic": true,
         "fontHeadings": "vazirmatn-black",
         "disableFontHeadingsItalic": true,
         "fontMenu": "var(--body-font)",
