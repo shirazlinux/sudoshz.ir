@@ -10,6 +10,10 @@
 
 
 /* styles for markdown post create */
+.pcb__inner {
+  font-family: var(--body-font) !important;
+}
+
 #pcb-title {
   text-align: right !important;
 }
