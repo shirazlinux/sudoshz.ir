@@ -172,10 +172,10 @@
                 "id": 1736554445801,
                 "label": "تاریخچه‌ی نرم‌افزار آزاد",
                 "title": "",
-                "type": "internal",
+                "type": "post",
                 "target": "_self",
                 "rel": "",
-                "link": "/free-software-history/index.html",
+                "link": 133,
                 "cssClass": "",
                 "isHidden": false,
                 "items": []
