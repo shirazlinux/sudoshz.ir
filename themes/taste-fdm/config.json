@@ -1845,10 +1845,10 @@
             ]
         },
         {
-            "name": "socialInstagram",
-            "label": "Instagram",
+            "name": "socialpixelfed",
+            "label": "pixelfed",
             "group": "Footer",
-            "placeholder": "Please enter your Instagram URL",
+            "placeholder": "Please enter your pixelfed URL",
             "value": "",
             "type": "text",
             "dependencies": [
@@ -1859,10 +1859,10 @@
             ]
         },
         {
-            "name": "socialLinkedin",
-            "label": "LinkedIn",
+            "name": "socialrss",
+            "label": "rss",
             "group": "Footer",
-            "placeholder": "Please enter your LinkedIn URL",
+            "placeholder": "Please enter your RSS URL",
             "value": "",
             "type": "text",
             "dependencies": [
@@ -1873,10 +1873,10 @@
             ]
         },
         {
-            "name": "socialGitHub",
-            "label": "GitHub",
+            "name": "socialcodeberg",
+            "label": "codeberg",
             "group": "Footer",
-            "placeholder": "Please enter your GitHub URL",
+            "placeholder": "Please enter your codeberg URL",
             "value": "",
             "type": "text",
             "dependencies": [
