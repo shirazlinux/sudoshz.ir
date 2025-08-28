@@ -181,6 +181,18 @@
                 "items": []
             },
             {
+                "id": 17365544522361,
+                "label": "جنبش نرم‌افزار آزاد",
+                "title": "جنبش نرم‌افزار آزاد",
+                "type": "internal",
+                "target": "_self",
+                "rel": "",
+                "link": "https://free.sudoshz.ir",
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
                 "id": 17365544516751,
                 "label": "نرم‌افزار آزاد چیه؟",
                 "title": "",
@@ -188,18 +200,6 @@
                 "target": "_self",
                 "rel": "",
                 "link": 125,
-                "cssClass": "",
-                "isHidden": false,
-                "items": []
-            },
-            {
-                "id": 17365544522361,
-                "label": "مانیفست گنو",
-                "title": "",
-                "type": "post",
-                "target": "_self",
-                "rel": "",
-                "link": 124,
                 "cssClass": "",
                 "isHidden": false,
                 "items": []
