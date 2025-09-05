@@ -24,7 +24,7 @@
     "simplehighlight": false,
     "syntaxHighlighter": true,
     "telegramComments": false,
-    "collapsibleToC": false,
+    "collapsibleToC": true,
     "mermaidSupport": false,
     "comeBackBrowserTab": true,
     "disqusComments": true,
@@ -32,5 +32,6 @@
     "umamiAnalyticsIntegration": true,
     "staticCustomSearch": false,
     "pagePrefetching": true,
-    "alt-filler": true
+    "alt-filler": true,
+    "Key Replacement": false
 }
