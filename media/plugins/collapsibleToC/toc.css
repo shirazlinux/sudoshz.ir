@@ -1,0 +1,31 @@
+#divTOC.expand {
+  overflow: hidden;
+  position: relative;
+  margin-bottom: 0px;
+}
+
+#divTOC.expand.open .more-less {
+  background: none;
+}
+
+.more-less {
+  position: absolute;
+  bottom: 0;
+  display: block;
+  width: 100%;
+  text-align: center;
+    vertical-align: text-bottom;
+  font-size: 18px;
+  background: linear-gradient(to bottom, var(--page-bg) 0%, var(--page-bg) 50%, var(--page-bg) 50% 100%);
+  height: 25px;
+  cursor: pointer;
+  color: var(--text-color)
+}
+
+.closed .more-less::after {
+  content: 'See full';
+}
+
+.open .more-less::after {
+  content: 'Collapse';
+}
