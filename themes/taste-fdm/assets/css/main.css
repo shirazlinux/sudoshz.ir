@@ -1974,9 +1974,14 @@ textarea {
 }
 .post__toc ul {
   counter-reset: item;
-  list-style: decimal;
+  list-style-type:persian;
   margin: calc(0.5rem + 0.25vw) 0 calc(1.5rem + 0.25vw) 2ch;
 }
+
+.post__toc ul li::marker{
+  content: counter(list-item, persian) "- ";
+}
+
 .post__toc ul li {
   counter-increment: item;
   padding: 0;
@@ -1988,8 +1993,9 @@ textarea {
   display: block;
 }
 .post__toc ul ul li:before {
-  content: counters(item, ".") ". ";
-  margin-left: -20px;
+  counter-increment: item;
+  content: counters(item, ".", persian) "- ";
+  margin-right: -20px;
 }
 
 .comments-area {
