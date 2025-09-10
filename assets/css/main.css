@@ -1973,7 +1973,7 @@ textarea {
   font-size: clamp(1rem, 1rem + 0.125 * (100vw - 20rem) / 80, 1.125rem);
 }
 .post__toc ul {
-  counter-reset: item;
+  counter-reset: item; 
   list-style-type:persian;
   margin: calc(0.5rem + 0.25vw) 0 calc(1.5rem + 0.25vw) 2ch;
 }
