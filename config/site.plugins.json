@@ -11,7 +11,7 @@
     "emailAddressObfuscation": false,
     "externalLinks": true,
     "featherIcons": false,
-    "goatcounter-analytics-plugin-1.1.0": true,
+    "goatcounter-analytics-plugin-1.1.0": false,
     "googleCustomSearch": true,
     "graphComment": false,
     "hyvorTalkComments": false,
