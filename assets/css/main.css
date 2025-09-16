@@ -142,6 +142,7 @@ body {
 a {
   color: var(--link-color);
   text-decoration: none;
+  
   /* -webkit-transition: all 0.12s linear;
   transition: all 0.12s linear; */
 }
@@ -159,8 +160,8 @@ a:focus {
 .invert {
   color: var(--link-color-hover);
   text-decoration: none;
-  -webkit-transition: all 0.12s linear;
-  transition: all 0.12s linear;
+  /* -webkit-transition: all 0.12s linear;
+  transition: all 0.12s linear; */
 }
 .invert:hover {
   color: var(--link-color);
