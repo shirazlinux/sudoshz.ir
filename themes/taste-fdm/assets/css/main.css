@@ -142,7 +142,7 @@ body {
 a {
   color: var(--link-color);
   text-decoration: none;
-  
+  transition: none !important;
   /* -webkit-transition: all 0.12s linear;
   transition: all 0.12s linear; */
 }
