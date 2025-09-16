@@ -1,5 +1,5 @@
 {
-    "prerender": true,
+    "prerender": false,
     "el": "body",
     "delay": "5",
     "limit": "7",
