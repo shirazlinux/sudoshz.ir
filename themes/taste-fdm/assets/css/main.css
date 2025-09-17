@@ -139,6 +139,13 @@ body {
 
 }
 /* after edit */
+
+.h1main {
+  text-align: center;
+  font-family: estedadmad;
+  color: #b11107;
+}
+
 a {
   color: var(--link-color);
   text-decoration: none;
