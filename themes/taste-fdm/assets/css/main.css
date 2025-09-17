@@ -2077,6 +2077,7 @@ textarea {
 }
 
 .align-right {
+  direction: rtl;
   text-align: right;
 }
 
@@ -2693,7 +2694,7 @@ textarea {
 
 
 .terminal-window {
-  width: 97%;
+  /* width: 97%; */
   max-width: none;
   background: #300a24;
   border-radius: 8px;
