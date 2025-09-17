@@ -31,7 +31,7 @@
     "metaTabColors": true,
     "umamiAnalyticsIntegration": true,
     "staticCustomSearch": false,
-    "pagePrefetching": true,
+    "pagePrefetching": false,
     "alt-filler": true,
     "Key Replacement": false
 }
