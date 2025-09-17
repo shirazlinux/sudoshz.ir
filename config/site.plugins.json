@@ -24,7 +24,7 @@
     "simplehighlight": false,
     "syntaxHighlighter": true,
     "telegramComments": false,
-    "collapsibleToC": true,
+    "collapsibleToC": false,
     "mermaidSupport": false,
     "comeBackBrowserTab": true,
     "disqusComments": true,
