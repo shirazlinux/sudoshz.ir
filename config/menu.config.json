@@ -160,6 +160,18 @@
                 "cssClass": "",
                 "isHidden": false,
                 "items": []
+            },
+            {
+                "id": 1758281319267,
+                "label": "حمایت",
+                "title": "",
+                "type": "page",
+                "target": "_self",
+                "rel": "",
+                "link": 151,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
             }
         ],
         "maxLevels": "-1"
