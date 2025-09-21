@@ -4,7 +4,7 @@
         "tagsPostsPerPage": "9",
         "authorsPostsPerPage": "9",
         "excerptLength": "20",
-        "logo": "media/website/webicon320-2.png"
+        "logo": "media/website/icon.png"
     },
     "customConfig": {
         "pageWidth": "1200px",
