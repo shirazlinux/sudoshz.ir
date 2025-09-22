@@ -86,7 +86,32 @@
                 "link": 5,
                 "cssClass": "",
                 "isHidden": false,
-                "items": []
+                "items": [
+                    {
+                        "id": 1758583421250,
+                        "label": "پست‌ها و مقالات آموزشی",
+                        "title": "",
+                        "type": "tag",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 5,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1758583385930,
+                        "label": "ویدیوها",
+                        "title": "",
+                        "type": "separator",
+                        "target": "_self",
+                        "rel": "",
+                        "link": "",
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    }
+                ]
             },
             {
                 "id": 1755569179687,
