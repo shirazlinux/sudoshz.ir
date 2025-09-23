@@ -38,6 +38,11 @@
   text-align: right;
 }
 
+.code-toolbar {
+  direction: ltr !important;
+}
+
+
 @font-face {
   font-family: estedadmad;
   src: url(fonts/estedadmad/Estedad-Mad.woff2);
