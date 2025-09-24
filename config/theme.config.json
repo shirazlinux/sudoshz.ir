@@ -14,7 +14,7 @@
         "frontPost": 63,
         "hero": true,
         "heroSource": "static",
-        "textHero": "<h2 class=\"align-right\"><span style=\"color: #0beb26;\">آغاز سفر به سوی آزادی</span></h2>\n<p class=\"align-right\">امروزه استفاده از نرم‌افزارهای آزاد <span style=\"color: #f1c40f;\">دیگر کار سختی نیست</span>.<br>ممکنه برای شروع نیازمندی راهنمایی باشید ما در <strong>شیرازلینوکس</strong> به عنوان یک<strong> جامعه نرم‌افزار آزاد</strong> تمامی این مقدمات رو برای شما براورده مکنیم.<br>در همین صفحه راجب <span style=\"color: #3598db;\">چیستی نرم‌افزار آزاد و تاریخچه‌ی این جنبس </span>سلسه مقالاتی برای شما لیست کردیم که میتونید مطالعه کنید.</p>",
+        "textHero": "<h2 class=\"align-right\"><span style=\"color: #0beb26;\">آغاز سفر به سوی آزادی</span></h2>\n<p class=\"align-right\">امروزه استفاده از نرم‌افزارهای آزاد <span style=\"color: #f1c40f;\">دیگر کار سختی نیست</span>.<br>ممکنه برای شروع نیازمند راهنمایی باشید ما در <strong>شیرازلینوکس</strong> به عنوان یک<strong> جامعه نرم‌افزار آزاد</strong> تمامی این مقدمات رو برای شما برآورده میکنیم.<br>در همین صفحه راجب <span style=\"color: #3598db;\">چیستی نرم‌افزار آزاد و تاریخچه‌ی این جنبس </span>سلسه مقالاتی برای شما لیست کردیم که میتونید مطالعه کنید.</p>",
         "buttonHeroLinkName": "Terminal",
         "frontGallery": true,
         "layoutFrontpage": "grid",
