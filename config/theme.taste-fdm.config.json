@@ -39,7 +39,7 @@
         "submenuWidth": "240",
         "mobilemenu": "sidebar",
         "mobilemenuExpandableSubmenus": true,
-        "primaryColor": "#0000FF",
+        "primaryColor": "#444448",
         "textColor": "#000000",
         "headingsColor": "#F1592D",
         "tabColorOption": true,

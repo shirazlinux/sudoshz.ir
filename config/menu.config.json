@@ -80,10 +80,10 @@
                 "id": 1735942626280,
                 "label": "پست آزاد",
                 "title": "",
-                "type": "tag",
+                "type": "separator",
                 "target": "_self",
                 "rel": "",
-                "link": 5,
+                "link": "",
                 "cssClass": "",
                 "isHidden": false,
                 "items": [
