@@ -1959,6 +1959,12 @@ textarea {
   height: auto;
   width: 100%;
 }
+/* before edit */
+.pixelfed__embed {
+  position: static !important;
+  height: revert-layer !important;
+}
+/* after edit */
 .post__video, .post__iframe {
   position: relative;
   display: block;
