@@ -106,7 +106,7 @@
             "errorPage": "404.html",
             "searchPage": "search.html"
         },
-        "customHeadCode": "<!--<script\n                       src=\"https://statics.payping.ir/donate.min.js\"\n                       type=\"text/javascript\"\n                       charset=\"utf-8\"\n                       pp-userName=\"shirazlinux\"\n                       pp-description=\"ما به عنوان یک گروه داوطلبانه، متعهد هستیم که هر ریال از کمک‌های شما را صرف پیشرفت پروژه‌ها و ارتقاء کیفیت خدمات خود کنیم. با هم می‌توانیم دنیای نرم‌افزار را به جایی بهتر تبدیل کنیم.\"\n                       pp-amounts=\"\"\n                       pp-avatar=\"\"\n></script> -->\n\n    <!-- // This file is part of ShirazLinux.\n    // Copyright (C) 2025 ShirazLinux\n    // This program is free software: you can redistribute it and/or modify\n    // it under the terms of the GNU General Public License as published by\n    // the Free Software Foundation, either version 3 of the License, or\n    // (1.0.0) any later version. -->\n\n\n\n\n",
+        "customHeadCode": "<!--<script\n                       src=\"https://statics.payping.ir/donate.min.js\"\n                       type=\"text/javascript\"\n                       charset=\"utf-8\"\n                       pp-userName=\"shirazlinux\"\n                       pp-description=\"ما به عنوان یک گروه داوطلبانه، متعهد هستیم که هر ریال از کمک‌های شما را صرف پیشرفت پروژه‌ها و ارتقاء کیفیت خدمات خود کنیم. با هم می‌توانیم دنیای نرم‌افزار را به جایی بهتر تبدیل کنیم.\"\n                       pp-amounts=\"\"\n                       pp-avatar=\"\"\n></script> -->\n\n    <!-- // This file is part of ShirazLinux.\n    // Copyright (C) 2025 ShirazLinux\n    // This program is free software: you can redistribute it and/or modify\n    // it under the terms of the GNU General Public License as published by\n    // the Free Software Foundation, either version 3 of the License, or\n    // (1.0.0) any later version. -->\n\n\n\n\n<meta name=\"fediverse:creator\" content=\"@Shirazlinux@mastodon.social\">",
         "customBodyCode": "",
         "customCommentsCode": "",
         "customSearchInput": "",
@@ -200,7 +200,9 @@
             "region": "",
             "customRegion": "",
             "prefix": "",
-            "acl": "public-read"
+            "acl": "public-read",
+            "htmlCacheControl": "no-cache, no-store",
+            "otherCacheControl": "public, max-age=2592000"
         },
         "git": {
             "url": "https://github.com/shirazlinux/sudoshz.ir.git",
@@ -242,5 +244,5 @@
         }
     },
     "theme": "taste-fdm",
-    "syncDate": 1760315463985
+    "syncDate": 1759278590143
 }
