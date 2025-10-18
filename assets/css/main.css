@@ -299,11 +299,15 @@ ul,
 ol {
  margin-right: 2rem;
 }
-ul > li,
-ol > li {
+ul > li{
   list-style: inherit;
   padding: 0 0 0.5rem 0.5rem;
 }
+ol > li {
+  list-style: inherit;
+  list-style-type: persian;
+}
+
 ul ul,
 ul ol,
 ol ul,
@@ -1994,7 +1998,7 @@ textarea {
 .post__toc ul {
   counter-reset: item; 
   list-style-type:persian;
-  margin: calc(0.5rem + 0.25vw) 0 calc(1.5rem + 0.25vw) 2ch;
+  /* margin: calc(0.5rem + 0.25vw) 0 calc(1.5rem + 0.25vw) 2ch; */
 }
 
 .post__toc ul li::marker{
