@@ -1,3 +1,3 @@
-[submodule "root-files/ada-zangeman-liver"]
-	path = root-files/ada-zangeman-liver
-	url = git@github.com:shirazlinux/ada-zangemann-liver.git
+[submodule "root-files/ada-zangeman-presentation"]
+	path = root-files/ada-zangeman-presentation
+	url = https://github.com/shirazlinux/ada-zangemann-liver.git
