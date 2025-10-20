@@ -1,0 +1,104 @@
+/* reset */
+
+a,abbr,acronym,address,blockquote,body,caption,code,dd,del,dfn,div,dl,dt,em,fieldset,figure,form,h1,h2,h3,h4,h5,h6,html,img,label,legend,li,ol,p,pre,q,span,table,tbody,td,tfoot,th,thead,tr,ul {
+	border:0;
+	margin:0;
+	padding:0;
+	vertical-align:baseline;
+}
+
+/* fonts */
+
+
+/* style du catalogue */
+/*
+body.cf-catalogue {
+  margin:3%;
+  font-family: sans-serif;
+  line-height: 1.4;
+  text-align: left;
+}
+*/
+
+.cf-catalogue ul {
+	font-size: 0.8em;
+	list-style-type: none;
+}
+.cf-catalogue ul li {
+	page-break-inside:avoid;
+	list-style-type: none;
+	text-align: left;
+	clear: both;
+	padding: 0.8em 0;
+}
+.cf-catalogue .cf-titre {
+	font-style: normal;
+	font-weight: 600;
+}
+
+.cf-catalogue ul li a {
+	text-decoration: none;
+	color: black;
+}
+.cf-catalogue a {
+  color: #333;
+}
+.cf-catalogue a:hover {
+  color:red;
+}
+
+.cf-catalogue ul li img {
+	width: 4em;
+   margin: 0em 0.8em 1em 0;
+   float: left;
+}
+.cf-catalogue ul li:before {
+    content: none;
+}
+
+.cf-catalogue p {
+  text-indent:0;
+  margin:0;
+  vertical-align:baseline;
+  widows:2;
+  orphans:2;
+}
+.cf-catalogue .cf-citation, .cf-catalogue .cf-loc-etr, .cf-catalogue .cf-emphase {
+  font-style:italic;
+}
+.cf-catalogue .cf-petites-capitales, .cf-catalogue .cf-siecle {
+	font-variant:small-caps;
+}
+
+.cf-catalogue .cf-exposant {
+	display:inline;
+	font-size:.8em;
+	line-height:0;
+	vertical-align:super;
+}
+
+/* titres */
+
+.cf-catalogue h1, .cf-catalogue h2, .cf-catalogue h3 {
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	clear: both;
+}
+
+
+ .cf-catalogue h2 {
+  font-size:1.2em;
+  line-height:1.3em;
+  padding:2em 0 1em 0;
+  text-align:left;
+  hyphens:none;
+  margin:0;
+}
+.cf-catalogue h3 {
+  font-size:1.1em;
+  line-height:1.3em;
+  padding:2em 0 1em 0;
+  text-align:left;
+  hyphens:none;
+  margin:0;
+}

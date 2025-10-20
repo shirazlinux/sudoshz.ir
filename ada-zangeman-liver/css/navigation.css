@@ -1,0 +1,195 @@
+/* navigation */
+
+nav.main-menu {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 200;
+    font-size: 1rem;
+    text-transform: uppercase;
+    padding: 1em;
+}
+
+
+nav.main-menu ul {
+    display: none;
+    list-style-type: none;
+    line-height: 1.8;
+    margin-top: 0em;
+    padding: 1em;
+    background-color: rgba(255, 255, 255, 0.96);
+    text-shadow: 0px 0px 7px rgba(255, 255, 255, 1);
+    border-radius: 1em;
+    border: 2px solid var(--light-green);
+    box-shadow: 0 0 5px var(--light-green);
+    max-height: calc(100vh - 5em);
+    overflow-y: auto;
+}
+
+nav.main-menu label {
+    font-size: 2.5em;
+    text-shadow: 3px 3px 4px rgba(255, 255, 255, 0.8);
+    cursor: pointer;
+}
+
+nav.main-menu input {
+    position: absolute;
+    cursor: pointer;
+    top: -100px;
+    left: -100px;
+}
+
+nav.main-menu li.livre a {
+    display: block;
+    height: 170px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-image: url(../images/ada-300.png);
+    background-position: center 2.3em;
+    background-size: 64%;
+    transition: all 1s;
+}
+
+nav.main-menu input[type=checkbox]:checked~ul {
+    display: block;
+}
+
+nav.main-menu a {
+    text-decoration: none;
+    color: black;
+}
+
+nav.main-menu a:hover {
+    text-decoration: none;
+/*     font-weight: 600; */
+}
+
+
+/* language selector */
+
+.custom-select {
+    min-width: 100%;
+    position: relative;
+    margin: 0 0 0.8rem;
+  }
+  
+.custom-select select {
+    appearance: none;
+    width: 100%;
+    font-size: 1rem;
+    padding: 0.6em 2em 0.6em 1em;
+    background-color: var(--yellow3);
+    border: 2px solid var(--green);
+    border-radius: 0.25rem;
+    color: var(--dark-green);
+    cursor: pointer;
+}
+
+.custom-select::before,
+.custom-select::after {
+    --size: 0.3rem;
+    content: "";
+    position: absolute;
+    right: 1rem;
+    pointer-events: none;
+}
+
+.custom-select::before {
+    border-left: var(--size) solid transparent;
+    border-right: var(--size) solid transparent;
+    border-bottom: var(--size) solid var(--dark-green);
+    top: 50%;
+    transform: translateY(20%);
+    
+}
+
+.custom-select::after {
+    border-left: var(--size) solid transparent;
+    border-right: var(--size) solid transparent;
+    border-top: var(--size) solid var(--dark-green);
+    top: 50%;
+    transform: translateY(-120%);
+}
+
+
+
+
+/* hint */
+
+.hint {
+    position: absolute;
+    width: 100vw;
+    bottom: 2rem;
+    left: 0;
+    z-index: 200;
+    font-size: 3rem;
+    text-align: center;
+    animation: 2s ease-out 1s forwards sun-rise;
+    text-shadow: 5px 5px 7px rgba(0,0,0,0.3);
+    opacity: 0;
+}
+
+@keyframes sun-rise {
+    from {
+        /* pushes the sun down past the viewport */
+        transform: translateY(0%);
+        opacity: 1;
+    }
+
+    to {
+        /* returns the sun to its default position */
+        transform: translateY(150%);
+        opacity: 0;
+    }
+}
+@keyframes to-left {
+    from {
+        /* pushes the sun down past the viewport */
+        transform: translateX(0%);
+        opacity: 1;
+    }
+
+    to {
+        /* returns the sun to its default position */
+        transform: translateX(-150%);
+        opacity: 0;
+    }
+}
+@keyframes to-right {
+    from {
+        /* pushes the sun down past the viewport */
+        transform: translateX(0%);
+        opacity: 1;
+    }
+
+    to {
+        /* returns the sun to its default position */
+        transform: translateX(150%);
+        opacity: 0;
+    }
+}
+
+
+
+/* Footer */
+
+
+footer {
+    padding: 3vw 10vw;
+    font-size: 0.9rem;
+    line-height: 1.5em;
+}
+footer ul {
+    list-style-type: none;
+    columns: 2;
+}
+
+footer a {
+    text-decoration: none;
+}
+footer a:hover {
+    text-decoration: underline;
+}
+
+
+

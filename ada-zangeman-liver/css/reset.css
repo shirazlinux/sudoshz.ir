@@ -1,0 +1,11 @@
+
+/* reset */
+
+a,abbr,acronym,address,blockquote,body,caption,code,dd,del,dfn,div,dl,dt,em,fieldset,figure,form,h1,h2,h3,h4,h5,h6,html,img,label,legend,li,ol,p,pre,q,span,table,tbody,td,tfoot,th,thead,tr,ul {
+	border:0;
+	margin:0;
+	padding:0;
+	line-height: inherit;
+    box-sizing: border-box;
+}
+

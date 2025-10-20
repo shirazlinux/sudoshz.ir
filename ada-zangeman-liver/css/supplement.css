@@ -1,0 +1,86 @@
+/* css supplement for epubv3 */
+
+@media all {
+    body {
+/* 
+    	-adobe-hyphenate: auto;
+        -webkit-hyphens: auto;
+        -moz-hyphens: auto;
+        -epub-hyphens: auto;
+        hyphens: auto;
+ */
+    }
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    table,
+    p.sous_titre {
+    	adobe-hyphenate: none;
+        -webkit-hyphens: none;
+        -moz-hyphens: none;
+        -epub-hyphens: none;
+        hyphens: none;
+        page-break-inside: avoid;
+    }
+    
+    /* listes */
+    /* ceux qui n'ont pas CSS3 ont la puce par défaut */
+    ul {
+        list-style-type: none;
+    }
+    ul li {
+        padding: 0 0 0.3em 0em;
+    }
+    ul li:before {
+        content: "– ";
+    }
+    
+    /* notes, fleche haut */
+    a.cf-retour-note:after {
+       content: " ↑";
+    }
+    
+    .ref-fn:before {
+	  content:"[";
+    }
+    .ref-fn:after
+    {
+	  content:"]";
+    }
+
+    /* table des matières */
+    
+    ul.tdm li:before, ul.cf-tdm li:before, ul.cf-catalogue li:before {
+        content: none;
+    }
+    ul li.todolist:before {
+        content: "%5C2192%5C00A0";
+    }
+    .cf-note-pied a {
+        word-wrap: break-word;
+        word-break: break-all;
+        word-break: break-word;
+    }
+	img.cf-portrait{
+ 	 shape-outside:circle(50%);
+	}
+	.cf-x-notes-url{
+		overflow-wrap:break-word;
+	}
+	a.cf-url{
+		word-break:break-all;
+	}
+	figure {
+		position: relative;
+	}
+	.longdesc-wrapper {
+		position: absolute;
+		top: 0;
+	}
+
+}
+
+

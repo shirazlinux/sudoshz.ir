@@ -1,0 +1,22 @@
+/* colors */
+
+:root {
+
+    --yellow: hsla(51, 95%, 73%, 1.0);
+    --yellow2: hsla(55, 91%, 73%, 1.0);
+    --yellow3: hsla(50, 100%, 78%, 1.0);
+    --green: hsla(174, 37%, 49%, 1.0);
+    --dark-green: rgb(51, 122, 115);
+    --light-green: hsla(181, 34%, 74%, 1.0);
+    --light-green2: hsla(187, 36%, 69%, 1.0);
+    --light-green3: hsla(181, 46%, 70%, 1.0);
+    --light-green4: hsla(181, 34%, 82%, 1.0);
+    --cyan: hsla(203, 67%, 71%, 1.0);
+    --cyan2: hsla(203, 67%, 80%, 1.0);
+    --lavender: hsla(222, 53%, 78%, 1.0);
+    --pink: hsla(341, 74%, 82%, 1.0);
+    --gray: hsla(352, 7%, 81%, 1.0);
+    --gray2: hsla(165, 14%, 70%, 1.0);
+    --red: hsla(352, 95%, 63%, 1.0);
+  } 
+  

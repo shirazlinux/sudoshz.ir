@@ -1,0 +1,118 @@
+/* tweaks */
+
+#ada04 img {
+    object-position: left bottom;
+    padding-bottom: 0;
+}
+
+#ada08 img {
+    padding: 4em;
+}
+
+#ada08a img {
+    object-position: right center;
+}
+
+#ada10 {
+    background-color: var(--light-green);
+}
+
+#ada10 img {
+    object-position: right bottom;
+}
+
+#ada11 {
+    background-color: var(--light-green3);
+}
+
+/* #ada11 img {
+    object-fit: cover;
+    object-position: left center;
+} */
+
+#ada12 {
+    background-color: var(--yellow);
+}
+
+#ada12 img {
+    object-position: left bottom;
+    padding-bottom: 0;
+}
+
+#ada13 img {
+    object-position: right bottom;
+}
+
+#ada16 img {
+    padding: 0;
+}
+
+#ada19 img {
+    padding: 4em;
+}
+
+#ada21 {
+    background-color: var(--yellow2);
+}
+
+#ada23 {
+    background-color: var(--light-green2);
+}
+
+#ada23 img {
+    object-position: center bottom;
+}
+
+#ada27 img {
+/*     object-fit: cover; */
+/*     object-position: right bottom; */
+    padding: 0;
+}
+
+#ada29 {
+    background-color: var(--pink);
+}
+
+#ada32 img {
+    padding: 0;
+}
+
+#ada34 {
+    background-color: var(--gray);
+}
+
+#ada40 {
+    background-color: var(--yellow3);
+}
+
+#ada40 img {
+/*     object-fit: cover; */
+/*     object-position: right center; */
+}
+
+#ada46:after {
+    display: block;
+    width: 100%;
+    height: 50%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    background-color: var(--gray2);
+    content: " ";
+    z-index: 0;
+}
+
+#ada46 img {
+    position: relative;
+    z-index: 100;
+    padding: 0;
+}
+
+#ada51 img {
+    z-index: 100;
+    object-position: right top;
+}
+
+body.auteurs img {
+    mix-blend-mode: multiply;
+}

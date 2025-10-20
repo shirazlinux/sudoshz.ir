@@ -1,0 +1,646 @@
+@font-face {
+  font-family: vazirmatn;
+  src: url(../fonts/Vazirmatn-Medium.woff2);
+}
+
+
+
+/* spec */
+html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  height: -webkit-fill-available;
+}
+body {
+  min-height: 100vh;
+  min-height: 100dvh;
+  margin: 0;
+  padding: 0;
+  font-family: vazirmatn;
+  font-size: 1.8vw;
+  line-height: 1.4;
+  text-align: left;
+  color: hsla(219, 17%, 17%, 1.0);
+}
+
+body.index {
+  background-color: var(--light-green);
+}
+body.presentation {
+  background-color: var(--cyan2);
+}
+body.remerciements {
+  background-color: var(--pink);
+}
+body.traduction {
+  background-color: var(--light-green4);
+}
+body.auteurs {
+  background-color: var(--light-green4);
+}
+body.colophon {
+  background-color: var(--yellow3);
+}
+article p {
+  margin-bottom: 0.7em;
+}
+
+
+/* toolbox elements par defaut */
+
+.clearer {
+	clear:both;
+	display:block;
+	font-size:0;
+	height:0;
+	line-height:0;
+	overflow:hidden;
+}
+.accessibility, .accessible, .hidden {
+	display:none !important;
+}
+.sup, sup {
+	display:inline;
+	font-size:.8em;
+	line-height:0;
+	vertical-align: super;
+}
+
+em, i {
+	font-style:italic;
+}
+b, strong {
+	font-weight:600;
+}
+a {
+  color:#1B3493;
+}
+
+hr {
+	border-top:1px solid #999;
+}
+
+/* document standard */
+
+article {
+  padding: 10vw;
+  min-height: 70vh;
+  font-size: 0.7em;
+  line-height: 1.5em;
+}
+article figure {
+  width: 100%;
+  text-align: center;
+  margin: 1em 0;
+}
+article img {
+	display: block;
+  max-width: 100%;
+  margin: auto;
+}
+
+.ada-bio {
+  margin: 1em 0 2em 0;
+}
+.ada-une-ligne {
+  max-height: 4em;
+}
+
+
+
+
+
+
+
+/* page à page */
+
+/* .ada-page {
+  display: grid;
+  height: 100vh;
+  border: 1px solid red;
+  overflow: hidden;
+  scroll-snap-align: center;
+}
+p {
+  padding: 0.5em 1em;
+}
+.ada-text-group {
+  padding: 0.5em 0;
+} */
+
+/* element par element */
+
+.ada-page {
+  display: block;
+/*     margin: 1px; */
+}
+.ada-text-group {
+ display: contents;
+}
+
+.az p {
+  height: 100vh;
+  height: 100dvh;
+  overflow: hidden;
+  scroll-snap-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  padding: 0 10vw;
+}
+span.alinea {
+  display: block;
+  width: 100%;
+  margin: 0.5em 0;
+  text-indent: 0;
+}
+
+
+
+/* figures */
+
+
+.az figure {
+  height: 100vh;
+  height: 100dvh;
+  overflow: hidden;
+  scroll-snap-align: center;
+  margin: 0;
+  text-align: center;
+  max-width: 100%;
+  position: relative;
+}
+.az img {
+	display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+
+.longdesc-wrapper {
+  font-size: 0.5em;
+  line-height: 1.4;
+  text-align: left;
+  color: #555;
+	visibility: collapse;
+	height: 1px;
+	overflow: hidden;
+  direction: ltr;
+}
+.longdesc-details {
+  font-size: 0.7em;
+  line-height: 1.4;
+  text-align: left;
+	color: #777;
+}
+
+
+/* texte */
+
+
+p.paragraphe-premier, p.premier, p.cf-premier {
+  text-indent:0mm;
+}
+p.paragraphe-lettrine, p.lettrine {
+  text-indent:2em;
+  padding-top:5em;
+}
+
+p.paragraphe-lettrine:first-letter {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+span.lettrine {
+   font-weight: bold;
+}
+
+span.accroche {
+  font-family:Luciole, sans-serif;
+}
+
+ol {
+	margin: 0 0 0 1em;
+	padding: 0;
+}
+ol li {
+	margin: 0;
+	padding: 0;
+}
+
+
+/* enrichissement inline */ 
+
+.superbold{
+  font-family:Luciole, sans-serif;
+  font-weight:700;
+  font-size:0.9em;
+}
+.cf-titre, .cf-citation, .cf-loc-etr, .cf-emphase {
+  font-style:italic;
+}
+.cf-petites-capitales, .cf-siecle {
+	font-variant:small-caps;
+}
+.cf-en-valeur {
+  font-weight: bold;
+}
+.cf-question {
+  font-weight: bold;
+  padding: 1em 0 1em 0;
+}
+
+.cf-exposant {
+	display:inline;
+	font-size:.8em;
+	line-height:0;
+	vertical-align:super;
+}
+
+.cf-url, .cf-hashtag {
+  display:inline;
+  font-family: Cousine, monospace;
+  font-size:0.85em;
+  line-height:0;
+  color:black;
+  text-decoration:none;
+  letter-spacing:-0.5px;
+}
+.point-final{
+  font-size:1.2em;
+  vertical-align:baseline;
+}
+
+/* titres */
+
+h1, h2, h3, h4, h5, h6 {
+	break-after: avoid;
+	break-inside: avoid;
+	page-break-after: avoid;
+	page-break-inside: avoid;
+}
+
+h1.gros-titre{
+  font-size:3em;
+  line-height:1.2;
+  text-align:left;
+  hyphens:none;
+}
+h1,h2,h3{
+  font-family:Luciole, sans-serif;
+  font-weight:700;
+  hyphens:none;
+  margin:0;
+}
+h1{
+  font-size:1.4em;
+  line-height:1.3;
+  padding:2em 0 1em 0;
+  text-align: left;
+  margin: 0 0 2em 0;
+  padding: 0;
+  text-transform: uppercase;
+}
+.index h1 {
+  margin-bottom: 0;
+}
+h2{
+  font-size:1.2em;
+  line-height:1.3;
+  padding:2em 0 1em 0;
+}
+
+h3{
+  font-size:1.2em;
+  line-height:1.3;
+  padding:1em 0 0.7em 0;
+}
+
+
+h1 + p, h2 + p, h3 + p, h4 + p, h5 + p, h6 + p {
+	text-indent: 0;
+}
+
+
+/* paratexte */
+
+h6.paratexte{
+  font-size:1em;
+  line-height:1.4;
+  font-weight:normal;
+  margin:0.6em 0 0.3em 0;
+}
+h6.paratexte, p.paratexte, p.ouvrage {
+  text-align:left;
+  text-indent:0;
+}
+p.ouvrage {
+  margin:0 0 0.3em 0;
+}
+p.ouvrage em {
+  font-weight:600;
+}
+.bloc-pied {
+	margin: 1em 0 0 0;
+}
+.petit-texte p, .petit-texte h6{
+  font-size: 0.9em;
+  line-height: 1.4;
+  margin:0 0 0.4em 0;
+}
+.tout-petit-texte p, .tout-petit-texte h6 {
+  font-size: 0.8em;
+  line-height: 1.4;
+  margin:0 0 0.4em 0;
+}
+.tout-petit-texte p:last-child {
+  margin:0;
+}
+
+p.soutien {
+  margin: 1em 0;
+  font-size: 0.8em;
+  line-height: 1.5;
+}
+
+.cf-signature {
+	font-size: 0.85em;
+  line-height: 1.5em;
+	text-align: right;
+	margin-top: 2em;
+}
+
+.mention {
+  display: block;
+  font-family: "Luciole", Helvetica, serif;
+  font-size: 1em;
+  margin-bottom: 0.3em;
+}
+
+/* colophon */
+
+.cf-colophon p {
+	font-family:"Luciole", Helvetica, serif;
+	font-size:0.85em;
+	margin-top: 0.3em;
+	margin-bottom: 0.5em;
+	text-align:left;
+	text-indent: 0;
+}
+a.logo {
+  display: block;
+  width: 7em;
+  height: 3em;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.logo-fsfe {
+  background-image: url(../images/logo-fsfe.png);
+  float: left;
+  margin-bottom: 0.5em;
+}
+
+/* pages de titre */
+
+.cf-page-titre {
+	text-align:center;
+	margin: 2em 2em;
+}
+.cf-page-titre .cf-auteur{
+	/*font-family:Luciole, sans-serif;*/
+  font-size:1em;
+  padding-top:2em;
+  padding-bottom:1em;
+	text-align:left;
+	font-weight:600;
+  text-indent:0;
+}
+.cf-page-titre h1{
+  font-size: 2em;
+  line-height: 1.2;
+	padding: 2em 0 0 0;
+}
+.cf-page-titre h1,.page-titre h2{
+  text-indent:0;
+	text-align:center;
+}
+.cf-page-titre h2{
+  margin:-1em 0;
+  font-size: 1.2em;
+	text-align:center;
+	line-height:1.3;
+}
+.cf-page-titre .cf-collection {
+  font-family:"Luciole", Helvetica, serif;
+	text-align:center;
+	margin: 2em 0 -1em 0;
+  text-transform: uppercase;
+}
+.cf-page-titre .spacer {
+	height: 2em;
+}
+
+.cf-page-titre .cf-editeur
+{
+	font-family:"Luciole", Helvetica, serif;
+	font-size:0.9em;
+	line-height:1.1;
+	margin: 4em 0 .4em 0;
+	text-align:center;
+	text-indent:0;
+}
+
+/* fonds de couleur */
+
+.back-yellow {
+  background-color: var(--yellow);
+}
+.back-cyan {
+  background-color: var(--cyan);
+}
+.back-green {
+  background-color: var(--green);
+}
+.back-light-green {
+  background-color: var(--light-green);
+}
+.back-lavender {
+  background-color: var(--lavender);
+}
+.back-pink {
+  background-color: var(--pink);
+}
+.back-gray {
+  background-color: var(--gray);
+}
+
+
+
+/* Lettrines */
+
+.ada-lettrine {
+	display: block;
+	float: left;
+	height: 4em;
+	width: 2em;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: left bottom;
+}
+.ada-lettrine .lettre {
+	display: block;
+	font-size: 1em;
+	opacity: 0.0001;
+	text-align: right;
+}
+.ada-lettrine.a-fucsia {
+    width: 3.5em;
+    background-image: url(../images/A-fucsia.png);
+}
+.ada-lettrine.a-red {
+    width: 3.5em;
+    background-image: url(../images/A-red2.png);
+}
+.ada-lettrine.a-violet {
+    width: 3.9em;
+    background-image: url(../images/A-violet.png);
+}
+.ada-lettrine.a-yellow {
+    width: 3.9em;
+    background-image: url(../images/A-yellow.png);
+}
+.ada-lettrine.a-green {
+    width: 3.4em;
+    background-image: url(../images/A-olive.png);
+}
+.ada-lettrine.a-cyan {
+    width: 3.4em;
+    background-image: url(../images/A-cyan.png);
+}
+.ada-lettrine.c-red {
+    width: 3em;
+    background-image: url(../images/C-red1.png);
+}
+.ada-lettrine.d-red {
+	width: 3.9em;
+	background-image: url(../images/D-red1.png);
+}
+.ada-lettrine.e-yellow {
+    width: 2.8em;
+    background-image: url(../images/E-yellow.png);
+}
+.ada-lettrine.e-cyan {
+    width: 2.8em;
+    background-image: url(../images/E-cyan.png);
+}
+.ada-lettrine.e-pink {
+    width: 2.8em;
+    background-image: url(../images/E-pink.png);
+}
+.ada-lettrine.e-green {
+    width: 2.8em;
+    background-image: url(../images/E-green.png);
+}
+.ada-lettrine.i-cyan {
+    width: 2.2em;
+    background-image: url(../images/I-cyan.png);
+}
+.ada-lettrine.i-yellow {
+    width: 2.2em;
+    background-image: url(../images/I-yellow.png);
+}
+.ada-lettrine.j-pink {
+    width: 2.2em;
+    background-image: url(../images/J-pink.png);
+}
+.ada-lettrine.l-green {
+	width: 3em;
+	background-image: url(../images/L-olive.png);
+}
+.ada-lettrine.l-fuscia {
+	width: 3em;
+	background-image: url(../images/L-fuscia.png);
+}
+.ada-lettrine.l-cyan {
+	width: 3em;
+	background-image: url(../images/L-lightcyan.png);
+}
+.ada-lettrine.l-red {
+	width: 3em;
+	background-image: url(../images/L-red2.png);
+}
+.ada-lettrine.m-yellow {
+	width: 5em;
+	background-image: url(../images/M-yellow.png);
+}
+.ada-lettrine.o-cyan {
+    width: 3.4em;
+    background-image: url(../images/O-cyan.png);
+}
+.ada-lettrine.o-green {
+    width: 3.4em;
+    background-image: url(../images/O-green.png);
+}
+.ada-lettrine.s-red1 {
+    width: 2.5em;
+    background-image: url(../images/S-red1.png);
+}
+.ada-lettrine.t-pink {
+	width: 3.2em;
+	background-image: url(../images/T-pink.png);
+}
+.ada-lettrine.t-olive {
+    width: 3.2em;
+    background-image: url(../images/T-olive.png);
+}
+.ada-lettrine.t-red2 {
+    width: 3.2em;
+    background-image: url(../images/T-red2.png);
+}
+.ada-lettrine.u-green {
+	width: 3.7em;
+	background-image: url(../images/U-green.png);
+}
+.ada-lettrine.u-yellow {
+    width: 3.4em;
+    background-image: url(../images/U-yellow.png);
+}
+.ada-lettrine.z-brown {
+    width: 3.4em;
+    background-image: url(../images/Z-brown.png);
+}
+
+
+a.cta {
+  display: inline-block;
+  margin: 1em;
+  background-color: yellow;
+  color: var(--red);
+  padding: 1em 2em;
+  text-decoration: none;
+  transition: all 0.5s;
+}
+a.cta:hover {
+  
+  background-color: var(--red);
+  color: yellow;
+}
+
+.editions figure {
+  background-color: white;
+}
+.editions figure img {
+  max-width: 50%;
+  margin: 0.5em auto;
+}
+
+ul.lang-list {
+    margin: 1em 0 1em 0;
+    border-top: 1px dotted #333;
+    border-bottom: 1px dotted #333;
+    padding: 1em 0 1em 0;
+}
