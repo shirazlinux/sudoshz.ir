@@ -55,794 +55,799 @@
         "md5": "fcd0f7331c45fefec9bbeb4c80ca204e"
     },
     {
-        "path": "ada-zangeman-liver",
+        "path": "ada-zangeman-presentation",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/ada-zangeman-liver/az-diaporama.html",
-        "type": "file",
-        "md5": "3ba233b0c22893705e2ea718a0b07a5d"
-    },
-    {
-        "path": "ada-zangeman-liver/css",
+        "path": "ada-zangeman-presentation/css",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/ada-zangeman-liver/css/ada.css",
+        "path": "/ada-zangeman-presentation/css/ada.css",
         "type": "file",
         "md5": "febf21453c63e75d34cc76903dd8f6ff"
     },
     {
-        "path": "/ada-zangeman-liver/css/catalogue.css",
+        "path": "/ada-zangeman-presentation/css/catalogue.css",
         "type": "file",
         "md5": "77c4cb1babe2bd7634b32eb4ad51b68b"
     },
     {
-        "path": "/ada-zangeman-liver/css/fonts.css",
+        "path": "/ada-zangeman-presentation/css/fonts.css",
         "type": "file",
         "md5": "6c9ac45b47591e027aa869aee64ca6c0"
     },
     {
-        "path": "/ada-zangeman-liver/css/navigation.css",
+        "path": "/ada-zangeman-presentation/css/navigation.css",
         "type": "file",
         "md5": "d247ae42f3143ca7e296a174f1f71db5"
     },
     {
-        "path": "/ada-zangeman-liver/css/reset.css",
+        "path": "/ada-zangeman-presentation/css/reset.css",
         "type": "file",
         "md5": "bee5f309cd4477931a2c1e2f3dabe443"
     },
     {
-        "path": "/ada-zangeman-liver/css/responsive.css",
+        "path": "/ada-zangeman-presentation/css/responsive.css",
         "type": "file",
         "md5": "fd23a703480d61b610568cf4274a345e"
     },
     {
-        "path": "/ada-zangeman-liver/css/supplement.css",
+        "path": "/ada-zangeman-presentation/css/supplement.css",
         "type": "file",
         "md5": "c95b04be3ab476659fe04bd43b0ad20d"
     },
     {
-        "path": "/ada-zangeman-liver/css/tweaks.css",
+        "path": "/ada-zangeman-presentation/css/tweaks.css",
         "type": "file",
         "md5": "a615c13e93892ae99a64b00902390de6"
     },
     {
-        "path": "/ada-zangeman-liver/css/vars.css",
+        "path": "/ada-zangeman-presentation/css/vars.css",
         "type": "file",
         "md5": "f523131fe0f507d1d6e88c1671fec972"
     },
     {
-        "path": "ada-zangeman-liver/fa",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/ada-zangeman-liver/fa/az_en.html",
-        "type": "file",
-        "md5": "d613051de6dad663a1d8d20c5020193b"
-    },
-    {
-        "path": "/ada-zangeman-liver/favicon.png",
+        "path": "/ada-zangeman-presentation/favicon.png",
         "type": "file",
         "md5": "caacadc6600d380b135610217ce99da1"
     },
     {
-        "path": "ada-zangeman-liver/fonts",
+        "path": "ada-zangeman-presentation/fonts",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/ada-zangeman-liver/fonts/Vazirmatn-Medium.woff2",
+        "path": "/ada-zangeman-presentation/fonts/Vazirmatn-Medium.woff2",
         "type": "file",
         "md5": "1fe8d65de1e6bd564ffc03b7d09fd9ec"
     },
     {
-        "path": "ada-zangeman-liver/images",
+        "path": "ada-zangeman-presentation/images",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/ada-zangeman-liver/images/A-cyan.png",
+        "path": "/ada-zangeman-presentation/images/A-cyan.png",
         "type": "file",
         "md5": "575a1dbfeca7c5700b5d488ca29a8cdb"
     },
     {
-        "path": "/ada-zangeman-liver/images/A-fucsia.png",
+        "path": "/ada-zangeman-presentation/images/A-fucsia.png",
         "type": "file",
         "md5": "611e61d9d1af22e9fa8d60821d8f52e3"
     },
     {
-        "path": "/ada-zangeman-liver/images/A-olive.png",
+        "path": "/ada-zangeman-presentation/images/A-olive.png",
         "type": "file",
         "md5": "fa8c18a5a0a5995565a5753f4cc94c3b"
     },
     {
-        "path": "/ada-zangeman-liver/images/A-red2.png",
+        "path": "/ada-zangeman-presentation/images/A-red2.png",
         "type": "file",
         "md5": "f56e5ffa93d218ff38f89d6833c7ef2a"
     },
     {
-        "path": "/ada-zangeman-liver/images/A-violet.png",
+        "path": "/ada-zangeman-presentation/images/A-violet.png",
         "type": "file",
         "md5": "fbea4f6e63449e5c8aff54b2f438d5f6"
     },
     {
-        "path": "/ada-zangeman-liver/images/A-yellow.png",
+        "path": "/ada-zangeman-presentation/images/A-yellow.png",
         "type": "file",
         "md5": "59a2e879e67212227ee097f8b5444e66"
     },
     {
-        "path": "/ada-zangeman-liver/images/A_cyr-violet.png",
+        "path": "/ada-zangeman-presentation/images/A_cyr-violet.png",
         "type": "file",
         "md5": "147883936349fc9388afb4e49fe8efff"
     },
     {
-        "path": "/ada-zangeman-liver/images/A_cyr-yellow.png",
+        "path": "/ada-zangeman-presentation/images/A_cyr-yellow.png",
         "type": "file",
         "md5": "4fca3c562e2776c624823c5978276396"
     },
     {
-        "path": "/ada-zangeman-liver/images/C-cyan.png",
+        "path": "/ada-zangeman-presentation/images/C-cyan.png",
         "type": "file",
         "md5": "a2bba21d0d9f78493479934ea2f5cfce"
     },
     {
-        "path": "/ada-zangeman-liver/images/C-pink.png",
+        "path": "/ada-zangeman-presentation/images/C-pink.png",
         "type": "file",
         "md5": "537d5f2f6f75ca5086c6a8fd3f62273f"
     },
     {
-        "path": "/ada-zangeman-liver/images/C-red1.png",
+        "path": "/ada-zangeman-presentation/images/C-red1.png",
         "type": "file",
         "md5": "568fc7d8ec56422febeb5a6b928c8dfa"
     },
     {
-        "path": "/ada-zangeman-liver/images/C-yellow.png",
+        "path": "/ada-zangeman-presentation/images/C-yellow.png",
         "type": "file",
         "md5": "5cbf5d3cf811602699c105a881fc969e"
     },
     {
-        "path": "/ada-zangeman-liver/images/D-cyan.png",
+        "path": "/ada-zangeman-presentation/images/D-cyan.png",
         "type": "file",
         "md5": "9fb118e38a3e5af9838f0434b45dc408"
     },
     {
-        "path": "/ada-zangeman-liver/images/D-lightcyan.png",
+        "path": "/ada-zangeman-presentation/images/D-lightcyan.png",
         "type": "file",
         "md5": "1008212c03119f8eddb7da8d2cccd4cd"
     },
     {
-        "path": "/ada-zangeman-liver/images/D-red1.png",
+        "path": "/ada-zangeman-presentation/images/D-red1.png",
         "type": "file",
         "md5": "aa6a8ae0040cfdd724df15f2cace1029"
     },
     {
-        "path": "/ada-zangeman-liver/images/D-red2.png",
+        "path": "/ada-zangeman-presentation/images/D-red2.png",
         "type": "file",
         "md5": "c980893c8f1a6d13d8fe41fffea2714e"
     },
     {
-        "path": "/ada-zangeman-liver/images/D-yellow2.png",
+        "path": "/ada-zangeman-presentation/images/D-yellow2.png",
         "type": "file",
         "md5": "fbaea7eeeb9138a2fd22e1d3c64fe140"
     },
     {
-        "path": "/ada-zangeman-liver/images/E-cyan.png",
+        "path": "/ada-zangeman-presentation/images/E-cyan.png",
         "type": "file",
         "md5": "ba38367c22fc23b92e404cecf14cd7e3"
     },
     {
-        "path": "/ada-zangeman-liver/images/E-green.png",
+        "path": "/ada-zangeman-presentation/images/E-green.png",
         "type": "file",
         "md5": "06cde71762f87a03f358063d5c196a42"
     },
     {
-        "path": "/ada-zangeman-liver/images/E-pink.png",
+        "path": "/ada-zangeman-presentation/images/E-pink.png",
         "type": "file",
         "md5": "3b1ff79030b74164c62dc2871cad22b9"
     },
     {
-        "path": "/ada-zangeman-liver/images/E-red1.png",
+        "path": "/ada-zangeman-presentation/images/E-red1.png",
         "type": "file",
         "md5": "c3a8a21af0fa9f9aaefc5c870d6c2945"
     },
     {
-        "path": "/ada-zangeman-liver/images/E-red2.png",
+        "path": "/ada-zangeman-presentation/images/E-red2.png",
         "type": "file",
         "md5": "41316281894e21b0a58f069c98e6350c"
     },
     {
-        "path": "/ada-zangeman-liver/images/E-red3.png",
+        "path": "/ada-zangeman-presentation/images/E-red3.png",
         "type": "file",
         "md5": "74028622ed887097624cfe0890210bd7"
     },
     {
-        "path": "/ada-zangeman-liver/images/E-yellow.png",
+        "path": "/ada-zangeman-presentation/images/E-yellow.png",
         "type": "file",
         "md5": "7d5389ed64717abd224081f2c353b172"
     },
     {
-        "path": "/ada-zangeman-liver/images/Em-red2.png",
+        "path": "/ada-zangeman-presentation/images/Em-red2.png",
         "type": "file",
         "md5": "cf06ce0d11227a851a3d765c6da11404"
     },
     {
-        "path": "/ada-zangeman-liver/images/En-cyan.png",
+        "path": "/ada-zangeman-presentation/images/En-cyan.png",
         "type": "file",
         "md5": "b36ae67e9b5476bba2454b4956c2f8f2"
     },
     {
-        "path": "/ada-zangeman-liver/images/En-lightcyan.png",
+        "path": "/ada-zangeman-presentation/images/En-lightcyan.png",
         "type": "file",
         "md5": "430723d7f3f9930657073f1f1c3fcfdb"
     },
     {
-        "path": "/ada-zangeman-liver/images/En-olive.png",
+        "path": "/ada-zangeman-presentation/images/En-olive.png",
         "type": "file",
         "md5": "196816fa9013194ced509cfade37bca2"
     },
     {
-        "path": "/ada-zangeman-liver/images/En-red2.png",
+        "path": "/ada-zangeman-presentation/images/En-red2.png",
         "type": "file",
         "md5": "098bd7fb2dbece09e6eecf5bc8fa674d"
     },
     {
-        "path": "/ada-zangeman-liver/images/F-red1.png",
+        "path": "/ada-zangeman-presentation/images/F-red1.png",
         "type": "file",
         "md5": "c761dd3e47c61e1c964780a41897a955"
     },
     {
-        "path": "/ada-zangeman-liver/images/F-yellow.png",
+        "path": "/ada-zangeman-presentation/images/F-yellow.png",
         "type": "file",
         "md5": "62177f98c1b6bfe4831bac1de5989a07"
     },
     {
-        "path": "/ada-zangeman-liver/images/H-cyan.png",
+        "path": "/ada-zangeman-presentation/images/H-cyan.png",
         "type": "file",
         "md5": "a6a7896a446ef91c37990ac251001bd0"
     },
     {
-        "path": "/ada-zangeman-liver/images/H-pink.png",
+        "path": "/ada-zangeman-presentation/images/H-pink.png",
         "type": "file",
         "md5": "576c3ab2bcc69cb7383480da93d859d7"
     },
     {
-        "path": "/ada-zangeman-liver/images/I-cyan.png",
+        "path": "/ada-zangeman-presentation/images/I-cyan.png",
         "type": "file",
         "md5": "73f0666b393af75433c371edeff4780b"
     },
     {
-        "path": "/ada-zangeman-liver/images/I-cyan0.png",
+        "path": "/ada-zangeman-presentation/images/I-cyan0.png",
         "type": "file",
         "md5": "f8a1345682485189aa4808eb0264a55d"
     },
     {
-        "path": "/ada-zangeman-liver/images/I-fucsia.png",
+        "path": "/ada-zangeman-presentation/images/I-fucsia.png",
         "type": "file",
         "md5": "83fff9d6fe9fe2b4c739b6d6f2d2368b"
     },
     {
-        "path": "/ada-zangeman-liver/images/I-lightcyan.png",
+        "path": "/ada-zangeman-presentation/images/I-lightcyan.png",
         "type": "file",
         "md5": "e4f4ef15fe1e078404c4d855740d05b4"
     },
     {
-        "path": "/ada-zangeman-liver/images/I-olive.png",
+        "path": "/ada-zangeman-presentation/images/I-olive.png",
         "type": "file",
         "md5": "b76f988d4f16651908b1511de730fea2"
     },
     {
-        "path": "/ada-zangeman-liver/images/I-red1.png",
+        "path": "/ada-zangeman-presentation/images/I-red1.png",
         "type": "file",
         "md5": "060cc1143aa10842aca17bceebb0a86e"
     },
     {
-        "path": "/ada-zangeman-liver/images/I-yellow.png",
+        "path": "/ada-zangeman-presentation/images/I-yellow.png",
         "type": "file",
         "md5": "61430be6990aa6b98e7e16edfbda5137"
     },
     {
-        "path": "/ada-zangeman-liver/images/J-pink.png",
+        "path": "/ada-zangeman-presentation/images/J-pink.png",
         "type": "file",
         "md5": "a3048226c1616eafaf6a7aeeaf3dced9"
     },
     {
-        "path": "/ada-zangeman-liver/images/J-red2.png",
+        "path": "/ada-zangeman-presentation/images/J-red2.png",
         "type": "file",
         "md5": "ed629b7519b0b91919b5941812142594"
     },
     {
-        "path": "/ada-zangeman-liver/images/Ja-green.png",
+        "path": "/ada-zangeman-presentation/images/Ja-green.png",
         "type": "file",
         "md5": "54ac838e2d7145987d5bb8dc1a38f9be"
     },
     {
-        "path": "/ada-zangeman-liver/images/L-cyan.png",
+        "path": "/ada-zangeman-presentation/images/L-cyan.png",
         "type": "file",
         "md5": "03d4286c68ec795a4ece0544439cb3c6"
     },
     {
-        "path": "/ada-zangeman-liver/images/L-fucsia.png",
+        "path": "/ada-zangeman-presentation/images/L-fucsia.png",
         "type": "file",
         "md5": "9b3c464aefabda5fef6beb32288ef4a5"
     },
     {
-        "path": "/ada-zangeman-liver/images/L-fuscia.png",
+        "path": "/ada-zangeman-presentation/images/L-fuscia.png",
         "type": "file",
         "md5": "9b3c464aefabda5fef6beb32288ef4a5"
     },
     {
-        "path": "/ada-zangeman-liver/images/L-lightcyan.png",
+        "path": "/ada-zangeman-presentation/images/L-lightcyan.png",
         "type": "file",
         "md5": "c68c4a5a93e99a9ab11b7112f0aea6c6"
     },
     {
-        "path": "/ada-zangeman-liver/images/L-olive.png",
+        "path": "/ada-zangeman-presentation/images/L-olive.png",
         "type": "file",
         "md5": "6df292d7d064d7905d4fa9c0d69b0d34"
     },
     {
-        "path": "/ada-zangeman-liver/images/L-red2.png",
+        "path": "/ada-zangeman-presentation/images/L-red2.png",
         "type": "file",
         "md5": "2af7bbb68a0aa830f8672a54b298a3ce"
     },
     {
-        "path": "/ada-zangeman-liver/images/L-yellow2.png",
+        "path": "/ada-zangeman-presentation/images/L-yellow2.png",
         "type": "file",
         "md5": "f1beb7716d1b98e14affb49872185dfe"
     },
     {
-        "path": "/ada-zangeman-liver/images/M-yellow.png",
+        "path": "/ada-zangeman-presentation/images/M-yellow.png",
         "type": "file",
         "md5": "341aee593c4ebcbe68443fa055add65e"
     },
     {
-        "path": "/ada-zangeman-liver/images/N-cyan.png",
+        "path": "/ada-zangeman-presentation/images/N-cyan.png",
         "type": "file",
         "md5": "33210402656f9fd73abeed7b7f205d92"
     },
     {
-        "path": "/ada-zangeman-liver/images/N-lightcyan.png",
+        "path": "/ada-zangeman-presentation/images/N-lightcyan.png",
         "type": "file",
         "md5": "9eecb1656f6e400bf4f11e91710c3e02"
     },
     {
-        "path": "/ada-zangeman-liver/images/N-olive.png",
+        "path": "/ada-zangeman-presentation/images/N-olive.png",
         "type": "file",
         "md5": "a3d97475d0a330e041c28da41a5e373e"
     },
     {
-        "path": "/ada-zangeman-liver/images/N-red2.png",
+        "path": "/ada-zangeman-presentation/images/N-red2.png",
         "type": "file",
         "md5": "e8adc217a20a49abb49d124046e7fca0"
     },
     {
-        "path": "/ada-zangeman-liver/images/O-cyan.png",
+        "path": "/ada-zangeman-presentation/images/O-cyan.png",
         "type": "file",
         "md5": "534f8703bd8d6d6cbe5caf214bd479d7"
     },
     {
-        "path": "/ada-zangeman-liver/images/O-green.png",
+        "path": "/ada-zangeman-presentation/images/O-green.png",
         "type": "file",
         "md5": "c1a16064fde8c986537eef84dda5d42d"
     },
     {
-        "path": "/ada-zangeman-liver/images/O-lightcyan.png",
+        "path": "/ada-zangeman-presentation/images/O-lightcyan.png",
         "type": "file",
         "md5": "c67eee98b2bcbfef1f58403a260621b5"
     },
     {
-        "path": "/ada-zangeman-liver/images/O-pink.png",
+        "path": "/ada-zangeman-presentation/images/O-pink.png",
         "type": "file",
         "md5": "b210a55b56efe5f23b37150f45b7b709"
     },
     {
-        "path": "/ada-zangeman-liver/images/O-yellow.png",
+        "path": "/ada-zangeman-presentation/images/O-yellow.png",
         "type": "file",
         "md5": "d6deb2b39c8a61938c6759ceb2712cb0"
     },
     {
-        "path": "/ada-zangeman-liver/images/Pe-brown.png",
+        "path": "/ada-zangeman-presentation/images/Pe-brown.png",
         "type": "file",
         "md5": "d8e3244d0fee3e982c5c980295e9a0c2"
     },
     {
-        "path": "/ada-zangeman-liver/images/S-red1.png",
+        "path": "/ada-zangeman-presentation/images/S-red1.png",
         "type": "file",
         "md5": "5f964ff4aee16d3c7ac9b94e7a1e5b41"
     },
     {
-        "path": "/ada-zangeman-liver/images/S-red2.png",
+        "path": "/ada-zangeman-presentation/images/S-red2.png",
         "type": "file",
         "md5": "e32d1dff411a4b8733cb936cda79060f"
     },
     {
-        "path": "/ada-zangeman-liver/images/S-yellow.png",
+        "path": "/ada-zangeman-presentation/images/S-yellow.png",
         "type": "file",
         "md5": "020d2870ab90f765bfd789decc743912"
     },
     {
-        "path": "/ada-zangeman-liver/images/Shta-pink.png",
+        "path": "/ada-zangeman-presentation/images/Shta-pink.png",
         "type": "file",
         "md5": "b1995bf4e78bc456cfd06f5849a86425"
     },
     {
-        "path": "/ada-zangeman-liver/images/Shta-red1.png",
+        "path": "/ada-zangeman-presentation/images/Shta-red1.png",
         "type": "file",
         "md5": "6e4b3f8251206c98513f8c708b49a78d"
     },
     {
-        "path": "/ada-zangeman-liver/images/T-cyan.png",
+        "path": "/ada-zangeman-presentation/images/T-cyan.png",
         "type": "file",
         "md5": "b3a85718735f672d434c9e1ee69bd849"
     },
     {
-        "path": "/ada-zangeman-liver/images/T-olive.png",
+        "path": "/ada-zangeman-presentation/images/T-olive.png",
         "type": "file",
         "md5": "c30f6112d859349b794c543d28febd25"
     },
     {
-        "path": "/ada-zangeman-liver/images/T-pink.png",
+        "path": "/ada-zangeman-presentation/images/T-pink.png",
         "type": "file",
         "md5": "e3dda41ad2ca66aca9bfbc4e165ee06c"
     },
     {
-        "path": "/ada-zangeman-liver/images/T-red2.png",
+        "path": "/ada-zangeman-presentation/images/T-red2.png",
         "type": "file",
         "md5": "570d07829738093b78d94e32b63b71af"
     },
     {
-        "path": "/ada-zangeman-liver/images/Te-yellow.png",
+        "path": "/ada-zangeman-presentation/images/Te-yellow.png",
         "type": "file",
         "md5": "0eb310211c09a8a002161102339dda79"
     },
     {
-        "path": "/ada-zangeman-liver/images/U-green.png",
+        "path": "/ada-zangeman-presentation/images/U-green.png",
         "type": "file",
         "md5": "ca5361b18134896c5fc5f9edccaa4aca"
     },
     {
-        "path": "/ada-zangeman-liver/images/U-yellow.png",
+        "path": "/ada-zangeman-presentation/images/U-yellow.png",
         "type": "file",
         "md5": "4e394241190b321271589630d3595505"
     },
     {
-        "path": "/ada-zangeman-liver/images/U_cyr-fucsia.png",
+        "path": "/ada-zangeman-presentation/images/U_cyr-fucsia.png",
         "type": "file",
         "md5": "969eaeefcc872d216dd7d356f7214fc2"
     },
     {
-        "path": "/ada-zangeman-liver/images/Ve-yellow2.png",
+        "path": "/ada-zangeman-presentation/images/Ve-yellow2.png",
         "type": "file",
         "md5": "740b79fdc28d06e0070376f1aab6f894"
     },
     {
-        "path": "/ada-zangeman-liver/images/Z-brown.png",
+        "path": "/ada-zangeman-presentation/images/Z-brown.png",
         "type": "file",
         "md5": "f5ead4e45af16d6b0749f414b6596b11"
     },
     {
-        "path": "/ada-zangeman-liver/images/Z-red1.png",
+        "path": "/ada-zangeman-presentation/images/Z-red1.png",
         "type": "file",
         "md5": "86e52317d327f3ccbf69a83aa979edaa"
     },
     {
-        "path": "/ada-zangeman-liver/images/Zhe-cyan.png",
+        "path": "/ada-zangeman-presentation/images/Zhe-cyan.png",
         "type": "file",
         "md5": "71c71703e1935d2e3a209eac72d75969"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-300.png",
+        "path": "/ada-zangeman-presentation/images/ada-300.png",
         "type": "file",
         "md5": "20df20815636ba8571b7e4653ab03116"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-card.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-card.jpg",
         "type": "file",
         "md5": "878ea0d946a372971f7be69c94dbd846"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-card.psd",
+        "path": "/ada-zangeman-presentation/images/ada-card.psd",
         "type": "file",
         "md5": "624fc73c2de081bdae6e42c73214e9f4"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-livre.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-livre.jpg",
         "type": "file",
         "md5": "454b49a68f4a9a921bbe59cf2b483b38"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-livre.psd",
+        "path": "/ada-zangeman-presentation/images/ada-livre.psd",
         "type": "file",
         "md5": "cd1ba0907448e5ab06670a3348e22a7d"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p01-fr-titleonly.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p01-fr-titleonly.jpg",
         "type": "file",
         "md5": "ea2585704671e5b860dd3b86021b52eb"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p03-author.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p03-author.jpg",
         "type": "file",
         "md5": "8eeac0e46a0581138cfb3f6ed2950c22"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p03-dog.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p03-dog.jpg",
         "type": "file",
         "md5": "a86f9ad4302c406a0a421d5752edaf6e"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p03-title-fr-alt.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p03-title-fr-alt.jpg",
         "type": "file",
         "md5": "c34d06b67a2fe06009fb19aa09b8ed49"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p04.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p04.jpg",
         "type": "file",
         "md5": "0ccdd8e8299473a4cb82f27ae62c08ff"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p05.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p05.jpg",
         "type": "file",
         "md5": "b5dbbb2b9b27d463640c68172247c513"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p07.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p07.jpg",
         "type": "file",
         "md5": "cc0c6f83a3239720dab78134132c6c6d"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p08a.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p08a.jpg",
         "type": "file",
         "md5": "51e85da293c31e5f58af4afa10cef88f"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p08b.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p08b.jpg",
         "type": "file",
         "md5": "5fe126890eed840f365a4bea524fe55c"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p09.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p09.jpg",
         "type": "file",
         "md5": "6f2a1f9886ae1aef9f20096b55c17b7f"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p10-11.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p10-11.jpg",
         "type": "file",
         "md5": "2143e20d9bd05e618b8356566dec85fb"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p10.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p10.jpg",
         "type": "file",
         "md5": "d54ad824c23ec59523543ffd7988fe7b"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p11.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p11.jpg",
         "type": "file",
         "md5": "d94cd860a8f8cfb5fca6ca72ca0951ac"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p11.psd",
+        "path": "/ada-zangeman-presentation/images/ada-p11.psd",
         "type": "file",
         "md5": "00f908ce630614877c394f80951dfd78"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p12.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p12.jpg",
         "type": "file",
         "md5": "fa0dc9aaa85bd20e00f38f321e59e213"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p13.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p13.jpg",
         "type": "file",
         "md5": "f5bb007a2fd833abad16785a479a8c15"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p14.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p14.jpg",
         "type": "file",
         "md5": "28eccfe5c52e60078db6600468cac891"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p15.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p15.jpg",
         "type": "file",
         "md5": "753149bd60f027991d0707f62d0eb5ed"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p16.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p16.jpg",
         "type": "file",
         "md5": "5d17b172ecd90c50cf0d2da675cd289f"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p18.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p18.jpg",
         "type": "file",
         "md5": "6279fd07d21e34f31820a3c7e5c9c837"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p19.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p19.jpg",
         "type": "file",
         "md5": "539c20e7bb9d6ccea6da9925ccb6f567"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p21.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p21.jpg",
         "type": "file",
         "md5": "0c6c56b160fce53d1d79986101a5caf6"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p23.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p23.jpg",
         "type": "file",
         "md5": "d6005de2c2668aae9791c27dad18b46b"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p24.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p24.jpg",
         "type": "file",
         "md5": "943f2f2375e72f72fb84c6a2441e7165"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p27.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p27.jpg",
         "type": "file",
         "md5": "f001879360d935cb40cca62e42166886"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p28.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p28.jpg",
         "type": "file",
         "md5": "08eb94c795578ce308d573a04cad0986"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p29.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p29.jpg",
         "type": "file",
         "md5": "66b66cd19b6ec4a080b821495755dd01"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p30.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p30.jpg",
         "type": "file",
         "md5": "b48d5ce233ab55b40a91a16b8e65f3c0"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p32.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p32.jpg",
         "type": "file",
         "md5": "fb4c39f3b223ea0377c9f74b95659f0b"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p34.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p34.jpg",
         "type": "file",
         "md5": "191313527a4e7a0b50aa210c55b6963a"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p37.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p37.jpg",
         "type": "file",
         "md5": "7783e6261f49e9c4d3d346abb92e61eb"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p38.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p38.jpg",
         "type": "file",
         "md5": "eb131c09e363ba4019cebdc1b945e85a"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p40-fr.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p40-fr.jpg",
         "type": "file",
         "md5": "ef23e0d83afca15d99690d79b0c4738d"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p42.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p42.jpg",
         "type": "file",
         "md5": "ec0971f26d1f527bd8bb635b5d66a296"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p44.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p44.jpg",
         "type": "file",
         "md5": "0c35ac188a25e251b04e350b7e22263c"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p46.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p46.jpg",
         "type": "file",
         "md5": "16771d663d25017dfa970c69ec7b63f6"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p48.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p48.jpg",
         "type": "file",
         "md5": "0757a0c5e627f09bcaff5ba0b1cba520"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p50-title-fr.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p50-title-fr.jpg",
         "type": "file",
         "md5": "73e7a637019576dacb5cf14a1462f388"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p51.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p51.jpg",
         "type": "file",
         "md5": "c848955581679bd7f64a6906897f9138"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p52-title-alt-fr.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p52-title-alt-fr.jpg",
         "type": "file",
         "md5": "1fbb4c07ffa80ae6fd35093432096cbd"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p52.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p52.jpg",
         "type": "file",
         "md5": "bb54326097880920f11700caee8843cb"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p53-reversed.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p53-reversed.jpg",
         "type": "file",
         "md5": "2e5cee1cefdca1ee0c9457194a0f7bbf"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada-p53-title-alt-fr.jpg",
+        "path": "/ada-zangeman-presentation/images/ada-p53-title-alt-fr.jpg",
         "type": "file",
         "md5": "abe804ab5e354114b9242a3bc1ecca25"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada.png",
+        "path": "/ada-zangeman-presentation/images/ada.png",
         "type": "file",
         "md5": "6a95976e4bd9d77c73c0f0f47026d4b5"
     },
     {
-        "path": "/ada-zangeman-liver/images/ada_composite_medias.jpg",
+        "path": "/ada-zangeman-presentation/images/ada_composite_medias.jpg",
         "type": "file",
         "md5": "031dbe2ea3d35a66b3adf06ad3431b50"
     },
     {
-        "path": "/ada-zangeman-liver/images/couverture_ada_L800.jpg",
+        "path": "/ada-zangeman-presentation/images/couverture_ada_L800.jpg",
         "type": "file",
         "md5": "25e28bf60299b90fb93fefcc570ca0d6"
     },
     {
-        "path": "/ada-zangeman-liver/images/cover.jpg",
+        "path": "/ada-zangeman-presentation/images/cover.jpg",
         "type": "file",
         "md5": "519f83795fffe30986531d9395cb27af"
     },
     {
-        "path": "/ada-zangeman-liver/images/cover_de.jpg",
+        "path": "/ada-zangeman-presentation/images/cover_de.jpg",
         "type": "file",
         "md5": "60860bca1c6195f105b749d814bbf30e"
     },
     {
-        "path": "/ada-zangeman-liver/images/cover_en.png",
+        "path": "/ada-zangeman-presentation/images/cover_en.png",
         "type": "file",
         "md5": "ffbf81a453abf15697ad8496e2030aa1"
     },
     {
-        "path": "/ada-zangeman-liver/images/logo-fsfe.png",
+        "path": "/ada-zangeman-presentation/images/logo-fsfe.png",
         "type": "file",
         "md5": "02cc698e6a6e27dc20a96cce755da29e"
     },
     {
-        "path": "/ada-zangeman-liver/images/logo_cfeditions.png",
+        "path": "/ada-zangeman-presentation/images/logo_cfeditions.png",
         "type": "file",
         "md5": "bfa4f808bdf87dfadcf5334bd60dff70"
     },
     {
-        "path": "ada-zangeman-liver/js",
+        "path": "/ada-zangeman-presentation/index.html",
+        "type": "file",
+        "md5": "ce99d0b17522c117ce78741873976b25"
+    },
+    {
+        "path": "ada-zangeman-presentation/js",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/ada-zangeman-liver/js/ragadjust.js",
+        "path": "/ada-zangeman-presentation/js/ragadjust.js",
         "type": "file",
         "md5": "5fe533ac3b8faf6449fc3aac60cc98c5"
     },
     {
-        "path": "/ada-zangeman-liver/js/reload-in-place.js",
+        "path": "/ada-zangeman-presentation/js/reload-in-place.js",
         "type": "file",
         "md5": "fd52840d354446d98d9aa708cd02a7fe"
     },
     {
-        "path": "/ada-zangeman-liver/js/scripts.js",
+        "path": "/ada-zangeman-presentation/js/scripts.js",
         "type": "file",
         "md5": "15f9e4e8d75b09b64d2dd1b9f7d9812d"
     },
     {
-        "path": "/ada-zangeman-liver/js/scripts_old.js",
+        "path": "/ada-zangeman-presentation/js/scripts_old.js",
         "type": "file",
         "md5": "1387020a6f959dbc62dca92589f9cb21"
     },
     {
-        "path": "/ada-zangeman-liver/js/scripts_old_2.js",
+        "path": "/ada-zangeman-presentation/js/scripts_old_2.js",
         "type": "file",
         "md5": "20c54249dc48bc7b0b585f0f197c67ed"
+    },
+    {
+        "path": "/ada-zangeman-presentation/push.sh",
+        "type": "file",
+        "md5": "71d63be239a095db9e70af6ef11d3098"
+    },
+    {
+        "path": "ada-zangeman-presentation/text",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ada-zangeman-presentation/text/index.html",
+        "type": "file",
+        "md5": "d613051de6dad663a1d8d20c5020193b"
     },
     {
         "path": "assets",
@@ -1282,7 +1287,7 @@
     {
         "path": "/bahar-narafzarazad/index.html",
         "type": "file",
-        "md5": "21aaeddbc19484c4014ea56cf0aeeef9"
+        "md5": "4b23e637dcae889c3a49922f4a34484a"
     },
     {
         "path": "bumpbuddy",
@@ -1292,7 +1297,7 @@
     {
         "path": "/bumpbuddy/index.html",
         "type": "file",
-        "md5": "1d9d3ff0227d1d4605ec36c6da748e1c"
+        "md5": "7c473b22cbe7e41b256a2eb907184642"
     },
     {
         "path": "chaharshanbesori",
@@ -1342,7 +1347,7 @@
     {
         "path": "/devops-conf-2023/index.html",
         "type": "file",
-        "md5": "58a8317ec49ea5e0d681031c5a7f0878"
+        "md5": "257b59aae4465818096641ccd2eb9cd1"
     },
     {
         "path": "devops-network-conf",
@@ -1352,7 +1357,7 @@
     {
         "path": "/devops-network-conf/index.html",
         "type": "file",
-        "md5": "cc5da684ad6da0e1ad6c70500e3de0e5"
+        "md5": "cfb3671fc4c2640c894cd887c45078d8"
     },
     {
         "path": "dorehami-01",
@@ -1362,7 +1367,7 @@
     {
         "path": "/dorehami-01/index.html",
         "type": "file",
-        "md5": "c472c57d0ca292eccceed18bf75d8977"
+        "md5": "2a9b42d51c92b47d38c0fe8d22f8114e"
     },
     {
         "path": "dorehami-dev",
@@ -1372,7 +1377,7 @@
     {
         "path": "/dorehami-dev/index.html",
         "type": "file",
-        "md5": "1d7d5ac59a0ad644494086814da8d058"
+        "md5": "9fbd9de07415ea5759776fa71fdbccaf"
     },
     {
         "path": "escape-to-freedom",
@@ -1382,7 +1387,7 @@
     {
         "path": "/escape-to-freedom/index.html",
         "type": "file",
-        "md5": "9f6d9fa1e04663c97b2f3fbf3da26d4e"
+        "md5": "87ecd9aa1c79aa5f5fd224059e234132"
     },
     {
         "path": "event-01",
@@ -1392,7 +1397,7 @@
     {
         "path": "/event-01/index.html",
         "type": "file",
-        "md5": "21e59fff82b3177f8f3697b455f402d4"
+        "md5": "0f84324f9f7919c35f675c1897f03d8b"
     },
     {
         "path": "event-02",
@@ -1402,7 +1407,7 @@
     {
         "path": "/event-02/index.html",
         "type": "file",
-        "md5": "b1fcdae56bb7e148d75c7d6e4cc39611"
+        "md5": "528c752856f598b1afd6307d43a4cf8c"
     },
     {
         "path": "event-03",
@@ -1412,7 +1417,7 @@
     {
         "path": "/event-03/index.html",
         "type": "file",
-        "md5": "067d210dd542531b4a90a64f293b30d8"
+        "md5": "791b878b10bf20e9bf7e8a400e88d96d"
     },
     {
         "path": "event-04",
@@ -1422,7 +1427,7 @@
     {
         "path": "/event-04/index.html",
         "type": "file",
-        "md5": "5c92985c196abd9d0f36249a922d416f"
+        "md5": "c0a6a83ad0630da4a79e72cb31c3611c"
     },
     {
         "path": "event-05",
@@ -1432,7 +1437,7 @@
     {
         "path": "/event-05/index.html",
         "type": "file",
-        "md5": "7b8e1e5597e915ab25b36fceb35626c1"
+        "md5": "a0465cd6aeac3767e393d91fbcb41715"
     },
     {
         "path": "event-06",
@@ -1442,7 +1447,7 @@
     {
         "path": "/event-06/index.html",
         "type": "file",
-        "md5": "d1a7990d8e99a288d5199f2b8dd40ab8"
+        "md5": "4e278bba97a12126282b0e52e91eaaac"
     },
     {
         "path": "event-07",
@@ -1452,7 +1457,7 @@
     {
         "path": "/event-07/index.html",
         "type": "file",
-        "md5": "5794cbdfcf4272e7322bd55d0901a3f1"
+        "md5": "70004b5dce6e57789a3dcae87475ab5f"
     },
     {
         "path": "event-08",
@@ -1462,7 +1467,7 @@
     {
         "path": "/event-08/index.html",
         "type": "file",
-        "md5": "9333a456b72c222518ae7c6a81218a77"
+        "md5": "4d2a3606c452ebd6f03ff28bd47d62e4"
     },
     {
         "path": "event-09",
@@ -1472,7 +1477,7 @@
     {
         "path": "/event-09/index.html",
         "type": "file",
-        "md5": "7dff984c3948539ed4f0cbd166cb9761"
+        "md5": "df05508577a17ecd37c3a11ddb0852e8"
     },
     {
         "path": "event-10",
@@ -1482,7 +1487,7 @@
     {
         "path": "/event-10/index.html",
         "type": "file",
-        "md5": "ca860ee0734d8196df0f28c2951c449e"
+        "md5": "add947f48333d0d75baa4d317b40cbf9"
     },
     {
         "path": "event-11",
@@ -1492,7 +1497,7 @@
     {
         "path": "/event-11/index.html",
         "type": "file",
-        "md5": "4d0c733f2fdb29e33ee96f14ed2c3aa4"
+        "md5": "e63db668886753ace0b727b0c6c6af6a"
     },
     {
         "path": "event-12",
@@ -1502,7 +1507,7 @@
     {
         "path": "/event-12/index.html",
         "type": "file",
-        "md5": "08e8a866c34d58d13d109849c2f6c26e"
+        "md5": "3d6643525504d0e3e369ad849ec341fe"
     },
     {
         "path": "event-13",
@@ -1512,7 +1517,7 @@
     {
         "path": "/event-13/index.html",
         "type": "file",
-        "md5": "fca2c5f0bbc1528563462c3c02485ff1"
+        "md5": "e738f0ef114ec8fecd32b70894f6a25f"
     },
     {
         "path": "event-14",
@@ -1522,7 +1527,7 @@
     {
         "path": "/event-14/index.html",
         "type": "file",
-        "md5": "2ac1f9bea52913e112242cc503481024"
+        "md5": "d57bee5df7d621d4147c4ba7bed772d2"
     },
     {
         "path": "event-15",
@@ -1532,7 +1537,7 @@
     {
         "path": "/event-15/index.html",
         "type": "file",
-        "md5": "603795b62b8a819bba016a8c88c2ac36"
+        "md5": "1a3e7911cd9951d54d7a75c6bdf1332e"
     },
     {
         "path": "event-16",
@@ -1542,7 +1547,7 @@
     {
         "path": "/event-16/index.html",
         "type": "file",
-        "md5": "2274c80e1c844e9e4f620913aa97396e"
+        "md5": "4fd2f1b0a3400d7bfd7e01a5c1ca3f20"
     },
     {
         "path": "event-17",
@@ -1552,7 +1557,7 @@
     {
         "path": "/event-17/index.html",
         "type": "file",
-        "md5": "345e3e8114796ec9c64dc849354f822e"
+        "md5": "cf9e902356c082305363f7ae3f5c32f4"
     },
     {
         "path": "event-18",
@@ -1562,7 +1567,7 @@
     {
         "path": "/event-18/index.html",
         "type": "file",
-        "md5": "654e7d1882cd1faceddafe6968bbc2e8"
+        "md5": "16c954960e6fcedb70d32fa313c297d3"
     },
     {
         "path": "event-19",
@@ -1572,7 +1577,7 @@
     {
         "path": "/event-19/index.html",
         "type": "file",
-        "md5": "667d82d6432d2b115ad8e53b82da9606"
+        "md5": "527f999d6fa67dccffc81fa987fb6988"
     },
     {
         "path": "executive-team",
@@ -1612,7 +1617,7 @@
     {
         "path": "/first-hackers-coferece-1984/index.html",
         "type": "file",
-        "md5": "31473df523081a62c1626672c1ff9d7b"
+        "md5": "102dcc83b6f748b37f5f97c3485f09bc"
     },
     {
         "path": "fixing.svg",
@@ -1627,7 +1632,7 @@
     {
         "path": "/free-android/index.html",
         "type": "file",
-        "md5": "b6f3e1db2f10637e2093a60e9d8f92a5"
+        "md5": "78786e1f8c52ac3d94a9f6a54b8fb5d1"
     },
     {
         "path": "free-android-software-contribution-guide",
@@ -2147,7 +2152,7 @@
     {
         "path": "/freedom-day/index.html",
         "type": "file",
-        "md5": "18b1d27b63efd0e0acd05b7af98c54c2"
+        "md5": "98952c6b23bedc9a02ccde85e358133f"
     },
     {
         "path": "freefont",
@@ -2167,7 +2172,7 @@
     {
         "path": "/fsf-1403/index.html",
         "type": "file",
-        "md5": "b0f71616c2bcd5fe3366de639756e740"
+        "md5": "12a296f0e1e9104c52429188588ff646"
     },
     {
         "path": "fsf-history-redirect",
@@ -2177,7 +2182,7 @@
     {
         "path": "/fsf-history-redirect/index.html",
         "type": "file",
-        "md5": "91435c74958e0e6513570dab412c744f"
+        "md5": "65c42750558e03ec98dc1cde52895277"
     },
     {
         "path": "fsf40",
@@ -2187,7 +2192,7 @@
     {
         "path": "/fsf40/index.html",
         "type": "file",
-        "md5": "254035b83387ed90a7a65f5a7efebfdd"
+        "md5": "4b4291dd8629bf4ed9622e924c038e89"
     },
     {
         "path": "fsfp-culture",
@@ -2197,7 +2202,7 @@
     {
         "path": "/fsfp-culture/index.html",
         "type": "file",
-        "md5": "0e6ea19031c245d97439fbe70bef5c84"
+        "md5": "2363adaa42b0c81068e68efd1eecc143"
     },
     {
         "path": "fsiran",
@@ -2207,7 +2212,7 @@
     {
         "path": "/fsiran/index.html",
         "type": "file",
-        "md5": "f47d3b98f2bf771f4419c38c84c334e1"
+        "md5": "33f6d827eff295f567bcb4fc7c243bab"
     },
     {
         "path": "ftthyh-lg-fs",
@@ -2227,7 +2232,7 @@
     {
         "path": "/glbh-br-mnswkh-shdn-nrmfzr-b-nrmfzr-azd/index.html",
         "type": "file",
-        "md5": "457591b6050e7efd33ca352a762417c7"
+        "md5": "b410d733afe9af30c08a3e7151f699d3"
     },
     {
         "path": "gnulinux-conf",
@@ -2237,7 +2242,7 @@
     {
         "path": "/gnulinux-conf/index.html",
         "type": "file",
-        "md5": "e6b049ea994052a5b87ee2d512c7966e"
+        "md5": "6da4c09c3eb5849f5bee19bc672f4d45"
     },
     {
         "path": "hack-sec-conf",
@@ -2247,7 +2252,7 @@
     {
         "path": "/hack-sec-conf/index.html",
         "type": "file",
-        "md5": "6bbe8622fa2af90d36937101fe917cfc"
+        "md5": "c5d5717bb030ba27bbe82ba8061d4d4c"
     },
     {
         "path": "hero-txt-style",
@@ -2277,7 +2282,7 @@
     {
         "path": "/how-create-community/index.html",
         "type": "file",
-        "md5": "22d42cbfdbe82670e0dc60c4941a4113"
+        "md5": "6001043179015243c4ad2698ccbdc792"
     },
     {
         "path": "how-install-asahilinux",
@@ -2297,7 +2302,7 @@
     {
         "path": "/how-matrix/index.html",
         "type": "file",
-        "md5": "e9258bceb814e298af0c8e2572c55351"
+        "md5": "d5bdcad9615d6aba7f0843de0da114ae"
     },
     {
         "path": "how-to-lug",
@@ -2317,7 +2322,7 @@
     {
         "path": "/howtolug/index.html",
         "type": "file",
-        "md5": "da641408bc2d49d94dca3da7160b3588"
+        "md5": "9b33bec3b8a979974623f6c702d366c0"
     },
     {
         "path": "htaccess.txt",
@@ -2337,7 +2342,7 @@
     {
         "path": "/ilovefs/index.html",
         "type": "file",
-        "md5": "91a6b92a3af0c208ee80bd8c8d5e16e7"
+        "md5": "1c9744bcf6eb4e0c79ad99d950789ce6"
     },
     {
         "path": "index.html",
@@ -2377,7 +2382,7 @@
     {
         "path": "/isfehan-conf/index.html",
         "type": "file",
-        "md5": "e07035a8cd61ad8d9efa25c31c347f9c"
+        "md5": "3e74d1d7b131e245d6aaf9a921af023e"
     },
     {
         "path": "lan-party",
@@ -2387,7 +2392,7 @@
     {
         "path": "/lan-party/index.html",
         "type": "file",
-        "md5": "0c38f1fc3e5d01c504babe7fddc8b072"
+        "md5": "351490d238a35704c857166c59244521"
     },
     {
         "path": "learn-gimp",
@@ -2427,7 +2432,7 @@
     {
         "path": "/libreplanet2025/index.html",
         "type": "file",
-        "md5": "49b3e107944dac50c94eed6cd8eee619"
+        "md5": "70e7f6d87666d7627e81193ee4f91be8"
     },
     {
         "path": "librepllant",
@@ -2437,7 +2442,7 @@
     {
         "path": "/librepllant/index.html",
         "type": "file",
-        "md5": "d75f1da729d0f480fce087b34d9bb6e5"
+        "md5": "a35a2d29f13be3b052f874ead18558dd"
     },
     {
         "path": "license-ofl",
@@ -2457,7 +2462,7 @@
     {
         "path": "/license-opensource/index.html",
         "type": "file",
-        "md5": "b07ef93297de6a3ddeb3dd25581921d6"
+        "md5": "b317817d3c0c8f7ad55d564e9af451c2"
     },
     {
         "path": "licenses",
@@ -2467,7 +2472,7 @@
     {
         "path": "/licenses/index.html",
         "type": "file",
-        "md5": "18d5fe6cea98d1c1f4e46f0ac85adec0"
+        "md5": "edb1e10f3b189c109cb92caabe73cf66"
     },
     {
         "path": "linux-workhsop",
@@ -2477,7 +2482,7 @@
     {
         "path": "/linux-workhsop/index.html",
         "type": "file",
-        "md5": "f27371a2433792f01999616c7b949a48"
+        "md5": "0143c72a0fb669723a36f331b88e12bf"
     },
     {
         "path": "lmo",
@@ -2487,7 +2492,7 @@
     {
         "path": "/lmo/index.html",
         "type": "file",
-        "md5": "0f79810d11022e05bceceab5269976e4"
+        "md5": "614f86299207f61f822dedef3bb20110"
     },
     {
         "path": "loop",
@@ -2547,7 +2552,7 @@
     {
         "path": "/matrix-user-guide/index.html",
         "type": "file",
-        "md5": "648cdf2b7572cff0949ca949b000c0f9"
+        "md5": "72f33eb791fd1dfd14433ae3d32e1ce5"
     },
     {
         "path": "media",
@@ -10367,7 +10372,7 @@
     {
         "path": "/metro-shiraz/index.html",
         "type": "file",
-        "md5": "bde974cdd12a938af74784fd64952330"
+        "md5": "657c705d12e400ee6ace8e741f77a37f"
     },
     {
         "path": "obs-studio",
@@ -10387,7 +10392,7 @@
     {
         "path": "/parch-linux/index.html",
         "type": "file",
-        "md5": "eaa1be56f3916298c891c38b98551e91"
+        "md5": "d2d78dad1469d370e4903f7b7b4fb9f4"
     },
     {
         "path": "people.png",
@@ -10432,7 +10437,7 @@
     {
         "path": "/post-rc6/index.html",
         "type": "file",
-        "md5": "5697aabb47ea15287439c9623da6841b"
+        "md5": "cdadbc36402a3b5544b6d17b380f51cc"
     },
     {
         "path": "post-xia",
@@ -10442,7 +10447,7 @@
     {
         "path": "/post-xia/index.html",
         "type": "file",
-        "md5": "1d4fd86b85137600b0f7f4c1dd1eb85f"
+        "md5": "2343a51807b36fb6de609c7bc77f63c8"
     },
     {
         "path": "post-xia-2",
@@ -10482,7 +10487,7 @@
     {
         "path": "/report-saber-rastikerdar/index.html",
         "type": "file",
-        "md5": "a2f0b812824a902ec574e29e5fe800e6"
+        "md5": "61b25cdf53bfcb561cb3f433f2f8abbe"
     },
     {
         "path": "rewind",
@@ -10522,7 +10527,7 @@
     {
         "path": "/sfd-2025/index.html",
         "type": "file",
-        "md5": "c8b2e9d87b5443db5fa79bffc5e004b4"
+        "md5": "cd19ac41ab28aa851d3670c400f6218c"
     },
     {
         "path": "shirazlinux-2year-report",
@@ -10532,7 +10537,7 @@
     {
         "path": "/shirazlinux-2year-report/index.html",
         "type": "file",
-        "md5": "1592c7c44269004d30db2c3c93d0de23"
+        "md5": "9307a1fae058275f0309814506f7c2bd"
     },
     {
         "path": "shoestool",
@@ -10557,7 +10562,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "87e7667f870763b70f8c0b5f42c66dd6"
+        "md5": "aa707ef98bc0b566722c8ba2e6685e32"
     },
     {
         "path": "sitemap.xsl",
@@ -11207,7 +11212,7 @@
     {
         "path": "/tehran-metro/index.html",
         "type": "file",
-        "md5": "36a4648d3c1c902ca8dc4d9d511180b1"
+        "md5": "015ffbc6c8ce12cb6bd7b8ec93bcb607"
     },
     {
         "path": "terror-active",
@@ -11217,7 +11222,7 @@
     {
         "path": "/terror-active/index.html",
         "type": "file",
-        "md5": "5e62d048d8f8f930a32503790ff5d594"
+        "md5": "540b12ad4e6f87e3d8df585da0ba01f0"
     },
     {
         "path": "the-university-costumed",
@@ -11252,7 +11257,7 @@
     {
         "path": "/user-liberation/index.html",
         "type": "file",
-        "md5": "a5db8a58a86fc1ac6bfa5d5d41adb9fe"
+        "md5": "0e96fadb896421d9872821f9326f110e"
     },
     {
         "path": "valentine-day",
@@ -11272,7 +11277,7 @@
     {
         "path": "/vazir-font-conf/index.html",
         "type": "file",
-        "md5": "73b58e233713a53bdaed67dfd58e2a78"
+        "md5": "46467f8b8c73e76a82b0515a3603037f"
     },
     {
         "path": "vazir-font-conf-report",
@@ -11282,7 +11287,7 @@
     {
         "path": "/vazir-font-conf-report/index.html",
         "type": "file",
-        "md5": "d60ef064c45ce6ece1f97610e0c26ebb"
+        "md5": "73bf96891a87c90852858becb56bd2f5"
     },
     {
         "path": "website.png",
@@ -11297,7 +11302,7 @@
     {
         "path": "/what-is-community/index.html",
         "type": "file",
-        "md5": "a2c23415d4f407cf7a6472b0f223216f"
+        "md5": "c55824f76a3782ba84dfa79fb7c0702b"
     },
     {
         "path": "what-is-free-software",
@@ -11307,7 +11312,7 @@
     {
         "path": "/what-is-free-software/index.html",
         "type": "file",
-        "md5": "fd3b5b35a98c20f378dfb5eb9e2d78eb"
+        "md5": "e480896143401b412f26255df7f99f8d"
     },
     {
         "path": "why-should-we-not-say-linux",
@@ -11317,7 +11322,7 @@
     {
         "path": "/why-should-we-not-say-linux/index.html",
         "type": "file",
-        "md5": "82730e584bfd2add424394fe12d662d1"
+        "md5": "354234d94fd81fd23c9971c943bc05cb"
     },
     {
         "path": "widgetify",
@@ -11367,7 +11372,7 @@
     {
         "path": "/workshop-linux-lpi/index.html",
         "type": "file",
-        "md5": "c68254d13ad86e8e27daad0691661fff"
+        "md5": "d91c032ef82525354ed5bd3deed171f8"
     },
     {
         "path": "wrong-digiato",
@@ -11387,6 +11392,6 @@
     {
         "path": "/yek-sal-ba-shirazlinux/index.html",
         "type": "file",
-        "md5": "e830ee21425367e61b25daf6cd15f06a"
+        "md5": "aae4e434a9aa2c0e9374d51ae1ba1ecf"
     }
 ]
