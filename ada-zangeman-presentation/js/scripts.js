@@ -163,7 +163,7 @@ function initialisation() {
 
 window.addEventListener('load', () => {
 
-    if (window.location.href.indexOf('index') !== -1) {
+    if (window.location.href.indexOf('index_') !== -1) {
         initialisation();
     }
     const allPages = document.querySelectorAll('.ada-page');
@@ -178,7 +178,7 @@ window.addEventListener('load', () => {
         document.getElementById('menu-collapsed').checked = false;
     });
 
-    if (window.location.href.indexOf('az_') === -1) {
+    if (window.location.href.indexOf('index') === -1) {
         // paratexte
         localStorage.setItem('ada_currentUrl', window.location.href);
         localStorage.setItem('ada_pageId', '');

@@ -192,7 +192,7 @@ console.log(localStorage);
     conteneur.addEventListener('click', (e) => {
         document.getElementById('menu-collapsed').checked = false;
     });
-    if (window.location.href.indexOf('az_') === -1) {
+    if (window.location.href.indexOf('index') === -1) {
         localStorage.setItem('ada_myHref', window.location.href);
         localStorage.setItem('ada_pageId', '');
         localStorage.setItem('ada_reading', false);
