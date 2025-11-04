@@ -171,6 +171,18 @@
                         "cssClass": "",
                         "isHidden": false,
                         "items": []
+                    },
+                    {
+                        "id": 1762291654469,
+                        "label": "گزارشات شیرازلینوکس",
+                        "title": "",
+                        "type": "tag",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 42,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
                     }
                 ]
             },
