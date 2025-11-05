@@ -140,7 +140,7 @@
         "displayShareButtons": "1",
         "displayTags": 0,
         "displayChildPages": "1",
-        "displayComments": 0
+        "displayComments": "1"
     },
     "tagConfig": {
         "displayFeaturedImage": 1,
@@ -158,6 +158,6 @@
     },
     "defaultTemplates": {
         "post": "",
-        "page": "empty"
+        "page": ""
     }
 }

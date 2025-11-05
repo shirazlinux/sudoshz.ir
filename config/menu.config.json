@@ -161,18 +161,6 @@
                         "items": []
                     },
                     {
-                        "id": 1735813585899,
-                        "label": "تیم اجرایی",
-                        "title": "",
-                        "type": "page",
-                        "target": "_self",
-                        "rel": "",
-                        "link": 72,
-                        "cssClass": "",
-                        "isHidden": false,
-                        "items": []
-                    },
-                    {
                         "id": 1762291654469,
                         "label": "گزارشات شیرازلینوکس",
                         "title": "",
@@ -180,6 +168,30 @@
                         "target": "_self",
                         "rel": "",
                         "link": 42,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1762313545633,
+                        "label": "خط مشی اجرایی",
+                        "title": "",
+                        "type": "page",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 165,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1735813585899,
+                        "label": "تیم اجرایی",
+                        "title": "",
+                        "type": "page",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 72,
                         "cssClass": "",
                         "isHidden": false,
                         "items": []
