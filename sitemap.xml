@@ -50,11 +50,17 @@
 </url>
 <url>
 <loc>https://sudoshz.ir/about/</loc>
-<lastmod>2025-09-28T03:39:20+03:30</lastmod>
+<lastmod>2025-11-05T06:57:22+03:30</lastmod>
 <image:image>
 <image:loc>https://sudoshz.ir/media/posts/78/social-image-fight-dystopia.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
+</url>
+<url>
+<loc>https://sudoshz.ir/about/executive-team-2/</loc>
+</url>
+<url>
+<loc>https://sudoshz.ir/about/policy/</loc>
 </url>
 <url>
 <loc>https://sudoshz.ir/ada-zanfemaan/</loc>
@@ -138,7 +144,7 @@
 </url>
 <url>
 <loc>https://sudoshz.ir/bahar-narafzarazad/</loc>
-<lastmod>2025-07-29T02:28:02+03:30</lastmod>
+<lastmod>2025-11-05T01:01:49+03:30</lastmod>
 <image:image>
 <image:loc>https://sudoshz.ir/media/posts/103/photo_2025-03-19_18-21-37.jpg</image:loc>
 <image:title><![CDATA[دسته جمعی بهار نرم‌افزار آزاد]]></image:title>
@@ -234,6 +240,14 @@
 <image:image>
 <image:loc>https://sudoshz.ir/media/posts/112/gallery/photo_2025-06-25_08-00-45-thumbnail.webp</image:loc>
 <image:title><![CDATA[آمار حضور دورهمی آنلاین شیرازلینوکس]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://sudoshz.ir/dorehami-02/</loc>
+<lastmod>2025-11-05T00:48:36+03:30</lastmod>
+<image:image>
+<image:loc>https://sudoshz.ir/media/posts/164/dorehami-02.jpg</image:loc>
+<image:title><![CDATA[پوستر دورهمی دواپسی با عناوین متنی مرتبط به دورهمی]]></image:title>
 </image:image>
 </url>
 <url>
@@ -617,50 +631,6 @@
 </image:image>
 </url>
 <url>
-<loc>https://sudoshz.ir/executive-team/</loc>
-<lastmod>2025-10-01T02:08:52+03:30</lastmod>
-<image:image>
-<image:loc>https://sudoshz.ir/media/posts/72/gallery/sahar-garmsiri-3-thumbnail.webp</image:loc>
-<image:title><![CDATA[سحر گرمسیری]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://sudoshz.ir/media/posts/72/gallery/abbasdp-500-thumbnail.webp</image:loc>
-<image:title><![CDATA[عباس داورپناه]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://sudoshz.ir/media/posts/72/gallery/hosein-salmani-240-thumbnail.webp</image:loc>
-<image:title><![CDATA[حسین سلمانی]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://sudoshz.ir/media/posts/72/gallery/hedi-pro-thumbnail.webp</image:loc>
-<image:title><![CDATA[هدیه همدمیان]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://sudoshz.ir/media/posts/72/gallery/kasri-thumbnail.webp</image:loc>
-<image:title><![CDATA[کسری رحمانیان]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://sudoshz.ir/media/posts/72/gallery/photo_2025-08-03_13-39-00-2-thumbnail.webp</image:loc>
-<image:title><![CDATA[مهیر واحدی]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://sudoshz.ir/media/posts/72/gallery/IMG_20250117_073118_090-thumbnail.webp</image:loc>
-<image:title><![CDATA[محمد زارع]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://sudoshz.ir/media/posts/72/gallery/setayesh-thumbnail.webp</image:loc>
-<image:title><![CDATA[ستایش نادریان]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://sudoshz.ir/media/posts/72/gallery/photo_2025-08-03_13-31-45-2-thumbnail.webp</image:loc>
-<image:title><![CDATA[حسین محمدی]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://sudoshz.ir/media/posts/72/gallery/photo_2025-08-03_13-21-18-2-thumbnail.webp</image:loc>
-<image:title><![CDATA[امیرحسین قاسم‌زاده]]></image:title>
-</image:image>
-</url>
-<url>
 <loc>https://sudoshz.ir/fanoos-qalam-conf/</loc>
 <lastmod>2025-07-27T06:06:20+03:30</lastmod>
 <image:image>
@@ -894,10 +864,6 @@
 <image:loc>https://sudoshz.ir/media/posts/115/photo_2025-06-25_07-40-57.jpg</image:loc>
 <image:title><![CDATA[پروتکل ماتریکس چیه]]></image:title>
 </image:image>
-</url>
-<url>
-<loc>https://sudoshz.ir/how-to-lug/</loc>
-<lastmod>2025-08-17T09:17:53+03:30</lastmod>
 </url>
 <url>
 <loc>https://sudoshz.ir/howtolug/</loc>
@@ -1265,7 +1231,7 @@
 </url>
 <url>
 <loc>https://sudoshz.ir/report-saber-rastikerdar/</loc>
-<lastmod>2025-07-27T06:05:50+03:30</lastmod>
+<lastmod>2025-11-05T01:00:53+03:30</lastmod>
 <image:image>
 <image:loc>https://sudoshz.ir/media/posts/17/IMG-20241110-WA0005-2.jpg</image:loc>
 <image:title><![CDATA[مراسم خاکسپاری صابر راستی کردار]]></image:title>
@@ -1329,9 +1295,9 @@
 </url>
 <url>
 <loc>https://sudoshz.ir/shirazlinux-2year-report/</loc>
-<lastmod>2025-08-22T22:43:39+03:30</lastmod>
+<lastmod>2025-11-05T01:16:45+03:30</lastmod>
 <image:image>
-<image:loc>https://sudoshz.ir/media/posts/129/shiurza.jpeg</image:loc>
+<image:loc>https://sudoshz.ir/media/posts/129/shirazlinux-report-2.jpg</image:loc>
 <image:title><![CDATA[جامعه‌ نرم‌افزار آزاد]]></image:title>
 </image:image>
 <image:image>
@@ -1571,6 +1537,9 @@
 <loc>https://sudoshz.ir/tags/shirazlinux/page/4/</loc>
 </url>
 <url>
+<loc>https://sudoshz.ir/tags/shirazlinux-reports/</loc>
+</url>
+<url>
 <loc>https://sudoshz.ir/tags/shyrzlg/</loc>
 </url>
 <url>
@@ -1647,7 +1616,7 @@
 </url>
 <url>
 <loc>https://sudoshz.ir/vazir-font-conf-report/</loc>
-<lastmod>2025-07-27T06:19:01+03:30</lastmod>
+<lastmod>2025-11-05T01:01:30+03:30</lastmod>
 <image:image>
 <image:loc>https://sudoshz.ir/media/posts/42/-36bqw3-2.jpg</image:loc>
 <image:title><![CDATA[سنگ مزار صابر راستی کردار]]></image:title>
@@ -1731,7 +1700,7 @@
 </url>
 <url>
 <loc>https://sudoshz.ir/yek-sal-ba-shirazlinux/</loc>
-<lastmod>2025-07-27T06:15:05+03:30</lastmod>
+<lastmod>2025-11-05T01:01:14+03:30</lastmod>
 <image:image>
 <image:loc>https://sudoshz.ir/media/posts/38/IMG_20250104_015255.png</image:loc>
 <image:title><![CDATA[یک سالگی فعالیت شیرازلینوکس]]></image:title>
