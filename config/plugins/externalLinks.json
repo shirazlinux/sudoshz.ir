@@ -13,7 +13,7 @@
     "iconMargin": "3px",
     "iconSize": "14px",
     "iconVerticalPosition": "0",
-    "iconColorSelect": "currentColor",
-    "iconColor": "#3366cc",
+    "iconColorSelect": "custom",
+    "iconColor": "#0056FF",
     "excludeSelectors": ""
 }
