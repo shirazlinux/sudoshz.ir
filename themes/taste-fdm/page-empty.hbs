@@ -41,6 +41,28 @@
                {{{text}}}
             </div>
          </div>
+
+         {{#if @config.page.displayChildPages}}
+            {{#if subpages}}
+               <div class="subpages">
+                  <h2 class="subpages__title">{{ translate 'page.childPages' }}</h2>
+                  <ul class="subpages__list">
+                     {{#each subpages}}
+                        {{#getPage @this}}
+                           <li>
+                              <a href="{{url}}">{{title}}</a>
+                              {{#if subpages}}
+                              <ul>
+                                 {{> subpages-list}}
+                              </ul>
+                              {{/if}}
+                           </li>
+                        {{/getPage}}
+                     {{/each}}
+                  </ul>
+               </div>
+            {{/if}}
+         {{/if}}
       {{/page}}
 
       {{#if @customHTML.afterPage}}
