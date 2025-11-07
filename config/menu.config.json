@@ -161,18 +161,6 @@
                         "items": []
                     },
                     {
-                        "id": 1762291654469,
-                        "label": "گزارشات شیرازلینوکس",
-                        "title": "",
-                        "type": "tag",
-                        "target": "_self",
-                        "rel": "",
-                        "link": 42,
-                        "cssClass": "",
-                        "isHidden": false,
-                        "items": []
-                    },
-                    {
                         "id": 1762313545633,
                         "label": "خط مشی اجرایی",
                         "title": "",
@@ -180,6 +168,42 @@
                         "target": "_self",
                         "rel": "",
                         "link": 165,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1762474176019,
+                        "label": "سیاست‌های حمایتی و تبلیغاتی",
+                        "title": "",
+                        "type": "page",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 169,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1762465724557,
+                        "label": "قوانین رفتاری در شبکه‌های اجتماعی",
+                        "title": "",
+                        "type": "separator",
+                        "target": "_self",
+                        "rel": "",
+                        "link": "",
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1762291654469,
+                        "label": "گزارشات شیرازلینوکس",
+                        "title": "",
+                        "type": "tag",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 42,
                         "cssClass": "",
                         "isHidden": false,
                         "items": []
@@ -267,5 +291,10 @@
             }
         ],
         "maxLevels": "-1"
+    },
+    {
+        "name": "قوانین و شرایط حمایت",
+        "position": "",
+        "items": []
     }
 ]
