@@ -186,12 +186,12 @@
                     },
                     {
                         "id": 1762465724557,
-                        "label": "قوانین رفتاری در شبکه‌های اجتماعی",
+                        "label": "کد رفتاری شبکه‌های اجتماعی",
                         "title": "",
-                        "type": "separator",
+                        "type": "page",
                         "target": "_self",
                         "rel": "",
-                        "link": "",
+                        "link": 170,
                         "cssClass": "",
                         "isHidden": false,
                         "items": []
