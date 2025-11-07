@@ -150,9 +150,11 @@ body {
   font-family: estedadmad;
   color: #b11107;
 }
-
 a {
-  color: var(--link-color);
+  color: #0010ff;
+}
+a {
+  /* color: var(--link-color); */
   text-decoration: none;
   transition: none !important;
   -webkit-transition: all 0.12s linear;
@@ -2423,7 +2425,8 @@ textarea {
   padding: 0 0.7285714286rem 0 0;
 }
 .footer__nav-item > a {
-  color: var(--link-color);
+  color: #0010ff;
+  /* color: var(--link-color); */
   -webkit-transition: all 0.24s ease-out;
   transition: all 0.24s ease-out;
 }
