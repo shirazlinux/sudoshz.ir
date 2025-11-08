@@ -33,5 +33,6 @@
     "staticCustomSearch": false,
     "pagePrefetching": true,
     "alt-filler": true,
-    "Key Replacement": false
+    "Key Replacement": false,
+    "publii-image-attribution-1.0.0": false
 }
