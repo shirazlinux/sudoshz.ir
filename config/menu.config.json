@@ -73,6 +73,18 @@
                         "cssClass": "",
                         "isHidden": false,
                         "items": []
+                    },
+                    {
+                        "id": 1762833187766,
+                        "label": "گفتمان نرم‌افزار آزاد",
+                        "title": "",
+                        "type": "tag",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 43,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
                     }
                 ]
             },
