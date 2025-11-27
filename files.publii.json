@@ -37,7 +37,7 @@
     {
         "path": "/aakhs-h/index.html",
         "type": "file",
-        "md5": "8a968e6268eb602bde40f7faeeece2de"
+        "md5": "a85b39e842b4a6e5e51e520965af97c6"
     },
     {
         "path": "about",
@@ -52,7 +52,7 @@
     {
         "path": "/about/community-guidelines/index.html",
         "type": "file",
-        "md5": "d9f59def0c57d5f601baef3565ac96ea"
+        "md5": "1f4fb94b74e645dc0d8a590c33de9dec"
     },
     {
         "path": "about/executive-team",
@@ -62,12 +62,12 @@
     {
         "path": "/about/executive-team/index.html",
         "type": "file",
-        "md5": "ecb0a33ea82eb91a57405114513196e4"
+        "md5": "17d6f8cab0cbb105902f44f9cb32b20e"
     },
     {
         "path": "/about/index.html",
         "type": "file",
-        "md5": "9905efdb0effb56c0cf89c947c4fa946"
+        "md5": "5e7fbeabd72642e5877b6bb0e0942d7f"
     },
     {
         "path": "about/policy",
@@ -77,7 +77,7 @@
     {
         "path": "/about/policy/index.html",
         "type": "file",
-        "md5": "f82f54b5b0235a7c9de0f9b2119e256b"
+        "md5": "c67b50fc126c30fc0a628fd0793bb6ab"
     },
     {
         "path": "about/promotion-policy",
@@ -87,805 +87,815 @@
     {
         "path": "/about/promotion-policy/index.html",
         "type": "file",
-        "md5": "fe09702d4d0e7eeb507558b1c4c52fcf"
+        "md5": "b27b3569f8958caf9a51b37b055cb291"
     },
     {
-        "path": "ada-zanfemaan",
+        "path": "ada-zangemaan-translate",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/ada-zanfemaan/index.html",
+        "path": "/ada-zangemaan-translate/index.html",
         "type": "file",
-        "md5": "9f90d9d23f024259c031fddda4651204"
+        "md5": "02d91f9451a952527081d6bdcc45d0bc"
     },
     {
-        "path": "ada-zangeman-presentation",
+        "path": "ada-zangeman",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "ada-zangeman-presentation/css",
+        "path": "ada-zangeman/css",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/ada-zangeman-presentation/css/ada.css",
+        "path": "/ada-zangeman/css/ada.css",
         "type": "file",
         "md5": "febf21453c63e75d34cc76903dd8f6ff"
     },
     {
-        "path": "/ada-zangeman-presentation/css/catalogue.css",
+        "path": "/ada-zangeman/css/catalogue.css",
         "type": "file",
         "md5": "77c4cb1babe2bd7634b32eb4ad51b68b"
     },
     {
-        "path": "/ada-zangeman-presentation/css/fonts.css",
+        "path": "/ada-zangeman/css/fonts.css",
         "type": "file",
         "md5": "6c9ac45b47591e027aa869aee64ca6c0"
     },
     {
-        "path": "/ada-zangeman-presentation/css/navigation.css",
+        "path": "/ada-zangeman/css/navigation.css",
         "type": "file",
         "md5": "d247ae42f3143ca7e296a174f1f71db5"
     },
     {
-        "path": "/ada-zangeman-presentation/css/reset.css",
+        "path": "/ada-zangeman/css/reset.css",
         "type": "file",
         "md5": "bee5f309cd4477931a2c1e2f3dabe443"
     },
     {
-        "path": "/ada-zangeman-presentation/css/responsive.css",
+        "path": "/ada-zangeman/css/responsive.css",
         "type": "file",
         "md5": "fd23a703480d61b610568cf4274a345e"
     },
     {
-        "path": "/ada-zangeman-presentation/css/supplement.css",
+        "path": "/ada-zangeman/css/supplement.css",
         "type": "file",
         "md5": "c95b04be3ab476659fe04bd43b0ad20d"
     },
     {
-        "path": "/ada-zangeman-presentation/css/tweaks.css",
+        "path": "/ada-zangeman/css/tweaks.css",
         "type": "file",
         "md5": "a615c13e93892ae99a64b00902390de6"
     },
     {
-        "path": "/ada-zangeman-presentation/css/vars.css",
+        "path": "/ada-zangeman/css/vars.css",
         "type": "file",
         "md5": "f523131fe0f507d1d6e88c1671fec972"
     },
     {
-        "path": "/ada-zangeman-presentation/favicon.png",
+        "path": "/ada-zangeman/favicon.png",
         "type": "file",
         "md5": "caacadc6600d380b135610217ce99da1"
     },
     {
-        "path": "ada-zangeman-presentation/fonts",
+        "path": "ada-zangeman/fonts",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/ada-zangeman-presentation/fonts/Vazirmatn-Medium.woff2",
+        "path": "/ada-zangeman/fonts/Vazirmatn-Medium.woff2",
         "type": "file",
         "md5": "1fe8d65de1e6bd564ffc03b7d09fd9ec"
     },
     {
-        "path": "ada-zangeman-presentation/images",
+        "path": "ada-zangeman/images",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/ada-zangeman-presentation/images/A-cyan.png",
+        "path": "/ada-zangeman/images/A-cyan.png",
         "type": "file",
         "md5": "575a1dbfeca7c5700b5d488ca29a8cdb"
     },
     {
-        "path": "/ada-zangeman-presentation/images/A-fucsia.png",
+        "path": "/ada-zangeman/images/A-fucsia.png",
         "type": "file",
         "md5": "611e61d9d1af22e9fa8d60821d8f52e3"
     },
     {
-        "path": "/ada-zangeman-presentation/images/A-olive.png",
+        "path": "/ada-zangeman/images/A-olive.png",
         "type": "file",
         "md5": "fa8c18a5a0a5995565a5753f4cc94c3b"
     },
     {
-        "path": "/ada-zangeman-presentation/images/A-red2.png",
+        "path": "/ada-zangeman/images/A-red2.png",
         "type": "file",
         "md5": "f56e5ffa93d218ff38f89d6833c7ef2a"
     },
     {
-        "path": "/ada-zangeman-presentation/images/A-violet.png",
+        "path": "/ada-zangeman/images/A-violet.png",
         "type": "file",
         "md5": "fbea4f6e63449e5c8aff54b2f438d5f6"
     },
     {
-        "path": "/ada-zangeman-presentation/images/A-yellow.png",
+        "path": "/ada-zangeman/images/A-yellow.png",
         "type": "file",
         "md5": "59a2e879e67212227ee097f8b5444e66"
     },
     {
-        "path": "/ada-zangeman-presentation/images/A_cyr-violet.png",
+        "path": "/ada-zangeman/images/A_cyr-violet.png",
         "type": "file",
         "md5": "147883936349fc9388afb4e49fe8efff"
     },
     {
-        "path": "/ada-zangeman-presentation/images/A_cyr-yellow.png",
+        "path": "/ada-zangeman/images/A_cyr-yellow.png",
         "type": "file",
         "md5": "4fca3c562e2776c624823c5978276396"
     },
     {
-        "path": "/ada-zangeman-presentation/images/C-cyan.png",
+        "path": "/ada-zangeman/images/C-cyan.png",
         "type": "file",
         "md5": "a2bba21d0d9f78493479934ea2f5cfce"
     },
     {
-        "path": "/ada-zangeman-presentation/images/C-pink.png",
+        "path": "/ada-zangeman/images/C-pink.png",
         "type": "file",
         "md5": "537d5f2f6f75ca5086c6a8fd3f62273f"
     },
     {
-        "path": "/ada-zangeman-presentation/images/C-red1.png",
+        "path": "/ada-zangeman/images/C-red1.png",
         "type": "file",
         "md5": "568fc7d8ec56422febeb5a6b928c8dfa"
     },
     {
-        "path": "/ada-zangeman-presentation/images/C-yellow.png",
+        "path": "/ada-zangeman/images/C-yellow.png",
         "type": "file",
         "md5": "5cbf5d3cf811602699c105a881fc969e"
     },
     {
-        "path": "/ada-zangeman-presentation/images/D-cyan.png",
+        "path": "/ada-zangeman/images/D-cyan.png",
         "type": "file",
         "md5": "9fb118e38a3e5af9838f0434b45dc408"
     },
     {
-        "path": "/ada-zangeman-presentation/images/D-lightcyan.png",
+        "path": "/ada-zangeman/images/D-lightcyan.png",
         "type": "file",
         "md5": "1008212c03119f8eddb7da8d2cccd4cd"
     },
     {
-        "path": "/ada-zangeman-presentation/images/D-red1.png",
+        "path": "/ada-zangeman/images/D-red1.png",
         "type": "file",
         "md5": "aa6a8ae0040cfdd724df15f2cace1029"
     },
     {
-        "path": "/ada-zangeman-presentation/images/D-red2.png",
+        "path": "/ada-zangeman/images/D-red2.png",
         "type": "file",
         "md5": "c980893c8f1a6d13d8fe41fffea2714e"
     },
     {
-        "path": "/ada-zangeman-presentation/images/D-yellow2.png",
+        "path": "/ada-zangeman/images/D-yellow2.png",
         "type": "file",
         "md5": "fbaea7eeeb9138a2fd22e1d3c64fe140"
     },
     {
-        "path": "/ada-zangeman-presentation/images/E-cyan.png",
+        "path": "/ada-zangeman/images/E-cyan.png",
         "type": "file",
         "md5": "ba38367c22fc23b92e404cecf14cd7e3"
     },
     {
-        "path": "/ada-zangeman-presentation/images/E-green.png",
+        "path": "/ada-zangeman/images/E-green.png",
         "type": "file",
         "md5": "06cde71762f87a03f358063d5c196a42"
     },
     {
-        "path": "/ada-zangeman-presentation/images/E-pink.png",
+        "path": "/ada-zangeman/images/E-pink.png",
         "type": "file",
         "md5": "3b1ff79030b74164c62dc2871cad22b9"
     },
     {
-        "path": "/ada-zangeman-presentation/images/E-red1.png",
+        "path": "/ada-zangeman/images/E-red1.png",
         "type": "file",
         "md5": "c3a8a21af0fa9f9aaefc5c870d6c2945"
     },
     {
-        "path": "/ada-zangeman-presentation/images/E-red2.png",
+        "path": "/ada-zangeman/images/E-red2.png",
         "type": "file",
         "md5": "41316281894e21b0a58f069c98e6350c"
     },
     {
-        "path": "/ada-zangeman-presentation/images/E-red3.png",
+        "path": "/ada-zangeman/images/E-red3.png",
         "type": "file",
         "md5": "74028622ed887097624cfe0890210bd7"
     },
     {
-        "path": "/ada-zangeman-presentation/images/E-yellow.png",
+        "path": "/ada-zangeman/images/E-yellow.png",
         "type": "file",
         "md5": "7d5389ed64717abd224081f2c353b172"
     },
     {
-        "path": "/ada-zangeman-presentation/images/Em-red2.png",
+        "path": "/ada-zangeman/images/Em-red2.png",
         "type": "file",
         "md5": "cf06ce0d11227a851a3d765c6da11404"
     },
     {
-        "path": "/ada-zangeman-presentation/images/En-cyan.png",
+        "path": "/ada-zangeman/images/En-cyan.png",
         "type": "file",
         "md5": "b36ae67e9b5476bba2454b4956c2f8f2"
     },
     {
-        "path": "/ada-zangeman-presentation/images/En-lightcyan.png",
+        "path": "/ada-zangeman/images/En-lightcyan.png",
         "type": "file",
         "md5": "430723d7f3f9930657073f1f1c3fcfdb"
     },
     {
-        "path": "/ada-zangeman-presentation/images/En-olive.png",
+        "path": "/ada-zangeman/images/En-olive.png",
         "type": "file",
         "md5": "196816fa9013194ced509cfade37bca2"
     },
     {
-        "path": "/ada-zangeman-presentation/images/En-red2.png",
+        "path": "/ada-zangeman/images/En-red2.png",
         "type": "file",
         "md5": "098bd7fb2dbece09e6eecf5bc8fa674d"
     },
     {
-        "path": "/ada-zangeman-presentation/images/F-red1.png",
+        "path": "/ada-zangeman/images/F-red1.png",
         "type": "file",
         "md5": "c761dd3e47c61e1c964780a41897a955"
     },
     {
-        "path": "/ada-zangeman-presentation/images/F-yellow.png",
+        "path": "/ada-zangeman/images/F-yellow.png",
         "type": "file",
         "md5": "62177f98c1b6bfe4831bac1de5989a07"
     },
     {
-        "path": "/ada-zangeman-presentation/images/H-cyan.png",
+        "path": "/ada-zangeman/images/H-cyan.png",
         "type": "file",
         "md5": "a6a7896a446ef91c37990ac251001bd0"
     },
     {
-        "path": "/ada-zangeman-presentation/images/H-pink.png",
+        "path": "/ada-zangeman/images/H-pink.png",
         "type": "file",
         "md5": "576c3ab2bcc69cb7383480da93d859d7"
     },
     {
-        "path": "/ada-zangeman-presentation/images/I-cyan.png",
+        "path": "/ada-zangeman/images/I-cyan.png",
         "type": "file",
         "md5": "73f0666b393af75433c371edeff4780b"
     },
     {
-        "path": "/ada-zangeman-presentation/images/I-cyan0.png",
+        "path": "/ada-zangeman/images/I-cyan0.png",
         "type": "file",
         "md5": "f8a1345682485189aa4808eb0264a55d"
     },
     {
-        "path": "/ada-zangeman-presentation/images/I-fucsia.png",
+        "path": "/ada-zangeman/images/I-fucsia.png",
         "type": "file",
         "md5": "83fff9d6fe9fe2b4c739b6d6f2d2368b"
     },
     {
-        "path": "/ada-zangeman-presentation/images/I-lightcyan.png",
+        "path": "/ada-zangeman/images/I-lightcyan.png",
         "type": "file",
         "md5": "e4f4ef15fe1e078404c4d855740d05b4"
     },
     {
-        "path": "/ada-zangeman-presentation/images/I-olive.png",
+        "path": "/ada-zangeman/images/I-olive.png",
         "type": "file",
         "md5": "b76f988d4f16651908b1511de730fea2"
     },
     {
-        "path": "/ada-zangeman-presentation/images/I-red1.png",
+        "path": "/ada-zangeman/images/I-red1.png",
         "type": "file",
         "md5": "060cc1143aa10842aca17bceebb0a86e"
     },
     {
-        "path": "/ada-zangeman-presentation/images/I-yellow.png",
+        "path": "/ada-zangeman/images/I-yellow.png",
         "type": "file",
         "md5": "61430be6990aa6b98e7e16edfbda5137"
     },
     {
-        "path": "/ada-zangeman-presentation/images/J-pink.png",
+        "path": "/ada-zangeman/images/J-pink.png",
         "type": "file",
         "md5": "a3048226c1616eafaf6a7aeeaf3dced9"
     },
     {
-        "path": "/ada-zangeman-presentation/images/J-red2.png",
+        "path": "/ada-zangeman/images/J-red2.png",
         "type": "file",
         "md5": "ed629b7519b0b91919b5941812142594"
     },
     {
-        "path": "/ada-zangeman-presentation/images/Ja-green.png",
+        "path": "/ada-zangeman/images/Ja-green.png",
         "type": "file",
         "md5": "54ac838e2d7145987d5bb8dc1a38f9be"
     },
     {
-        "path": "/ada-zangeman-presentation/images/L-cyan.png",
+        "path": "/ada-zangeman/images/L-cyan.png",
         "type": "file",
         "md5": "03d4286c68ec795a4ece0544439cb3c6"
     },
     {
-        "path": "/ada-zangeman-presentation/images/L-fucsia.png",
+        "path": "/ada-zangeman/images/L-fucsia.png",
         "type": "file",
         "md5": "9b3c464aefabda5fef6beb32288ef4a5"
     },
     {
-        "path": "/ada-zangeman-presentation/images/L-fuscia.png",
+        "path": "/ada-zangeman/images/L-fuscia.png",
         "type": "file",
         "md5": "9b3c464aefabda5fef6beb32288ef4a5"
     },
     {
-        "path": "/ada-zangeman-presentation/images/L-lightcyan.png",
+        "path": "/ada-zangeman/images/L-lightcyan.png",
         "type": "file",
         "md5": "c68c4a5a93e99a9ab11b7112f0aea6c6"
     },
     {
-        "path": "/ada-zangeman-presentation/images/L-olive.png",
+        "path": "/ada-zangeman/images/L-olive.png",
         "type": "file",
         "md5": "6df292d7d064d7905d4fa9c0d69b0d34"
     },
     {
-        "path": "/ada-zangeman-presentation/images/L-red2.png",
+        "path": "/ada-zangeman/images/L-red2.png",
         "type": "file",
         "md5": "2af7bbb68a0aa830f8672a54b298a3ce"
     },
     {
-        "path": "/ada-zangeman-presentation/images/L-yellow2.png",
+        "path": "/ada-zangeman/images/L-yellow2.png",
         "type": "file",
         "md5": "f1beb7716d1b98e14affb49872185dfe"
     },
     {
-        "path": "/ada-zangeman-presentation/images/M-yellow.png",
+        "path": "/ada-zangeman/images/M-yellow.png",
         "type": "file",
         "md5": "341aee593c4ebcbe68443fa055add65e"
     },
     {
-        "path": "/ada-zangeman-presentation/images/N-cyan.png",
+        "path": "/ada-zangeman/images/N-cyan.png",
         "type": "file",
         "md5": "33210402656f9fd73abeed7b7f205d92"
     },
     {
-        "path": "/ada-zangeman-presentation/images/N-lightcyan.png",
+        "path": "/ada-zangeman/images/N-lightcyan.png",
         "type": "file",
         "md5": "9eecb1656f6e400bf4f11e91710c3e02"
     },
     {
-        "path": "/ada-zangeman-presentation/images/N-olive.png",
+        "path": "/ada-zangeman/images/N-olive.png",
         "type": "file",
         "md5": "a3d97475d0a330e041c28da41a5e373e"
     },
     {
-        "path": "/ada-zangeman-presentation/images/N-red2.png",
+        "path": "/ada-zangeman/images/N-red2.png",
         "type": "file",
         "md5": "e8adc217a20a49abb49d124046e7fca0"
     },
     {
-        "path": "/ada-zangeman-presentation/images/O-cyan.png",
+        "path": "/ada-zangeman/images/O-cyan.png",
         "type": "file",
         "md5": "534f8703bd8d6d6cbe5caf214bd479d7"
     },
     {
-        "path": "/ada-zangeman-presentation/images/O-green.png",
+        "path": "/ada-zangeman/images/O-green.png",
         "type": "file",
         "md5": "c1a16064fde8c986537eef84dda5d42d"
     },
     {
-        "path": "/ada-zangeman-presentation/images/O-lightcyan.png",
+        "path": "/ada-zangeman/images/O-lightcyan.png",
         "type": "file",
         "md5": "c67eee98b2bcbfef1f58403a260621b5"
     },
     {
-        "path": "/ada-zangeman-presentation/images/O-pink.png",
+        "path": "/ada-zangeman/images/O-pink.png",
         "type": "file",
         "md5": "b210a55b56efe5f23b37150f45b7b709"
     },
     {
-        "path": "/ada-zangeman-presentation/images/O-yellow.png",
+        "path": "/ada-zangeman/images/O-yellow.png",
         "type": "file",
         "md5": "d6deb2b39c8a61938c6759ceb2712cb0"
     },
     {
-        "path": "/ada-zangeman-presentation/images/Pe-brown.png",
+        "path": "/ada-zangeman/images/Pe-brown.png",
         "type": "file",
         "md5": "d8e3244d0fee3e982c5c980295e9a0c2"
     },
     {
-        "path": "/ada-zangeman-presentation/images/S-red1.png",
+        "path": "/ada-zangeman/images/S-red1.png",
         "type": "file",
         "md5": "5f964ff4aee16d3c7ac9b94e7a1e5b41"
     },
     {
-        "path": "/ada-zangeman-presentation/images/S-red2.png",
+        "path": "/ada-zangeman/images/S-red2.png",
         "type": "file",
         "md5": "e32d1dff411a4b8733cb936cda79060f"
     },
     {
-        "path": "/ada-zangeman-presentation/images/S-yellow.png",
+        "path": "/ada-zangeman/images/S-yellow.png",
         "type": "file",
         "md5": "020d2870ab90f765bfd789decc743912"
     },
     {
-        "path": "/ada-zangeman-presentation/images/Shta-pink.png",
+        "path": "/ada-zangeman/images/Shta-pink.png",
         "type": "file",
         "md5": "b1995bf4e78bc456cfd06f5849a86425"
     },
     {
-        "path": "/ada-zangeman-presentation/images/Shta-red1.png",
+        "path": "/ada-zangeman/images/Shta-red1.png",
         "type": "file",
         "md5": "6e4b3f8251206c98513f8c708b49a78d"
     },
     {
-        "path": "/ada-zangeman-presentation/images/T-cyan.png",
+        "path": "/ada-zangeman/images/T-cyan.png",
         "type": "file",
         "md5": "b3a85718735f672d434c9e1ee69bd849"
     },
     {
-        "path": "/ada-zangeman-presentation/images/T-olive.png",
+        "path": "/ada-zangeman/images/T-olive.png",
         "type": "file",
         "md5": "c30f6112d859349b794c543d28febd25"
     },
     {
-        "path": "/ada-zangeman-presentation/images/T-pink.png",
+        "path": "/ada-zangeman/images/T-pink.png",
         "type": "file",
         "md5": "e3dda41ad2ca66aca9bfbc4e165ee06c"
     },
     {
-        "path": "/ada-zangeman-presentation/images/T-red2.png",
+        "path": "/ada-zangeman/images/T-red2.png",
         "type": "file",
         "md5": "570d07829738093b78d94e32b63b71af"
     },
     {
-        "path": "/ada-zangeman-presentation/images/Te-yellow.png",
+        "path": "/ada-zangeman/images/Te-yellow.png",
         "type": "file",
         "md5": "0eb310211c09a8a002161102339dda79"
     },
     {
-        "path": "/ada-zangeman-presentation/images/U-green.png",
+        "path": "/ada-zangeman/images/U-green.png",
         "type": "file",
         "md5": "ca5361b18134896c5fc5f9edccaa4aca"
     },
     {
-        "path": "/ada-zangeman-presentation/images/U-yellow.png",
+        "path": "/ada-zangeman/images/U-yellow.png",
         "type": "file",
         "md5": "4e394241190b321271589630d3595505"
     },
     {
-        "path": "/ada-zangeman-presentation/images/U_cyr-fucsia.png",
+        "path": "/ada-zangeman/images/U_cyr-fucsia.png",
         "type": "file",
         "md5": "969eaeefcc872d216dd7d356f7214fc2"
     },
     {
-        "path": "/ada-zangeman-presentation/images/Ve-yellow2.png",
+        "path": "/ada-zangeman/images/Ve-yellow2.png",
         "type": "file",
         "md5": "740b79fdc28d06e0070376f1aab6f894"
     },
     {
-        "path": "/ada-zangeman-presentation/images/Z-brown.png",
+        "path": "/ada-zangeman/images/Z-brown.png",
         "type": "file",
         "md5": "f5ead4e45af16d6b0749f414b6596b11"
     },
     {
-        "path": "/ada-zangeman-presentation/images/Z-red1.png",
+        "path": "/ada-zangeman/images/Z-red1.png",
         "type": "file",
         "md5": "86e52317d327f3ccbf69a83aa979edaa"
     },
     {
-        "path": "/ada-zangeman-presentation/images/Zhe-cyan.png",
+        "path": "/ada-zangeman/images/Zhe-cyan.png",
         "type": "file",
         "md5": "71c71703e1935d2e3a209eac72d75969"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-300.png",
+        "path": "/ada-zangeman/images/ada-300.png",
         "type": "file",
         "md5": "20df20815636ba8571b7e4653ab03116"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-card.jpg",
+        "path": "/ada-zangeman/images/ada-card.jpg",
         "type": "file",
         "md5": "878ea0d946a372971f7be69c94dbd846"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-card.psd",
+        "path": "/ada-zangeman/images/ada-card.psd",
         "type": "file",
         "md5": "624fc73c2de081bdae6e42c73214e9f4"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-livre.jpg",
+        "path": "/ada-zangeman/images/ada-livre.jpg",
         "type": "file",
         "md5": "454b49a68f4a9a921bbe59cf2b483b38"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-livre.psd",
+        "path": "/ada-zangeman/images/ada-livre.psd",
         "type": "file",
         "md5": "cd1ba0907448e5ab06670a3348e22a7d"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p01-fr-titleonly.jpg",
+        "path": "/ada-zangeman/images/ada-p01-fr-titleonly.jpg",
         "type": "file",
         "md5": "ea2585704671e5b860dd3b86021b52eb"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p03-author.jpg",
+        "path": "/ada-zangeman/images/ada-p03-author.jpg",
         "type": "file",
         "md5": "8eeac0e46a0581138cfb3f6ed2950c22"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p03-dog.jpg",
+        "path": "/ada-zangeman/images/ada-p03-dog.jpg",
         "type": "file",
         "md5": "a86f9ad4302c406a0a421d5752edaf6e"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p03-title-fr-alt.jpg",
+        "path": "/ada-zangeman/images/ada-p03-title-fr-alt.jpg",
         "type": "file",
         "md5": "c34d06b67a2fe06009fb19aa09b8ed49"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p04.jpg",
+        "path": "/ada-zangeman/images/ada-p04.jpg",
         "type": "file",
         "md5": "0ccdd8e8299473a4cb82f27ae62c08ff"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p05.jpg",
+        "path": "/ada-zangeman/images/ada-p05.jpg",
         "type": "file",
         "md5": "b5dbbb2b9b27d463640c68172247c513"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p07.jpg",
+        "path": "/ada-zangeman/images/ada-p07.jpg",
         "type": "file",
         "md5": "cc0c6f83a3239720dab78134132c6c6d"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p08a.jpg",
+        "path": "/ada-zangeman/images/ada-p08a.jpg",
         "type": "file",
         "md5": "51e85da293c31e5f58af4afa10cef88f"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p08b.jpg",
+        "path": "/ada-zangeman/images/ada-p08b.jpg",
         "type": "file",
         "md5": "5fe126890eed840f365a4bea524fe55c"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p09.jpg",
+        "path": "/ada-zangeman/images/ada-p09.jpg",
         "type": "file",
         "md5": "6f2a1f9886ae1aef9f20096b55c17b7f"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p10-11.jpg",
+        "path": "/ada-zangeman/images/ada-p10-11.jpg",
         "type": "file",
         "md5": "2143e20d9bd05e618b8356566dec85fb"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p10.jpg",
+        "path": "/ada-zangeman/images/ada-p10.jpg",
         "type": "file",
         "md5": "d54ad824c23ec59523543ffd7988fe7b"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p11.jpg",
+        "path": "/ada-zangeman/images/ada-p11.jpg",
         "type": "file",
         "md5": "d94cd860a8f8cfb5fca6ca72ca0951ac"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p11.psd",
+        "path": "/ada-zangeman/images/ada-p11.psd",
         "type": "file",
         "md5": "00f908ce630614877c394f80951dfd78"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p12.jpg",
+        "path": "/ada-zangeman/images/ada-p12.jpg",
         "type": "file",
         "md5": "fa0dc9aaa85bd20e00f38f321e59e213"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p13.jpg",
+        "path": "/ada-zangeman/images/ada-p13.jpg",
         "type": "file",
         "md5": "f5bb007a2fd833abad16785a479a8c15"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p14.jpg",
+        "path": "/ada-zangeman/images/ada-p14.jpg",
         "type": "file",
         "md5": "28eccfe5c52e60078db6600468cac891"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p15.jpg",
+        "path": "/ada-zangeman/images/ada-p15.jpg",
         "type": "file",
         "md5": "753149bd60f027991d0707f62d0eb5ed"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p16.jpg",
+        "path": "/ada-zangeman/images/ada-p16.jpg",
         "type": "file",
         "md5": "5d17b172ecd90c50cf0d2da675cd289f"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p18.jpg",
+        "path": "/ada-zangeman/images/ada-p18.jpg",
         "type": "file",
         "md5": "6279fd07d21e34f31820a3c7e5c9c837"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p19.jpg",
+        "path": "/ada-zangeman/images/ada-p19.jpg",
         "type": "file",
         "md5": "539c20e7bb9d6ccea6da9925ccb6f567"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p21.jpg",
+        "path": "/ada-zangeman/images/ada-p21.jpg",
         "type": "file",
         "md5": "0c6c56b160fce53d1d79986101a5caf6"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p23.jpg",
+        "path": "/ada-zangeman/images/ada-p23.jpg",
         "type": "file",
         "md5": "d6005de2c2668aae9791c27dad18b46b"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p24.jpg",
+        "path": "/ada-zangeman/images/ada-p24.jpg",
         "type": "file",
         "md5": "943f2f2375e72f72fb84c6a2441e7165"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p27.jpg",
+        "path": "/ada-zangeman/images/ada-p27.jpg",
         "type": "file",
         "md5": "f001879360d935cb40cca62e42166886"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p28.jpg",
+        "path": "/ada-zangeman/images/ada-p28.jpg",
         "type": "file",
         "md5": "08eb94c795578ce308d573a04cad0986"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p29.jpg",
+        "path": "/ada-zangeman/images/ada-p29.jpg",
         "type": "file",
         "md5": "66b66cd19b6ec4a080b821495755dd01"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p30.jpg",
+        "path": "/ada-zangeman/images/ada-p30.jpg",
         "type": "file",
         "md5": "b48d5ce233ab55b40a91a16b8e65f3c0"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p32.jpg",
+        "path": "/ada-zangeman/images/ada-p32.jpg",
         "type": "file",
         "md5": "fb4c39f3b223ea0377c9f74b95659f0b"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p34.jpg",
+        "path": "/ada-zangeman/images/ada-p34.jpg",
         "type": "file",
         "md5": "191313527a4e7a0b50aa210c55b6963a"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p37.jpg",
+        "path": "/ada-zangeman/images/ada-p37.jpg",
         "type": "file",
         "md5": "7783e6261f49e9c4d3d346abb92e61eb"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p38.jpg",
+        "path": "/ada-zangeman/images/ada-p38.jpg",
         "type": "file",
         "md5": "eb131c09e363ba4019cebdc1b945e85a"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p40-fr.jpg",
+        "path": "/ada-zangeman/images/ada-p40-fr.jpg",
         "type": "file",
         "md5": "ef23e0d83afca15d99690d79b0c4738d"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p42.jpg",
+        "path": "/ada-zangeman/images/ada-p42.jpg",
         "type": "file",
         "md5": "ec0971f26d1f527bd8bb635b5d66a296"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p44.jpg",
+        "path": "/ada-zangeman/images/ada-p44.jpg",
         "type": "file",
         "md5": "0c35ac188a25e251b04e350b7e22263c"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p46.jpg",
+        "path": "/ada-zangeman/images/ada-p46.jpg",
         "type": "file",
         "md5": "16771d663d25017dfa970c69ec7b63f6"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p48.jpg",
+        "path": "/ada-zangeman/images/ada-p48.jpg",
         "type": "file",
         "md5": "0757a0c5e627f09bcaff5ba0b1cba520"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p50-title-fr.jpg",
+        "path": "/ada-zangeman/images/ada-p50-title-fr.jpg",
         "type": "file",
         "md5": "73e7a637019576dacb5cf14a1462f388"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p51.jpg",
+        "path": "/ada-zangeman/images/ada-p51.jpg",
         "type": "file",
         "md5": "c848955581679bd7f64a6906897f9138"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p52-title-alt-fr.jpg",
+        "path": "/ada-zangeman/images/ada-p52-title-alt-fr.jpg",
         "type": "file",
         "md5": "1fbb4c07ffa80ae6fd35093432096cbd"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p52.jpg",
+        "path": "/ada-zangeman/images/ada-p52.jpg",
         "type": "file",
         "md5": "bb54326097880920f11700caee8843cb"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p53-reversed.jpg",
+        "path": "/ada-zangeman/images/ada-p53-reversed.jpg",
         "type": "file",
         "md5": "2e5cee1cefdca1ee0c9457194a0f7bbf"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada-p53-title-alt-fr.jpg",
+        "path": "/ada-zangeman/images/ada-p53-title-alt-fr.jpg",
         "type": "file",
         "md5": "abe804ab5e354114b9242a3bc1ecca25"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada.png",
+        "path": "/ada-zangeman/images/ada.png",
         "type": "file",
         "md5": "6a95976e4bd9d77c73c0f0f47026d4b5"
     },
     {
-        "path": "/ada-zangeman-presentation/images/ada_composite_medias.jpg",
+        "path": "/ada-zangeman/images/ada_composite_medias.jpg",
         "type": "file",
         "md5": "031dbe2ea3d35a66b3adf06ad3431b50"
     },
     {
-        "path": "/ada-zangeman-presentation/images/couverture_ada_L800.jpg",
+        "path": "/ada-zangeman/images/couverture_ada_L800.jpg",
         "type": "file",
         "md5": "25e28bf60299b90fb93fefcc570ca0d6"
     },
     {
-        "path": "/ada-zangeman-presentation/images/cover.jpg",
+        "path": "/ada-zangeman/images/cover.jpg",
         "type": "file",
         "md5": "519f83795fffe30986531d9395cb27af"
     },
     {
-        "path": "/ada-zangeman-presentation/images/cover_de.jpg",
+        "path": "/ada-zangeman/images/cover_de.jpg",
         "type": "file",
         "md5": "60860bca1c6195f105b749d814bbf30e"
     },
     {
-        "path": "/ada-zangeman-presentation/images/cover_en.png",
+        "path": "/ada-zangeman/images/cover_en.png",
         "type": "file",
         "md5": "ffbf81a453abf15697ad8496e2030aa1"
     },
     {
-        "path": "/ada-zangeman-presentation/images/logo-fsfe.png",
+        "path": "/ada-zangeman/images/logo-fsfe.png",
         "type": "file",
         "md5": "02cc698e6a6e27dc20a96cce755da29e"
     },
     {
-        "path": "/ada-zangeman-presentation/images/logo_cfeditions.png",
+        "path": "/ada-zangeman/images/logo_cfeditions.png",
         "type": "file",
         "md5": "bfa4f808bdf87dfadcf5334bd60dff70"
     },
     {
-        "path": "ada-zangeman-presentation/js",
+        "path": "ada-zangeman/js",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/ada-zangeman-presentation/js/ragadjust.js",
+        "path": "/ada-zangeman/js/ragadjust.js",
         "type": "file",
         "md5": "5fe533ac3b8faf6449fc3aac60cc98c5"
     },
     {
-        "path": "/ada-zangeman-presentation/js/reload-in-place.js",
+        "path": "/ada-zangeman/js/reload-in-place.js",
         "type": "file",
         "md5": "fd52840d354446d98d9aa708cd02a7fe"
     },
     {
-        "path": "/ada-zangeman-presentation/js/scripts.js",
+        "path": "/ada-zangeman/js/scripts.js",
         "type": "file",
         "md5": "63b49717af4eabfd4d9be44f8e2aae3c"
     },
     {
-        "path": "/ada-zangeman-presentation/js/scripts_old.js",
+        "path": "/ada-zangeman/js/scripts_old.js",
         "type": "file",
         "md5": "1dca752af20fa1cc00ed0dcbe49d3b34"
     },
     {
-        "path": "/ada-zangeman-presentation/js/scripts_old_2.js",
+        "path": "/ada-zangeman/js/scripts_old_2.js",
         "type": "file",
         "md5": "c331d06eaf8c47cd1c72e54415db0855"
     },
     {
-        "path": "/ada-zangeman-presentation/presentation.html",
+        "path": "/ada-zangeman/presentation.html",
         "type": "file",
         "md5": "ce99d0b17522c117ce78741873976b25"
     },
     {
-        "path": "/ada-zangeman-presentation/push.sh",
+        "path": "/ada-zangeman/push.sh",
         "type": "file",
-        "md5": "71d63be239a095db9e70af6ef11d3098"
+        "md5": "fcb9160464c21d2b90fc921a2712d484"
     },
     {
-        "path": "/ada-zangeman-presentation/text.html",
+        "path": "ada-zangeman/text",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ada-zangeman/text/text.html",
+        "type": "file",
+        "md5": "d613051de6dad663a1d8d20c5020193b"
+    },
+    {
+        "path": "/ada-zangeman/text.html",
         "type": "file",
         "md5": "d613051de6dad663a1d8d20c5020193b"
     },
@@ -1337,7 +1347,7 @@
     {
         "path": "/bahar-narafzarazad/index.html",
         "type": "file",
-        "md5": "14cd3b79c42f2e7f914d73580f29d128"
+        "md5": "1609b935ea0e7bcb3a075b2a3965bc7f"
     },
     {
         "path": "bumpbuddy",
@@ -1347,7 +1357,7 @@
     {
         "path": "/bumpbuddy/index.html",
         "type": "file",
-        "md5": "1f53e8a0a3f6aaefc8defd504218bb8d"
+        "md5": "88306a45ef65d069b81ffb7f1e5d5dc4"
     },
     {
         "path": "chaharshanbesori",
@@ -1357,7 +1367,7 @@
     {
         "path": "/chaharshanbesori/index.html",
         "type": "file",
-        "md5": "2c111656b696058ba8cfca160616156b"
+        "md5": "e4d83f215b2b5fae098becb26843c182"
     },
     {
         "path": "create-table",
@@ -1367,7 +1377,7 @@
     {
         "path": "/create-table/index.html",
         "type": "file",
-        "md5": "ae4b378337c41fd9bfc4b17a5bcf6f6f"
+        "md5": "792af5629798ea49191ef892ba34d2a0"
     },
     {
         "path": "debian-13-release",
@@ -1377,7 +1387,7 @@
     {
         "path": "/debian-13-release/index.html",
         "type": "file",
-        "md5": "701285823a40985923f423a8fbe76719"
+        "md5": "55bfc9f4cf588df5f4a8fd10ee903a37"
     },
     {
         "path": "debian-32",
@@ -1387,7 +1397,7 @@
     {
         "path": "/debian-32/index.html",
         "type": "file",
-        "md5": "8b1608aa2ef5ba9573d341db4b802980"
+        "md5": "a88bbb0a0a8996f60c0a0afa291e9e3c"
     },
     {
         "path": "devops-conf-2023",
@@ -1397,7 +1407,7 @@
     {
         "path": "/devops-conf-2023/index.html",
         "type": "file",
-        "md5": "8d7f7653681ba0f2a7ece36026bf9c6b"
+        "md5": "56f5574780986ebb86851035f0d89791"
     },
     {
         "path": "devops-network-conf",
@@ -1407,7 +1417,7 @@
     {
         "path": "/devops-network-conf/index.html",
         "type": "file",
-        "md5": "ad2f37360619f18289068d053226c628"
+        "md5": "46eebe5ae929b12a9ca69f349f860765"
     },
     {
         "path": "dorehami-01",
@@ -1417,7 +1427,7 @@
     {
         "path": "/dorehami-01/index.html",
         "type": "file",
-        "md5": "9818bdf6508871a3034d17eb8aab00ed"
+        "md5": "c900d584d683cd75df7a00b162ef0865"
     },
     {
         "path": "dorehami-02",
@@ -1427,7 +1437,7 @@
     {
         "path": "/dorehami-02/index.html",
         "type": "file",
-        "md5": "b9f10da3b6b81eaf9815d00dff0ce9ed"
+        "md5": "e17e9d2c2f364461229d5d277154065b"
     },
     {
         "path": "dorehami-dev",
@@ -1437,7 +1447,7 @@
     {
         "path": "/dorehami-dev/index.html",
         "type": "file",
-        "md5": "e47feda7b21c6d56dfc62df7d201996f"
+        "md5": "023e86acceb9de06e1849069f1f82286"
     },
     {
         "path": "escape-to-freedom",
@@ -1447,7 +1457,7 @@
     {
         "path": "/escape-to-freedom/index.html",
         "type": "file",
-        "md5": "58c30b8ce0d834d83af05fe5acfff06a"
+        "md5": "35efef910abc7d331d6743dc8eb0adca"
     },
     {
         "path": "event-01",
@@ -1457,7 +1467,7 @@
     {
         "path": "/event-01/index.html",
         "type": "file",
-        "md5": "22ffe006b3fc26f0a25cb8e94f9782f5"
+        "md5": "e5e793e0e54619382773655679274c09"
     },
     {
         "path": "event-02",
@@ -1467,7 +1477,7 @@
     {
         "path": "/event-02/index.html",
         "type": "file",
-        "md5": "00647982e5c94adb5d694d4b101af727"
+        "md5": "400f2e5cc2f5fda8ad5bd24ca82b4e1d"
     },
     {
         "path": "event-03",
@@ -1477,7 +1487,7 @@
     {
         "path": "/event-03/index.html",
         "type": "file",
-        "md5": "9f086f9447a884e78d74e2c891fd0cb1"
+        "md5": "3221c7c8c975ce6fdc9e1eb3950a6bb5"
     },
     {
         "path": "event-04",
@@ -1487,7 +1497,7 @@
     {
         "path": "/event-04/index.html",
         "type": "file",
-        "md5": "984c7519369e0ac19e77cd2c8cb22a9f"
+        "md5": "1a1497499ff41c11b97801e272a83b0e"
     },
     {
         "path": "event-05",
@@ -1497,7 +1507,7 @@
     {
         "path": "/event-05/index.html",
         "type": "file",
-        "md5": "342b3f062dacd10712a1c099f0bb1969"
+        "md5": "b62e4772a87b0fde6489131ca2daced8"
     },
     {
         "path": "event-06",
@@ -1507,7 +1517,7 @@
     {
         "path": "/event-06/index.html",
         "type": "file",
-        "md5": "0f0d1ae0bdc5dae227b1183147056eca"
+        "md5": "ab8f98913deeb86d08830b02bb030264"
     },
     {
         "path": "event-07",
@@ -1517,7 +1527,7 @@
     {
         "path": "/event-07/index.html",
         "type": "file",
-        "md5": "aa140bdeee5e4cfa6fca2669a8a463fc"
+        "md5": "2f2fd17ceb369dce3c7f4af8c933bfa3"
     },
     {
         "path": "event-08",
@@ -1527,7 +1537,7 @@
     {
         "path": "/event-08/index.html",
         "type": "file",
-        "md5": "758668cbcc67c4f44d07604a2d5fbba9"
+        "md5": "84032ca59b79efe9a61a0ca2c2a771f8"
     },
     {
         "path": "event-09",
@@ -1537,7 +1547,7 @@
     {
         "path": "/event-09/index.html",
         "type": "file",
-        "md5": "863cdfe27cdc84f5016606e04e7deb31"
+        "md5": "fe6676600ae6d6bb8c4becb0daa980c6"
     },
     {
         "path": "event-10",
@@ -1547,7 +1557,7 @@
     {
         "path": "/event-10/index.html",
         "type": "file",
-        "md5": "d96923883c021cd4dc0d7cada660402b"
+        "md5": "ab26dd256ebe97aac475efda9b256fcf"
     },
     {
         "path": "event-11",
@@ -1557,7 +1567,7 @@
     {
         "path": "/event-11/index.html",
         "type": "file",
-        "md5": "10805b4b898c999f8c7cf601f08cc4bf"
+        "md5": "496e8859d3a5a271d4fdca110bdd2286"
     },
     {
         "path": "event-12",
@@ -1567,7 +1577,7 @@
     {
         "path": "/event-12/index.html",
         "type": "file",
-        "md5": "3e298104bf95ef5533e2c8ed905a1d5d"
+        "md5": "f7e30b165af8499753268841775eed6a"
     },
     {
         "path": "event-13",
@@ -1577,7 +1587,7 @@
     {
         "path": "/event-13/index.html",
         "type": "file",
-        "md5": "adc2934e7fce2e92d8c5fbafa2b129d1"
+        "md5": "00a532f124778e1d0b9b93c05b3db85e"
     },
     {
         "path": "event-14",
@@ -1587,7 +1597,7 @@
     {
         "path": "/event-14/index.html",
         "type": "file",
-        "md5": "4a0caf6fcec6f749177c9a9ab05e4433"
+        "md5": "702a880df63c7e81a47931e83f93eae1"
     },
     {
         "path": "event-15",
@@ -1597,7 +1607,7 @@
     {
         "path": "/event-15/index.html",
         "type": "file",
-        "md5": "3fc85f3f2a8132a78bc36fe4fb6915e7"
+        "md5": "8d111c004585a1c9f169a580c333c717"
     },
     {
         "path": "event-16",
@@ -1607,7 +1617,7 @@
     {
         "path": "/event-16/index.html",
         "type": "file",
-        "md5": "6645de52d8aa58006778a93c3c4a5d24"
+        "md5": "2afe86e31c42c24931bf5111cf625f4c"
     },
     {
         "path": "event-17",
@@ -1617,7 +1627,7 @@
     {
         "path": "/event-17/index.html",
         "type": "file",
-        "md5": "bcb47aa8d70542ba2459401d66c104c4"
+        "md5": "c59201fe552d661ee396abf47ceaeea9"
     },
     {
         "path": "event-18",
@@ -1627,7 +1637,7 @@
     {
         "path": "/event-18/index.html",
         "type": "file",
-        "md5": "ecbf92fca0e7ebc3cf4cd0ba18e0e8f2"
+        "md5": "dfb2d66183dcb692f01071937197fb1b"
     },
     {
         "path": "event-19",
@@ -1637,7 +1647,7 @@
     {
         "path": "/event-19/index.html",
         "type": "file",
-        "md5": "82bcd9708fc3c247c159f40efb3d1759"
+        "md5": "b6e2d01f72099d257169b27ba9ee4777"
     },
     {
         "path": "fanoos-qalam-conf",
@@ -1647,7 +1657,7 @@
     {
         "path": "/fanoos-qalam-conf/index.html",
         "type": "file",
-        "md5": "4237eadc09d1e57977d15e5bdf58ff81"
+        "md5": "73893c600d6d2a88a56052cc3084d9c4"
     },
     {
         "path": "feed.json",
@@ -1657,7 +1667,7 @@
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "10191f7ae500a50bb97794643481a943"
+        "md5": "60b5682070f81c3535b4ce848c26af5c"
     },
     {
         "path": "first-hackers-coferece-1984",
@@ -1667,7 +1677,7 @@
     {
         "path": "/first-hackers-coferece-1984/index.html",
         "type": "file",
-        "md5": "169a13de1d8fde0b0357223aac89cf35"
+        "md5": "5d966d94e8d0242fe4a008f77e978716"
     },
     {
         "path": "fixing.svg",
@@ -1682,7 +1692,7 @@
     {
         "path": "/font-arad/index.html",
         "type": "file",
-        "md5": "47e199af70293fc04dabdf7b05bf9f05"
+        "md5": "571462e0d9b7748bbc538cf1690f0cb7"
     },
     {
         "path": "free-android",
@@ -1692,7 +1702,7 @@
     {
         "path": "/free-android/index.html",
         "type": "file",
-        "md5": "5b8d5ce965ca7309381f25c59c527331"
+        "md5": "738686e96a6d8d8d30256dcae7e7f83d"
     },
     {
         "path": "free-android-software-contribution-guide",
@@ -1702,7 +1712,7 @@
     {
         "path": "/free-android-software-contribution-guide/index.html",
         "type": "file",
-        "md5": "d2392603f0f3d2771f3720d6e009e007"
+        "md5": "9f17b1e3b5c8136b03dc093b22547bd2"
     },
     {
         "path": "free-software-chat-with-bandali",
@@ -1712,7 +1722,7 @@
     {
         "path": "/free-software-chat-with-bandali/index.html",
         "type": "file",
-        "md5": "44a6262ea83e753f29fc406cd8085f1e"
+        "md5": "4ccdae13c27d6ca0b19e310c6e80187d"
     },
     {
         "path": "free-software-history",
@@ -2222,7 +2232,7 @@
     {
         "path": "/freedom-day/index.html",
         "type": "file",
-        "md5": "8b76d905d84f2f3898cdadbaa72ae67d"
+        "md5": "c6e1234797ad4cce11170cd197286bb8"
     },
     {
         "path": "freefont",
@@ -2232,7 +2242,7 @@
     {
         "path": "/freefont/index.html",
         "type": "file",
-        "md5": "8e113758f3cb72e94f26c8023c545ce3"
+        "md5": "72bb26f802b37866fa51fd8a92276019"
     },
     {
         "path": "fsf-1403",
@@ -2242,7 +2252,7 @@
     {
         "path": "/fsf-1403/index.html",
         "type": "file",
-        "md5": "3c65e200a0d6c74f27936ec8ed27c93f"
+        "md5": "8718eaeeccb306aec1ba524278330099"
     },
     {
         "path": "fsf-history-redirect",
@@ -2252,7 +2262,7 @@
     {
         "path": "/fsf-history-redirect/index.html",
         "type": "file",
-        "md5": "d560b31835d12ec0d6f8282b9b2d7c48"
+        "md5": "4bb7e58741b8739f993a2a53f464f943"
     },
     {
         "path": "fsf40",
@@ -2262,7 +2272,7 @@
     {
         "path": "/fsf40/index.html",
         "type": "file",
-        "md5": "c53407aedbb88dcc7dd40bb104ffcb03"
+        "md5": "ac7edc1a1c7f6306caa582826d765f74"
     },
     {
         "path": "fsfp-culture",
@@ -2272,7 +2282,7 @@
     {
         "path": "/fsfp-culture/index.html",
         "type": "file",
-        "md5": "1beac9e7107f8f966bc48566db64174c"
+        "md5": "ed1bc87068584da40cffc6f7395b88fb"
     },
     {
         "path": "fsiran",
@@ -2282,7 +2292,7 @@
     {
         "path": "/fsiran/index.html",
         "type": "file",
-        "md5": "61beb125d6d131dd88711e41aaf55a01"
+        "md5": "5896213394e9089599b838fb67284b3f"
     },
     {
         "path": "ftthyh-lg-fs",
@@ -2292,7 +2302,7 @@
     {
         "path": "/ftthyh-lg-fs/index.html",
         "type": "file",
-        "md5": "a2463dc3da7c09a191faa8fb065745ae"
+        "md5": "522c9aebc5852d7b19d70b19eb0eb31b"
     },
     {
         "path": "glbh-br-mnswkh-shdn-nrmfzr-b-nrmfzr-azd",
@@ -2302,7 +2312,7 @@
     {
         "path": "/glbh-br-mnswkh-shdn-nrmfzr-b-nrmfzr-azd/index.html",
         "type": "file",
-        "md5": "75ddc65c3588c76168c5d46ef270c0a7"
+        "md5": "7bf8e8a6b0882ba6b40a825efe672533"
     },
     {
         "path": "gnulinux-conf",
@@ -2312,7 +2322,7 @@
     {
         "path": "/gnulinux-conf/index.html",
         "type": "file",
-        "md5": "6c8efea9d47d46adfa83195da8eddfff"
+        "md5": "cad2de2faf3e298bada02d25b3b09cf4"
     },
     {
         "path": "hack-sec-conf",
@@ -2322,7 +2332,7 @@
     {
         "path": "/hack-sec-conf/index.html",
         "type": "file",
-        "md5": "6010dc78b16de9bba3be28d3bcadcb9b"
+        "md5": "71095aca0c63dd7af1d0697f04f55418"
     },
     {
         "path": "hero-txt-style",
@@ -2332,7 +2342,7 @@
     {
         "path": "/hero-txt-style/index.html",
         "type": "file",
-        "md5": "f6c469133c2ca3a8bc922d9018108082"
+        "md5": "467dfd541ff113162448a99a70bf419f"
     },
     {
         "path": "hmyt-mly",
@@ -2342,7 +2352,7 @@
     {
         "path": "/hmyt-mly/index.html",
         "type": "file",
-        "md5": "b041b31563201bb939a8721fc06f5cad"
+        "md5": "0c800160fa0bdc6ecf106c16510fdd03"
     },
     {
         "path": "how-create-community",
@@ -2352,7 +2362,7 @@
     {
         "path": "/how-create-community/index.html",
         "type": "file",
-        "md5": "0e560a31922cd78cfab1064d42e09821"
+        "md5": "23eb11ed8c686099acab1c7794d2fabc"
     },
     {
         "path": "how-install-asahilinux",
@@ -2362,7 +2372,7 @@
     {
         "path": "/how-install-asahilinux/index.html",
         "type": "file",
-        "md5": "ad6db401e967b6106e21cbcb57042a70"
+        "md5": "d972fa8789c1b7304edf5cbeb0aac76a"
     },
     {
         "path": "how-matrix",
@@ -2372,7 +2382,7 @@
     {
         "path": "/how-matrix/index.html",
         "type": "file",
-        "md5": "3390c72add59fbf732738da56894d135"
+        "md5": "a96a3a5d8fe739a607b934b15a7b4607"
     },
     {
         "path": "howtolug",
@@ -2382,7 +2392,7 @@
     {
         "path": "/howtolug/index.html",
         "type": "file",
-        "md5": "dd27434aa63bdedb61a2ada5025ddfac"
+        "md5": "e8bd41b77acf14d18cad614c1deebdd6"
     },
     {
         "path": "htaccess.txt",
@@ -2402,7 +2412,7 @@
     {
         "path": "/ilovefs/index.html",
         "type": "file",
-        "md5": "fc3f366d100a355251661f500abd40d8"
+        "md5": "ad4a3d77e1e9d5d86673162bb2d6d49a"
     },
     {
         "path": "index.html",
@@ -2417,7 +2427,7 @@
     {
         "path": "/initial-announcement/index.html",
         "type": "file",
-        "md5": "f1a699a9b78982e89f4b7c1e513b587b"
+        "md5": "f08842c618651007ec0c15d9b493d36a"
     },
     {
         "path": "inspect.svg",
@@ -2432,7 +2442,7 @@
     {
         "path": "/invidious/index.html",
         "type": "file",
-        "md5": "b6454a113f5208b95d0256157797b7d5"
+        "md5": "1ff7f4adcb6a254fe6116881038cf22d"
     },
     {
         "path": "isfehan-conf",
@@ -2442,7 +2452,7 @@
     {
         "path": "/isfehan-conf/index.html",
         "type": "file",
-        "md5": "c3eff62f06995f54406dec6b5d46d75b"
+        "md5": "276be3af361b5e1d4abaa50fd7263c3a"
     },
     {
         "path": "lan-party",
@@ -2452,7 +2462,7 @@
     {
         "path": "/lan-party/index.html",
         "type": "file",
-        "md5": "550fe5d38d064e392f2f25130cfeeae7"
+        "md5": "6ed89f10139398f5ac810b936511bdec"
     },
     {
         "path": "learn-gimp",
@@ -2462,7 +2472,7 @@
     {
         "path": "/learn-gimp/index.html",
         "type": "file",
-        "md5": "ab260f4cda0821e74ead5bf4808b737c"
+        "md5": "8775e4d2313c32ca33457349d702996e"
     },
     {
         "path": "liberate-your-phone",
@@ -2472,7 +2482,7 @@
     {
         "path": "/liberate-your-phone/index.html",
         "type": "file",
-        "md5": "b19394bd214797d49d853f5be289bb99"
+        "md5": "115ee738673b61a5bb750e21dfa5ccda"
     },
     {
         "path": "libremobileos",
@@ -2482,7 +2492,7 @@
     {
         "path": "/libremobileos/index.html",
         "type": "file",
-        "md5": "196bc063dd4a668f81bafe79c25757d9"
+        "md5": "2ce2941ac0381455b9212b4237c1ff52"
     },
     {
         "path": "libreplanet2025",
@@ -2492,7 +2502,7 @@
     {
         "path": "/libreplanet2025/index.html",
         "type": "file",
-        "md5": "fccd87cdb3e71391dbb0e19d01f4ee5e"
+        "md5": "7264b843a92e388cb9edcb02adf3d0d3"
     },
     {
         "path": "librepllant",
@@ -2502,7 +2512,7 @@
     {
         "path": "/librepllant/index.html",
         "type": "file",
-        "md5": "4e72c59b143fa11eec1da497ccd18792"
+        "md5": "2850d3227b032e74ac2c524028054d86"
     },
     {
         "path": "license-ofl",
@@ -2512,7 +2522,7 @@
     {
         "path": "/license-ofl/index.html",
         "type": "file",
-        "md5": "7973ab7f0a2a3828c5893fd7add00949"
+        "md5": "1e37cb728b66bf917e434ba16b26172a"
     },
     {
         "path": "license-opensource",
@@ -2522,7 +2532,7 @@
     {
         "path": "/license-opensource/index.html",
         "type": "file",
-        "md5": "91f7395b9022e30f4534480d7975db33"
+        "md5": "f9615bc77f8476811415681443837e5f"
     },
     {
         "path": "licenses",
@@ -2532,7 +2542,7 @@
     {
         "path": "/licenses/index.html",
         "type": "file",
-        "md5": "bfee67b49cddb5f58b077231d457ea24"
+        "md5": "27549db91c20b01588e4d11d2c918f0b"
     },
     {
         "path": "linux-workhsop",
@@ -2542,7 +2552,7 @@
     {
         "path": "/linux-workhsop/index.html",
         "type": "file",
-        "md5": "f94fe552d144bde581a48ff09755a6fa"
+        "md5": "084771613afc791fd2f45887e7ac8fee"
     },
     {
         "path": "lmo",
@@ -2552,7 +2562,7 @@
     {
         "path": "/lmo/index.html",
         "type": "file",
-        "md5": "4ee3e26254148d6aeee0d593499388b3"
+        "md5": "9c37919cc61f54ff688fca1da0511391"
     },
     {
         "path": "loop",
@@ -2562,7 +2572,7 @@
     {
         "path": "/loop/index.html",
         "type": "file",
-        "md5": "7ae5897a33a68685c4b6a7f8302d07dd"
+        "md5": "5d8566718dca4b9173bb5ca48700b8af"
     },
     {
         "path": "mafia-app",
@@ -2572,7 +2582,7 @@
     {
         "path": "/mafia-app/index.html",
         "type": "file",
-        "md5": "68d05a724b6322c153630e15d93c3457"
+        "md5": "c364db097a497eea5d8c4a3fc8f00ebd"
     },
     {
         "path": "manifesto",
@@ -2582,7 +2592,7 @@
     {
         "path": "/manifesto/index.html",
         "type": "file",
-        "md5": "2f7b9bb9c37bbd20318bf4c2d82b05b7"
+        "md5": "c409a3016c90d88504fc52b25c54135c"
     },
     {
         "path": "mastadon",
@@ -2592,7 +2602,7 @@
     {
         "path": "/mastadon/index.html",
         "type": "file",
-        "md5": "48a7af9e3f8307294cab8c86c6636d60"
+        "md5": "a140b65069ad0ac5d98ea0dc85b9b1d8"
     },
     {
         "path": "matrix",
@@ -2602,7 +2612,7 @@
     {
         "path": "/matrix/index.html",
         "type": "file",
-        "md5": "ea359b6c8c0aeb87e93bc4ecedd129ac"
+        "md5": "3d7663f19fcfce5cf0be62ff17c09c4a"
     },
     {
         "path": "matrix-user-guide",
@@ -2612,7 +2622,7 @@
     {
         "path": "/matrix-user-guide/index.html",
         "type": "file",
-        "md5": "de7d4de3ee7aa0610aa9199a806af6ec"
+        "md5": "9668303f0c4692c7ac8d66a3cfdd68ff"
     },
     {
         "path": "media",
@@ -10862,7 +10872,7 @@
     {
         "path": "/metro-shiraz/index.html",
         "type": "file",
-        "md5": "46e0f4ebac346aa21d95925ca721af68"
+        "md5": "820597fa80ae81f2905b743e7a7ad82c"
     },
     {
         "path": "obs-studio",
@@ -10872,7 +10882,7 @@
     {
         "path": "/obs-studio/index.html",
         "type": "file",
-        "md5": "602e1d90332423d23046ad5efd721518"
+        "md5": "625ecafa54557fdc517e57094f1430b3"
     },
     {
         "path": "parch-linux",
@@ -10882,7 +10892,7 @@
     {
         "path": "/parch-linux/index.html",
         "type": "file",
-        "md5": "70103cd8d59b8f7216117e8288c723c3"
+        "md5": "3762d8887ba56fb28e6302f4fa74c60d"
     },
     {
         "path": "people.png",
@@ -10897,7 +10907,7 @@
     {
         "path": "/post-mullvad/index.html",
         "type": "file",
-        "md5": "d5ca0c7bf5812433d0a9e698ff346736"
+        "md5": "78bcf53ae30da9fc3e4304e56adecb46"
     },
     {
         "path": "post-phi-2",
@@ -10907,7 +10917,7 @@
     {
         "path": "/post-phi-2/index.html",
         "type": "file",
-        "md5": "4c8f70eed7a73bec2e0430dce7ce7a85"
+        "md5": "65976f221063f8db6ffab0073bb77c51"
     },
     {
         "path": "post-phi-4",
@@ -10917,7 +10927,7 @@
     {
         "path": "/post-phi-4/index.html",
         "type": "file",
-        "md5": "4c47cdb1a21a2251d850ad2a2e305b45"
+        "md5": "17638d02b03a00e4ace9dfd39d5b3f0a"
     },
     {
         "path": "post-rc6",
@@ -10927,7 +10937,7 @@
     {
         "path": "/post-rc6/index.html",
         "type": "file",
-        "md5": "4d096c2522ec684ffc0a7d3bf3a4d44d"
+        "md5": "a67a05ea58d5edb169c49fa83efb1388"
     },
     {
         "path": "post-xia",
@@ -10937,7 +10947,7 @@
     {
         "path": "/post-xia/index.html",
         "type": "file",
-        "md5": "bab4369c4142acd416b5e885d2de823e"
+        "md5": "707d21754ff3586c52f314dd5487af4f"
     },
     {
         "path": "post-xia-2",
@@ -10947,7 +10957,7 @@
     {
         "path": "/post-xia-2/index.html",
         "type": "file",
-        "md5": "846e0102bfdfd1b68bcf8bdd42b16ff8"
+        "md5": "efb8fc5277f24e8926e6dfa9c2c1bfa3"
     },
     {
         "path": "qralarm",
@@ -10957,7 +10967,7 @@
     {
         "path": "/qralarm/index.html",
         "type": "file",
-        "md5": "c8cd7ccd31ddbd83e971ca60ab3bf4b8"
+        "md5": "0f7e4310de3f3ad02a57dca52bb442ec"
     },
     {
         "path": "register-in-matrix",
@@ -10967,7 +10977,7 @@
     {
         "path": "/register-in-matrix/index.html",
         "type": "file",
-        "md5": "ae37e3b52075d6e1daa45730234ef99d"
+        "md5": "7d6805c84a762eab6e2400e880f62313"
     },
     {
         "path": "report-saber-rastikerdar",
@@ -10977,7 +10987,7 @@
     {
         "path": "/report-saber-rastikerdar/index.html",
         "type": "file",
-        "md5": "18c30332068ce69826c7dbae4822d545"
+        "md5": "4f1416ffae1d136a9404de12580ea7c6"
     },
     {
         "path": "rewind",
@@ -10987,7 +10997,7 @@
     {
         "path": "/rewind/index.html",
         "type": "file",
-        "md5": "ed27910796122519280671e7ea88e62b"
+        "md5": "2ab99934f95a64f546e536459e06cd7d"
     },
     {
         "path": "right-to-repair",
@@ -10997,7 +11007,7 @@
     {
         "path": "/right-to-repair/index.html",
         "type": "file",
-        "md5": "eb6fd98abb476ae7bb5c02722f1e35fe"
+        "md5": "c88ebe4c9d830f8f5f3cb5ab87a09f0f"
     },
     {
         "path": "robots.txt",
@@ -11017,7 +11027,7 @@
     {
         "path": "/sfd-2025/index.html",
         "type": "file",
-        "md5": "23fdfcf2d61ae8921cbc6e7fb7bb97cc"
+        "md5": "4ece72b0ca95f9da51fa1a0b0ea35684"
     },
     {
         "path": "shirazlinux-2year-report",
@@ -11027,7 +11037,7 @@
     {
         "path": "/shirazlinux-2year-report/index.html",
         "type": "file",
-        "md5": "fc5e9583dcf8f6cd4626bcca791aea78"
+        "md5": "8855817aa105929c69d0ce7424e8ecbf"
     },
     {
         "path": "shoestool",
@@ -11037,7 +11047,7 @@
     {
         "path": "/shoestool/index.html",
         "type": "file",
-        "md5": "59bd605c819cd61a2924b50c86879446"
+        "md5": "5bf77b2c813e95247421891d27b09b39"
     },
     {
         "path": "shop",
@@ -11047,12 +11057,12 @@
     {
         "path": "/shop/index.html",
         "type": "file",
-        "md5": "3da2e4a6901cd9af92eb8b31c44e0cc8"
+        "md5": "f15738ded9ecda013bd0b273d93436a8"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "14fcaa6df58c8ebbe299d3ee991abb3e"
+        "md5": "b640ea5f4a091cbaf3b756ddc1e762d8"
     },
     {
         "path": "sitemap.xsl",
@@ -11067,7 +11077,7 @@
     {
         "path": "/supertuxkart-15/index.html",
         "type": "file",
-        "md5": "c2b7618ef05a6839f0a569f774418c21"
+        "md5": "be2374f456c43a36de1ed292512e7236"
     },
     {
         "path": "tags",
@@ -11177,7 +11187,7 @@
     {
         "path": "/tags/event/index.html",
         "type": "file",
-        "md5": "fe060ed0ca8c604d3996b5cbe51e62ee"
+        "md5": "988b9237d1227f3e30a3c84e7fa73628"
     },
     {
         "path": "tags/event/page",
@@ -11232,7 +11242,7 @@
     {
         "path": "/tags/free-software-community/index.html",
         "type": "file",
-        "md5": "8b35934cff1d6307b4d7c405159d8784"
+        "md5": "fc08449783a2d3aa91548acc505a37a7"
     },
     {
         "path": "tags/free-software-community/page",
@@ -11267,7 +11277,7 @@
     {
         "path": "/tags/free-software-culture/index.html",
         "type": "file",
-        "md5": "f1fb788c63f2daef930a8784fcf42b87"
+        "md5": "668f04cd4bf50ace15cfe05d7520b7cd"
     },
     {
         "path": "tags/free-software-culture/page",
@@ -11292,7 +11302,7 @@
     {
         "path": "/tags/free-sotware/index.html",
         "type": "file",
-        "md5": "e7f07c4708562104936d24eb0cb442d8"
+        "md5": "1f28947e3296ad7735a67b33bcc81182"
     },
     {
         "path": "tags/free-sotware/page",
@@ -11742,7 +11752,7 @@
     {
         "path": "/tehran-metro/index.html",
         "type": "file",
-        "md5": "e8834e452c60094bcc1167564e4b497d"
+        "md5": "f03c948c37bf107d1685ecf7621c2028"
     },
     {
         "path": "terror-active",
@@ -11752,7 +11762,7 @@
     {
         "path": "/terror-active/index.html",
         "type": "file",
-        "md5": "e24d1470604410e2682ed5561737fda9"
+        "md5": "617a4c6c4939cf5788a7a9080aa2cc1a"
     },
     {
         "path": "the-university-costumed",
@@ -11762,7 +11772,7 @@
     {
         "path": "/the-university-costumed/index.html",
         "type": "file",
-        "md5": "9156b45372a83c150cafece6d7cd0469"
+        "md5": "32dfe16c1775b2197d3c6b94ef48341d"
     },
     {
         "path": "unlock.svg",
@@ -11777,7 +11787,7 @@
     {
         "path": "/upcyclingandroid/index.html",
         "type": "file",
-        "md5": "7dcaf3d1b8b3a3bd67f0b059f1b99e6e"
+        "md5": "3021395eb017d4c1773ac3db588b7087"
     },
     {
         "path": "user-liberation",
@@ -11787,7 +11797,7 @@
     {
         "path": "/user-liberation/index.html",
         "type": "file",
-        "md5": "944919fef8a1c24a44114e408ba875de"
+        "md5": "582a0c1ff7d3fc470413f06bfafd65b0"
     },
     {
         "path": "valentine-day",
@@ -11797,7 +11807,7 @@
     {
         "path": "/valentine-day/index.html",
         "type": "file",
-        "md5": "c6d0ca9d29e89c43ce5543812983728c"
+        "md5": "44c69772d37e621fad05538bda9d8576"
     },
     {
         "path": "vazir-font-conf",
@@ -11807,7 +11817,7 @@
     {
         "path": "/vazir-font-conf/index.html",
         "type": "file",
-        "md5": "e8a12270955e6a2a0427599bbe2f05a2"
+        "md5": "efee36582057270c87f9948b2a522f78"
     },
     {
         "path": "vazir-font-conf-report",
@@ -11817,7 +11827,7 @@
     {
         "path": "/vazir-font-conf-report/index.html",
         "type": "file",
-        "md5": "15dc8292f4926a30a1df326adb1a0502"
+        "md5": "590eb28497654a5ef28dbcf0268774bf"
     },
     {
         "path": "website.png",
@@ -11832,7 +11842,7 @@
     {
         "path": "/what-is-community/index.html",
         "type": "file",
-        "md5": "9febc7a94ddc893f3ed0218e53a4ca87"
+        "md5": "9409d3d8d17269e2a61ad1f5f6cb24d5"
     },
     {
         "path": "what-is-free-software",
@@ -11842,7 +11852,7 @@
     {
         "path": "/what-is-free-software/index.html",
         "type": "file",
-        "md5": "8bb992497334f4f3fb1b0ba873303dfc"
+        "md5": "1e2dc9a9b761ebfa0c7994dda5da79d9"
     },
     {
         "path": "why-should-we-not-say-linux",
@@ -11852,7 +11862,7 @@
     {
         "path": "/why-should-we-not-say-linux/index.html",
         "type": "file",
-        "md5": "a45bada1e05f26327a7c964ad8beac29"
+        "md5": "17fb7e2e7a88c99cf9556d5287e3d164"
     },
     {
         "path": "widgetify",
@@ -11862,7 +11872,7 @@
     {
         "path": "/widgetify/index.html",
         "type": "file",
-        "md5": "fa2c6152c18f53e4e75f4685b38b27b5"
+        "md5": "b33c6eef4bfc5c9a9746cfd3293ddc87"
     },
     {
         "path": "wikipedia-celebration20",
@@ -11872,7 +11882,7 @@
     {
         "path": "/wikipedia-celebration20/index.html",
         "type": "file",
-        "md5": "00fb862ece5a2e54c002c6ec49615f46"
+        "md5": "2ab1b27f1220ab9bc892211c5c3d07aa"
     },
     {
         "path": "wikipedia-celebration21",
@@ -11882,7 +11892,7 @@
     {
         "path": "/wikipedia-celebration21/index.html",
         "type": "file",
-        "md5": "aa836d821e6860f11bbf229b0e305d5c"
+        "md5": "5d92c2c0dcd9196344bfb4715fc532d9"
     },
     {
         "path": "workshop-archlinux",
@@ -11892,7 +11902,7 @@
     {
         "path": "/workshop-archlinux/index.html",
         "type": "file",
-        "md5": "923d484afcdce1aaad98c4b3f64e9117"
+        "md5": "714b691c399259dc6423be5ea292fe9a"
     },
     {
         "path": "workshop-linux-lpi",
@@ -11902,7 +11912,7 @@
     {
         "path": "/workshop-linux-lpi/index.html",
         "type": "file",
-        "md5": "bcfa125706443e23fa2f5c6a6150fc19"
+        "md5": "c59b123d8577813d8c869dfc8c2d4d12"
     },
     {
         "path": "wrong-digiato",
@@ -11912,7 +11922,7 @@
     {
         "path": "/wrong-digiato/index.html",
         "type": "file",
-        "md5": "dba03bbdbde7be98fdee0e37a46a7272"
+        "md5": "dd24baf5b4b694f80f81a3b6fbd0a17a"
     },
     {
         "path": "yek-sal-ba-shirazlinux",
@@ -11922,6 +11932,6 @@
     {
         "path": "/yek-sal-ba-shirazlinux/index.html",
         "type": "file",
-        "md5": "21b60b1f7dbf66a14fd6742869ef237c"
+        "md5": "fb545752de7ca372a0e15d9299d19eb0"
     }
 ]
