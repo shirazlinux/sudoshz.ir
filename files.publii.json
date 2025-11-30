@@ -900,6 +900,11 @@
         "md5": "d613051de6dad663a1d8d20c5020193b"
     },
     {
+        "path": "ada-zangeman-presentation",
+        "type": "directory",
+        "md5": false
+    },
+    {
         "path": "assets",
         "type": "directory",
         "md5": false
@@ -1237,7 +1242,7 @@
     {
         "path": "/authors/hedie-hamdamian/index.html",
         "type": "file",
-        "md5": "ffe6d6303d78ddcedb96c55d747460c1"
+        "md5": "c67e10b826d09e63b9280a65082dac3c"
     },
     {
         "path": "authors/hosein-salmani",
@@ -1347,7 +1352,7 @@
     {
         "path": "/bahar-narafzarazad/index.html",
         "type": "file",
-        "md5": "1609b935ea0e7bcb3a075b2a3965bc7f"
+        "md5": "a306eef6cc62b530268d6f6cde52a586"
     },
     {
         "path": "bumpbuddy",
@@ -1357,7 +1362,7 @@
     {
         "path": "/bumpbuddy/index.html",
         "type": "file",
-        "md5": "88306a45ef65d069b81ffb7f1e5d5dc4"
+        "md5": "973b19f692f5de37480eda58568a236b"
     },
     {
         "path": "chaharshanbesori",
@@ -1387,7 +1392,7 @@
     {
         "path": "/debian-13-release/index.html",
         "type": "file",
-        "md5": "55bfc9f4cf588df5f4a8fd10ee903a37"
+        "md5": "a476ddfda6f88fe4a45cc04bf7f07c49"
     },
     {
         "path": "debian-32",
@@ -1400,6 +1405,16 @@
         "md5": "a88bbb0a0a8996f60c0a0afa291e9e3c"
     },
     {
+        "path": "debian-mandates-rust-for-apt-reshaping-ubuntu-and-other-linux-distros",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/debian-mandates-rust-for-apt-reshaping-ubuntu-and-other-linux-distros/index.html",
+        "type": "file",
+        "md5": "5d3dca417c6cdb93b530ed71cbcf107b"
+    },
+    {
         "path": "devops-conf-2023",
         "type": "directory",
         "md5": false
@@ -1407,7 +1422,7 @@
     {
         "path": "/devops-conf-2023/index.html",
         "type": "file",
-        "md5": "56f5574780986ebb86851035f0d89791"
+        "md5": "25d4909db66b5790a9b6e67a3c408dda"
     },
     {
         "path": "devops-network-conf",
@@ -1417,7 +1432,7 @@
     {
         "path": "/devops-network-conf/index.html",
         "type": "file",
-        "md5": "46eebe5ae929b12a9ca69f349f860765"
+        "md5": "b59015e16101ae2e9d2f1d3f9a3c97db"
     },
     {
         "path": "dorehami-01",
@@ -1427,7 +1442,7 @@
     {
         "path": "/dorehami-01/index.html",
         "type": "file",
-        "md5": "c900d584d683cd75df7a00b162ef0865"
+        "md5": "0ad0562abda42e74cdd3596767e78012"
     },
     {
         "path": "dorehami-02",
@@ -1437,7 +1452,7 @@
     {
         "path": "/dorehami-02/index.html",
         "type": "file",
-        "md5": "e17e9d2c2f364461229d5d277154065b"
+        "md5": "1a9991c35f5062626087bafa37fb04d1"
     },
     {
         "path": "dorehami-dev",
@@ -1447,7 +1462,7 @@
     {
         "path": "/dorehami-dev/index.html",
         "type": "file",
-        "md5": "023e86acceb9de06e1849069f1f82286"
+        "md5": "167563e33951cdaed0f71e4cb23713dd"
     },
     {
         "path": "escape-to-freedom",
@@ -1457,7 +1472,7 @@
     {
         "path": "/escape-to-freedom/index.html",
         "type": "file",
-        "md5": "35efef910abc7d331d6743dc8eb0adca"
+        "md5": "5b7fafb6e8139cb810385f215bf71795"
     },
     {
         "path": "event-01",
@@ -1467,7 +1482,7 @@
     {
         "path": "/event-01/index.html",
         "type": "file",
-        "md5": "e5e793e0e54619382773655679274c09"
+        "md5": "66d8716274dc5733719fe821ea799cc6"
     },
     {
         "path": "event-02",
@@ -1477,7 +1492,7 @@
     {
         "path": "/event-02/index.html",
         "type": "file",
-        "md5": "400f2e5cc2f5fda8ad5bd24ca82b4e1d"
+        "md5": "7d72e987156e9cba1cb0fa3ff2c5ad30"
     },
     {
         "path": "event-03",
@@ -1487,7 +1502,7 @@
     {
         "path": "/event-03/index.html",
         "type": "file",
-        "md5": "3221c7c8c975ce6fdc9e1eb3950a6bb5"
+        "md5": "44eae92698f33943c65c040a57c2424e"
     },
     {
         "path": "event-04",
@@ -1497,7 +1512,7 @@
     {
         "path": "/event-04/index.html",
         "type": "file",
-        "md5": "1a1497499ff41c11b97801e272a83b0e"
+        "md5": "4563658655c6bf5164d368cbfee6b184"
     },
     {
         "path": "event-05",
@@ -1507,7 +1522,7 @@
     {
         "path": "/event-05/index.html",
         "type": "file",
-        "md5": "b62e4772a87b0fde6489131ca2daced8"
+        "md5": "866b1ef61dc4fb1bc01ea11d0f610538"
     },
     {
         "path": "event-06",
@@ -1517,7 +1532,7 @@
     {
         "path": "/event-06/index.html",
         "type": "file",
-        "md5": "ab8f98913deeb86d08830b02bb030264"
+        "md5": "22152372cdb7e7faa06b7ba45241afd4"
     },
     {
         "path": "event-07",
@@ -1527,7 +1542,7 @@
     {
         "path": "/event-07/index.html",
         "type": "file",
-        "md5": "2f2fd17ceb369dce3c7f4af8c933bfa3"
+        "md5": "dc6c6e43aa09db373a99f6ae729c59cb"
     },
     {
         "path": "event-08",
@@ -1537,7 +1552,7 @@
     {
         "path": "/event-08/index.html",
         "type": "file",
-        "md5": "84032ca59b79efe9a61a0ca2c2a771f8"
+        "md5": "4c97d6a3d7ed4fda180f4c50e0c1d4cc"
     },
     {
         "path": "event-09",
@@ -1547,7 +1562,7 @@
     {
         "path": "/event-09/index.html",
         "type": "file",
-        "md5": "fe6676600ae6d6bb8c4becb0daa980c6"
+        "md5": "fd9cba8bfb569b68468cdaae133a905d"
     },
     {
         "path": "event-10",
@@ -1557,7 +1572,7 @@
     {
         "path": "/event-10/index.html",
         "type": "file",
-        "md5": "ab26dd256ebe97aac475efda9b256fcf"
+        "md5": "a974e4300493a88f95b10af8fb746a9c"
     },
     {
         "path": "event-11",
@@ -1567,7 +1582,7 @@
     {
         "path": "/event-11/index.html",
         "type": "file",
-        "md5": "496e8859d3a5a271d4fdca110bdd2286"
+        "md5": "b00465e5d9ab256d5e99e62d00936929"
     },
     {
         "path": "event-12",
@@ -1577,7 +1592,7 @@
     {
         "path": "/event-12/index.html",
         "type": "file",
-        "md5": "f7e30b165af8499753268841775eed6a"
+        "md5": "5436f43f011c55dc771484e6f2fcb7ca"
     },
     {
         "path": "event-13",
@@ -1587,7 +1602,7 @@
     {
         "path": "/event-13/index.html",
         "type": "file",
-        "md5": "00a532f124778e1d0b9b93c05b3db85e"
+        "md5": "1e1e6385b8e497ce842ec2bda6aafca3"
     },
     {
         "path": "event-14",
@@ -1597,7 +1612,7 @@
     {
         "path": "/event-14/index.html",
         "type": "file",
-        "md5": "702a880df63c7e81a47931e83f93eae1"
+        "md5": "b180779e0e23a4c9c42423928c650eeb"
     },
     {
         "path": "event-15",
@@ -1607,7 +1622,7 @@
     {
         "path": "/event-15/index.html",
         "type": "file",
-        "md5": "8d111c004585a1c9f169a580c333c717"
+        "md5": "a7f1b197ceb420f3a449184bd3187d57"
     },
     {
         "path": "event-16",
@@ -1617,7 +1632,7 @@
     {
         "path": "/event-16/index.html",
         "type": "file",
-        "md5": "2afe86e31c42c24931bf5111cf625f4c"
+        "md5": "8889b39689e2f0a3a40be291a4d9c267"
     },
     {
         "path": "event-17",
@@ -1627,7 +1642,7 @@
     {
         "path": "/event-17/index.html",
         "type": "file",
-        "md5": "c59201fe552d661ee396abf47ceaeea9"
+        "md5": "ddb46f2560b2d764e0c4d2727c97a37b"
     },
     {
         "path": "event-18",
@@ -1637,7 +1652,7 @@
     {
         "path": "/event-18/index.html",
         "type": "file",
-        "md5": "dfb2d66183dcb692f01071937197fb1b"
+        "md5": "90426c4d12ccbc68e5d48b161ad5065f"
     },
     {
         "path": "event-19",
@@ -1647,7 +1662,7 @@
     {
         "path": "/event-19/index.html",
         "type": "file",
-        "md5": "b6e2d01f72099d257169b27ba9ee4777"
+        "md5": "0e9c1ad23e28de4853f2d639091f6003"
     },
     {
         "path": "fanoos-qalam-conf",
@@ -1677,7 +1692,7 @@
     {
         "path": "/first-hackers-coferece-1984/index.html",
         "type": "file",
-        "md5": "5d966d94e8d0242fe4a008f77e978716"
+        "md5": "f12aa3dce9c215e4c277adb983175a80"
     },
     {
         "path": "fixing.svg",
@@ -1692,7 +1707,7 @@
     {
         "path": "/font-arad/index.html",
         "type": "file",
-        "md5": "571462e0d9b7748bbc538cf1690f0cb7"
+        "md5": "cdb9bdb211bef9458bca4c11ad5fd099"
     },
     {
         "path": "free-android",
@@ -1702,7 +1717,7 @@
     {
         "path": "/free-android/index.html",
         "type": "file",
-        "md5": "738686e96a6d8d8d30256dcae7e7f83d"
+        "md5": "23ebf95a496ba65e94f329ad3c732df0"
     },
     {
         "path": "free-android-software-contribution-guide",
@@ -2232,7 +2247,7 @@
     {
         "path": "/freedom-day/index.html",
         "type": "file",
-        "md5": "c6e1234797ad4cce11170cd197286bb8"
+        "md5": "08710c554f689cdd5468151ed0904039"
     },
     {
         "path": "freefont",
@@ -2252,7 +2267,7 @@
     {
         "path": "/fsf-1403/index.html",
         "type": "file",
-        "md5": "8718eaeeccb306aec1ba524278330099"
+        "md5": "793306cc72bcf665e1af11173998afbc"
     },
     {
         "path": "fsf-history-redirect",
@@ -2262,7 +2277,7 @@
     {
         "path": "/fsf-history-redirect/index.html",
         "type": "file",
-        "md5": "4bb7e58741b8739f993a2a53f464f943"
+        "md5": "e824474e3114883f1aa7500b4d436554"
     },
     {
         "path": "fsf40",
@@ -2272,7 +2287,7 @@
     {
         "path": "/fsf40/index.html",
         "type": "file",
-        "md5": "ac7edc1a1c7f6306caa582826d765f74"
+        "md5": "fc7a61be0a3266e6a1d34dee6975794c"
     },
     {
         "path": "fsfp-culture",
@@ -2282,7 +2297,7 @@
     {
         "path": "/fsfp-culture/index.html",
         "type": "file",
-        "md5": "ed1bc87068584da40cffc6f7395b88fb"
+        "md5": "8ad3d91e95eb84dcb1af7795c16ba279"
     },
     {
         "path": "fsiran",
@@ -2292,7 +2307,7 @@
     {
         "path": "/fsiran/index.html",
         "type": "file",
-        "md5": "5896213394e9089599b838fb67284b3f"
+        "md5": "efec0a133034c532973894af4511f7d2"
     },
     {
         "path": "ftthyh-lg-fs",
@@ -2312,7 +2327,7 @@
     {
         "path": "/glbh-br-mnswkh-shdn-nrmfzr-b-nrmfzr-azd/index.html",
         "type": "file",
-        "md5": "7bf8e8a6b0882ba6b40a825efe672533"
+        "md5": "cb0be2bb79969cfbaa3f5b453a4b54c1"
     },
     {
         "path": "gnulinux-conf",
@@ -2322,7 +2337,7 @@
     {
         "path": "/gnulinux-conf/index.html",
         "type": "file",
-        "md5": "cad2de2faf3e298bada02d25b3b09cf4"
+        "md5": "fa85aaf4b1ce80b6691469b3a189dac0"
     },
     {
         "path": "hack-sec-conf",
@@ -2332,7 +2347,7 @@
     {
         "path": "/hack-sec-conf/index.html",
         "type": "file",
-        "md5": "71095aca0c63dd7af1d0697f04f55418"
+        "md5": "52a487c587759e1cd7c740a4c67d8509"
     },
     {
         "path": "hero-txt-style",
@@ -2362,7 +2377,7 @@
     {
         "path": "/how-create-community/index.html",
         "type": "file",
-        "md5": "23eb11ed8c686099acab1c7794d2fabc"
+        "md5": "7d317c812c993539b1128456e66c665c"
     },
     {
         "path": "how-install-asahilinux",
@@ -2382,7 +2397,7 @@
     {
         "path": "/how-matrix/index.html",
         "type": "file",
-        "md5": "a96a3a5d8fe739a607b934b15a7b4607"
+        "md5": "588d72a27902daadf7b83397c43709f9"
     },
     {
         "path": "howtolug",
@@ -2392,7 +2407,7 @@
     {
         "path": "/howtolug/index.html",
         "type": "file",
-        "md5": "e8bd41b77acf14d18cad614c1deebdd6"
+        "md5": "16731e2ca39d3a773bc786d139b502ad"
     },
     {
         "path": "htaccess.txt",
@@ -2412,7 +2427,7 @@
     {
         "path": "/ilovefs/index.html",
         "type": "file",
-        "md5": "ad4a3d77e1e9d5d86673162bb2d6d49a"
+        "md5": "5bdff6a659e1bf9422036b819f905491"
     },
     {
         "path": "index.html",
@@ -2462,7 +2477,7 @@
     {
         "path": "/lan-party/index.html",
         "type": "file",
-        "md5": "6ed89f10139398f5ac810b936511bdec"
+        "md5": "e434fbfed8c1527ee3971f809c06f4b8"
     },
     {
         "path": "learn-gimp",
@@ -2482,7 +2497,7 @@
     {
         "path": "/liberate-your-phone/index.html",
         "type": "file",
-        "md5": "115ee738673b61a5bb750e21dfa5ccda"
+        "md5": "1ff4fbaedd14ddb6da43fcc71a5188dd"
     },
     {
         "path": "libremobileos",
@@ -2502,7 +2517,7 @@
     {
         "path": "/libreplanet2025/index.html",
         "type": "file",
-        "md5": "7264b843a92e388cb9edcb02adf3d0d3"
+        "md5": "7f374c457fc9826382c0f924b0af4979"
     },
     {
         "path": "librepllant",
@@ -2512,7 +2527,7 @@
     {
         "path": "/librepllant/index.html",
         "type": "file",
-        "md5": "2850d3227b032e74ac2c524028054d86"
+        "md5": "15f421a06dfd35886a4b76a707af054f"
     },
     {
         "path": "license-ofl",
@@ -2532,7 +2547,7 @@
     {
         "path": "/license-opensource/index.html",
         "type": "file",
-        "md5": "f9615bc77f8476811415681443837e5f"
+        "md5": "0c8c63cbac55bca59a87cefbbc0d8fc6"
     },
     {
         "path": "licenses",
@@ -2542,7 +2557,7 @@
     {
         "path": "/licenses/index.html",
         "type": "file",
-        "md5": "27549db91c20b01588e4d11d2c918f0b"
+        "md5": "46831c36b27058abb540ceaacef2f69d"
     },
     {
         "path": "linux-workhsop",
@@ -2552,7 +2567,7 @@
     {
         "path": "/linux-workhsop/index.html",
         "type": "file",
-        "md5": "084771613afc791fd2f45887e7ac8fee"
+        "md5": "1d3c18151be43216d44f64143e7e5e0b"
     },
     {
         "path": "lmo",
@@ -2562,7 +2577,7 @@
     {
         "path": "/lmo/index.html",
         "type": "file",
-        "md5": "9c37919cc61f54ff688fca1da0511391"
+        "md5": "e344163747fb5cc9a83867c12910ae56"
     },
     {
         "path": "loop",
@@ -6693,6 +6708,61 @@
         "path": "/media/posts/176/responsive/9-xs.webp",
         "type": "file",
         "md5": "956e07b6b5797f78a1bfc9053c626f88"
+    },
+    {
+        "path": "media/posts/177",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/177/6d6504ec-rust-programming-image-1-1024x584.jpeg",
+        "type": "file",
+        "md5": "0396fc27c7be0eda9e07e2479dab65b0"
+    },
+    {
+        "path": "media/posts/177/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/177/responsive/6d6504ec-rust-programming-image-1-1024x584-md.webp",
+        "type": "file",
+        "md5": "d2024a7a997df540750ec01435e901d6"
+    },
+    {
+        "path": "/media/posts/177/responsive/6d6504ec-rust-programming-image-1-1024x584-sm.webp",
+        "type": "file",
+        "md5": "774e6ccd76bd31baab7aec9e3d752e3e"
+    },
+    {
+        "path": "/media/posts/177/responsive/6d6504ec-rust-programming-image-1-1024x584-xs.webp",
+        "type": "file",
+        "md5": "3020da193153073587dd0109230fd25b"
+    },
+    {
+        "path": "/media/posts/177/responsive/rust-lg.webp",
+        "type": "file",
+        "md5": "1ee0482225ccd71eaa01da7d9090444a"
+    },
+    {
+        "path": "/media/posts/177/responsive/rust-md.webp",
+        "type": "file",
+        "md5": "6d8284e8758495052dea1fa50b89d220"
+    },
+    {
+        "path": "/media/posts/177/responsive/rust-sm.webp",
+        "type": "file",
+        "md5": "d1ada32b83b34b707e5dd51b165d76ce"
+    },
+    {
+        "path": "/media/posts/177/responsive/rust-xs.webp",
+        "type": "file",
+        "md5": "777f03bf0714b91ac6fd7052fdfbbe90"
+    },
+    {
+        "path": "/media/posts/177/rust.jpg",
+        "type": "file",
+        "md5": "115b7a50e92982bb4eff4b62c82882a3"
     },
     {
         "path": "media/posts/18",
@@ -10872,7 +10942,7 @@
     {
         "path": "/metro-shiraz/index.html",
         "type": "file",
-        "md5": "820597fa80ae81f2905b743e7a7ad82c"
+        "md5": "672f9f4fe841aacfa8610554e2d24ccc"
     },
     {
         "path": "obs-studio",
@@ -10892,7 +10962,7 @@
     {
         "path": "/parch-linux/index.html",
         "type": "file",
-        "md5": "3762d8887ba56fb28e6302f4fa74c60d"
+        "md5": "4d7f1701b4220743985c09b7fb3cbc3f"
     },
     {
         "path": "people.png",
@@ -10927,7 +10997,7 @@
     {
         "path": "/post-phi-4/index.html",
         "type": "file",
-        "md5": "17638d02b03a00e4ace9dfd39d5b3f0a"
+        "md5": "31d8b55532b8c9b9fae427ea3abe0055"
     },
     {
         "path": "post-rc6",
@@ -10937,7 +11007,7 @@
     {
         "path": "/post-rc6/index.html",
         "type": "file",
-        "md5": "a67a05ea58d5edb169c49fa83efb1388"
+        "md5": "3dd5e7107bff4d19079928bf294b749a"
     },
     {
         "path": "post-xia",
@@ -10947,7 +11017,7 @@
     {
         "path": "/post-xia/index.html",
         "type": "file",
-        "md5": "707d21754ff3586c52f314dd5487af4f"
+        "md5": "6069e11de7e53e0e33b739aa21efe899"
     },
     {
         "path": "post-xia-2",
@@ -10977,7 +11047,7 @@
     {
         "path": "/register-in-matrix/index.html",
         "type": "file",
-        "md5": "7d6805c84a762eab6e2400e880f62313"
+        "md5": "bb6399f361db3a76fbf640efc4554a30"
     },
     {
         "path": "report-saber-rastikerdar",
@@ -10987,7 +11057,7 @@
     {
         "path": "/report-saber-rastikerdar/index.html",
         "type": "file",
-        "md5": "4f1416ffae1d136a9404de12580ea7c6"
+        "md5": "2f2f7f5c5dc00790f5e442caaa2b380f"
     },
     {
         "path": "rewind",
@@ -11027,7 +11097,7 @@
     {
         "path": "/sfd-2025/index.html",
         "type": "file",
-        "md5": "4ece72b0ca95f9da51fa1a0b0ea35684"
+        "md5": "902d30e83c553610612f48288ba976ed"
     },
     {
         "path": "shirazlinux-2year-report",
@@ -11037,7 +11107,7 @@
     {
         "path": "/shirazlinux-2year-report/index.html",
         "type": "file",
-        "md5": "8855817aa105929c69d0ce7424e8ecbf"
+        "md5": "5566cf5ba3bea03c2388c22e703b8516"
     },
     {
         "path": "shoestool",
@@ -11062,7 +11132,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "b640ea5f4a091cbaf3b756ddc1e762d8"
+        "md5": "402078e52e4371cf6f2551fa9d308a8f"
     },
     {
         "path": "sitemap.xsl",
@@ -11377,7 +11447,7 @@
     {
         "path": "/tags/gnulinux/index.html",
         "type": "file",
-        "md5": "164c3f96f87c5e201a91bdf750d48442"
+        "md5": "bd53497909afafdcfc55442a02bad911"
     },
     {
         "path": "tags/gnulinux/page",
@@ -11392,7 +11462,7 @@
     {
         "path": "/tags/gnulinux/page/2/index.html",
         "type": "file",
-        "md5": "4b42a2449383ec6aebf112ff85834c26"
+        "md5": "1fb5162c16d47f98c367532e18dbabd5"
     },
     {
         "path": "tags/gnulinux/page/3",
@@ -11402,7 +11472,7 @@
     {
         "path": "/tags/gnulinux/page/3/index.html",
         "type": "file",
-        "md5": "9ad4de799fbfe3b4904e0dc0aece2f4c"
+        "md5": "d51cfdae4c4001627d43f57d68867a71"
     },
     {
         "path": "tags/golang",
@@ -11437,7 +11507,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "d3bf7ef96392aa0c054d7bd71544732c"
+        "md5": "26f61608f7bea030747c2d91ac98d044"
     },
     {
         "path": "tags/lan-party",
@@ -11582,7 +11652,7 @@
     {
         "path": "/tags/post/index.html",
         "type": "file",
-        "md5": "c42ebd11bfaf7eb4b7dd5afa956a8a9a"
+        "md5": "93c97c58eb45f332bb086db727931002"
     },
     {
         "path": "tags/post/page",
@@ -11597,7 +11667,7 @@
     {
         "path": "/tags/post/page/2/index.html",
         "type": "file",
-        "md5": "6213a99c4899b45c1318bd8099311de5"
+        "md5": "704814a72787047cd8eb985e1e168ec2"
     },
     {
         "path": "tags/post/page/3",
@@ -11607,7 +11677,7 @@
     {
         "path": "/tags/post/page/3/index.html",
         "type": "file",
-        "md5": "592bbf3e9662dd50da64dde41e26bc60"
+        "md5": "00d299f4ea60c8370c8aaa269dfaaf42"
     },
     {
         "path": "tags/post/page/4",
@@ -11617,7 +11687,7 @@
     {
         "path": "/tags/post/page/4/index.html",
         "type": "file",
-        "md5": "60cfce96998ec40425d8a114e9c7e036"
+        "md5": "f9386ae7cfc6d5ac030628c2476245ad"
     },
     {
         "path": "tags/post/page/5",
@@ -11627,7 +11697,7 @@
     {
         "path": "/tags/post/page/5/index.html",
         "type": "file",
-        "md5": "013f0ee8f0c03afdd89d3880e38755d9"
+        "md5": "826596f0a6165d20f16c1d948ae191ea"
     },
     {
         "path": "tags/shirazlinux",
@@ -11752,7 +11822,7 @@
     {
         "path": "/tehran-metro/index.html",
         "type": "file",
-        "md5": "f03c948c37bf107d1685ecf7621c2028"
+        "md5": "f232c17dff18e28790e6de561ba5450f"
     },
     {
         "path": "terror-active",
@@ -11762,7 +11832,7 @@
     {
         "path": "/terror-active/index.html",
         "type": "file",
-        "md5": "617a4c6c4939cf5788a7a9080aa2cc1a"
+        "md5": "7f699c5cf51afe44b810351159459ecc"
     },
     {
         "path": "the-university-costumed",
@@ -11797,7 +11867,7 @@
     {
         "path": "/user-liberation/index.html",
         "type": "file",
-        "md5": "582a0c1ff7d3fc470413f06bfafd65b0"
+        "md5": "4e6e314c1ffae0591c5961acbd556975"
     },
     {
         "path": "valentine-day",
@@ -11817,7 +11887,7 @@
     {
         "path": "/vazir-font-conf/index.html",
         "type": "file",
-        "md5": "efee36582057270c87f9948b2a522f78"
+        "md5": "7d5094f1f0cb6da859b202127705b30c"
     },
     {
         "path": "vazir-font-conf-report",
@@ -11827,7 +11897,7 @@
     {
         "path": "/vazir-font-conf-report/index.html",
         "type": "file",
-        "md5": "590eb28497654a5ef28dbcf0268774bf"
+        "md5": "3a9fbed1c3f2e9e2fab95cae90c49348"
     },
     {
         "path": "website.png",
@@ -11842,7 +11912,7 @@
     {
         "path": "/what-is-community/index.html",
         "type": "file",
-        "md5": "9409d3d8d17269e2a61ad1f5f6cb24d5"
+        "md5": "0e45d933c19a832af3535f376aebc607"
     },
     {
         "path": "what-is-free-software",
@@ -11852,7 +11922,7 @@
     {
         "path": "/what-is-free-software/index.html",
         "type": "file",
-        "md5": "1e2dc9a9b761ebfa0c7994dda5da79d9"
+        "md5": "741fcef4259db709760ef73e6946cf16"
     },
     {
         "path": "why-should-we-not-say-linux",
@@ -11862,7 +11932,7 @@
     {
         "path": "/why-should-we-not-say-linux/index.html",
         "type": "file",
-        "md5": "17fb7e2e7a88c99cf9556d5287e3d164"
+        "md5": "78fff8cc8c12e947059d09d3becb679b"
     },
     {
         "path": "widgetify",
@@ -11892,7 +11962,7 @@
     {
         "path": "/wikipedia-celebration21/index.html",
         "type": "file",
-        "md5": "5d92c2c0dcd9196344bfb4715fc532d9"
+        "md5": "097e2f9ace27d240a5d9ba626864266b"
     },
     {
         "path": "workshop-archlinux",
@@ -11902,7 +11972,7 @@
     {
         "path": "/workshop-archlinux/index.html",
         "type": "file",
-        "md5": "714b691c399259dc6423be5ea292fe9a"
+        "md5": "e1f60ef0a602b1fe00f4f430c97a6d82"
     },
     {
         "path": "workshop-linux-lpi",
@@ -11912,7 +11982,7 @@
     {
         "path": "/workshop-linux-lpi/index.html",
         "type": "file",
-        "md5": "c59b123d8577813d8c869dfc8c2d4d12"
+        "md5": "935ed8faf2dbdc86ffa1882de248c050"
     },
     {
         "path": "wrong-digiato",
@@ -11932,6 +12002,6 @@
     {
         "path": "/yek-sal-ba-shirazlinux/index.html",
         "type": "file",
-        "md5": "fb545752de7ca372a0e15d9299d19eb0"
+        "md5": "325c6d3d2280a2d6227165688ace212a"
     }
 ]
