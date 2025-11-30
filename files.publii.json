@@ -98,6 +98,7 @@
         "path": "/ada-zangemaan-translate/index.html",
         "type": "file",
         "md5": "02d91f9451a952527081d6bdcc45d0bc"
+<<<<<<< HEAD
     },
     {
         "path": "ada-zangeman",
@@ -898,13 +899,813 @@
         "path": "/ada-zangeman/text.html",
         "type": "file",
         "md5": "d613051de6dad663a1d8d20c5020193b"
+=======
+>>>>>>> refs/remotes/origin/main
     },
     {
-        "path": "ada-zangeman-presentation",
+        "path": "ada-zangeman",
         "type": "directory",
         "md5": false
     },
     {
+<<<<<<< HEAD
+=======
+        "path": "ada-zangeman/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ada-zangeman/css/ada.css",
+        "type": "file",
+        "md5": "febf21453c63e75d34cc76903dd8f6ff"
+    },
+    {
+        "path": "/ada-zangeman/css/catalogue.css",
+        "type": "file",
+        "md5": "77c4cb1babe2bd7634b32eb4ad51b68b"
+    },
+    {
+        "path": "/ada-zangeman/css/fonts.css",
+        "type": "file",
+        "md5": "6c9ac45b47591e027aa869aee64ca6c0"
+    },
+    {
+        "path": "/ada-zangeman/css/navigation.css",
+        "type": "file",
+        "md5": "d247ae42f3143ca7e296a174f1f71db5"
+    },
+    {
+        "path": "/ada-zangeman/css/reset.css",
+        "type": "file",
+        "md5": "bee5f309cd4477931a2c1e2f3dabe443"
+    },
+    {
+        "path": "/ada-zangeman/css/responsive.css",
+        "type": "file",
+        "md5": "fd23a703480d61b610568cf4274a345e"
+    },
+    {
+        "path": "/ada-zangeman/css/supplement.css",
+        "type": "file",
+        "md5": "c95b04be3ab476659fe04bd43b0ad20d"
+    },
+    {
+        "path": "/ada-zangeman/css/tweaks.css",
+        "type": "file",
+        "md5": "a615c13e93892ae99a64b00902390de6"
+    },
+    {
+        "path": "/ada-zangeman/css/vars.css",
+        "type": "file",
+        "md5": "f523131fe0f507d1d6e88c1671fec972"
+    },
+    {
+        "path": "/ada-zangeman/favicon.png",
+        "type": "file",
+        "md5": "caacadc6600d380b135610217ce99da1"
+    },
+    {
+        "path": "ada-zangeman/fonts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ada-zangeman/fonts/Vazirmatn-Medium.woff2",
+        "type": "file",
+        "md5": "1fe8d65de1e6bd564ffc03b7d09fd9ec"
+    },
+    {
+        "path": "ada-zangeman/images",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ada-zangeman/images/A-cyan.png",
+        "type": "file",
+        "md5": "575a1dbfeca7c5700b5d488ca29a8cdb"
+    },
+    {
+        "path": "/ada-zangeman/images/A-fucsia.png",
+        "type": "file",
+        "md5": "611e61d9d1af22e9fa8d60821d8f52e3"
+    },
+    {
+        "path": "/ada-zangeman/images/A-olive.png",
+        "type": "file",
+        "md5": "fa8c18a5a0a5995565a5753f4cc94c3b"
+    },
+    {
+        "path": "/ada-zangeman/images/A-red2.png",
+        "type": "file",
+        "md5": "f56e5ffa93d218ff38f89d6833c7ef2a"
+    },
+    {
+        "path": "/ada-zangeman/images/A-violet.png",
+        "type": "file",
+        "md5": "fbea4f6e63449e5c8aff54b2f438d5f6"
+    },
+    {
+        "path": "/ada-zangeman/images/A-yellow.png",
+        "type": "file",
+        "md5": "59a2e879e67212227ee097f8b5444e66"
+    },
+    {
+        "path": "/ada-zangeman/images/A_cyr-violet.png",
+        "type": "file",
+        "md5": "147883936349fc9388afb4e49fe8efff"
+    },
+    {
+        "path": "/ada-zangeman/images/A_cyr-yellow.png",
+        "type": "file",
+        "md5": "4fca3c562e2776c624823c5978276396"
+    },
+    {
+        "path": "/ada-zangeman/images/C-cyan.png",
+        "type": "file",
+        "md5": "a2bba21d0d9f78493479934ea2f5cfce"
+    },
+    {
+        "path": "/ada-zangeman/images/C-pink.png",
+        "type": "file",
+        "md5": "537d5f2f6f75ca5086c6a8fd3f62273f"
+    },
+    {
+        "path": "/ada-zangeman/images/C-red1.png",
+        "type": "file",
+        "md5": "568fc7d8ec56422febeb5a6b928c8dfa"
+    },
+    {
+        "path": "/ada-zangeman/images/C-yellow.png",
+        "type": "file",
+        "md5": "5cbf5d3cf811602699c105a881fc969e"
+    },
+    {
+        "path": "/ada-zangeman/images/D-cyan.png",
+        "type": "file",
+        "md5": "9fb118e38a3e5af9838f0434b45dc408"
+    },
+    {
+        "path": "/ada-zangeman/images/D-lightcyan.png",
+        "type": "file",
+        "md5": "1008212c03119f8eddb7da8d2cccd4cd"
+    },
+    {
+        "path": "/ada-zangeman/images/D-red1.png",
+        "type": "file",
+        "md5": "aa6a8ae0040cfdd724df15f2cace1029"
+    },
+    {
+        "path": "/ada-zangeman/images/D-red2.png",
+        "type": "file",
+        "md5": "c980893c8f1a6d13d8fe41fffea2714e"
+    },
+    {
+        "path": "/ada-zangeman/images/D-yellow2.png",
+        "type": "file",
+        "md5": "fbaea7eeeb9138a2fd22e1d3c64fe140"
+    },
+    {
+        "path": "/ada-zangeman/images/E-cyan.png",
+        "type": "file",
+        "md5": "ba38367c22fc23b92e404cecf14cd7e3"
+    },
+    {
+        "path": "/ada-zangeman/images/E-green.png",
+        "type": "file",
+        "md5": "06cde71762f87a03f358063d5c196a42"
+    },
+    {
+        "path": "/ada-zangeman/images/E-pink.png",
+        "type": "file",
+        "md5": "3b1ff79030b74164c62dc2871cad22b9"
+    },
+    {
+        "path": "/ada-zangeman/images/E-red1.png",
+        "type": "file",
+        "md5": "c3a8a21af0fa9f9aaefc5c870d6c2945"
+    },
+    {
+        "path": "/ada-zangeman/images/E-red2.png",
+        "type": "file",
+        "md5": "41316281894e21b0a58f069c98e6350c"
+    },
+    {
+        "path": "/ada-zangeman/images/E-red3.png",
+        "type": "file",
+        "md5": "74028622ed887097624cfe0890210bd7"
+    },
+    {
+        "path": "/ada-zangeman/images/E-yellow.png",
+        "type": "file",
+        "md5": "7d5389ed64717abd224081f2c353b172"
+    },
+    {
+        "path": "/ada-zangeman/images/Em-red2.png",
+        "type": "file",
+        "md5": "cf06ce0d11227a851a3d765c6da11404"
+    },
+    {
+        "path": "/ada-zangeman/images/En-cyan.png",
+        "type": "file",
+        "md5": "b36ae67e9b5476bba2454b4956c2f8f2"
+    },
+    {
+        "path": "/ada-zangeman/images/En-lightcyan.png",
+        "type": "file",
+        "md5": "430723d7f3f9930657073f1f1c3fcfdb"
+    },
+    {
+        "path": "/ada-zangeman/images/En-olive.png",
+        "type": "file",
+        "md5": "196816fa9013194ced509cfade37bca2"
+    },
+    {
+        "path": "/ada-zangeman/images/En-red2.png",
+        "type": "file",
+        "md5": "098bd7fb2dbece09e6eecf5bc8fa674d"
+    },
+    {
+        "path": "/ada-zangeman/images/F-red1.png",
+        "type": "file",
+        "md5": "c761dd3e47c61e1c964780a41897a955"
+    },
+    {
+        "path": "/ada-zangeman/images/F-yellow.png",
+        "type": "file",
+        "md5": "62177f98c1b6bfe4831bac1de5989a07"
+    },
+    {
+        "path": "/ada-zangeman/images/H-cyan.png",
+        "type": "file",
+        "md5": "a6a7896a446ef91c37990ac251001bd0"
+    },
+    {
+        "path": "/ada-zangeman/images/H-pink.png",
+        "type": "file",
+        "md5": "576c3ab2bcc69cb7383480da93d859d7"
+    },
+    {
+        "path": "/ada-zangeman/images/I-cyan.png",
+        "type": "file",
+        "md5": "73f0666b393af75433c371edeff4780b"
+    },
+    {
+        "path": "/ada-zangeman/images/I-cyan0.png",
+        "type": "file",
+        "md5": "f8a1345682485189aa4808eb0264a55d"
+    },
+    {
+        "path": "/ada-zangeman/images/I-fucsia.png",
+        "type": "file",
+        "md5": "83fff9d6fe9fe2b4c739b6d6f2d2368b"
+    },
+    {
+        "path": "/ada-zangeman/images/I-lightcyan.png",
+        "type": "file",
+        "md5": "e4f4ef15fe1e078404c4d855740d05b4"
+    },
+    {
+        "path": "/ada-zangeman/images/I-olive.png",
+        "type": "file",
+        "md5": "b76f988d4f16651908b1511de730fea2"
+    },
+    {
+        "path": "/ada-zangeman/images/I-red1.png",
+        "type": "file",
+        "md5": "060cc1143aa10842aca17bceebb0a86e"
+    },
+    {
+        "path": "/ada-zangeman/images/I-yellow.png",
+        "type": "file",
+        "md5": "61430be6990aa6b98e7e16edfbda5137"
+    },
+    {
+        "path": "/ada-zangeman/images/J-pink.png",
+        "type": "file",
+        "md5": "a3048226c1616eafaf6a7aeeaf3dced9"
+    },
+    {
+        "path": "/ada-zangeman/images/J-red2.png",
+        "type": "file",
+        "md5": "ed629b7519b0b91919b5941812142594"
+    },
+    {
+        "path": "/ada-zangeman/images/Ja-green.png",
+        "type": "file",
+        "md5": "54ac838e2d7145987d5bb8dc1a38f9be"
+    },
+    {
+        "path": "/ada-zangeman/images/L-cyan.png",
+        "type": "file",
+        "md5": "03d4286c68ec795a4ece0544439cb3c6"
+    },
+    {
+        "path": "/ada-zangeman/images/L-fucsia.png",
+        "type": "file",
+        "md5": "9b3c464aefabda5fef6beb32288ef4a5"
+    },
+    {
+        "path": "/ada-zangeman/images/L-fuscia.png",
+        "type": "file",
+        "md5": "9b3c464aefabda5fef6beb32288ef4a5"
+    },
+    {
+        "path": "/ada-zangeman/images/L-lightcyan.png",
+        "type": "file",
+        "md5": "c68c4a5a93e99a9ab11b7112f0aea6c6"
+    },
+    {
+        "path": "/ada-zangeman/images/L-olive.png",
+        "type": "file",
+        "md5": "6df292d7d064d7905d4fa9c0d69b0d34"
+    },
+    {
+        "path": "/ada-zangeman/images/L-red2.png",
+        "type": "file",
+        "md5": "2af7bbb68a0aa830f8672a54b298a3ce"
+    },
+    {
+        "path": "/ada-zangeman/images/L-yellow2.png",
+        "type": "file",
+        "md5": "f1beb7716d1b98e14affb49872185dfe"
+    },
+    {
+        "path": "/ada-zangeman/images/M-yellow.png",
+        "type": "file",
+        "md5": "341aee593c4ebcbe68443fa055add65e"
+    },
+    {
+        "path": "/ada-zangeman/images/N-cyan.png",
+        "type": "file",
+        "md5": "33210402656f9fd73abeed7b7f205d92"
+    },
+    {
+        "path": "/ada-zangeman/images/N-lightcyan.png",
+        "type": "file",
+        "md5": "9eecb1656f6e400bf4f11e91710c3e02"
+    },
+    {
+        "path": "/ada-zangeman/images/N-olive.png",
+        "type": "file",
+        "md5": "a3d97475d0a330e041c28da41a5e373e"
+    },
+    {
+        "path": "/ada-zangeman/images/N-red2.png",
+        "type": "file",
+        "md5": "e8adc217a20a49abb49d124046e7fca0"
+    },
+    {
+        "path": "/ada-zangeman/images/O-cyan.png",
+        "type": "file",
+        "md5": "534f8703bd8d6d6cbe5caf214bd479d7"
+    },
+    {
+        "path": "/ada-zangeman/images/O-green.png",
+        "type": "file",
+        "md5": "c1a16064fde8c986537eef84dda5d42d"
+    },
+    {
+        "path": "/ada-zangeman/images/O-lightcyan.png",
+        "type": "file",
+        "md5": "c67eee98b2bcbfef1f58403a260621b5"
+    },
+    {
+        "path": "/ada-zangeman/images/O-pink.png",
+        "type": "file",
+        "md5": "b210a55b56efe5f23b37150f45b7b709"
+    },
+    {
+        "path": "/ada-zangeman/images/O-yellow.png",
+        "type": "file",
+        "md5": "d6deb2b39c8a61938c6759ceb2712cb0"
+    },
+    {
+        "path": "/ada-zangeman/images/Pe-brown.png",
+        "type": "file",
+        "md5": "d8e3244d0fee3e982c5c980295e9a0c2"
+    },
+    {
+        "path": "/ada-zangeman/images/S-red1.png",
+        "type": "file",
+        "md5": "5f964ff4aee16d3c7ac9b94e7a1e5b41"
+    },
+    {
+        "path": "/ada-zangeman/images/S-red2.png",
+        "type": "file",
+        "md5": "e32d1dff411a4b8733cb936cda79060f"
+    },
+    {
+        "path": "/ada-zangeman/images/S-yellow.png",
+        "type": "file",
+        "md5": "020d2870ab90f765bfd789decc743912"
+    },
+    {
+        "path": "/ada-zangeman/images/Shta-pink.png",
+        "type": "file",
+        "md5": "b1995bf4e78bc456cfd06f5849a86425"
+    },
+    {
+        "path": "/ada-zangeman/images/Shta-red1.png",
+        "type": "file",
+        "md5": "6e4b3f8251206c98513f8c708b49a78d"
+    },
+    {
+        "path": "/ada-zangeman/images/T-cyan.png",
+        "type": "file",
+        "md5": "b3a85718735f672d434c9e1ee69bd849"
+    },
+    {
+        "path": "/ada-zangeman/images/T-olive.png",
+        "type": "file",
+        "md5": "c30f6112d859349b794c543d28febd25"
+    },
+    {
+        "path": "/ada-zangeman/images/T-pink.png",
+        "type": "file",
+        "md5": "e3dda41ad2ca66aca9bfbc4e165ee06c"
+    },
+    {
+        "path": "/ada-zangeman/images/T-red2.png",
+        "type": "file",
+        "md5": "570d07829738093b78d94e32b63b71af"
+    },
+    {
+        "path": "/ada-zangeman/images/Te-yellow.png",
+        "type": "file",
+        "md5": "0eb310211c09a8a002161102339dda79"
+    },
+    {
+        "path": "/ada-zangeman/images/U-green.png",
+        "type": "file",
+        "md5": "ca5361b18134896c5fc5f9edccaa4aca"
+    },
+    {
+        "path": "/ada-zangeman/images/U-yellow.png",
+        "type": "file",
+        "md5": "4e394241190b321271589630d3595505"
+    },
+    {
+        "path": "/ada-zangeman/images/U_cyr-fucsia.png",
+        "type": "file",
+        "md5": "969eaeefcc872d216dd7d356f7214fc2"
+    },
+    {
+        "path": "/ada-zangeman/images/Ve-yellow2.png",
+        "type": "file",
+        "md5": "740b79fdc28d06e0070376f1aab6f894"
+    },
+    {
+        "path": "/ada-zangeman/images/Z-brown.png",
+        "type": "file",
+        "md5": "f5ead4e45af16d6b0749f414b6596b11"
+    },
+    {
+        "path": "/ada-zangeman/images/Z-red1.png",
+        "type": "file",
+        "md5": "86e52317d327f3ccbf69a83aa979edaa"
+    },
+    {
+        "path": "/ada-zangeman/images/Zhe-cyan.png",
+        "type": "file",
+        "md5": "71c71703e1935d2e3a209eac72d75969"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-300.png",
+        "type": "file",
+        "md5": "20df20815636ba8571b7e4653ab03116"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-card.jpg",
+        "type": "file",
+        "md5": "878ea0d946a372971f7be69c94dbd846"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-card.psd",
+        "type": "file",
+        "md5": "624fc73c2de081bdae6e42c73214e9f4"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-livre.jpg",
+        "type": "file",
+        "md5": "454b49a68f4a9a921bbe59cf2b483b38"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-livre.psd",
+        "type": "file",
+        "md5": "cd1ba0907448e5ab06670a3348e22a7d"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p01-fr-titleonly.jpg",
+        "type": "file",
+        "md5": "ea2585704671e5b860dd3b86021b52eb"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p03-author.jpg",
+        "type": "file",
+        "md5": "8eeac0e46a0581138cfb3f6ed2950c22"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p03-dog.jpg",
+        "type": "file",
+        "md5": "a86f9ad4302c406a0a421d5752edaf6e"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p03-title-fr-alt.jpg",
+        "type": "file",
+        "md5": "c34d06b67a2fe06009fb19aa09b8ed49"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p04.jpg",
+        "type": "file",
+        "md5": "0ccdd8e8299473a4cb82f27ae62c08ff"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p05.jpg",
+        "type": "file",
+        "md5": "b5dbbb2b9b27d463640c68172247c513"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p07.jpg",
+        "type": "file",
+        "md5": "cc0c6f83a3239720dab78134132c6c6d"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p08a.jpg",
+        "type": "file",
+        "md5": "51e85da293c31e5f58af4afa10cef88f"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p08b.jpg",
+        "type": "file",
+        "md5": "5fe126890eed840f365a4bea524fe55c"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p09.jpg",
+        "type": "file",
+        "md5": "6f2a1f9886ae1aef9f20096b55c17b7f"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p10-11.jpg",
+        "type": "file",
+        "md5": "2143e20d9bd05e618b8356566dec85fb"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p10.jpg",
+        "type": "file",
+        "md5": "d54ad824c23ec59523543ffd7988fe7b"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p11.jpg",
+        "type": "file",
+        "md5": "d94cd860a8f8cfb5fca6ca72ca0951ac"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p11.psd",
+        "type": "file",
+        "md5": "00f908ce630614877c394f80951dfd78"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p12.jpg",
+        "type": "file",
+        "md5": "fa0dc9aaa85bd20e00f38f321e59e213"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p13.jpg",
+        "type": "file",
+        "md5": "f5bb007a2fd833abad16785a479a8c15"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p14.jpg",
+        "type": "file",
+        "md5": "28eccfe5c52e60078db6600468cac891"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p15.jpg",
+        "type": "file",
+        "md5": "753149bd60f027991d0707f62d0eb5ed"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p16.jpg",
+        "type": "file",
+        "md5": "5d17b172ecd90c50cf0d2da675cd289f"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p18.jpg",
+        "type": "file",
+        "md5": "6279fd07d21e34f31820a3c7e5c9c837"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p19.jpg",
+        "type": "file",
+        "md5": "539c20e7bb9d6ccea6da9925ccb6f567"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p21.jpg",
+        "type": "file",
+        "md5": "0c6c56b160fce53d1d79986101a5caf6"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p23.jpg",
+        "type": "file",
+        "md5": "d6005de2c2668aae9791c27dad18b46b"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p24.jpg",
+        "type": "file",
+        "md5": "943f2f2375e72f72fb84c6a2441e7165"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p27.jpg",
+        "type": "file",
+        "md5": "f001879360d935cb40cca62e42166886"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p28.jpg",
+        "type": "file",
+        "md5": "08eb94c795578ce308d573a04cad0986"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p29.jpg",
+        "type": "file",
+        "md5": "66b66cd19b6ec4a080b821495755dd01"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p30.jpg",
+        "type": "file",
+        "md5": "b48d5ce233ab55b40a91a16b8e65f3c0"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p32.jpg",
+        "type": "file",
+        "md5": "fb4c39f3b223ea0377c9f74b95659f0b"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p34.jpg",
+        "type": "file",
+        "md5": "191313527a4e7a0b50aa210c55b6963a"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p37.jpg",
+        "type": "file",
+        "md5": "7783e6261f49e9c4d3d346abb92e61eb"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p38.jpg",
+        "type": "file",
+        "md5": "eb131c09e363ba4019cebdc1b945e85a"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p40-fr.jpg",
+        "type": "file",
+        "md5": "ef23e0d83afca15d99690d79b0c4738d"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p42.jpg",
+        "type": "file",
+        "md5": "ec0971f26d1f527bd8bb635b5d66a296"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p44.jpg",
+        "type": "file",
+        "md5": "0c35ac188a25e251b04e350b7e22263c"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p46.jpg",
+        "type": "file",
+        "md5": "16771d663d25017dfa970c69ec7b63f6"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p48.jpg",
+        "type": "file",
+        "md5": "0757a0c5e627f09bcaff5ba0b1cba520"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p50-title-fr.jpg",
+        "type": "file",
+        "md5": "73e7a637019576dacb5cf14a1462f388"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p51.jpg",
+        "type": "file",
+        "md5": "c848955581679bd7f64a6906897f9138"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p52-title-alt-fr.jpg",
+        "type": "file",
+        "md5": "1fbb4c07ffa80ae6fd35093432096cbd"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p52.jpg",
+        "type": "file",
+        "md5": "bb54326097880920f11700caee8843cb"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p53-reversed.jpg",
+        "type": "file",
+        "md5": "2e5cee1cefdca1ee0c9457194a0f7bbf"
+    },
+    {
+        "path": "/ada-zangeman/images/ada-p53-title-alt-fr.jpg",
+        "type": "file",
+        "md5": "abe804ab5e354114b9242a3bc1ecca25"
+    },
+    {
+        "path": "/ada-zangeman/images/ada.png",
+        "type": "file",
+        "md5": "6a95976e4bd9d77c73c0f0f47026d4b5"
+    },
+    {
+        "path": "/ada-zangeman/images/ada_composite_medias.jpg",
+        "type": "file",
+        "md5": "031dbe2ea3d35a66b3adf06ad3431b50"
+    },
+    {
+        "path": "/ada-zangeman/images/couverture_ada_L800.jpg",
+        "type": "file",
+        "md5": "25e28bf60299b90fb93fefcc570ca0d6"
+    },
+    {
+        "path": "/ada-zangeman/images/cover.jpg",
+        "type": "file",
+        "md5": "519f83795fffe30986531d9395cb27af"
+    },
+    {
+        "path": "/ada-zangeman/images/cover_de.jpg",
+        "type": "file",
+        "md5": "60860bca1c6195f105b749d814bbf30e"
+    },
+    {
+        "path": "/ada-zangeman/images/cover_en.png",
+        "type": "file",
+        "md5": "ffbf81a453abf15697ad8496e2030aa1"
+    },
+    {
+        "path": "/ada-zangeman/images/logo-fsfe.png",
+        "type": "file",
+        "md5": "02cc698e6a6e27dc20a96cce755da29e"
+    },
+    {
+        "path": "/ada-zangeman/images/logo_cfeditions.png",
+        "type": "file",
+        "md5": "bfa4f808bdf87dfadcf5334bd60dff70"
+    },
+    {
+        "path": "ada-zangeman/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ada-zangeman/js/ragadjust.js",
+        "type": "file",
+        "md5": "5fe533ac3b8faf6449fc3aac60cc98c5"
+    },
+    {
+        "path": "/ada-zangeman/js/reload-in-place.js",
+        "type": "file",
+        "md5": "fd52840d354446d98d9aa708cd02a7fe"
+    },
+    {
+        "path": "/ada-zangeman/js/scripts.js",
+        "type": "file",
+        "md5": "63b49717af4eabfd4d9be44f8e2aae3c"
+    },
+    {
+        "path": "/ada-zangeman/js/scripts_old.js",
+        "type": "file",
+        "md5": "1dca752af20fa1cc00ed0dcbe49d3b34"
+    },
+    {
+        "path": "/ada-zangeman/js/scripts_old_2.js",
+        "type": "file",
+        "md5": "c331d06eaf8c47cd1c72e54415db0855"
+    },
+    {
+        "path": "/ada-zangeman/presentation.html",
+        "type": "file",
+        "md5": "ce99d0b17522c117ce78741873976b25"
+    },
+    {
+        "path": "/ada-zangeman/push.sh",
+        "type": "file",
+        "md5": "fcb9160464c21d2b90fc921a2712d484"
+    },
+    {
+        "path": "ada-zangeman/text",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ada-zangeman/text/text.html",
+        "type": "file",
+        "md5": "d613051de6dad663a1d8d20c5020193b"
+    },
+    {
+        "path": "/ada-zangeman/text.html",
+        "type": "file",
+        "md5": "d613051de6dad663a1d8d20c5020193b"
+    },
+    {
+>>>>>>> refs/remotes/origin/main
         "path": "assets",
         "type": "directory",
         "md5": false
@@ -1352,7 +2153,11 @@
     {
         "path": "/bahar-narafzarazad/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "a306eef6cc62b530268d6f6cde52a586"
+=======
+        "md5": "73d9658e945cff294e12bc52b0968388"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "bumpbuddy",
@@ -1362,7 +2167,11 @@
     {
         "path": "/bumpbuddy/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "973b19f692f5de37480eda58568a236b"
+=======
+        "md5": "efdc634aa937fe391146b289118fbd9f"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "chaharshanbesori",
@@ -1392,7 +2201,11 @@
     {
         "path": "/debian-13-release/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "a476ddfda6f88fe4a45cc04bf7f07c49"
+=======
+        "md5": "55bfc9f4cf588df5f4a8fd10ee903a37"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "debian-32",
@@ -1403,6 +2216,7 @@
         "path": "/debian-32/index.html",
         "type": "file",
         "md5": "a88bbb0a0a8996f60c0a0afa291e9e3c"
+<<<<<<< HEAD
     },
     {
         "path": "debian-mandates-rust-for-apt-reshaping-ubuntu-and-other-linux-distros",
@@ -1413,6 +2227,8 @@
         "path": "/debian-mandates-rust-for-apt-reshaping-ubuntu-and-other-linux-distros/index.html",
         "type": "file",
         "md5": "5d3dca417c6cdb93b530ed71cbcf107b"
+=======
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "devops-conf-2023",
@@ -1422,7 +2238,11 @@
     {
         "path": "/devops-conf-2023/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "25d4909db66b5790a9b6e67a3c408dda"
+=======
+        "md5": "d74c567f7d7b40d95c1816187f23763a"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "devops-network-conf",
@@ -1432,7 +2252,11 @@
     {
         "path": "/devops-network-conf/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "b59015e16101ae2e9d2f1d3f9a3c97db"
+=======
+        "md5": "6856b9b812525f46af980093dae4f5c9"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "dorehami-01",
@@ -1442,7 +2266,11 @@
     {
         "path": "/dorehami-01/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "0ad0562abda42e74cdd3596767e78012"
+=======
+        "md5": "d0f7b5bbfdad109990daa5d929f015f9"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "dorehami-02",
@@ -1462,7 +2290,11 @@
     {
         "path": "/dorehami-dev/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "167563e33951cdaed0f71e4cb23713dd"
+=======
+        "md5": "9ed4075eee3aeaa68cc3dc78656ccb17"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "escape-to-freedom",
@@ -1472,7 +2304,11 @@
     {
         "path": "/escape-to-freedom/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "5b7fafb6e8139cb810385f215bf71795"
+=======
+        "md5": "7295506d1366bc7fa4b42450ddca071a"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "event-01",
@@ -1482,7 +2318,11 @@
     {
         "path": "/event-01/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "66d8716274dc5733719fe821ea799cc6"
+=======
+        "md5": "80b3a3184603a65ce24d43276063f204"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "event-02",
@@ -1492,7 +2332,11 @@
     {
         "path": "/event-02/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "7d72e987156e9cba1cb0fa3ff2c5ad30"
+=======
+        "md5": "6e0dbdae054c6790acf9c79c2305f8b1"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "event-03",
@@ -1502,7 +2346,11 @@
     {
         "path": "/event-03/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "44eae92698f33943c65c040a57c2424e"
+=======
+        "md5": "3cc347b6a90a01271e0df8cc10f9701a"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "event-04",
@@ -1512,7 +2360,11 @@
     {
         "path": "/event-04/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "4563658655c6bf5164d368cbfee6b184"
+=======
+        "md5": "e28c2a405233d5a15947cf95c20b8223"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "event-05",
@@ -1522,7 +2374,11 @@
     {
         "path": "/event-05/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "866b1ef61dc4fb1bc01ea11d0f610538"
+=======
+        "md5": "2f4d1247226f1214df6300cf11e0eec5"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "event-06",
@@ -1532,7 +2388,11 @@
     {
         "path": "/event-06/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "22152372cdb7e7faa06b7ba45241afd4"
+=======
+        "md5": "f2c85c26482af9365dfc49a26765b2d4"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "event-07",
@@ -1542,7 +2402,11 @@
     {
         "path": "/event-07/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "dc6c6e43aa09db373a99f6ae729c59cb"
+=======
+        "md5": "6f98e325a9a1307319fdda11f824f4e7"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "event-08",
@@ -1552,7 +2416,11 @@
     {
         "path": "/event-08/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "4c97d6a3d7ed4fda180f4c50e0c1d4cc"
+=======
+        "md5": "129d6f2dffe4cf92bbdc9f2b2d769072"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "event-09",
@@ -1562,7 +2430,11 @@
     {
         "path": "/event-09/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "fd9cba8bfb569b68468cdaae133a905d"
+=======
+        "md5": "cf8f898eb1d9fc7d2ed9fd23f6ad7b72"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "event-10",
@@ -1572,7 +2444,11 @@
     {
         "path": "/event-10/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "a974e4300493a88f95b10af8fb746a9c"
+=======
+        "md5": "343c3f1b2205a006abce8b67e7a316e7"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "event-11",
@@ -1582,7 +2458,11 @@
     {
         "path": "/event-11/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "b00465e5d9ab256d5e99e62d00936929"
+=======
+        "md5": "ca8d8db4a86ac3515c6f8a2a64f0127f"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "event-12",
@@ -1592,7 +2472,11 @@
     {
         "path": "/event-12/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "5436f43f011c55dc771484e6f2fcb7ca"
+=======
+        "md5": "4b0dd7747683ea953e73be81432adbed"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "event-13",
@@ -1602,7 +2486,11 @@
     {
         "path": "/event-13/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "1e1e6385b8e497ce842ec2bda6aafca3"
+=======
+        "md5": "3245b5b5456911c51088f4c978b80928"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "event-14",
@@ -1612,7 +2500,11 @@
     {
         "path": "/event-14/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "b180779e0e23a4c9c42423928c650eeb"
+=======
+        "md5": "7fe0df6aefed338f17998d90c8882405"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "event-15",
@@ -1622,7 +2514,11 @@
     {
         "path": "/event-15/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "a7f1b197ceb420f3a449184bd3187d57"
+=======
+        "md5": "8d111c004585a1c9f169a580c333c717"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "event-16",
@@ -1642,7 +2538,11 @@
     {
         "path": "/event-17/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "ddb46f2560b2d764e0c4d2727c97a37b"
+=======
+        "md5": "d7524f44314aee4240bfbd952ee8e228"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "event-18",
@@ -1652,7 +2552,11 @@
     {
         "path": "/event-18/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "90426c4d12ccbc68e5d48b161ad5065f"
+=======
+        "md5": "076aacd9f112eac6e57806b01a8a95ad"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "event-19",
@@ -1662,7 +2566,11 @@
     {
         "path": "/event-19/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "0e9c1ad23e28de4853f2d639091f6003"
+=======
+        "md5": "2a9b550c1c341ef85334fdd8cbc45218"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "fanoos-qalam-conf",
@@ -1692,7 +2600,11 @@
     {
         "path": "/first-hackers-coferece-1984/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "f12aa3dce9c215e4c277adb983175a80"
+=======
+        "md5": "5d966d94e8d0242fe4a008f77e978716"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "fixing.svg",
@@ -1707,7 +2619,11 @@
     {
         "path": "/font-arad/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "cdb9bdb211bef9458bca4c11ad5fd099"
+=======
+        "md5": "f5bdc765eaeb0f804e1722b633fd30b1"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "free-android",
@@ -1717,7 +2633,11 @@
     {
         "path": "/free-android/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "23ebf95a496ba65e94f329ad3c732df0"
+=======
+        "md5": "0901eb2aab1913834adeb02fdde4ca75"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "free-android-software-contribution-guide",
@@ -2247,7 +3167,11 @@
     {
         "path": "/freedom-day/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "08710c554f689cdd5468151ed0904039"
+=======
+        "md5": "8e674dec9cba45ff784205cb3b92c2c3"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "freefont",
@@ -2267,7 +3191,11 @@
     {
         "path": "/fsf-1403/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "793306cc72bcf665e1af11173998afbc"
+=======
+        "md5": "3195f0961a0dc12f3b3677325c5512e5"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "fsf-history-redirect",
@@ -2277,7 +3205,11 @@
     {
         "path": "/fsf-history-redirect/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "e824474e3114883f1aa7500b4d436554"
+=======
+        "md5": "efef4ea87439ca642e5c446b90b27358"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "fsf40",
@@ -2287,7 +3219,11 @@
     {
         "path": "/fsf40/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "fc7a61be0a3266e6a1d34dee6975794c"
+=======
+        "md5": "d453d5c878bffed707eb6d9739cf5acc"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "fsfp-culture",
@@ -2297,7 +3233,11 @@
     {
         "path": "/fsfp-culture/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "8ad3d91e95eb84dcb1af7795c16ba279"
+=======
+        "md5": "280366870e1fc103753588d10d3c6188"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "fsiran",
@@ -2307,7 +3247,11 @@
     {
         "path": "/fsiran/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "efec0a133034c532973894af4511f7d2"
+=======
+        "md5": "d23aaba607bf0282ff82578e7a8eb717"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "ftthyh-lg-fs",
@@ -2327,7 +3271,11 @@
     {
         "path": "/glbh-br-mnswkh-shdn-nrmfzr-b-nrmfzr-azd/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "cb0be2bb79969cfbaa3f5b453a4b54c1"
+=======
+        "md5": "912c14b1a32b424715f0cc71c2f3305f"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "gnulinux-conf",
@@ -2337,7 +3285,11 @@
     {
         "path": "/gnulinux-conf/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "fa85aaf4b1ce80b6691469b3a189dac0"
+=======
+        "md5": "cad2de2faf3e298bada02d25b3b09cf4"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "hack-sec-conf",
@@ -2347,7 +3299,11 @@
     {
         "path": "/hack-sec-conf/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "52a487c587759e1cd7c740a4c67d8509"
+=======
+        "md5": "079e2c4517d371aca847e50a18713ea0"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "hero-txt-style",
@@ -2377,7 +3333,11 @@
     {
         "path": "/how-create-community/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "7d317c812c993539b1128456e66c665c"
+=======
+        "md5": "17acc87c746ddd4874a75137b1da36c8"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "how-install-asahilinux",
@@ -2397,7 +3357,11 @@
     {
         "path": "/how-matrix/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "588d72a27902daadf7b83397c43709f9"
+=======
+        "md5": "c79d5363c0069985dc3e2047fd33e623"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "howtolug",
@@ -2407,7 +3371,11 @@
     {
         "path": "/howtolug/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "16731e2ca39d3a773bc786d139b502ad"
+=======
+        "md5": "54c576e6b52ec6ef459cf66894be1069"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "htaccess.txt",
@@ -2427,7 +3395,11 @@
     {
         "path": "/ilovefs/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "5bdff6a659e1bf9422036b819f905491"
+=======
+        "md5": "e93f0085e9b7dcdebd48b1635432a06c"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "index.html",
@@ -2467,7 +3439,11 @@
     {
         "path": "/isfehan-conf/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "276be3af361b5e1d4abaa50fd7263c3a"
+=======
+        "md5": "61f1266a61e6f29fc330883e82f63f34"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "lan-party",
@@ -2477,7 +3453,11 @@
     {
         "path": "/lan-party/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "e434fbfed8c1527ee3971f809c06f4b8"
+=======
+        "md5": "7ba2e0b0dae5911604a2a457154d0b1d"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "learn-gimp",
@@ -2487,7 +3467,11 @@
     {
         "path": "/learn-gimp/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "8775e4d2313c32ca33457349d702996e"
+=======
+        "md5": "0c6b5e2ded2842fcfa76f3ccbb8a3fc3"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "liberate-your-phone",
@@ -2497,7 +3481,11 @@
     {
         "path": "/liberate-your-phone/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "1ff4fbaedd14ddb6da43fcc71a5188dd"
+=======
+        "md5": "3322b9ebe5f55e17df9d2d6036523e0e"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "libremobileos",
@@ -2517,7 +3505,11 @@
     {
         "path": "/libreplanet2025/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "7f374c457fc9826382c0f924b0af4979"
+=======
+        "md5": "1e21dab9669504ca512a44e171861377"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "librepllant",
@@ -2527,7 +3519,11 @@
     {
         "path": "/librepllant/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "15f421a06dfd35886a4b76a707af054f"
+=======
+        "md5": "738391faf0d6cf2bab8c2aed5cc37c3e"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "license-ofl",
@@ -2537,7 +3533,11 @@
     {
         "path": "/license-ofl/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "1e37cb728b66bf917e434ba16b26172a"
+=======
+        "md5": "18ff803e478282c809b6ea2695360b7e"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "license-opensource",
@@ -2547,7 +3547,11 @@
     {
         "path": "/license-opensource/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "0c8c63cbac55bca59a87cefbbc0d8fc6"
+=======
+        "md5": "f9615bc77f8476811415681443837e5f"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "licenses",
@@ -2557,7 +3561,11 @@
     {
         "path": "/licenses/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "46831c36b27058abb540ceaacef2f69d"
+=======
+        "md5": "27549db91c20b01588e4d11d2c918f0b"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "linux-workhsop",
@@ -2567,7 +3575,11 @@
     {
         "path": "/linux-workhsop/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "1d3c18151be43216d44f64143e7e5e0b"
+=======
+        "md5": "303a17e07d81e9a40989e87664a74c5f"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "lmo",
@@ -2577,7 +3589,11 @@
     {
         "path": "/lmo/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "e344163747fb5cc9a83867c12910ae56"
+=======
+        "md5": "9c37919cc61f54ff688fca1da0511391"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "loop",
@@ -2637,7 +3653,11 @@
     {
         "path": "/matrix-user-guide/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "9668303f0c4692c7ac8d66a3cfdd68ff"
+=======
+        "md5": "5c1890e2401bf206a55f038166391f8d"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "media",
@@ -6710,6 +7730,7 @@
         "md5": "956e07b6b5797f78a1bfc9053c626f88"
     },
     {
+<<<<<<< HEAD
         "path": "media/posts/177",
         "type": "directory",
         "md5": false
@@ -6765,6 +7786,8 @@
         "md5": "115b7a50e92982bb4eff4b62c82882a3"
     },
     {
+=======
+>>>>>>> refs/remotes/origin/main
         "path": "media/posts/18",
         "type": "directory",
         "md5": false
@@ -10942,7 +11965,11 @@
     {
         "path": "/metro-shiraz/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "672f9f4fe841aacfa8610554e2d24ccc"
+=======
+        "md5": "7537aa1222eeb7bd9d59c03289e92a15"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "obs-studio",
@@ -10962,7 +11989,11 @@
     {
         "path": "/parch-linux/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "4d7f1701b4220743985c09b7fb3cbc3f"
+=======
+        "md5": "bd5b8cc1f203d9bd066a13e0dfe391e6"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "people.png",
@@ -10997,7 +12028,11 @@
     {
         "path": "/post-phi-4/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "31d8b55532b8c9b9fae427ea3abe0055"
+=======
+        "md5": "17638d02b03a00e4ace9dfd39d5b3f0a"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "post-rc6",
@@ -11007,7 +12042,11 @@
     {
         "path": "/post-rc6/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "3dd5e7107bff4d19079928bf294b749a"
+=======
+        "md5": "a5fc3089cdfb5c39febda99af7c6aee4"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "post-xia",
@@ -11017,7 +12056,11 @@
     {
         "path": "/post-xia/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "6069e11de7e53e0e33b739aa21efe899"
+=======
+        "md5": "a0eae3dc908f99cbc55677089bda0a61"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "post-xia-2",
@@ -11047,7 +12090,11 @@
     {
         "path": "/register-in-matrix/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "bb6399f361db3a76fbf640efc4554a30"
+=======
+        "md5": "7d6805c84a762eab6e2400e880f62313"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "report-saber-rastikerdar",
@@ -11057,7 +12104,11 @@
     {
         "path": "/report-saber-rastikerdar/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "2f2f7f5c5dc00790f5e442caaa2b380f"
+=======
+        "md5": "4b4d377850a79df75774ca023742b873"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "rewind",
@@ -11097,7 +12148,11 @@
     {
         "path": "/sfd-2025/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "902d30e83c553610612f48288ba976ed"
+=======
+        "md5": "2cd748b5136e5ceeb3d76112b11123c5"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "shirazlinux-2year-report",
@@ -11107,7 +12162,11 @@
     {
         "path": "/shirazlinux-2year-report/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "5566cf5ba3bea03c2388c22e703b8516"
+=======
+        "md5": "001efaf65b57dcaa93bc088d24ed4e64"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "shoestool",
@@ -11132,7 +12191,11 @@
     {
         "path": "sitemap.xml",
         "type": "file",
+<<<<<<< HEAD
         "md5": "402078e52e4371cf6f2551fa9d308a8f"
+=======
+        "md5": "b640ea5f4a091cbaf3b756ddc1e762d8"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "sitemap.xsl",
@@ -11507,7 +12570,11 @@
     {
         "path": "/tags/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "26f61608f7bea030747c2d91ac98d044"
+=======
+        "md5": "d3bf7ef96392aa0c054d7bd71544732c"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "tags/lan-party",
@@ -11652,7 +12719,11 @@
     {
         "path": "/tags/post/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "93c97c58eb45f332bb086db727931002"
+=======
+        "md5": "c42ebd11bfaf7eb4b7dd5afa956a8a9a"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "tags/post/page",
@@ -11667,7 +12738,11 @@
     {
         "path": "/tags/post/page/2/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "704814a72787047cd8eb985e1e168ec2"
+=======
+        "md5": "6213a99c4899b45c1318bd8099311de5"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "tags/post/page/3",
@@ -11677,7 +12752,11 @@
     {
         "path": "/tags/post/page/3/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "00d299f4ea60c8370c8aaa269dfaaf42"
+=======
+        "md5": "592bbf3e9662dd50da64dde41e26bc60"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "tags/post/page/4",
@@ -11687,7 +12766,11 @@
     {
         "path": "/tags/post/page/4/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "f9386ae7cfc6d5ac030628c2476245ad"
+=======
+        "md5": "60cfce96998ec40425d8a114e9c7e036"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "tags/post/page/5",
@@ -11697,7 +12780,11 @@
     {
         "path": "/tags/post/page/5/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "826596f0a6165d20f16c1d948ae191ea"
+=======
+        "md5": "013f0ee8f0c03afdd89d3880e38755d9"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "tags/shirazlinux",
@@ -11822,7 +12909,11 @@
     {
         "path": "/tehran-metro/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "f232c17dff18e28790e6de561ba5450f"
+=======
+        "md5": "b469c7981c8441f8faa51b4a18311bf9"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "terror-active",
@@ -11832,7 +12923,11 @@
     {
         "path": "/terror-active/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "7f699c5cf51afe44b810351159459ecc"
+=======
+        "md5": "a4be17db4b66a1bc8fe673661b799b77"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "the-university-costumed",
@@ -11867,7 +12962,11 @@
     {
         "path": "/user-liberation/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "4e6e314c1ffae0591c5961acbd556975"
+=======
+        "md5": "c20a074489745accae89088740c49900"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "valentine-day",
@@ -11887,7 +12986,11 @@
     {
         "path": "/vazir-font-conf/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "7d5094f1f0cb6da859b202127705b30c"
+=======
+        "md5": "d94ed9198e3bd8b81c31040327a243d1"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "vazir-font-conf-report",
@@ -11897,7 +13000,11 @@
     {
         "path": "/vazir-font-conf-report/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "3a9fbed1c3f2e9e2fab95cae90c49348"
+=======
+        "md5": "f20fe4ad8e22f5a220fce5bf510a3e9f"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "website.png",
@@ -11912,7 +13019,11 @@
     {
         "path": "/what-is-community/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "0e45d933c19a832af3535f376aebc607"
+=======
+        "md5": "112c1bb944a8bf2da77fa7e76cdf25a1"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "what-is-free-software",
@@ -11922,7 +13033,11 @@
     {
         "path": "/what-is-free-software/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "741fcef4259db709760ef73e6946cf16"
+=======
+        "md5": "c4f4ebeb52c69d9b6cf62f2ce986c8c0"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "why-should-we-not-say-linux",
@@ -11932,7 +13047,11 @@
     {
         "path": "/why-should-we-not-say-linux/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "78fff8cc8c12e947059d09d3becb679b"
+=======
+        "md5": "f08e8fb7f247768806934b05a3810ee2"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "widgetify",
@@ -11952,7 +13071,11 @@
     {
         "path": "/wikipedia-celebration20/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "2ab1b27f1220ab9bc892211c5c3d07aa"
+=======
+        "md5": "562642355252e2bf17ff44fe8279098a"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "wikipedia-celebration21",
@@ -11982,7 +13105,11 @@
     {
         "path": "/workshop-linux-lpi/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "935ed8faf2dbdc86ffa1882de248c050"
+=======
+        "md5": "753fbe252465096be0fb8a42b1eaf9ed"
+>>>>>>> refs/remotes/origin/main
     },
     {
         "path": "wrong-digiato",
@@ -12002,6 +13129,10 @@
     {
         "path": "/yek-sal-ba-shirazlinux/index.html",
         "type": "file",
+<<<<<<< HEAD
         "md5": "325c6d3d2280a2d6227165688ace212a"
+=======
+        "md5": "fb545752de7ca372a0e15d9299d19eb0"
+>>>>>>> refs/remotes/origin/main
     }
 ]
