@@ -1,12 +1,15 @@
-@font-face {
-  font-family: vazirmatn;
-  src: url(../fonts/Vazirmatn-Medium.woff2);
-}
+@import url(reset.css);
+@import url(vars.css);
+@import url(fonts.css);
+
+
+
 
 
 
 /* spec */
 html {
+  direction: rtl !important;
   height: 100%;
   margin: 0;
   padding: 0;
@@ -20,7 +23,7 @@ body {
   font-family: vazirmatn;
   font-size: 1.8vw;
   line-height: 1.4;
-  text-align: left;
+  text-align: righ;
   color: hsla(219, 17%, 17%, 1.0);
 }
 
@@ -189,7 +192,7 @@ span.alinea {
 	visibility: collapse;
 	height: 1px;
 	overflow: hidden;
-  direction: ltr;
+  direction: rtl;
 }
 .longdesc-details {
   font-size: 0.7em;
@@ -220,7 +223,7 @@ span.lettrine {
 }
 
 span.accroche {
-  font-family:Luciole, sans-serif;
+   font-family: vazirmatn;
 }
 
 ol {
@@ -236,7 +239,7 @@ ol li {
 /* enrichissement inline */ 
 
 .superbold{
-  font-family:Luciole, sans-serif;
+   font-family: vazirmatn;
   font-weight:700;
   font-size:0.9em;
 }
@@ -263,7 +266,7 @@ ol li {
 
 .cf-url, .cf-hashtag {
   display:inline;
-  font-family: Cousine, monospace;
+   font-family: vazirmatn;
   font-size:0.85em;
   line-height:0;
   color:black;
@@ -291,7 +294,7 @@ h1.gros-titre{
   hyphens:none;
 }
 h1,h2,h3{
-  font-family:Luciole, sans-serif;
+  font-family: vazirmatn;
   font-weight:700;
   hyphens:none;
   margin:0;
@@ -300,7 +303,7 @@ h1{
   font-size:1.4em;
   line-height:1.3;
   padding:2em 0 1em 0;
-  text-align: left;
+  text-align: right;
   margin: 0 0 2em 0;
   padding: 0;
   text-transform: uppercase;
@@ -376,7 +379,7 @@ p.soutien {
 
 .mention {
   display: block;
-  font-family: "Luciole", Helvetica, serif;
+   font-family: vazirmatn;
   font-size: 1em;
   margin-bottom: 0.3em;
 }
@@ -384,7 +387,7 @@ p.soutien {
 /* colophon */
 
 .cf-colophon p {
-	font-family:"Luciole", Helvetica, serif;
+	 font-family: vazirmatn;
 	font-size:0.85em;
 	margin-top: 0.3em;
 	margin-bottom: 0.5em;
@@ -435,7 +438,7 @@ a.logo {
 	line-height:1.3;
 }
 .cf-page-titre .cf-collection {
-  font-family:"Luciole", Helvetica, serif;
+  font-family: vazirmatn;
 	text-align:center;
 	margin: 2em 0 -1em 0;
   text-transform: uppercase;
@@ -446,7 +449,7 @@ a.logo {
 
 .cf-page-titre .cf-editeur
 {
-	font-family:"Luciole", Helvetica, serif;
+	 font-family: vazirmatn;
 	font-size:0.9em;
 	line-height:1.1;
 	margin: 4em 0 .4em 0;

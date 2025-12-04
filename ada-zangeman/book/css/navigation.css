@@ -3,7 +3,7 @@
 nav.main-menu {
     position: absolute;
     top: 0;
-    left: 0;
+    right: 0;
     z-index: 200;
     font-size: 1rem;
     text-transform: uppercase;

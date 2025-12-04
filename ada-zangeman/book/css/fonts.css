@@ -31,3 +31,8 @@
     font-style:normal;
     font-weight:400;
 }
+
+@font-face {
+    font-family: vazirmatn;
+    src: url(../fonts/Vazirmatn-Medium.woff2);
+}

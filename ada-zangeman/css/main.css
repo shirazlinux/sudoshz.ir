@@ -1,0 +1,253 @@
+@font-face {
+  font-family: luciole;
+  src: url(../fonts/Luciole-Regular.woff2);
+}
+
+@font-face {
+  font-family: vazirmatn;
+  src: url(../fonts/Vazirmatn-Medium.woff2);
+}
+body {
+  direction: rtl !important ;
+  background-color: #4daca2;
+  font-family: vazirmatn;
+}
+h1 {
+  text-align: center;
+  font-size: 1.8em;
+  line-height: 1.0;
+}
+h2 {
+  font-size: 1.5em;
+  line-height: 1.0;
+}
+h3 {
+  font-size: 1.2em;
+  line-height: 1.0;
+}
+
+a {
+  font-weight: bold;
+  color: #004789;
+}
+
+footer a {
+  font-weight: bold;
+  color: #ffe769;
+  text-decoration: none;
+}
+footer a:hover {
+  color: #c43741;
+  text-decoration: underline;
+}
+
+footer {
+  text-align: center;
+  color: #333;
+  margin-top: 5px;
+}
+
+#navbar-toggle-cbox {
+  display:none
+}
+#navbar-toggle-cbox:checked ~ .collapse {
+    display: block;
+}
+
+.navbar-brand img {
+  height: 100%;
+  display:inline-block;
+}
+
+.navbar-nav > li {
+  float: right;
+}
+
+//div[class^='col-'], div[class*=' col-'] {
+//  padding-right: 0;
+//  padding-left: 0;
+//}
+
+.container article {
+   background-color: #a6d2d3;
+   border-radius: 10px;
+   //border: 2px solid #ffe769;
+   padding: 20px;
+   font-size: 1.2em;
+}
+
+.container header {
+  background-color: #fff;
+  border: 1px solid #00bee3;
+  padding-bottom: 2px;
+  margin-bottom: 10px;
+}
+
+.container .align-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container .signature {
+  text-align: right;
+}
+
+.homebox {
+  background-color: #daeee1;
+  border: 2px solid #ffe769;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.homebox a {
+  font-weight: bold;
+  color: #4daca2;
+  text-decoration: none;
+}
+.homebox a:hover {
+  text-decoration: underline;
+}
+
+.btn {
+  text-align: center;
+}
+
+embed  {
+  min-width: 100%;
+  aspect-ratio: 16 / 9; 
+}
+
+/** Breadcrumb **/
+/** Source: https://bootsnipp.com/snippets/y4Qa **/
+
+.btn-breadcrumb {
+  min-width: 100%;
+}
+
+/** The Magic **/
+.btn-breadcrumb .btn:not(:last-child):after {
+  content: " ";
+  display: block;
+  width: 0;
+  height: 0;
+  border-top: 17px solid transparent;
+  border-bottom: 17px solid transparent;
+  border-left: 10px solid white;
+  position: absolute;
+  top: 50%;
+  margin-top: -17px;
+  left: 100%;
+  z-index: 3;
+}
+.btn-breadcrumb .btn:not(:last-child):before {
+  content: " ";
+  display: block;
+  width: 0;
+  height: 0;
+  border-top: 17px solid transparent;
+  border-bottom: 17px solid transparent;
+  border-left: 10px solid rgb(173, 173, 173);
+  position: absolute;
+  top: 50%;
+  margin-top: -17px;
+  margin-left: 1px;
+  left: 100%;
+  z-index: 3;
+}
+
+/** The Spacing **/
+.btn-breadcrumb .btn {
+  padding:6px 12px 6px 24px;
+}
+.btn-breadcrumb .btn:first-child {
+  padding:6px 6px 6px 10px;
+}
+.btn-breadcrumb .btn:last-child {
+  padding:6px 18px 6px 24px;
+}
+
+/** Default button **/
+.btn-breadcrumb .btn.btn-default:not(:last-child):after {
+  border-left: 10px solid #fff;
+}
+.btn-breadcrumb .btn.btn-default:not(:last-child):before {
+  border-left: 10px solid #ccc;
+}
+.btn-breadcrumb .btn.btn-default:hover:not(:last-child):after {
+  border-left: 10px solid #ebebeb;
+}
+.btn-breadcrumb .btn.btn-default:hover:not(:last-child):before {
+  border-left: 10px solid #adadad;
+}
+
+/** Primary button **/
+.btn-breadcrumb .btn.btn-primary:not(:last-child):after {
+  border-left: 10px solid #428bca;
+}
+.btn-breadcrumb .btn.btn-primary:not(:last-child):before {
+  border-left: 10px solid #357ebd;
+}
+.btn-breadcrumb .btn.btn-primary:hover:not(:last-child):after {
+  border-left: 10px solid #3276b1;
+}
+.btn-breadcrumb .btn.btn-primary:hover:not(:last-child):before {
+  border-left: 10px solid #285e8e;
+}
+
+/** Success button **/
+.btn-breadcrumb .btn.btn-success:not(:last-child):after {
+  border-left: 10px solid #5cb85c;
+}
+.btn-breadcrumb .btn.btn-success:not(:last-child):before {
+  border-left: 10px solid #4cae4c;
+}
+.btn-breadcrumb .btn.btn-success:hover:not(:last-child):after {
+  border-left: 10px solid #47a447;
+}
+.btn-breadcrumb .btn.btn-success:hover:not(:last-child):before {
+  border-left: 10px solid #398439;
+}
+
+/** Danger button **/
+.btn-breadcrumb .btn.btn-danger:not(:last-child):after {
+  border-left: 10px solid #d9534f;
+}
+.btn-breadcrumb .btn.btn-danger:not(:last-child):before {
+  border-left: 10px solid #d43f3a;
+}
+.btn-breadcrumb .btn.btn-danger:hover:not(:last-child):after {
+  border-left: 10px solid #d2322d;
+}
+.btn-breadcrumb .btn.btn-danger:hover:not(:last-child):before {
+  border-left: 10px solid #ac2925;
+}
+
+/** Warning button **/
+.btn-breadcrumb .btn.btn-warning:not(:last-child):after {
+  border-left: 10px solid #f0ad4e;
+}
+.btn-breadcrumb .btn.btn-warning:not(:last-child):before {
+  border-left: 10px solid #eea236;
+}
+.btn-breadcrumb .btn.btn-warning:hover:not(:last-child):after {
+  border-left: 10px solid #ed9c28;
+}
+.btn-breadcrumb .btn.btn-warning:hover:not(:last-child):before {
+  border-left: 10px solid #d58512;
+}
+
+/** Info button **/
+.btn-breadcrumb .btn.btn-info:not(:last-child):after {
+  border-left: 10px solid #5bc0de;
+}
+.btn-breadcrumb .btn.btn-info:not(:last-child):before {
+  border-left: 10px solid #46b8da;
+}
+.btn-breadcrumb .btn.btn-info:hover:not(:last-child):after {
+  border-left: 10px solid #39b3d7;
+}
+.btn-breadcrumb .btn.btn-info:hover:not(:last-child):before {
+  border-left: 10px solid #269abc;
+}

@@ -105,54 +105,944 @@
         "md5": false
     },
     {
+        "path": "/ada-zangeman/LICENSE",
+        "type": "file",
+        "md5": "af238da5bf970a311bd0fde377cee102"
+    },
+    {
+        "path": "/ada-zangeman/README.md",
+        "type": "file",
+        "md5": "03b9d657e0f47b2afaba7bc55f062824"
+    },
+    {
+        "path": "/ada-zangeman/about.html",
+        "type": "file",
+        "md5": "6455593f41273b90bcc456349baf5a32"
+    },
+    {
+        "path": "ada-zangeman/book",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ada-zangeman/book/README.md",
+        "type": "file",
+        "md5": "32a121249ae8e79904e867f8adc68e39"
+    },
+    {
+        "path": "/ada-zangeman/book/acknowledgments.html",
+        "type": "file",
+        "md5": "1913c08f46f807a6967fbc1165bb0256"
+    },
+    {
+        "path": "/ada-zangeman/book/authors.html",
+        "type": "file",
+        "md5": "489169f1ebed377f30635c0e03739b21"
+    },
+    {
+        "path": "/ada-zangeman/book/az.html",
+        "type": "file",
+        "md5": "1a22e0398fb234b0a77a0889826d230c"
+    },
+    {
+        "path": "/ada-zangeman/book/colophon.html",
+        "type": "file",
+        "md5": "cf54df2619928df071e58d168013c298"
+    },
+    {
+        "path": "ada-zangeman/book/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ada-zangeman/book/css/ada.css",
+        "type": "file",
+        "md5": "8dadf4922c97e147b62fead95a359910"
+    },
+    {
+        "path": "/ada-zangeman/book/css/catalogue.css",
+        "type": "file",
+        "md5": "77c4cb1babe2bd7634b32eb4ad51b68b"
+    },
+    {
+        "path": "/ada-zangeman/book/css/fonts.css",
+        "type": "file",
+        "md5": "103b9a305c8c37e3b4861676d5c1a178"
+    },
+    {
+        "path": "/ada-zangeman/book/css/navigation.css",
+        "type": "file",
+        "md5": "c443e14fa4c86eebbea50f246fdf4d54"
+    },
+    {
+        "path": "/ada-zangeman/book/css/reset.css",
+        "type": "file",
+        "md5": "bee5f309cd4477931a2c1e2f3dabe443"
+    },
+    {
+        "path": "/ada-zangeman/book/css/responsive.css",
+        "type": "file",
+        "md5": "fd23a703480d61b610568cf4274a345e"
+    },
+    {
+        "path": "/ada-zangeman/book/css/supplement.css",
+        "type": "file",
+        "md5": "c95b04be3ab476659fe04bd43b0ad20d"
+    },
+    {
+        "path": "/ada-zangeman/book/css/tweaks.css",
+        "type": "file",
+        "md5": "a615c13e93892ae99a64b00902390de6"
+    },
+    {
+        "path": "/ada-zangeman/book/css/vars.css",
+        "type": "file",
+        "md5": "f523131fe0f507d1d6e88c1671fec972"
+    },
+    {
+        "path": "/ada-zangeman/book/favicon.png",
+        "type": "file",
+        "md5": "caacadc6600d380b135610217ce99da1"
+    },
+    {
+        "path": "ada-zangeman/book/fonts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ada-zangeman/book/fonts/Cousine-Regular.ttf",
+        "type": "file",
+        "md5": "ac9e88b57ab453e5d4d90e781b9d49f6"
+    },
+    {
+        "path": "/ada-zangeman/book/fonts/Luciole-Bold-Italic.ttf",
+        "type": "file",
+        "md5": "0a838281b9f2d18742c1584b8cd9f1c2"
+    },
+    {
+        "path": "/ada-zangeman/book/fonts/Luciole-Bold.ttf",
+        "type": "file",
+        "md5": "fce2e56ff9ba4962f8ce53b76807c23f"
+    },
+    {
+        "path": "/ada-zangeman/book/fonts/Luciole-Regular-Italic.ttf",
+        "type": "file",
+        "md5": "22ecff8037af467da83bb92c2a22b130"
+    },
+    {
+        "path": "/ada-zangeman/book/fonts/Luciole-Regular.ttf",
+        "type": "file",
+        "md5": "0b27d5a2b61dd5901866300e18993868"
+    },
+    {
+        "path": "/ada-zangeman/book/fonts/Vazirmatn-Medium.woff2",
+        "type": "file",
+        "md5": "1fe8d65de1e6bd564ffc03b7d09fd9ec"
+    },
+    {
+        "path": "/ada-zangeman/book/footer.frg.html",
+        "type": "file",
+        "md5": "10f06332f54d91652dbcd8ecf8f773f3"
+    },
+    {
+        "path": "/ada-zangeman/book/fsfe.html",
+        "type": "file",
+        "md5": "eb6caca4d00059987e09fd09451bff9c"
+    },
+    {
+        "path": "ada-zangeman/book/images",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ada-zangeman/book/images/A-cyan.png",
+        "type": "file",
+        "md5": "575a1dbfeca7c5700b5d488ca29a8cdb"
+    },
+    {
+        "path": "/ada-zangeman/book/images/A-fucsia.png",
+        "type": "file",
+        "md5": "611e61d9d1af22e9fa8d60821d8f52e3"
+    },
+    {
+        "path": "/ada-zangeman/book/images/A-olive.png",
+        "type": "file",
+        "md5": "fa8c18a5a0a5995565a5753f4cc94c3b"
+    },
+    {
+        "path": "/ada-zangeman/book/images/A-red2.png",
+        "type": "file",
+        "md5": "f56e5ffa93d218ff38f89d6833c7ef2a"
+    },
+    {
+        "path": "/ada-zangeman/book/images/A-violet.png",
+        "type": "file",
+        "md5": "fbea4f6e63449e5c8aff54b2f438d5f6"
+    },
+    {
+        "path": "/ada-zangeman/book/images/A-yellow.png",
+        "type": "file",
+        "md5": "59a2e879e67212227ee097f8b5444e66"
+    },
+    {
+        "path": "/ada-zangeman/book/images/A_cyr-violet.png",
+        "type": "file",
+        "md5": "147883936349fc9388afb4e49fe8efff"
+    },
+    {
+        "path": "/ada-zangeman/book/images/A_cyr-yellow.png",
+        "type": "file",
+        "md5": "4fca3c562e2776c624823c5978276396"
+    },
+    {
+        "path": "/ada-zangeman/book/images/C-cyan.png",
+        "type": "file",
+        "md5": "a2bba21d0d9f78493479934ea2f5cfce"
+    },
+    {
+        "path": "/ada-zangeman/book/images/C-pink.png",
+        "type": "file",
+        "md5": "537d5f2f6f75ca5086c6a8fd3f62273f"
+    },
+    {
+        "path": "/ada-zangeman/book/images/C-red1.png",
+        "type": "file",
+        "md5": "568fc7d8ec56422febeb5a6b928c8dfa"
+    },
+    {
+        "path": "/ada-zangeman/book/images/C-yellow.png",
+        "type": "file",
+        "md5": "5cbf5d3cf811602699c105a881fc969e"
+    },
+    {
+        "path": "/ada-zangeman/book/images/D-cyan.png",
+        "type": "file",
+        "md5": "9fb118e38a3e5af9838f0434b45dc408"
+    },
+    {
+        "path": "/ada-zangeman/book/images/D-lightcyan.png",
+        "type": "file",
+        "md5": "1008212c03119f8eddb7da8d2cccd4cd"
+    },
+    {
+        "path": "/ada-zangeman/book/images/D-red1.png",
+        "type": "file",
+        "md5": "aa6a8ae0040cfdd724df15f2cace1029"
+    },
+    {
+        "path": "/ada-zangeman/book/images/D-red2.png",
+        "type": "file",
+        "md5": "c980893c8f1a6d13d8fe41fffea2714e"
+    },
+    {
+        "path": "/ada-zangeman/book/images/D-yellow2.png",
+        "type": "file",
+        "md5": "fbaea7eeeb9138a2fd22e1d3c64fe140"
+    },
+    {
+        "path": "/ada-zangeman/book/images/E-cyan.png",
+        "type": "file",
+        "md5": "ba38367c22fc23b92e404cecf14cd7e3"
+    },
+    {
+        "path": "/ada-zangeman/book/images/E-green.png",
+        "type": "file",
+        "md5": "06cde71762f87a03f358063d5c196a42"
+    },
+    {
+        "path": "/ada-zangeman/book/images/E-pink.png",
+        "type": "file",
+        "md5": "3b1ff79030b74164c62dc2871cad22b9"
+    },
+    {
+        "path": "/ada-zangeman/book/images/E-red1.png",
+        "type": "file",
+        "md5": "c3a8a21af0fa9f9aaefc5c870d6c2945"
+    },
+    {
+        "path": "/ada-zangeman/book/images/E-red2.png",
+        "type": "file",
+        "md5": "41316281894e21b0a58f069c98e6350c"
+    },
+    {
+        "path": "/ada-zangeman/book/images/E-red3.png",
+        "type": "file",
+        "md5": "74028622ed887097624cfe0890210bd7"
+    },
+    {
+        "path": "/ada-zangeman/book/images/E-yellow.png",
+        "type": "file",
+        "md5": "7d5389ed64717abd224081f2c353b172"
+    },
+    {
+        "path": "/ada-zangeman/book/images/Em-red2.png",
+        "type": "file",
+        "md5": "cf06ce0d11227a851a3d765c6da11404"
+    },
+    {
+        "path": "/ada-zangeman/book/images/En-cyan.png",
+        "type": "file",
+        "md5": "b36ae67e9b5476bba2454b4956c2f8f2"
+    },
+    {
+        "path": "/ada-zangeman/book/images/En-lightcyan.png",
+        "type": "file",
+        "md5": "430723d7f3f9930657073f1f1c3fcfdb"
+    },
+    {
+        "path": "/ada-zangeman/book/images/En-olive.png",
+        "type": "file",
+        "md5": "196816fa9013194ced509cfade37bca2"
+    },
+    {
+        "path": "/ada-zangeman/book/images/En-red2.png",
+        "type": "file",
+        "md5": "098bd7fb2dbece09e6eecf5bc8fa674d"
+    },
+    {
+        "path": "/ada-zangeman/book/images/F-red1.png",
+        "type": "file",
+        "md5": "c761dd3e47c61e1c964780a41897a955"
+    },
+    {
+        "path": "/ada-zangeman/book/images/F-yellow.png",
+        "type": "file",
+        "md5": "62177f98c1b6bfe4831bac1de5989a07"
+    },
+    {
+        "path": "/ada-zangeman/book/images/H-cyan.png",
+        "type": "file",
+        "md5": "a6a7896a446ef91c37990ac251001bd0"
+    },
+    {
+        "path": "/ada-zangeman/book/images/H-pink.png",
+        "type": "file",
+        "md5": "576c3ab2bcc69cb7383480da93d859d7"
+    },
+    {
+        "path": "/ada-zangeman/book/images/I-cyan.png",
+        "type": "file",
+        "md5": "73f0666b393af75433c371edeff4780b"
+    },
+    {
+        "path": "/ada-zangeman/book/images/I-cyan0.png",
+        "type": "file",
+        "md5": "f8a1345682485189aa4808eb0264a55d"
+    },
+    {
+        "path": "/ada-zangeman/book/images/I-fucsia.png",
+        "type": "file",
+        "md5": "83fff9d6fe9fe2b4c739b6d6f2d2368b"
+    },
+    {
+        "path": "/ada-zangeman/book/images/I-lightcyan.png",
+        "type": "file",
+        "md5": "e4f4ef15fe1e078404c4d855740d05b4"
+    },
+    {
+        "path": "/ada-zangeman/book/images/I-olive.png",
+        "type": "file",
+        "md5": "b76f988d4f16651908b1511de730fea2"
+    },
+    {
+        "path": "/ada-zangeman/book/images/I-red1.png",
+        "type": "file",
+        "md5": "060cc1143aa10842aca17bceebb0a86e"
+    },
+    {
+        "path": "/ada-zangeman/book/images/I-yellow.png",
+        "type": "file",
+        "md5": "61430be6990aa6b98e7e16edfbda5137"
+    },
+    {
+        "path": "/ada-zangeman/book/images/J-pink.png",
+        "type": "file",
+        "md5": "a3048226c1616eafaf6a7aeeaf3dced9"
+    },
+    {
+        "path": "/ada-zangeman/book/images/J-red2.png",
+        "type": "file",
+        "md5": "ed629b7519b0b91919b5941812142594"
+    },
+    {
+        "path": "/ada-zangeman/book/images/Ja-green.png",
+        "type": "file",
+        "md5": "54ac838e2d7145987d5bb8dc1a38f9be"
+    },
+    {
+        "path": "/ada-zangeman/book/images/L-cyan.png",
+        "type": "file",
+        "md5": "03d4286c68ec795a4ece0544439cb3c6"
+    },
+    {
+        "path": "/ada-zangeman/book/images/L-fucsia.png",
+        "type": "file",
+        "md5": "9b3c464aefabda5fef6beb32288ef4a5"
+    },
+    {
+        "path": "/ada-zangeman/book/images/L-fuscia.png",
+        "type": "file",
+        "md5": "9b3c464aefabda5fef6beb32288ef4a5"
+    },
+    {
+        "path": "/ada-zangeman/book/images/L-lightcyan.png",
+        "type": "file",
+        "md5": "c68c4a5a93e99a9ab11b7112f0aea6c6"
+    },
+    {
+        "path": "/ada-zangeman/book/images/L-olive.png",
+        "type": "file",
+        "md5": "6df292d7d064d7905d4fa9c0d69b0d34"
+    },
+    {
+        "path": "/ada-zangeman/book/images/L-red2.png",
+        "type": "file",
+        "md5": "2af7bbb68a0aa830f8672a54b298a3ce"
+    },
+    {
+        "path": "/ada-zangeman/book/images/L-yellow2.png",
+        "type": "file",
+        "md5": "f1beb7716d1b98e14affb49872185dfe"
+    },
+    {
+        "path": "/ada-zangeman/book/images/M-yellow.png",
+        "type": "file",
+        "md5": "341aee593c4ebcbe68443fa055add65e"
+    },
+    {
+        "path": "/ada-zangeman/book/images/N-cyan.png",
+        "type": "file",
+        "md5": "33210402656f9fd73abeed7b7f205d92"
+    },
+    {
+        "path": "/ada-zangeman/book/images/N-lightcyan.png",
+        "type": "file",
+        "md5": "9eecb1656f6e400bf4f11e91710c3e02"
+    },
+    {
+        "path": "/ada-zangeman/book/images/N-olive.png",
+        "type": "file",
+        "md5": "a3d97475d0a330e041c28da41a5e373e"
+    },
+    {
+        "path": "/ada-zangeman/book/images/N-red2.png",
+        "type": "file",
+        "md5": "e8adc217a20a49abb49d124046e7fca0"
+    },
+    {
+        "path": "/ada-zangeman/book/images/O-cyan.png",
+        "type": "file",
+        "md5": "534f8703bd8d6d6cbe5caf214bd479d7"
+    },
+    {
+        "path": "/ada-zangeman/book/images/O-green.png",
+        "type": "file",
+        "md5": "c1a16064fde8c986537eef84dda5d42d"
+    },
+    {
+        "path": "/ada-zangeman/book/images/O-lightcyan.png",
+        "type": "file",
+        "md5": "c67eee98b2bcbfef1f58403a260621b5"
+    },
+    {
+        "path": "/ada-zangeman/book/images/O-pink.png",
+        "type": "file",
+        "md5": "b210a55b56efe5f23b37150f45b7b709"
+    },
+    {
+        "path": "/ada-zangeman/book/images/O-yellow.png",
+        "type": "file",
+        "md5": "d6deb2b39c8a61938c6759ceb2712cb0"
+    },
+    {
+        "path": "/ada-zangeman/book/images/Pe-brown.png",
+        "type": "file",
+        "md5": "d8e3244d0fee3e982c5c980295e9a0c2"
+    },
+    {
+        "path": "/ada-zangeman/book/images/S-red1.png",
+        "type": "file",
+        "md5": "5f964ff4aee16d3c7ac9b94e7a1e5b41"
+    },
+    {
+        "path": "/ada-zangeman/book/images/S-red2.png",
+        "type": "file",
+        "md5": "e32d1dff411a4b8733cb936cda79060f"
+    },
+    {
+        "path": "/ada-zangeman/book/images/S-yellow.png",
+        "type": "file",
+        "md5": "020d2870ab90f765bfd789decc743912"
+    },
+    {
+        "path": "/ada-zangeman/book/images/Shta-pink.png",
+        "type": "file",
+        "md5": "b1995bf4e78bc456cfd06f5849a86425"
+    },
+    {
+        "path": "/ada-zangeman/book/images/Shta-red1.png",
+        "type": "file",
+        "md5": "6e4b3f8251206c98513f8c708b49a78d"
+    },
+    {
+        "path": "/ada-zangeman/book/images/T-cyan.png",
+        "type": "file",
+        "md5": "b3a85718735f672d434c9e1ee69bd849"
+    },
+    {
+        "path": "/ada-zangeman/book/images/T-olive.png",
+        "type": "file",
+        "md5": "c30f6112d859349b794c543d28febd25"
+    },
+    {
+        "path": "/ada-zangeman/book/images/T-pink.png",
+        "type": "file",
+        "md5": "e3dda41ad2ca66aca9bfbc4e165ee06c"
+    },
+    {
+        "path": "/ada-zangeman/book/images/T-red2.png",
+        "type": "file",
+        "md5": "570d07829738093b78d94e32b63b71af"
+    },
+    {
+        "path": "/ada-zangeman/book/images/Te-yellow.png",
+        "type": "file",
+        "md5": "0eb310211c09a8a002161102339dda79"
+    },
+    {
+        "path": "/ada-zangeman/book/images/U-green.png",
+        "type": "file",
+        "md5": "ca5361b18134896c5fc5f9edccaa4aca"
+    },
+    {
+        "path": "/ada-zangeman/book/images/U-yellow.png",
+        "type": "file",
+        "md5": "4e394241190b321271589630d3595505"
+    },
+    {
+        "path": "/ada-zangeman/book/images/U_cyr-fucsia.png",
+        "type": "file",
+        "md5": "969eaeefcc872d216dd7d356f7214fc2"
+    },
+    {
+        "path": "/ada-zangeman/book/images/Ve-yellow2.png",
+        "type": "file",
+        "md5": "740b79fdc28d06e0070376f1aab6f894"
+    },
+    {
+        "path": "/ada-zangeman/book/images/Z-brown.png",
+        "type": "file",
+        "md5": "f5ead4e45af16d6b0749f414b6596b11"
+    },
+    {
+        "path": "/ada-zangeman/book/images/Z-red1.png",
+        "type": "file",
+        "md5": "86e52317d327f3ccbf69a83aa979edaa"
+    },
+    {
+        "path": "/ada-zangeman/book/images/Zhe-cyan.png",
+        "type": "file",
+        "md5": "71c71703e1935d2e3a209eac72d75969"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-300.png",
+        "type": "file",
+        "md5": "20df20815636ba8571b7e4653ab03116"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-card.jpg",
+        "type": "file",
+        "md5": "878ea0d946a372971f7be69c94dbd846"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-card.psd",
+        "type": "file",
+        "md5": "624fc73c2de081bdae6e42c73214e9f4"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-livre.jpg",
+        "type": "file",
+        "md5": "454b49a68f4a9a921bbe59cf2b483b38"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-livre.psd",
+        "type": "file",
+        "md5": "cd1ba0907448e5ab06670a3348e22a7d"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p01-fr-titleonly.jpg",
+        "type": "file",
+        "md5": "ea2585704671e5b860dd3b86021b52eb"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p03-author.jpg",
+        "type": "file",
+        "md5": "8eeac0e46a0581138cfb3f6ed2950c22"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p03-dog.jpg",
+        "type": "file",
+        "md5": "a86f9ad4302c406a0a421d5752edaf6e"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p03-title-fr-alt.jpg",
+        "type": "file",
+        "md5": "c34d06b67a2fe06009fb19aa09b8ed49"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p04.jpg",
+        "type": "file",
+        "md5": "0ccdd8e8299473a4cb82f27ae62c08ff"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p05.jpg",
+        "type": "file",
+        "md5": "b5dbbb2b9b27d463640c68172247c513"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p07.jpg",
+        "type": "file",
+        "md5": "cc0c6f83a3239720dab78134132c6c6d"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p08a.jpg",
+        "type": "file",
+        "md5": "51e85da293c31e5f58af4afa10cef88f"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p08b.jpg",
+        "type": "file",
+        "md5": "5fe126890eed840f365a4bea524fe55c"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p09.jpg",
+        "type": "file",
+        "md5": "6f2a1f9886ae1aef9f20096b55c17b7f"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p10-11.jpg",
+        "type": "file",
+        "md5": "2143e20d9bd05e618b8356566dec85fb"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p10.jpg",
+        "type": "file",
+        "md5": "d54ad824c23ec59523543ffd7988fe7b"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p11.jpg",
+        "type": "file",
+        "md5": "d94cd860a8f8cfb5fca6ca72ca0951ac"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p11.psd",
+        "type": "file",
+        "md5": "00f908ce630614877c394f80951dfd78"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p12.jpg",
+        "type": "file",
+        "md5": "fa0dc9aaa85bd20e00f38f321e59e213"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p13.jpg",
+        "type": "file",
+        "md5": "f5bb007a2fd833abad16785a479a8c15"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p14.jpg",
+        "type": "file",
+        "md5": "28eccfe5c52e60078db6600468cac891"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p15.jpg",
+        "type": "file",
+        "md5": "753149bd60f027991d0707f62d0eb5ed"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p16.jpg",
+        "type": "file",
+        "md5": "5d17b172ecd90c50cf0d2da675cd289f"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p18.jpg",
+        "type": "file",
+        "md5": "6279fd07d21e34f31820a3c7e5c9c837"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p19.jpg",
+        "type": "file",
+        "md5": "539c20e7bb9d6ccea6da9925ccb6f567"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p21.jpg",
+        "type": "file",
+        "md5": "0c6c56b160fce53d1d79986101a5caf6"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p23.jpg",
+        "type": "file",
+        "md5": "d6005de2c2668aae9791c27dad18b46b"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p24.jpg",
+        "type": "file",
+        "md5": "943f2f2375e72f72fb84c6a2441e7165"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p27.jpg",
+        "type": "file",
+        "md5": "f001879360d935cb40cca62e42166886"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p28.jpg",
+        "type": "file",
+        "md5": "08eb94c795578ce308d573a04cad0986"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p29.jpg",
+        "type": "file",
+        "md5": "66b66cd19b6ec4a080b821495755dd01"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p30.jpg",
+        "type": "file",
+        "md5": "b48d5ce233ab55b40a91a16b8e65f3c0"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p32.jpg",
+        "type": "file",
+        "md5": "fb4c39f3b223ea0377c9f74b95659f0b"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p34.jpg",
+        "type": "file",
+        "md5": "191313527a4e7a0b50aa210c55b6963a"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p37.jpg",
+        "type": "file",
+        "md5": "7783e6261f49e9c4d3d346abb92e61eb"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p38.jpg",
+        "type": "file",
+        "md5": "eb131c09e363ba4019cebdc1b945e85a"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p40-fr.jpg",
+        "type": "file",
+        "md5": "ef23e0d83afca15d99690d79b0c4738d"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p42.jpg",
+        "type": "file",
+        "md5": "ec0971f26d1f527bd8bb635b5d66a296"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p44.jpg",
+        "type": "file",
+        "md5": "0c35ac188a25e251b04e350b7e22263c"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p46.jpg",
+        "type": "file",
+        "md5": "16771d663d25017dfa970c69ec7b63f6"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p48.jpg",
+        "type": "file",
+        "md5": "0757a0c5e627f09bcaff5ba0b1cba520"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p50-title-fr.jpg",
+        "type": "file",
+        "md5": "73e7a637019576dacb5cf14a1462f388"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p51.jpg",
+        "type": "file",
+        "md5": "c848955581679bd7f64a6906897f9138"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p52-title-alt-fr.jpg",
+        "type": "file",
+        "md5": "1fbb4c07ffa80ae6fd35093432096cbd"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p52.jpg",
+        "type": "file",
+        "md5": "bb54326097880920f11700caee8843cb"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p53-reversed.jpg",
+        "type": "file",
+        "md5": "2e5cee1cefdca1ee0c9457194a0f7bbf"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada-p53-title-alt-fr.jpg",
+        "type": "file",
+        "md5": "abe804ab5e354114b9242a3bc1ecca25"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada.png",
+        "type": "file",
+        "md5": "6a95976e4bd9d77c73c0f0f47026d4b5"
+    },
+    {
+        "path": "/ada-zangeman/book/images/ada_composite_medias.jpg",
+        "type": "file",
+        "md5": "031dbe2ea3d35a66b3adf06ad3431b50"
+    },
+    {
+        "path": "/ada-zangeman/book/images/couverture_ada_L800.jpg",
+        "type": "file",
+        "md5": "25e28bf60299b90fb93fefcc570ca0d6"
+    },
+    {
+        "path": "/ada-zangeman/book/images/cover.jpg",
+        "type": "file",
+        "md5": "519f83795fffe30986531d9395cb27af"
+    },
+    {
+        "path": "/ada-zangeman/book/images/cover.png",
+        "type": "file",
+        "md5": "ffbf81a453abf15697ad8496e2030aa1"
+    },
+    {
+        "path": "/ada-zangeman/book/images/cover_de.jpg",
+        "type": "file",
+        "md5": "60860bca1c6195f105b749d814bbf30e"
+    },
+    {
+        "path": "/ada-zangeman/book/images/logo-fsfe.png",
+        "type": "file",
+        "md5": "02cc698e6a6e27dc20a96cce755da29e"
+    },
+    {
+        "path": "/ada-zangeman/book/images/logo_cfeditions.png",
+        "type": "file",
+        "md5": "bfa4f808bdf87dfadcf5334bd60dff70"
+    },
+    {
+        "path": "/ada-zangeman/book/index.html",
+        "type": "file",
+        "md5": "95fff9a7471976998b775aa1447bf5f4"
+    },
+    {
+        "path": "/ada-zangeman/book/introduction.html",
+        "type": "file",
+        "md5": "cd043882a2e01bf19ddcfc0506a7d9fc"
+    },
+    {
+        "path": "ada-zangeman/book/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ada-zangeman/book/js/ragadjust.js",
+        "type": "file",
+        "md5": "5fe533ac3b8faf6449fc3aac60cc98c5"
+    },
+    {
+        "path": "/ada-zangeman/book/js/reload-in-place.js",
+        "type": "file",
+        "md5": "fd52840d354446d98d9aa708cd02a7fe"
+    },
+    {
+        "path": "/ada-zangeman/book/js/scripts.js",
+        "type": "file",
+        "md5": "459bcb6120090f12718c694495418aa8"
+    },
+    {
+        "path": "/ada-zangeman/book/license.html",
+        "type": "file",
+        "md5": "739031a6532370befd4cf88094631d66"
+    },
+    {
+        "path": "/ada-zangeman/book/menu.frg.html",
+        "type": "file",
+        "md5": "761bfecd14f33f024735a11bc7b7c6af"
+    },
+    {
+        "path": "/ada-zangeman/book/slideshow.html",
+        "type": "file",
+        "md5": "94f5ba02948e7966703d30ef5d388184"
+    },
+    {
+        "path": "ada-zangeman/book/textes",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ada-zangeman/book/textes/Ada_Zangemann-ar.txt",
+        "type": "file",
+        "md5": "89b5b2ffcee88968368e0c20a1a392cb"
+    },
+    {
+        "path": "/ada-zangeman/book/textes/Ada_Zangemann-ca_valencia.txt",
+        "type": "file",
+        "md5": "f929438aa657675fe7eb725b0659db8c"
+    },
+    {
+        "path": "/ada-zangeman/book/textes/Ada_Zangemann-da.txt",
+        "type": "file",
+        "md5": "61d87152757cdc7b1a6ab88de522d1b8"
+    },
+    {
+        "path": "/ada-zangeman/book/textes/Ada_Zangemann-de.txt",
+        "type": "file",
+        "md5": "0fc899d1668bebcaa204064e89f4c928"
+    },
+    {
+        "path": "/ada-zangeman/book/textes/Ada_Zangemann-en.txt",
+        "type": "file",
+        "md5": "182759b8c466273e9430e160c656b2bc"
+    },
+    {
+        "path": "/ada-zangeman/book/textes/Ada_Zangemann-es.txt",
+        "type": "file",
+        "md5": "dd07397783c45e8724f9feba00ab9647"
+    },
+    {
+        "path": "/ada-zangeman/book/textes/Ada_Zangemann-it.txt",
+        "type": "file",
+        "md5": "d8ebda0eb9619ac58550cfd7e8da158c"
+    },
+    {
+        "path": "/ada-zangeman/book/textes/Ada_Zangemann-pt_PT.txt",
+        "type": "file",
+        "md5": "d09b53450cb60f58b2bdbb750b0ffd6f"
+    },
+    {
+        "path": "/ada-zangeman/book/textes/Ada_Zangemann-ukr.txt",
+        "type": "file",
+        "md5": "9753b80322840e2bf780407caecb24b8"
+    },
+    {
+        "path": "/ada-zangeman/book/translation.html",
+        "type": "file",
+        "md5": "cdef8d356cc5bfb100dcbae227eecbe8"
+    },
+    {
         "path": "ada-zangeman/css",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/ada-zangeman/css/ada.css",
+        "path": "/ada-zangeman/css/bootstrap.min.css",
         "type": "file",
-        "md5": "febf21453c63e75d34cc76903dd8f6ff"
+        "md5": "ec3bb52a00e176a7181d454dffaea219"
     },
     {
-        "path": "/ada-zangeman/css/catalogue.css",
+        "path": "/ada-zangeman/css/font-awesome.min.css",
         "type": "file",
-        "md5": "77c4cb1babe2bd7634b32eb4ad51b68b"
+        "md5": "269550530cc127b6aa5a35925a7de6ce"
     },
     {
-        "path": "/ada-zangeman/css/fonts.css",
+        "path": "/ada-zangeman/css/main.css",
         "type": "file",
-        "md5": "6c9ac45b47591e027aa869aee64ca6c0"
-    },
-    {
-        "path": "/ada-zangeman/css/navigation.css",
-        "type": "file",
-        "md5": "d247ae42f3143ca7e296a174f1f71db5"
-    },
-    {
-        "path": "/ada-zangeman/css/reset.css",
-        "type": "file",
-        "md5": "bee5f309cd4477931a2c1e2f3dabe443"
-    },
-    {
-        "path": "/ada-zangeman/css/responsive.css",
-        "type": "file",
-        "md5": "fd23a703480d61b610568cf4274a345e"
-    },
-    {
-        "path": "/ada-zangeman/css/supplement.css",
-        "type": "file",
-        "md5": "c95b04be3ab476659fe04bd43b0ad20d"
-    },
-    {
-        "path": "/ada-zangeman/css/tweaks.css",
-        "type": "file",
-        "md5": "a615c13e93892ae99a64b00902390de6"
-    },
-    {
-        "path": "/ada-zangeman/css/vars.css",
-        "type": "file",
-        "md5": "f523131fe0f507d1d6e88c1671fec972"
+        "md5": "05e90bb01cfdaa967637e7558d999cd2"
     },
     {
         "path": "/ada-zangeman/favicon.png",
@@ -160,9 +1050,44 @@
         "md5": "caacadc6600d380b135610217ce99da1"
     },
     {
+        "path": "ada-zangeman/film",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ada-zangeman/film/film-de.html",
+        "type": "file",
+        "md5": "8de69e4726c4354d7675929ec2cbf09b"
+    },
+    {
+        "path": "/ada-zangeman/film/film-en.html",
+        "type": "file",
+        "md5": "026def553b40bc55b3bb0f222ce254f2"
+    },
+    {
+        "path": "/ada-zangeman/film/index.html",
+        "type": "file",
+        "md5": "759191ed0fc944999c0bd98c73d5779d"
+    },
+    {
         "path": "ada-zangeman/fonts",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "/ada-zangeman/fonts/Luciole-Regular.eot",
+        "type": "file",
+        "md5": "6d38531a75a7e25dbe54563801600e3c"
+    },
+    {
+        "path": "/ada-zangeman/fonts/Luciole-Regular.woff",
+        "type": "file",
+        "md5": "44e92fc206c9c8533dbd1483c7747035"
+    },
+    {
+        "path": "/ada-zangeman/fonts/Luciole-Regular.woff2",
+        "type": "file",
+        "md5": "7847fef93e7c68371cdae3fdd7db3907"
     },
     {
         "path": "/ada-zangeman/fonts/Vazirmatn-Medium.woff2",
@@ -170,734 +1095,194 @@
         "md5": "1fe8d65de1e6bd564ffc03b7d09fd9ec"
     },
     {
-        "path": "ada-zangeman/images",
+        "path": "/ada-zangeman/fonts/font-awesome.min.css",
+        "type": "file",
+        "md5": "269550530cc127b6aa5a35925a7de6ce"
+    },
+    {
+        "path": "/ada-zangeman/fonts/fontawesome-webfont.eot",
+        "type": "file",
+        "md5": "dff053cc391966403910eb7ae8a37ad7"
+    },
+    {
+        "path": "/ada-zangeman/fonts/fontawesome-webfont.woff",
+        "type": "file",
+        "md5": "f60831cbd476869dd2444ea52b6df6f6"
+    },
+    {
+        "path": "/ada-zangeman/fonts/fontawesome-webfont.woff2",
+        "type": "file",
+        "md5": "26d4dd3e96b1386aa9d5aa68eb487da9"
+    },
+    {
+        "path": "ada-zangeman/img",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/ada-zangeman/images/A-cyan.png",
+        "path": "/ada-zangeman/img/Matthias_Kirschner.jpg",
         "type": "file",
-        "md5": "575a1dbfeca7c5700b5d488ca29a8cdb"
+        "md5": "2717e8491ca76b26d4dfd04f1bd5106d"
     },
     {
-        "path": "/ada-zangeman/images/A-fucsia.png",
+        "path": "/ada-zangeman/img/Sandra_Brandstatter.jpg",
         "type": "file",
-        "md5": "611e61d9d1af22e9fa8d60821d8f52e3"
+        "md5": "2af8972a1e0249be17b3f8fe719ad729"
     },
     {
-        "path": "/ada-zangeman/images/A-olive.png",
+        "path": "/ada-zangeman/img/ada-square.png",
         "type": "file",
-        "md5": "fa8c18a5a0a5995565a5753f4cc94c3b"
+        "md5": "db4a96bf53ef766243031f2fbdd1ebd2"
     },
     {
-        "path": "/ada-zangeman/images/A-red2.png",
+        "path": "/ada-zangeman/img/ada_aca-tuto5.jpg",
         "type": "file",
-        "md5": "f56e5ffa93d218ff38f89d6833c7ef2a"
+        "md5": "bdaf3932540caf60cbdc16e4deb3b655"
     },
     {
-        "path": "/ada-zangeman/images/A-violet.png",
+        "path": "/ada-zangeman/img/ada_activites_primtux.jpg",
         "type": "file",
-        "md5": "fbea4f6e63449e5c8aff54b2f438d5f6"
+        "md5": "6ac73b2ff320bed1689d811ed28b2235"
     },
     {
-        "path": "/ada-zangeman/images/A-yellow.png",
+        "path": "/ada-zangeman/img/ada_autobd_screen.jpg",
         "type": "file",
-        "md5": "59a2e879e67212227ee097f8b5444e66"
+        "md5": "5f315c02102ccc095513755fab27bacc"
     },
     {
-        "path": "/ada-zangeman/images/A_cyr-violet.png",
+        "path": "/ada-zangeman/img/ada_couverture_livre_rectangle.jpg",
         "type": "file",
-        "md5": "147883936349fc9388afb4e49fe8efff"
+        "md5": "25d40e074df207745ba7630a8e636060"
     },
     {
-        "path": "/ada-zangeman/images/A_cyr-yellow.png",
+        "path": "/ada-zangeman/img/ada_denkodama_kamishibai.jpg",
         "type": "file",
-        "md5": "4fca3c562e2776c624823c5978276396"
+        "md5": "28f548e2578b6ba6190ecfe914091c80"
     },
     {
-        "path": "/ada-zangeman/images/C-cyan.png",
+        "path": "/ada-zangeman/img/ada_header-p09.jpg",
         "type": "file",
-        "md5": "a2bba21d0d9f78493479934ea2f5cfce"
+        "md5": "c8c7c7481088f2f8a4849b96830fd7a0"
     },
     {
-        "path": "/ada-zangeman/images/C-pink.png",
+        "path": "/ada-zangeman/img/ada_header-p10-11.jpg",
         "type": "file",
-        "md5": "537d5f2f6f75ca5086c6a8fd3f62273f"
+        "md5": "f84ab66ed9621bae0f828849979dddda"
     },
     {
-        "path": "/ada-zangeman/images/C-red1.png",
+        "path": "/ada-zangeman/img/ada_header-p16-17.jpg",
         "type": "file",
-        "md5": "568fc7d8ec56422febeb5a6b928c8dfa"
+        "md5": "7de8cba2fb3894129a4ef6982cd16565"
     },
     {
-        "path": "/ada-zangeman/images/C-yellow.png",
+        "path": "/ada-zangeman/img/ada_header-p23.jpg",
         "type": "file",
-        "md5": "5cbf5d3cf811602699c105a881fc969e"
+        "md5": "72fc3ea1a43f21e958d78404c21ccbe2"
     },
     {
-        "path": "/ada-zangeman/images/D-cyan.png",
+        "path": "/ada-zangeman/img/ada_header-p32-33.jpg",
         "type": "file",
-        "md5": "9fb118e38a3e5af9838f0434b45dc408"
+        "md5": "2dafd9f74bec2c1074db7dcfceb5dd31"
     },
     {
-        "path": "/ada-zangeman/images/D-lightcyan.png",
+        "path": "/ada-zangeman/img/ada_header-p40-41.jpg",
         "type": "file",
-        "md5": "1008212c03119f8eddb7da8d2cccd4cd"
+        "md5": "1ecc489e6942043277822344c5aa095e"
     },
     {
-        "path": "/ada-zangeman/images/D-red1.png",
+        "path": "/ada-zangeman/img/ada_header-p46-47.jpg",
         "type": "file",
-        "md5": "aa6a8ae0040cfdd724df15f2cace1029"
+        "md5": "53094050da83e118dcc447bd5247879d"
     },
     {
-        "path": "/ada-zangeman/images/D-red2.png",
+        "path": "/ada-zangeman/img/ada_header_home.jpg",
         "type": "file",
-        "md5": "c980893c8f1a6d13d8fe41fffea2714e"
+        "md5": "a348f5a924270dd84a96853c96345260"
     },
     {
-        "path": "/ada-zangeman/images/D-yellow2.png",
+        "path": "/ada-zangeman/img/ada_livre_fr-en-p01.jpg",
         "type": "file",
-        "md5": "fbaea7eeeb9138a2fd22e1d3c64fe140"
+        "md5": "7f3a47d108055a5d099361a86b6c8deb"
     },
     {
-        "path": "/ada-zangeman/images/E-cyan.png",
+        "path": "/ada-zangeman/img/ada_livre_fr-p01.jpg",
         "type": "file",
-        "md5": "ba38367c22fc23b92e404cecf14cd7e3"
+        "md5": "169b7e035ac2c7ce24c2fc3fe1c93fd1"
     },
     {
-        "path": "/ada-zangeman/images/E-green.png",
+        "path": "/ada-zangeman/img/ada_plateau_jeu.jpg",
         "type": "file",
-        "md5": "06cde71762f87a03f358063d5c196a42"
+        "md5": "d8eadb2272f3692d3383338245eb4e95"
     },
     {
-        "path": "/ada-zangeman/images/E-pink.png",
+        "path": "/ada-zangeman/img/ada_projection_strasbourg.jpg",
         "type": "file",
-        "md5": "3b1ff79030b74164c62dc2871cad22b9"
+        "md5": "b8f3c48b75464ce55646196b6faacb0e"
     },
     {
-        "path": "/ada-zangeman/images/E-red1.png",
-        "type": "file",
-        "md5": "c3a8a21af0fa9f9aaefc5c870d6c2945"
-    },
-    {
-        "path": "/ada-zangeman/images/E-red2.png",
-        "type": "file",
-        "md5": "41316281894e21b0a58f069c98e6350c"
-    },
-    {
-        "path": "/ada-zangeman/images/E-red3.png",
-        "type": "file",
-        "md5": "74028622ed887097624cfe0890210bd7"
-    },
-    {
-        "path": "/ada-zangeman/images/E-yellow.png",
-        "type": "file",
-        "md5": "7d5389ed64717abd224081f2c353b172"
-    },
-    {
-        "path": "/ada-zangeman/images/Em-red2.png",
-        "type": "file",
-        "md5": "cf06ce0d11227a851a3d765c6da11404"
-    },
-    {
-        "path": "/ada-zangeman/images/En-cyan.png",
-        "type": "file",
-        "md5": "b36ae67e9b5476bba2454b4956c2f8f2"
-    },
-    {
-        "path": "/ada-zangeman/images/En-lightcyan.png",
-        "type": "file",
-        "md5": "430723d7f3f9930657073f1f1c3fcfdb"
-    },
-    {
-        "path": "/ada-zangeman/images/En-olive.png",
-        "type": "file",
-        "md5": "196816fa9013194ced509cfade37bca2"
-    },
-    {
-        "path": "/ada-zangeman/images/En-red2.png",
-        "type": "file",
-        "md5": "098bd7fb2dbece09e6eecf5bc8fa674d"
-    },
-    {
-        "path": "/ada-zangeman/images/F-red1.png",
-        "type": "file",
-        "md5": "c761dd3e47c61e1c964780a41897a955"
-    },
-    {
-        "path": "/ada-zangeman/images/F-yellow.png",
-        "type": "file",
-        "md5": "62177f98c1b6bfe4831bac1de5989a07"
-    },
-    {
-        "path": "/ada-zangeman/images/H-cyan.png",
-        "type": "file",
-        "md5": "a6a7896a446ef91c37990ac251001bd0"
-    },
-    {
-        "path": "/ada-zangeman/images/H-pink.png",
-        "type": "file",
-        "md5": "576c3ab2bcc69cb7383480da93d859d7"
-    },
-    {
-        "path": "/ada-zangeman/images/I-cyan.png",
-        "type": "file",
-        "md5": "73f0666b393af75433c371edeff4780b"
-    },
-    {
-        "path": "/ada-zangeman/images/I-cyan0.png",
-        "type": "file",
-        "md5": "f8a1345682485189aa4808eb0264a55d"
-    },
-    {
-        "path": "/ada-zangeman/images/I-fucsia.png",
-        "type": "file",
-        "md5": "83fff9d6fe9fe2b4c739b6d6f2d2368b"
-    },
-    {
-        "path": "/ada-zangeman/images/I-lightcyan.png",
-        "type": "file",
-        "md5": "e4f4ef15fe1e078404c4d855740d05b4"
-    },
-    {
-        "path": "/ada-zangeman/images/I-olive.png",
-        "type": "file",
-        "md5": "b76f988d4f16651908b1511de730fea2"
-    },
-    {
-        "path": "/ada-zangeman/images/I-red1.png",
-        "type": "file",
-        "md5": "060cc1143aa10842aca17bceebb0a86e"
-    },
-    {
-        "path": "/ada-zangeman/images/I-yellow.png",
-        "type": "file",
-        "md5": "61430be6990aa6b98e7e16edfbda5137"
-    },
-    {
-        "path": "/ada-zangeman/images/J-pink.png",
-        "type": "file",
-        "md5": "a3048226c1616eafaf6a7aeeaf3dced9"
-    },
-    {
-        "path": "/ada-zangeman/images/J-red2.png",
-        "type": "file",
-        "md5": "ed629b7519b0b91919b5941812142594"
-    },
-    {
-        "path": "/ada-zangeman/images/Ja-green.png",
-        "type": "file",
-        "md5": "54ac838e2d7145987d5bb8dc1a38f9be"
-    },
-    {
-        "path": "/ada-zangeman/images/L-cyan.png",
-        "type": "file",
-        "md5": "03d4286c68ec795a4ece0544439cb3c6"
-    },
-    {
-        "path": "/ada-zangeman/images/L-fucsia.png",
-        "type": "file",
-        "md5": "9b3c464aefabda5fef6beb32288ef4a5"
-    },
-    {
-        "path": "/ada-zangeman/images/L-fuscia.png",
-        "type": "file",
-        "md5": "9b3c464aefabda5fef6beb32288ef4a5"
-    },
-    {
-        "path": "/ada-zangeman/images/L-lightcyan.png",
-        "type": "file",
-        "md5": "c68c4a5a93e99a9ab11b7112f0aea6c6"
-    },
-    {
-        "path": "/ada-zangeman/images/L-olive.png",
-        "type": "file",
-        "md5": "6df292d7d064d7905d4fa9c0d69b0d34"
-    },
-    {
-        "path": "/ada-zangeman/images/L-red2.png",
-        "type": "file",
-        "md5": "2af7bbb68a0aa830f8672a54b298a3ce"
-    },
-    {
-        "path": "/ada-zangeman/images/L-yellow2.png",
-        "type": "file",
-        "md5": "f1beb7716d1b98e14affb49872185dfe"
-    },
-    {
-        "path": "/ada-zangeman/images/M-yellow.png",
-        "type": "file",
-        "md5": "341aee593c4ebcbe68443fa055add65e"
-    },
-    {
-        "path": "/ada-zangeman/images/N-cyan.png",
-        "type": "file",
-        "md5": "33210402656f9fd73abeed7b7f205d92"
-    },
-    {
-        "path": "/ada-zangeman/images/N-lightcyan.png",
-        "type": "file",
-        "md5": "9eecb1656f6e400bf4f11e91710c3e02"
-    },
-    {
-        "path": "/ada-zangeman/images/N-olive.png",
-        "type": "file",
-        "md5": "a3d97475d0a330e041c28da41a5e373e"
-    },
-    {
-        "path": "/ada-zangeman/images/N-red2.png",
-        "type": "file",
-        "md5": "e8adc217a20a49abb49d124046e7fca0"
-    },
-    {
-        "path": "/ada-zangeman/images/O-cyan.png",
-        "type": "file",
-        "md5": "534f8703bd8d6d6cbe5caf214bd479d7"
-    },
-    {
-        "path": "/ada-zangeman/images/O-green.png",
-        "type": "file",
-        "md5": "c1a16064fde8c986537eef84dda5d42d"
-    },
-    {
-        "path": "/ada-zangeman/images/O-lightcyan.png",
-        "type": "file",
-        "md5": "c67eee98b2bcbfef1f58403a260621b5"
-    },
-    {
-        "path": "/ada-zangeman/images/O-pink.png",
-        "type": "file",
-        "md5": "b210a55b56efe5f23b37150f45b7b709"
-    },
-    {
-        "path": "/ada-zangeman/images/O-yellow.png",
-        "type": "file",
-        "md5": "d6deb2b39c8a61938c6759ceb2712cb0"
-    },
-    {
-        "path": "/ada-zangeman/images/Pe-brown.png",
-        "type": "file",
-        "md5": "d8e3244d0fee3e982c5c980295e9a0c2"
-    },
-    {
-        "path": "/ada-zangeman/images/S-red1.png",
-        "type": "file",
-        "md5": "5f964ff4aee16d3c7ac9b94e7a1e5b41"
-    },
-    {
-        "path": "/ada-zangeman/images/S-red2.png",
-        "type": "file",
-        "md5": "e32d1dff411a4b8733cb936cda79060f"
-    },
-    {
-        "path": "/ada-zangeman/images/S-yellow.png",
-        "type": "file",
-        "md5": "020d2870ab90f765bfd789decc743912"
-    },
-    {
-        "path": "/ada-zangeman/images/Shta-pink.png",
-        "type": "file",
-        "md5": "b1995bf4e78bc456cfd06f5849a86425"
-    },
-    {
-        "path": "/ada-zangeman/images/Shta-red1.png",
-        "type": "file",
-        "md5": "6e4b3f8251206c98513f8c708b49a78d"
-    },
-    {
-        "path": "/ada-zangeman/images/T-cyan.png",
-        "type": "file",
-        "md5": "b3a85718735f672d434c9e1ee69bd849"
-    },
-    {
-        "path": "/ada-zangeman/images/T-olive.png",
-        "type": "file",
-        "md5": "c30f6112d859349b794c543d28febd25"
-    },
-    {
-        "path": "/ada-zangeman/images/T-pink.png",
-        "type": "file",
-        "md5": "e3dda41ad2ca66aca9bfbc4e165ee06c"
-    },
-    {
-        "path": "/ada-zangeman/images/T-red2.png",
-        "type": "file",
-        "md5": "570d07829738093b78d94e32b63b71af"
-    },
-    {
-        "path": "/ada-zangeman/images/Te-yellow.png",
-        "type": "file",
-        "md5": "0eb310211c09a8a002161102339dda79"
-    },
-    {
-        "path": "/ada-zangeman/images/U-green.png",
-        "type": "file",
-        "md5": "ca5361b18134896c5fc5f9edccaa4aca"
-    },
-    {
-        "path": "/ada-zangeman/images/U-yellow.png",
-        "type": "file",
-        "md5": "4e394241190b321271589630d3595505"
-    },
-    {
-        "path": "/ada-zangeman/images/U_cyr-fucsia.png",
-        "type": "file",
-        "md5": "969eaeefcc872d216dd7d356f7214fc2"
-    },
-    {
-        "path": "/ada-zangeman/images/Ve-yellow2.png",
-        "type": "file",
-        "md5": "740b79fdc28d06e0070376f1aab6f894"
-    },
-    {
-        "path": "/ada-zangeman/images/Z-brown.png",
-        "type": "file",
-        "md5": "f5ead4e45af16d6b0749f414b6596b11"
-    },
-    {
-        "path": "/ada-zangeman/images/Z-red1.png",
-        "type": "file",
-        "md5": "86e52317d327f3ccbf69a83aa979edaa"
-    },
-    {
-        "path": "/ada-zangeman/images/Zhe-cyan.png",
-        "type": "file",
-        "md5": "71c71703e1935d2e3a209eac72d75969"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-300.png",
-        "type": "file",
-        "md5": "20df20815636ba8571b7e4653ab03116"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-card.jpg",
-        "type": "file",
-        "md5": "878ea0d946a372971f7be69c94dbd846"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-card.psd",
-        "type": "file",
-        "md5": "624fc73c2de081bdae6e42c73214e9f4"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-livre.jpg",
-        "type": "file",
-        "md5": "454b49a68f4a9a921bbe59cf2b483b38"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-livre.psd",
-        "type": "file",
-        "md5": "cd1ba0907448e5ab06670a3348e22a7d"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p01-fr-titleonly.jpg",
-        "type": "file",
-        "md5": "ea2585704671e5b860dd3b86021b52eb"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p03-author.jpg",
-        "type": "file",
-        "md5": "8eeac0e46a0581138cfb3f6ed2950c22"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p03-dog.jpg",
-        "type": "file",
-        "md5": "a86f9ad4302c406a0a421d5752edaf6e"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p03-title-fr-alt.jpg",
-        "type": "file",
-        "md5": "c34d06b67a2fe06009fb19aa09b8ed49"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p04.jpg",
-        "type": "file",
-        "md5": "0ccdd8e8299473a4cb82f27ae62c08ff"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p05.jpg",
-        "type": "file",
-        "md5": "b5dbbb2b9b27d463640c68172247c513"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p07.jpg",
-        "type": "file",
-        "md5": "cc0c6f83a3239720dab78134132c6c6d"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p08a.jpg",
-        "type": "file",
-        "md5": "51e85da293c31e5f58af4afa10cef88f"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p08b.jpg",
-        "type": "file",
-        "md5": "5fe126890eed840f365a4bea524fe55c"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p09.jpg",
-        "type": "file",
-        "md5": "6f2a1f9886ae1aef9f20096b55c17b7f"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p10-11.jpg",
-        "type": "file",
-        "md5": "2143e20d9bd05e618b8356566dec85fb"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p10.jpg",
-        "type": "file",
-        "md5": "d54ad824c23ec59523543ffd7988fe7b"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p11.jpg",
-        "type": "file",
-        "md5": "d94cd860a8f8cfb5fca6ca72ca0951ac"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p11.psd",
-        "type": "file",
-        "md5": "00f908ce630614877c394f80951dfd78"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p12.jpg",
-        "type": "file",
-        "md5": "fa0dc9aaa85bd20e00f38f321e59e213"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p13.jpg",
-        "type": "file",
-        "md5": "f5bb007a2fd833abad16785a479a8c15"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p14.jpg",
-        "type": "file",
-        "md5": "28eccfe5c52e60078db6600468cac891"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p15.jpg",
-        "type": "file",
-        "md5": "753149bd60f027991d0707f62d0eb5ed"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p16.jpg",
-        "type": "file",
-        "md5": "5d17b172ecd90c50cf0d2da675cd289f"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p18.jpg",
-        "type": "file",
-        "md5": "6279fd07d21e34f31820a3c7e5c9c837"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p19.jpg",
-        "type": "file",
-        "md5": "539c20e7bb9d6ccea6da9925ccb6f567"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p21.jpg",
-        "type": "file",
-        "md5": "0c6c56b160fce53d1d79986101a5caf6"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p23.jpg",
-        "type": "file",
-        "md5": "d6005de2c2668aae9791c27dad18b46b"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p24.jpg",
-        "type": "file",
-        "md5": "943f2f2375e72f72fb84c6a2441e7165"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p27.jpg",
-        "type": "file",
-        "md5": "f001879360d935cb40cca62e42166886"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p28.jpg",
-        "type": "file",
-        "md5": "08eb94c795578ce308d573a04cad0986"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p29.jpg",
-        "type": "file",
-        "md5": "66b66cd19b6ec4a080b821495755dd01"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p30.jpg",
-        "type": "file",
-        "md5": "b48d5ce233ab55b40a91a16b8e65f3c0"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p32.jpg",
-        "type": "file",
-        "md5": "fb4c39f3b223ea0377c9f74b95659f0b"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p34.jpg",
-        "type": "file",
-        "md5": "191313527a4e7a0b50aa210c55b6963a"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p37.jpg",
-        "type": "file",
-        "md5": "7783e6261f49e9c4d3d346abb92e61eb"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p38.jpg",
-        "type": "file",
-        "md5": "eb131c09e363ba4019cebdc1b945e85a"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p40-fr.jpg",
-        "type": "file",
-        "md5": "ef23e0d83afca15d99690d79b0c4738d"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p42.jpg",
-        "type": "file",
-        "md5": "ec0971f26d1f527bd8bb635b5d66a296"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p44.jpg",
-        "type": "file",
-        "md5": "0c35ac188a25e251b04e350b7e22263c"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p46.jpg",
-        "type": "file",
-        "md5": "16771d663d25017dfa970c69ec7b63f6"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p48.jpg",
-        "type": "file",
-        "md5": "0757a0c5e627f09bcaff5ba0b1cba520"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p50-title-fr.jpg",
-        "type": "file",
-        "md5": "73e7a637019576dacb5cf14a1462f388"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p51.jpg",
-        "type": "file",
-        "md5": "c848955581679bd7f64a6906897f9138"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p52-title-alt-fr.jpg",
-        "type": "file",
-        "md5": "1fbb4c07ffa80ae6fd35093432096cbd"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p52.jpg",
-        "type": "file",
-        "md5": "bb54326097880920f11700caee8843cb"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p53-reversed.jpg",
-        "type": "file",
-        "md5": "2e5cee1cefdca1ee0c9457194a0f7bbf"
-    },
-    {
-        "path": "/ada-zangeman/images/ada-p53-title-alt-fr.jpg",
-        "type": "file",
-        "md5": "abe804ab5e354114b9242a3bc1ecca25"
-    },
-    {
-        "path": "/ada-zangeman/images/ada.png",
-        "type": "file",
-        "md5": "6a95976e4bd9d77c73c0f0f47026d4b5"
-    },
-    {
-        "path": "/ada-zangeman/images/ada_composite_medias.jpg",
-        "type": "file",
-        "md5": "031dbe2ea3d35a66b3adf06ad3431b50"
-    },
-    {
-        "path": "/ada-zangeman/images/couverture_ada_L800.jpg",
+        "path": "/ada-zangeman/img/couv_ada_grand.jpg",
         "type": "file",
         "md5": "25e28bf60299b90fb93fefcc570ca0d6"
     },
     {
-        "path": "/ada-zangeman/images/cover.jpg",
+        "path": "/ada-zangeman/img/plxthumbnailer.jpg",
         "type": "file",
-        "md5": "519f83795fffe30986531d9395cb27af"
+        "md5": "2fcd4a5b260fd75f958b79543c75d886"
     },
     {
-        "path": "/ada-zangeman/images/cover_de.jpg",
+        "path": "/ada-zangeman/index.html",
         "type": "file",
-        "md5": "60860bca1c6195f105b749d814bbf30e"
+        "md5": "15c21a24faf8d8d0cdd0979101730fd0"
     },
     {
-        "path": "/ada-zangeman/images/cover_en.png",
+        "path": "/ada-zangeman/order.html",
         "type": "file",
-        "md5": "ffbf81a453abf15697ad8496e2030aa1"
-    },
-    {
-        "path": "/ada-zangeman/images/logo-fsfe.png",
-        "type": "file",
-        "md5": "02cc698e6a6e27dc20a96cce755da29e"
-    },
-    {
-        "path": "/ada-zangeman/images/logo_cfeditions.png",
-        "type": "file",
-        "md5": "bfa4f808bdf87dfadcf5334bd60dff70"
-    },
-    {
-        "path": "ada-zangeman/js",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/ada-zangeman/js/ragadjust.js",
-        "type": "file",
-        "md5": "5fe533ac3b8faf6449fc3aac60cc98c5"
-    },
-    {
-        "path": "/ada-zangeman/js/reload-in-place.js",
-        "type": "file",
-        "md5": "fd52840d354446d98d9aa708cd02a7fe"
-    },
-    {
-        "path": "/ada-zangeman/js/scripts.js",
-        "type": "file",
-        "md5": "63b49717af4eabfd4d9be44f8e2aae3c"
-    },
-    {
-        "path": "/ada-zangeman/js/scripts_old.js",
-        "type": "file",
-        "md5": "1dca752af20fa1cc00ed0dcbe49d3b34"
-    },
-    {
-        "path": "/ada-zangeman/js/scripts_old_2.js",
-        "type": "file",
-        "md5": "c331d06eaf8c47cd1c72e54415db0855"
+        "md5": "7416a6d03108b882af058b6ad19d182a"
     },
     {
         "path": "/ada-zangeman/presentation.html",
         "type": "file",
-        "md5": "ce99d0b17522c117ce78741873976b25"
+        "md5": "e5614638c652f40a53d2fd5139bb515b"
     },
     {
         "path": "/ada-zangeman/push.sh",
         "type": "file",
-        "md5": "fcb9160464c21d2b90fc921a2712d484"
+        "md5": "c60474671857fb2438a7af73fd8b393b"
     },
     {
-        "path": "ada-zangeman/text",
+        "path": "ada-zangeman/ressources",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/ada-zangeman/text/text.html",
+        "path": "/ada-zangeman/ressources/audio.html",
         "type": "file",
-        "md5": "d613051de6dad663a1d8d20c5020193b"
+        "md5": "0c688e5023442f85fd10d235ed65977c"
     },
     {
-        "path": "/ada-zangeman/text.html",
+        "path": "/ada-zangeman/ressources/download.html",
         "type": "file",
-        "md5": "d613051de6dad663a1d8d20c5020193b"
+        "md5": "28ade59bc75be94e97296f3460eb85a2"
+    },
+    {
+        "path": "/ada-zangeman/ressources/index.html",
+        "type": "file",
+        "md5": "355ad9b200a7ab0729f4b173dfba1580"
+    },
+    {
+        "path": "/ada-zangeman/ressources/pedagogique.html",
+        "type": "file",
+        "md5": "38ff2699fcceca53759c05816a9177d1"
+    },
+    {
+        "path": "/ada-zangeman/ressources/remix.html",
+        "type": "file",
+        "md5": "347f804ddf2a761906b8c9c96cca34e6"
+    },
+    {
+        "path": "/ada-zangeman/robots.txt",
+        "type": "file",
+        "md5": "166042ef0ed3c1397f12b92ba27e42d7"
     },
     {
         "path": "assets",
@@ -1347,7 +1732,7 @@
     {
         "path": "/bahar-narafzarazad/index.html",
         "type": "file",
-        "md5": "487f7db334196f5255a062996cb4b0f3"
+        "md5": "d56732d96ea53c40f9ebf8cbf86983db"
     },
     {
         "path": "bumpbuddy",
@@ -1357,7 +1742,7 @@
     {
         "path": "/bumpbuddy/index.html",
         "type": "file",
-        "md5": "4c027f317dde3c446076d57d2e2859f4"
+        "md5": "aa3f0c404936347eebed83fcf6b775a1"
     },
     {
         "path": "chaharshanbesori",
@@ -1387,7 +1772,7 @@
     {
         "path": "/debian-13-release/index.html",
         "type": "file",
-        "md5": "d68f22807c0bcca8cde387fa834cacbf"
+        "md5": "6ad44e99d223ce4427f1acaefa3ed642"
     },
     {
         "path": "debian-32",
@@ -1407,7 +1792,7 @@
     {
         "path": "/debian-mandates-rust-for-apt-reshaping-ubuntu-and-other-linux-distros/index.html",
         "type": "file",
-        "md5": "0f8c409a7df63afd33f1c3413a9b5b04"
+        "md5": "ec482bce17d4166bd315c48d5bfb18f4"
     },
     {
         "path": "devops-conf-2023",
@@ -1417,7 +1802,7 @@
     {
         "path": "/devops-conf-2023/index.html",
         "type": "file",
-        "md5": "02f909f0361b16b93f9c28778f7a53c8"
+        "md5": "24559e21974dd5819473eea726f55ab7"
     },
     {
         "path": "devops-network-conf",
@@ -1427,7 +1812,7 @@
     {
         "path": "/devops-network-conf/index.html",
         "type": "file",
-        "md5": "923607d44b6d19dc0543d3bd11774411"
+        "md5": "95a8facaa1db6874b782de2c50b96c65"
     },
     {
         "path": "dorehami-01",
@@ -1437,7 +1822,7 @@
     {
         "path": "/dorehami-01/index.html",
         "type": "file",
-        "md5": "022212e822d06d4835f283b13bc49eba"
+        "md5": "0c31f360db6e95aa6d3252b482536182"
     },
     {
         "path": "dorehami-02",
@@ -1447,7 +1832,7 @@
     {
         "path": "/dorehami-02/index.html",
         "type": "file",
-        "md5": "f0eca1ffb64990e21f71e3ed85f398cb"
+        "md5": "74fba566bba58c5931825f501c8b7bb1"
     },
     {
         "path": "dorehami-dev",
@@ -1457,7 +1842,7 @@
     {
         "path": "/dorehami-dev/index.html",
         "type": "file",
-        "md5": "13d5949bf4b230309c4cea73a10b38e1"
+        "md5": "a43aa363a760e5d8c023a4aa157ea31e"
     },
     {
         "path": "escape-to-freedom",
@@ -1467,7 +1852,7 @@
     {
         "path": "/escape-to-freedom/index.html",
         "type": "file",
-        "md5": "c8f8a489424965e8b5be0abbf80c4b94"
+        "md5": "e23f849f1ec5cba6d69b56923c1020c7"
     },
     {
         "path": "event-01",
@@ -1477,7 +1862,7 @@
     {
         "path": "/event-01/index.html",
         "type": "file",
-        "md5": "c58a5ff4e61962ad7398d774f6d17b9a"
+        "md5": "a5a749073763a971ff497f996613ac27"
     },
     {
         "path": "event-02",
@@ -1487,7 +1872,7 @@
     {
         "path": "/event-02/index.html",
         "type": "file",
-        "md5": "78ef58c6cd4b60018a112f748c27abc7"
+        "md5": "a26268dab51acea0db7427dea785cbf4"
     },
     {
         "path": "event-03",
@@ -1497,7 +1882,7 @@
     {
         "path": "/event-03/index.html",
         "type": "file",
-        "md5": "63160b4d1ba046a7f1a8cd7ca9492149"
+        "md5": "45160c2e21b58c3b14ba8e1312c59561"
     },
     {
         "path": "event-04",
@@ -1507,7 +1892,7 @@
     {
         "path": "/event-04/index.html",
         "type": "file",
-        "md5": "bf062b60edc18e807a6014d7a2ade030"
+        "md5": "8c0d9e8c57a110e392ef4efa13504d21"
     },
     {
         "path": "event-05",
@@ -1517,7 +1902,7 @@
     {
         "path": "/event-05/index.html",
         "type": "file",
-        "md5": "9c978c412630947a1609b5d2eb027b67"
+        "md5": "93cbe058558d71c5601aa75845d0a5a7"
     },
     {
         "path": "event-06",
@@ -1527,7 +1912,7 @@
     {
         "path": "/event-06/index.html",
         "type": "file",
-        "md5": "3d20b54468f41017a11609077a9cbf6d"
+        "md5": "b5efa445ac4d1a0190b1403f56bbce91"
     },
     {
         "path": "event-07",
@@ -1537,7 +1922,7 @@
     {
         "path": "/event-07/index.html",
         "type": "file",
-        "md5": "440d8eab03a9354eac8a6f6b08fffebf"
+        "md5": "e712fc90ab053942ac314314d04d63aa"
     },
     {
         "path": "event-08",
@@ -1547,7 +1932,7 @@
     {
         "path": "/event-08/index.html",
         "type": "file",
-        "md5": "cda2102b2fbe794ac941d65aee4aa1c4"
+        "md5": "a9dc3b7ad072cc614a2b83bd3f8d03af"
     },
     {
         "path": "event-09",
@@ -1557,7 +1942,7 @@
     {
         "path": "/event-09/index.html",
         "type": "file",
-        "md5": "34ccb4a8c1ebf66b244b810613acdb72"
+        "md5": "9f0aaf342ce6fd57300ae9278b60c426"
     },
     {
         "path": "event-10",
@@ -1567,7 +1952,7 @@
     {
         "path": "/event-10/index.html",
         "type": "file",
-        "md5": "d1abb6669a51b0a394f95f39dd6ae230"
+        "md5": "36af20316e9ed65dc1521472c05face2"
     },
     {
         "path": "event-11",
@@ -1577,7 +1962,7 @@
     {
         "path": "/event-11/index.html",
         "type": "file",
-        "md5": "7be16038bc6885e1619714d150426f59"
+        "md5": "8889bfc99cedb89b8a0c0f1259d50c26"
     },
     {
         "path": "event-12",
@@ -1587,7 +1972,7 @@
     {
         "path": "/event-12/index.html",
         "type": "file",
-        "md5": "5773a852949f970fa3ce504632a115f1"
+        "md5": "2c49928dd258ccd6f0c29c3b9fcc231c"
     },
     {
         "path": "event-13",
@@ -1597,7 +1982,7 @@
     {
         "path": "/event-13/index.html",
         "type": "file",
-        "md5": "f3761edfac4340853255e7124738d944"
+        "md5": "023fe3cd0daaccbd33539a28845f24d7"
     },
     {
         "path": "event-14",
@@ -1607,7 +1992,7 @@
     {
         "path": "/event-14/index.html",
         "type": "file",
-        "md5": "941f9a2f4541453726b1068a293c61bb"
+        "md5": "dbfd79210606ea98b57054ad106f86d6"
     },
     {
         "path": "event-15",
@@ -1617,7 +2002,7 @@
     {
         "path": "/event-15/index.html",
         "type": "file",
-        "md5": "d30589036dbbe099c50e69bcd66b227f"
+        "md5": "7349586bbdd1e80bb2c59d7cd3f3afa4"
     },
     {
         "path": "event-16",
@@ -1627,7 +2012,7 @@
     {
         "path": "/event-16/index.html",
         "type": "file",
-        "md5": "bf5c94b64d5260e7a4df6cb3d12a8517"
+        "md5": "13a48a22af5f78baef5c27429aaf731d"
     },
     {
         "path": "event-17",
@@ -1637,7 +2022,7 @@
     {
         "path": "/event-17/index.html",
         "type": "file",
-        "md5": "f4f0a5b784eeac7ec2590f151d21ce72"
+        "md5": "3d904331da75d89f75b93d31ed592edc"
     },
     {
         "path": "event-18",
@@ -1647,7 +2032,7 @@
     {
         "path": "/event-18/index.html",
         "type": "file",
-        "md5": "b6ec132e541c661fbe1f501a9201580f"
+        "md5": "84d98199b1b060a678ae63397dfacc69"
     },
     {
         "path": "event-19",
@@ -1657,7 +2042,7 @@
     {
         "path": "/event-19/index.html",
         "type": "file",
-        "md5": "2a896035ae9156c69be2bef324789b46"
+        "md5": "48b72e96dd226adc2270c048f2d9ad9b"
     },
     {
         "path": "fanoos-qalam-conf",
@@ -1687,7 +2072,7 @@
     {
         "path": "/first-hackers-coferece-1984/index.html",
         "type": "file",
-        "md5": "0dad57fb4b42d65883c369c65bb12323"
+        "md5": "edad6265812896529bb2b8d383b4d484"
     },
     {
         "path": "fixing.svg",
@@ -1702,7 +2087,7 @@
     {
         "path": "/font-arad/index.html",
         "type": "file",
-        "md5": "88f6eae699724c50e8bbb22bf42e09ea"
+        "md5": "777ad844c15847a52f118a3867fb041f"
     },
     {
         "path": "free-android",
@@ -1712,7 +2097,7 @@
     {
         "path": "/free-android/index.html",
         "type": "file",
-        "md5": "a043b721b5156088fc30a1de2d5667b5"
+        "md5": "09a711f26faa2e53fcf31bbcd479e720"
     },
     {
         "path": "free-android-software-contribution-guide",
@@ -2242,7 +2627,7 @@
     {
         "path": "/freedom-day/index.html",
         "type": "file",
-        "md5": "5f8bc4d885c41a97ed1c80b910603ccb"
+        "md5": "744dfc6a9525186c92a193bdb072caf3"
     },
     {
         "path": "freefont",
@@ -2262,7 +2647,7 @@
     {
         "path": "/fsf-1403/index.html",
         "type": "file",
-        "md5": "ffa3937316a5f58cd691f508c12c3439"
+        "md5": "69a881e7da37ff97456df664ad8a396f"
     },
     {
         "path": "fsf-history-redirect",
@@ -2272,7 +2657,7 @@
     {
         "path": "/fsf-history-redirect/index.html",
         "type": "file",
-        "md5": "1ab5567178cb49be2e37a8c21c65a67c"
+        "md5": "f7e85588798c6f6100446564a1ce2e5f"
     },
     {
         "path": "fsf40",
@@ -2282,7 +2667,7 @@
     {
         "path": "/fsf40/index.html",
         "type": "file",
-        "md5": "95ffd281a416179e6549c4c98535eb71"
+        "md5": "6daa001e680dc246fa997d3cd493fcc2"
     },
     {
         "path": "fsfp-culture",
@@ -2292,7 +2677,7 @@
     {
         "path": "/fsfp-culture/index.html",
         "type": "file",
-        "md5": "ec87c538677d69eca53c715abb9b8091"
+        "md5": "abb3b94d914c9dc7b805f48476955e69"
     },
     {
         "path": "fsiran",
@@ -2302,7 +2687,7 @@
     {
         "path": "/fsiran/index.html",
         "type": "file",
-        "md5": "a89db0ec56e54fe5703e3920cdc6bb3c"
+        "md5": "d1bbca414be0378f59204ab5bf3b8690"
     },
     {
         "path": "ftthyh-lg-fs",
@@ -2322,7 +2707,7 @@
     {
         "path": "/glbh-br-mnswkh-shdn-nrmfzr-b-nrmfzr-azd/index.html",
         "type": "file",
-        "md5": "11b3c4fc5881f114c8e16ad0c1926429"
+        "md5": "7b80b3af25349235e6f7c9257795ab43"
     },
     {
         "path": "gnulinux-conf",
@@ -2332,7 +2717,7 @@
     {
         "path": "/gnulinux-conf/index.html",
         "type": "file",
-        "md5": "8ca217e773c0237e12ad814b8bb13d84"
+        "md5": "64affa0afae59ebe04d817dc6f266381"
     },
     {
         "path": "hack-sec-conf",
@@ -2342,7 +2727,7 @@
     {
         "path": "/hack-sec-conf/index.html",
         "type": "file",
-        "md5": "5863d752103f16ed94ddffaf3c752981"
+        "md5": "003c55a10f00a1ddfb299fb5a68b3a1f"
     },
     {
         "path": "hero-txt-style",
@@ -2372,7 +2757,7 @@
     {
         "path": "/how-create-community/index.html",
         "type": "file",
-        "md5": "0b881ff39638e307e6c894a17346f96d"
+        "md5": "89894931334afd10ca240783d4fa6569"
     },
     {
         "path": "how-install-asahilinux",
@@ -2392,7 +2777,7 @@
     {
         "path": "/how-matrix/index.html",
         "type": "file",
-        "md5": "d3903b8640162301c839c3d6fabc1760"
+        "md5": "e220e263f5cbd9e87fb435bc8ab3ed70"
     },
     {
         "path": "howtolug",
@@ -2402,7 +2787,7 @@
     {
         "path": "/howtolug/index.html",
         "type": "file",
-        "md5": "438c77a593ba0a4d85f2c72923b0da3e"
+        "md5": "78a1411476238f1be93316ffd3d0f133"
     },
     {
         "path": "htaccess.txt",
@@ -2422,7 +2807,7 @@
     {
         "path": "/ilovefs/index.html",
         "type": "file",
-        "md5": "cf09b02b855c64015e240119face0663"
+        "md5": "a7cbf8964bd45259eeefa423cbebacda"
     },
     {
         "path": "index.html",
@@ -2462,7 +2847,7 @@
     {
         "path": "/isfehan-conf/index.html",
         "type": "file",
-        "md5": "8f1f570c815338b0a157532db778cc46"
+        "md5": "5b569b95ee82f83ee0d9add659e47058"
     },
     {
         "path": "lan-party",
@@ -2472,7 +2857,7 @@
     {
         "path": "/lan-party/index.html",
         "type": "file",
-        "md5": "52c7567ccfd464044d92a223c0ae4eeb"
+        "md5": "caa46f0fc5136887298d0d6aaa00a997"
     },
     {
         "path": "learn-gimp",
@@ -2482,7 +2867,7 @@
     {
         "path": "/learn-gimp/index.html",
         "type": "file",
-        "md5": "34579598d9dc52e366a68b914b16c942"
+        "md5": "9066e9324023132e6257edfdd5afa1c4"
     },
     {
         "path": "liberate-your-phone",
@@ -2492,7 +2877,7 @@
     {
         "path": "/liberate-your-phone/index.html",
         "type": "file",
-        "md5": "d74b8cb15df08b5bd5f559c1106aec60"
+        "md5": "e6dd8355f5faacdf406bc142353f98e1"
     },
     {
         "path": "libremobileos",
@@ -2512,7 +2897,7 @@
     {
         "path": "/libreplanet2025/index.html",
         "type": "file",
-        "md5": "2a0debe300fa752e08d142bd79372a96"
+        "md5": "ea8b2fd52db1b4bd3ebdd8156a610b08"
     },
     {
         "path": "librepllant",
@@ -2522,7 +2907,7 @@
     {
         "path": "/librepllant/index.html",
         "type": "file",
-        "md5": "a2b77323bd18e6d2992c95ebf9cab344"
+        "md5": "cbc99d9575c776e2e1d53d5b8cd45f60"
     },
     {
         "path": "license-ofl",
@@ -2542,7 +2927,7 @@
     {
         "path": "/license-opensource/index.html",
         "type": "file",
-        "md5": "bd05c7dc9911d35b285eca4761a25a5d"
+        "md5": "734b8aab3092968da20aff8d737d2d88"
     },
     {
         "path": "licenses",
@@ -2552,7 +2937,7 @@
     {
         "path": "/licenses/index.html",
         "type": "file",
-        "md5": "68150036f638f67450e777353a992b68"
+        "md5": "09c5e0d94d6fc4ca637b18a63c616114"
     },
     {
         "path": "linux-workhsop",
@@ -2562,7 +2947,7 @@
     {
         "path": "/linux-workhsop/index.html",
         "type": "file",
-        "md5": "71d20edd3790e77713af64526c807e7f"
+        "md5": "60eaee51c924915fb43cd6c5ca467b14"
     },
     {
         "path": "lmo",
@@ -2632,7 +3017,7 @@
     {
         "path": "/matrix-user-guide/index.html",
         "type": "file",
-        "md5": "54e5fe3cda87b36d8160ca1e1a40807f"
+        "md5": "661e300fff2f93eb0e2dde28740d5e2f"
     },
     {
         "path": "media",
@@ -11007,7 +11392,7 @@
     {
         "path": "/metro-shiraz/index.html",
         "type": "file",
-        "md5": "202b73b8f6c9cc3f160943caecfbb475"
+        "md5": "3dc50c66571ace2acf62f33d6c3726c0"
     },
     {
         "path": "obs-studio",
@@ -11027,7 +11412,7 @@
     {
         "path": "/parch-linux/index.html",
         "type": "file",
-        "md5": "9f83a75f98fbeabca6f9139c92ba58f7"
+        "md5": "e344fecf39edf100ccb9b22e1fc55289"
     },
     {
         "path": "people.png",
@@ -11072,7 +11457,7 @@
     {
         "path": "/post-rc6/index.html",
         "type": "file",
-        "md5": "0eab9f2717788063fa81169017cc57be"
+        "md5": "45f79fa30cc68ee550c2c94d4b5bba8a"
     },
     {
         "path": "post-xia",
@@ -11082,7 +11467,7 @@
     {
         "path": "/post-xia/index.html",
         "type": "file",
-        "md5": "4f5dff478e53ab87e0a8c8fb8ba1230c"
+        "md5": "9d278096cd3ac4c891807ccca353db92"
     },
     {
         "path": "post-xia-2",
@@ -11112,7 +11497,7 @@
     {
         "path": "/register-in-matrix/index.html",
         "type": "file",
-        "md5": "38d8aca8bb67f51aeedab79b28a2eb02"
+        "md5": "e48f28ea1f23474fd1a524575b70fa42"
     },
     {
         "path": "report-saber-rastikerdar",
@@ -11122,7 +11507,7 @@
     {
         "path": "/report-saber-rastikerdar/index.html",
         "type": "file",
-        "md5": "c584542035117370abb8e4912f4570f0"
+        "md5": "cb130b4af6dca17bf0f306e30ab95ee3"
     },
     {
         "path": "rewind",
@@ -11162,7 +11547,7 @@
     {
         "path": "/sfd-2025/index.html",
         "type": "file",
-        "md5": "1e404007907807fe17475d9e88d56fa5"
+        "md5": "327b0074dfa4144ba7e0276f2c60fc9b"
     },
     {
         "path": "shirazlinux-2year-report",
@@ -11172,7 +11557,7 @@
     {
         "path": "/shirazlinux-2year-report/index.html",
         "type": "file",
-        "md5": "5832cfe48d47c6c1f78a9a12d412828e"
+        "md5": "e07978692208154d5a5c17bd7e903d2e"
     },
     {
         "path": "shoestool",
@@ -11197,7 +11582,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "defe5e4fa5f3a729ad1071dd91162473"
+        "md5": "9954b106760e35899aff19d6971407fc"
     },
     {
         "path": "sitemap.xsl",
@@ -11897,7 +12282,7 @@
     {
         "path": "/tehran-metro/index.html",
         "type": "file",
-        "md5": "df05301dd887ae2e3c34a7757337356c"
+        "md5": "e135d408382fc7a33f7bcca0a0004f81"
     },
     {
         "path": "terror-active",
@@ -11907,7 +12292,7 @@
     {
         "path": "/terror-active/index.html",
         "type": "file",
-        "md5": "8e4e6e2892733e9a74327168864f71d4"
+        "md5": "e6995ac20a58023e4b5c6212a38e4dd2"
     },
     {
         "path": "the-university-costumed",
@@ -11942,7 +12327,7 @@
     {
         "path": "/user-liberation/index.html",
         "type": "file",
-        "md5": "4aef83976a5b84626079cc655493c866"
+        "md5": "cc96f7b3dcbd07bd9ccf97f2a8ac50e8"
     },
     {
         "path": "valentine-day",
@@ -11962,7 +12347,7 @@
     {
         "path": "/vazir-font-conf/index.html",
         "type": "file",
-        "md5": "f48c6d2fbbe08328fd150e8b37a7e763"
+        "md5": "26382f8208ee17e25406dafaa03bd60a"
     },
     {
         "path": "vazir-font-conf-report",
@@ -11972,7 +12357,7 @@
     {
         "path": "/vazir-font-conf-report/index.html",
         "type": "file",
-        "md5": "16f4e72c509207a32a39aa05cb4875d9"
+        "md5": "17c90d3aa327cb4c58d2bd434ea1bacd"
     },
     {
         "path": "website.png",
@@ -11987,7 +12372,7 @@
     {
         "path": "/what-is-community/index.html",
         "type": "file",
-        "md5": "ad96f10bd10d09f6c5a6d5adde29e00a"
+        "md5": "33efeaa827998a64a955802b2617edb6"
     },
     {
         "path": "what-is-free-software",
@@ -11997,7 +12382,7 @@
     {
         "path": "/what-is-free-software/index.html",
         "type": "file",
-        "md5": "c2db351fa50b67865c35117418f26f14"
+        "md5": "3db3875717988d2f926686ed0a6ea548"
     },
     {
         "path": "why-should-we-not-say-linux",
@@ -12007,7 +12392,7 @@
     {
         "path": "/why-should-we-not-say-linux/index.html",
         "type": "file",
-        "md5": "64ae3005ecf278c507e573c15abb52a8"
+        "md5": "54c09f923945c77b6ccf7c9ce852b7f5"
     },
     {
         "path": "widgetify",
@@ -12027,7 +12412,7 @@
     {
         "path": "/wikipedia-celebration20/index.html",
         "type": "file",
-        "md5": "6825c50f25af6b701bdc2f04ecc300dc"
+        "md5": "fc16a7de385860f67102f45087cdb0b8"
     },
     {
         "path": "wikipedia-celebration21",
@@ -12037,7 +12422,7 @@
     {
         "path": "/wikipedia-celebration21/index.html",
         "type": "file",
-        "md5": "9b5b28baf23b007894c41e3b7e04d18c"
+        "md5": "7d9cb06c1046464bf6ff5649a05c1bec"
     },
     {
         "path": "workshop-archlinux",
@@ -12077,6 +12462,6 @@
     {
         "path": "/yek-sal-ba-shirazlinux/index.html",
         "type": "file",
-        "md5": "6ef22a3a0ccb31a3115ba2fc6dc871ea"
+        "md5": "f3bc14635fc4c02481028112e1eaabff"
     }
 ]
