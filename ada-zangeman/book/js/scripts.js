@@ -64,7 +64,7 @@ window.addEventListener('load', () => {
     });
 
     // تشخیص نوع صفحه
-    if (window.location.href.indexOf('az.html') === -1) {
+    if (window.location.href.indexOf('read') === -1) {
         // صفحات عادی (غیر از صفحه داستان)
         localStorage.setItem('ada_currentUrl', window.location.href);
         localStorage.setItem('ada_pageId', '');
@@ -91,7 +91,7 @@ window.addEventListener('load', () => {
             }
         }
     } else {
-        // صفحه داستان (az.html)
+        // صفحه داستان (read)
         localStorage.setItem('ada_reading', true);
         
         // مدیریت اسکرول و ردیابی صفحات
