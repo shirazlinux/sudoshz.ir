@@ -2775,6 +2775,7 @@
             "label": "Display child pages",
             "value": 0,
             "type": "select",
+            "pageTemplates": "default",
             "options": [
                 {
                     "label": "Enabled",
