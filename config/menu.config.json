@@ -250,10 +250,10 @@
                 "id": 1758281319267,
                 "label": "حمایت",
                 "title": "",
-                "type": "separator",
+                "type": "page",
                 "target": "_self",
                 "rel": "",
-                "link": "",
+                "link": 151,
                 "cssClass": "",
                 "isHidden": false,
                 "items": []
