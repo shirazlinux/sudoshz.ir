@@ -185,18 +185,6 @@
                         "items": []
                     },
                     {
-                        "id": 1762474176019,
-                        "label": "سیاست‌های حمایتی و تبلیغاتی",
-                        "title": "",
-                        "type": "page",
-                        "target": "_self",
-                        "rel": "",
-                        "link": 169,
-                        "cssClass": "",
-                        "isHidden": false,
-                        "items": []
-                    },
-                    {
                         "id": 1762465724557,
                         "label": "کد رفتاری شبکه‌های اجتماعی",
                         "title": "",
@@ -209,13 +197,37 @@
                         "items": []
                     },
                     {
+                        "id": 1762474176019,
+                        "label": "سیاست‌های حمایتی و تبلیغاتی",
+                        "title": "",
+                        "type": "page",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 169,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
                         "id": 1762291654469,
-                        "label": "گزارشات شیرازلینوکس",
+                        "label": "گزارشات فعالیت شیرازلینوکس",
                         "title": "",
                         "type": "tag",
                         "target": "_self",
                         "rel": "",
                         "link": 42,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1766179384273,
+                        "label": "گزارش مالی شیرازلینوکس",
+                        "title": "",
+                        "type": "page",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 181,
                         "cssClass": "",
                         "isHidden": false,
                         "items": []
@@ -297,6 +309,18 @@
                 "target": "_self",
                 "rel": "",
                 "link": 125,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1766179685004,
+                "label": "حمایت از ما",
+                "title": "",
+                "type": "page",
+                "target": "_self",
+                "rel": "",
+                "link": 151,
                 "cssClass": "",
                 "isHidden": false,
                 "items": []
