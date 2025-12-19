@@ -50,7 +50,7 @@
 </url>
 <url>
 <loc>https://sudoshz.ir/about/</loc>
-<lastmod>2025-11-04T22:27:22-05:00</lastmod>
+<lastmod>2025-12-14T14:38:24-05:00</lastmod>
 <image:image>
 <image:loc>https://sudoshz.ir/media/posts/78/social-image-fight-dystopia.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -309,6 +309,14 @@
 <image:image>
 <image:loc>https://sudoshz.ir/media/posts/40/IMG_20250104_015848_656-2.jpg</image:loc>
 <image:title><![CDATA[همایش مشترک شبکه و زیرساخت و دواپس]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://sudoshz.ir/donate/</loc>
+<lastmod>2025-12-19T16:21:18-05:00</lastmod>
+<image:image>
+<image:loc>https://sudoshz.ir/media/posts/151/donation.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
@@ -965,10 +973,6 @@
 <url>
 <loc>https://sudoshz.ir/hero-txt-style/</loc>
 <lastmod>2025-08-22T03:52:08-04:00</lastmod>
-</url>
-<url>
-<loc>https://sudoshz.ir/hmyt-mly/</loc>
-<lastmod>2025-11-07T19:41:28-05:00</lastmod>
 </url>
 <url>
 <loc>https://sudoshz.ir/how-create-community/</loc>
@@ -1732,6 +1736,13 @@
 <image:loc>https://sudoshz.ir/media/posts/154/04.jpg</image:loc>
 <image:title><![CDATA[پوستر ارباب تاریکی از سری انیمیشن‌های نرم‌افزار آژاد]]></image:title>
 </image:image>
+</url>
+<url>
+<loc>https://sudoshz.ir/transparency/</loc>
+<lastmod>2025-12-19T16:30:09-05:00</lastmod>
+</url>
+<url>
+<loc>https://sudoshz.ir/transparency/gnulinux-402/</loc>
 </url>
 <url>
 <loc>https://sudoshz.ir/upcyclingandroid/</loc>
