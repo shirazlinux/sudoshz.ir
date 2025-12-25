@@ -122,7 +122,7 @@
     {
         "path": "/ada-zangeman/about/index.html",
         "type": "file",
-        "md5": "749128ec1d5f2aa499ad7e9049b64b84"
+        "md5": "116db8feafb24622822fb24c8ddaa406"
     },
     {
         "path": "ada-zangeman/book",
@@ -142,7 +142,7 @@
     {
         "path": "/ada-zangeman/book/acknowledgments/index.html",
         "type": "file",
-        "md5": "815d6e662303f18135743695504a0c39"
+        "md5": "271ae5cc079308b0c76d19b45c741daa"
     },
     {
         "path": "ada-zangeman/book/authors",
@@ -162,7 +162,7 @@
     {
         "path": "/ada-zangeman/book/colophon/index.html",
         "type": "file",
-        "md5": "0857ab3425a1fe958ccf16d007aab396"
+        "md5": "5e35b413cb3fc2421a45c4779705d11e"
     },
     {
         "path": "ada-zangeman/book/css",
@@ -270,419 +270,29 @@
         "md5": false
     },
     {
-        "path": "/ada-zangeman/book/images/A-cyan.png",
-        "type": "file",
-        "md5": "575a1dbfeca7c5700b5d488ca29a8cdb"
-    },
-    {
-        "path": "/ada-zangeman/book/images/A-fucsia.png",
-        "type": "file",
-        "md5": "611e61d9d1af22e9fa8d60821d8f52e3"
-    },
-    {
-        "path": "/ada-zangeman/book/images/A-olive.png",
-        "type": "file",
-        "md5": "fa8c18a5a0a5995565a5753f4cc94c3b"
-    },
-    {
-        "path": "/ada-zangeman/book/images/A-red2.png",
-        "type": "file",
-        "md5": "f56e5ffa93d218ff38f89d6833c7ef2a"
-    },
-    {
-        "path": "/ada-zangeman/book/images/A-violet.png",
-        "type": "file",
-        "md5": "fbea4f6e63449e5c8aff54b2f438d5f6"
-    },
-    {
-        "path": "/ada-zangeman/book/images/A-yellow.png",
-        "type": "file",
-        "md5": "59a2e879e67212227ee097f8b5444e66"
-    },
-    {
-        "path": "/ada-zangeman/book/images/A_cyr-violet.png",
-        "type": "file",
-        "md5": "147883936349fc9388afb4e49fe8efff"
-    },
-    {
-        "path": "/ada-zangeman/book/images/A_cyr-yellow.png",
-        "type": "file",
-        "md5": "4fca3c562e2776c624823c5978276396"
-    },
-    {
-        "path": "/ada-zangeman/book/images/C-cyan.png",
-        "type": "file",
-        "md5": "a2bba21d0d9f78493479934ea2f5cfce"
-    },
-    {
-        "path": "/ada-zangeman/book/images/C-pink.png",
-        "type": "file",
-        "md5": "537d5f2f6f75ca5086c6a8fd3f62273f"
-    },
-    {
-        "path": "/ada-zangeman/book/images/C-red1.png",
-        "type": "file",
-        "md5": "568fc7d8ec56422febeb5a6b928c8dfa"
-    },
-    {
-        "path": "/ada-zangeman/book/images/C-yellow.png",
-        "type": "file",
-        "md5": "5cbf5d3cf811602699c105a881fc969e"
-    },
-    {
-        "path": "/ada-zangeman/book/images/D-cyan.png",
-        "type": "file",
-        "md5": "9fb118e38a3e5af9838f0434b45dc408"
-    },
-    {
-        "path": "/ada-zangeman/book/images/D-lightcyan.png",
-        "type": "file",
-        "md5": "1008212c03119f8eddb7da8d2cccd4cd"
-    },
-    {
-        "path": "/ada-zangeman/book/images/D-red1.png",
-        "type": "file",
-        "md5": "aa6a8ae0040cfdd724df15f2cace1029"
-    },
-    {
-        "path": "/ada-zangeman/book/images/D-red2.png",
-        "type": "file",
-        "md5": "c980893c8f1a6d13d8fe41fffea2714e"
-    },
-    {
-        "path": "/ada-zangeman/book/images/D-yellow2.png",
-        "type": "file",
-        "md5": "fbaea7eeeb9138a2fd22e1d3c64fe140"
-    },
-    {
-        "path": "/ada-zangeman/book/images/E-cyan.png",
-        "type": "file",
-        "md5": "ba38367c22fc23b92e404cecf14cd7e3"
-    },
-    {
-        "path": "/ada-zangeman/book/images/E-green.png",
-        "type": "file",
-        "md5": "06cde71762f87a03f358063d5c196a42"
-    },
-    {
-        "path": "/ada-zangeman/book/images/E-pink.png",
-        "type": "file",
-        "md5": "3b1ff79030b74164c62dc2871cad22b9"
-    },
-    {
-        "path": "/ada-zangeman/book/images/E-red1.png",
-        "type": "file",
-        "md5": "c3a8a21af0fa9f9aaefc5c870d6c2945"
-    },
-    {
-        "path": "/ada-zangeman/book/images/E-red2.png",
-        "type": "file",
-        "md5": "41316281894e21b0a58f069c98e6350c"
-    },
-    {
-        "path": "/ada-zangeman/book/images/E-red3.png",
-        "type": "file",
-        "md5": "74028622ed887097624cfe0890210bd7"
-    },
-    {
-        "path": "/ada-zangeman/book/images/E-yellow.png",
-        "type": "file",
-        "md5": "7d5389ed64717abd224081f2c353b172"
-    },
-    {
-        "path": "/ada-zangeman/book/images/Em-red2.png",
-        "type": "file",
-        "md5": "cf06ce0d11227a851a3d765c6da11404"
-    },
-    {
-        "path": "/ada-zangeman/book/images/En-cyan.png",
-        "type": "file",
-        "md5": "b36ae67e9b5476bba2454b4956c2f8f2"
-    },
-    {
-        "path": "/ada-zangeman/book/images/En-lightcyan.png",
-        "type": "file",
-        "md5": "430723d7f3f9930657073f1f1c3fcfdb"
-    },
-    {
-        "path": "/ada-zangeman/book/images/En-olive.png",
-        "type": "file",
-        "md5": "196816fa9013194ced509cfade37bca2"
-    },
-    {
-        "path": "/ada-zangeman/book/images/En-red2.png",
-        "type": "file",
-        "md5": "098bd7fb2dbece09e6eecf5bc8fa674d"
-    },
-    {
-        "path": "/ada-zangeman/book/images/F-red1.png",
-        "type": "file",
-        "md5": "c761dd3e47c61e1c964780a41897a955"
-    },
-    {
-        "path": "/ada-zangeman/book/images/F-yellow.png",
-        "type": "file",
-        "md5": "62177f98c1b6bfe4831bac1de5989a07"
-    },
-    {
-        "path": "/ada-zangeman/book/images/H-cyan.png",
-        "type": "file",
-        "md5": "a6a7896a446ef91c37990ac251001bd0"
-    },
-    {
-        "path": "/ada-zangeman/book/images/H-pink.png",
-        "type": "file",
-        "md5": "576c3ab2bcc69cb7383480da93d859d7"
-    },
-    {
-        "path": "/ada-zangeman/book/images/I-cyan.png",
-        "type": "file",
-        "md5": "73f0666b393af75433c371edeff4780b"
-    },
-    {
-        "path": "/ada-zangeman/book/images/I-cyan0.png",
-        "type": "file",
-        "md5": "f8a1345682485189aa4808eb0264a55d"
-    },
-    {
-        "path": "/ada-zangeman/book/images/I-fucsia.png",
-        "type": "file",
-        "md5": "83fff9d6fe9fe2b4c739b6d6f2d2368b"
-    },
-    {
-        "path": "/ada-zangeman/book/images/I-lightcyan.png",
-        "type": "file",
-        "md5": "e4f4ef15fe1e078404c4d855740d05b4"
-    },
-    {
-        "path": "/ada-zangeman/book/images/I-olive.png",
-        "type": "file",
-        "md5": "b76f988d4f16651908b1511de730fea2"
-    },
-    {
-        "path": "/ada-zangeman/book/images/I-red1.png",
-        "type": "file",
-        "md5": "060cc1143aa10842aca17bceebb0a86e"
-    },
-    {
-        "path": "/ada-zangeman/book/images/I-yellow.png",
-        "type": "file",
-        "md5": "61430be6990aa6b98e7e16edfbda5137"
-    },
-    {
-        "path": "/ada-zangeman/book/images/J-pink.png",
-        "type": "file",
-        "md5": "a3048226c1616eafaf6a7aeeaf3dced9"
-    },
-    {
-        "path": "/ada-zangeman/book/images/J-red2.png",
-        "type": "file",
-        "md5": "ed629b7519b0b91919b5941812142594"
-    },
-    {
-        "path": "/ada-zangeman/book/images/Ja-green.png",
-        "type": "file",
-        "md5": "54ac838e2d7145987d5bb8dc1a38f9be"
-    },
-    {
-        "path": "/ada-zangeman/book/images/L-cyan.png",
-        "type": "file",
-        "md5": "03d4286c68ec795a4ece0544439cb3c6"
-    },
-    {
-        "path": "/ada-zangeman/book/images/L-fucsia.png",
-        "type": "file",
-        "md5": "9b3c464aefabda5fef6beb32288ef4a5"
-    },
-    {
-        "path": "/ada-zangeman/book/images/L-fuscia.png",
-        "type": "file",
-        "md5": "9b3c464aefabda5fef6beb32288ef4a5"
-    },
-    {
-        "path": "/ada-zangeman/book/images/L-lightcyan.png",
-        "type": "file",
-        "md5": "c68c4a5a93e99a9ab11b7112f0aea6c6"
-    },
-    {
-        "path": "/ada-zangeman/book/images/L-olive.png",
-        "type": "file",
-        "md5": "6df292d7d064d7905d4fa9c0d69b0d34"
-    },
-    {
-        "path": "/ada-zangeman/book/images/L-red2.png",
-        "type": "file",
-        "md5": "2af7bbb68a0aa830f8672a54b298a3ce"
-    },
-    {
-        "path": "/ada-zangeman/book/images/L-yellow2.png",
-        "type": "file",
-        "md5": "f1beb7716d1b98e14affb49872185dfe"
-    },
-    {
-        "path": "/ada-zangeman/book/images/M-yellow.png",
-        "type": "file",
-        "md5": "341aee593c4ebcbe68443fa055add65e"
-    },
-    {
-        "path": "/ada-zangeman/book/images/N-cyan.png",
-        "type": "file",
-        "md5": "33210402656f9fd73abeed7b7f205d92"
-    },
-    {
-        "path": "/ada-zangeman/book/images/N-lightcyan.png",
-        "type": "file",
-        "md5": "9eecb1656f6e400bf4f11e91710c3e02"
-    },
-    {
-        "path": "/ada-zangeman/book/images/N-olive.png",
-        "type": "file",
-        "md5": "a3d97475d0a330e041c28da41a5e373e"
-    },
-    {
-        "path": "/ada-zangeman/book/images/N-red2.png",
-        "type": "file",
-        "md5": "e8adc217a20a49abb49d124046e7fca0"
-    },
-    {
-        "path": "/ada-zangeman/book/images/O-cyan.png",
-        "type": "file",
-        "md5": "534f8703bd8d6d6cbe5caf214bd479d7"
-    },
-    {
-        "path": "/ada-zangeman/book/images/O-green.png",
-        "type": "file",
-        "md5": "c1a16064fde8c986537eef84dda5d42d"
-    },
-    {
-        "path": "/ada-zangeman/book/images/O-lightcyan.png",
-        "type": "file",
-        "md5": "c67eee98b2bcbfef1f58403a260621b5"
-    },
-    {
-        "path": "/ada-zangeman/book/images/O-pink.png",
-        "type": "file",
-        "md5": "b210a55b56efe5f23b37150f45b7b709"
-    },
-    {
-        "path": "/ada-zangeman/book/images/O-yellow.png",
-        "type": "file",
-        "md5": "d6deb2b39c8a61938c6759ceb2712cb0"
-    },
-    {
-        "path": "/ada-zangeman/book/images/Pe-brown.png",
-        "type": "file",
-        "md5": "d8e3244d0fee3e982c5c980295e9a0c2"
-    },
-    {
-        "path": "/ada-zangeman/book/images/S-red1.png",
-        "type": "file",
-        "md5": "5f964ff4aee16d3c7ac9b94e7a1e5b41"
-    },
-    {
-        "path": "/ada-zangeman/book/images/S-red2.png",
-        "type": "file",
-        "md5": "e32d1dff411a4b8733cb936cda79060f"
-    },
-    {
-        "path": "/ada-zangeman/book/images/S-yellow.png",
-        "type": "file",
-        "md5": "020d2870ab90f765bfd789decc743912"
-    },
-    {
-        "path": "/ada-zangeman/book/images/Shta-pink.png",
-        "type": "file",
-        "md5": "b1995bf4e78bc456cfd06f5849a86425"
-    },
-    {
-        "path": "/ada-zangeman/book/images/Shta-red1.png",
-        "type": "file",
-        "md5": "6e4b3f8251206c98513f8c708b49a78d"
-    },
-    {
-        "path": "/ada-zangeman/book/images/T-cyan.png",
-        "type": "file",
-        "md5": "b3a85718735f672d434c9e1ee69bd849"
-    },
-    {
-        "path": "/ada-zangeman/book/images/T-olive.png",
-        "type": "file",
-        "md5": "c30f6112d859349b794c543d28febd25"
-    },
-    {
-        "path": "/ada-zangeman/book/images/T-pink.png",
-        "type": "file",
-        "md5": "e3dda41ad2ca66aca9bfbc4e165ee06c"
-    },
-    {
-        "path": "/ada-zangeman/book/images/T-red2.png",
-        "type": "file",
-        "md5": "570d07829738093b78d94e32b63b71af"
-    },
-    {
-        "path": "/ada-zangeman/book/images/Te-yellow.png",
-        "type": "file",
-        "md5": "0eb310211c09a8a002161102339dda79"
-    },
-    {
-        "path": "/ada-zangeman/book/images/U-green.png",
-        "type": "file",
-        "md5": "ca5361b18134896c5fc5f9edccaa4aca"
-    },
-    {
-        "path": "/ada-zangeman/book/images/U-yellow.png",
-        "type": "file",
-        "md5": "4e394241190b321271589630d3595505"
-    },
-    {
-        "path": "/ada-zangeman/book/images/U_cyr-fucsia.png",
-        "type": "file",
-        "md5": "969eaeefcc872d216dd7d356f7214fc2"
-    },
-    {
-        "path": "/ada-zangeman/book/images/Ve-yellow2.png",
-        "type": "file",
-        "md5": "740b79fdc28d06e0070376f1aab6f894"
-    },
-    {
-        "path": "/ada-zangeman/book/images/Z-brown.png",
-        "type": "file",
-        "md5": "f5ead4e45af16d6b0749f414b6596b11"
-    },
-    {
-        "path": "/ada-zangeman/book/images/Z-red1.png",
-        "type": "file",
-        "md5": "86e52317d327f3ccbf69a83aa979edaa"
-    },
-    {
-        "path": "/ada-zangeman/book/images/Zhe-cyan.png",
-        "type": "file",
-        "md5": "71c71703e1935d2e3a209eac72d75969"
-    },
-    {
         "path": "/ada-zangeman/book/images/ada-300.png",
         "type": "file",
-        "md5": "20df20815636ba8571b7e4653ab03116"
+        "md5": "8facb11fe5ce35e63cda4eda24212761"
     },
     {
         "path": "/ada-zangeman/book/images/ada-card.jpg",
         "type": "file",
-        "md5": "878ea0d946a372971f7be69c94dbd846"
+        "md5": "a469e10a68d5bc2f936c96df03835bb0"
     },
     {
         "path": "/ada-zangeman/book/images/ada-card.psd",
         "type": "file",
-        "md5": "624fc73c2de081bdae6e42c73214e9f4"
+        "md5": "fbf431d9e8cce6e9bd23d4a4e6e76074"
     },
     {
         "path": "/ada-zangeman/book/images/ada-livre.jpg",
         "type": "file",
-        "md5": "454b49a68f4a9a921bbe59cf2b483b38"
+        "md5": "295896c8e2897cf5eb1066e99ed86548"
     },
     {
         "path": "/ada-zangeman/book/images/ada-livre.psd",
         "type": "file",
-        "md5": "cd1ba0907448e5ab06670a3348e22a7d"
+        "md5": "960ebed988aad4be55d76fc754d3c54a"
     },
     {
         "path": "/ada-zangeman/book/images/ada-p01-fr-titleonly.jpg",
@@ -712,7 +322,7 @@
     {
         "path": "/ada-zangeman/book/images/ada-p05.jpg",
         "type": "file",
-        "md5": "b5dbbb2b9b27d463640c68172247c513"
+        "md5": "2ccee9b39b5ef6910fc6b7e37b7eb726"
     },
     {
         "path": "/ada-zangeman/book/images/ada-p07.jpg",
@@ -907,27 +517,27 @@
     {
         "path": "/ada-zangeman/book/images/ada_composite_medias.jpg",
         "type": "file",
-        "md5": "031dbe2ea3d35a66b3adf06ad3431b50"
+        "md5": "c80fdc3b5b69086b8f6d016e8369712c"
     },
     {
         "path": "/ada-zangeman/book/images/couverture_ada_L800.jpg",
         "type": "file",
-        "md5": "25e28bf60299b90fb93fefcc570ca0d6"
+        "md5": "ba8e8fefa4083cb1177c9d0cea87dc4a"
     },
     {
         "path": "/ada-zangeman/book/images/cover.jpg",
         "type": "file",
-        "md5": "519f83795fffe30986531d9395cb27af"
+        "md5": "44f44b4caf4d92939a6a9405b4185d8c"
     },
     {
         "path": "/ada-zangeman/book/images/cover.png",
         "type": "file",
-        "md5": "ffbf81a453abf15697ad8496e2030aa1"
+        "md5": "4985993ef175c36b64e91b5b5738ef3b"
     },
     {
         "path": "/ada-zangeman/book/images/cover_de.jpg",
         "type": "file",
-        "md5": "60860bca1c6195f105b749d814bbf30e"
+        "md5": "db983b4bb1342b08a3b1dda09bc9d024"
     },
     {
         "path": "/ada-zangeman/book/images/logo-fsfe.png",
@@ -1062,7 +672,7 @@
     {
         "path": "/ada-zangeman/book/translation/index.html",
         "type": "file",
-        "md5": "8112ef1056d07c8fcdd4f41745a1184c"
+        "md5": "11dd9acb6419d748e9220381e0f1e381"
     },
     {
         "path": "ada-zangeman/css",
@@ -1192,7 +802,7 @@
     {
         "path": "/ada-zangeman/img/ada_couverture_livre_rectangle.jpg",
         "type": "file",
-        "md5": "25d40e074df207745ba7630a8e636060"
+        "md5": "0255a22c4a551ffa688708d8cdbde74f"
     },
     {
         "path": "/ada-zangeman/img/ada_denkodama_kamishibai.jpg",
@@ -1237,7 +847,7 @@
     {
         "path": "/ada-zangeman/img/ada_header_home.jpg",
         "type": "file",
-        "md5": "a348f5a924270dd84a96853c96345260"
+        "md5": "d89ac513391cd7b13e9f5df8b807eeb2"
     },
     {
         "path": "/ada-zangeman/img/ada_livre_fr-en-p01.jpg",
@@ -1262,7 +872,7 @@
     {
         "path": "/ada-zangeman/img/couv_ada_grand.jpg",
         "type": "file",
-        "md5": "25e28bf60299b90fb93fefcc570ca0d6"
+        "md5": "ba8e8fefa4083cb1177c9d0cea87dc4a"
     },
     {
         "path": "/ada-zangeman/img/plxthumbnailer.jpg",
@@ -1272,7 +882,7 @@
     {
         "path": "/ada-zangeman/index.html",
         "type": "file",
-        "md5": "232da1f5984b4e5b8202be649300aa0c"
+        "md5": "1a2f6c0710324d8711edf7fad4446a5e"
     },
     {
         "path": "ada-zangeman/order",
@@ -1282,7 +892,7 @@
     {
         "path": "/ada-zangeman/order/index.html",
         "type": "file",
-        "md5": "bcef765d6cbd5eb58762323a6f27b7e5"
+        "md5": "5d13463b697414a96d94c66c565f6908"
     },
     {
         "path": "ada-zangeman/presentation",
@@ -1802,7 +1412,7 @@
     {
         "path": "/bahar-narafzarazad/index.html",
         "type": "file",
-        "md5": "9bd87ffcb3ed2209471b6392f1d9b83f"
+        "md5": "6369d91be3c608fcf4cb12e0acd1aa79"
     },
     {
         "path": "bumpbuddy",
@@ -1812,7 +1422,7 @@
     {
         "path": "/bumpbuddy/index.html",
         "type": "file",
-        "md5": "7b60954f7298edc5d55943649cef3908"
+        "md5": "6685e7f348da2781725a038556fbc525"
     },
     {
         "path": "chaharshanbesori",
@@ -1842,7 +1452,7 @@
     {
         "path": "/debian-13-release/index.html",
         "type": "file",
-        "md5": "67148f9f36c58dd16841f3651746a909"
+        "md5": "777d9e0396bb6ce1f111405bd1ad428b"
     },
     {
         "path": "debian-32",
@@ -1862,7 +1472,7 @@
     {
         "path": "/debian-mandates-rust-for-apt-reshaping-ubuntu-and-other-linux-distros/index.html",
         "type": "file",
-        "md5": "485bfdbd08138c62f054484dc0e0f795"
+        "md5": "e3c8b1b26dae5c5045618364d52c6b8a"
     },
     {
         "path": "devops-conf-2023",
@@ -1872,7 +1482,7 @@
     {
         "path": "/devops-conf-2023/index.html",
         "type": "file",
-        "md5": "e695ab3309fe0fd92b6af68c9182ca4d"
+        "md5": "9566b0579a4afc954258b7bdc558f8d5"
     },
     {
         "path": "devops-network-conf",
@@ -1882,7 +1492,7 @@
     {
         "path": "/devops-network-conf/index.html",
         "type": "file",
-        "md5": "ed05b50d3c07dc9841ba753b836eaaa3"
+        "md5": "d1cba9081f0fae0328dc01450294fe1d"
     },
     {
         "path": "donate",
@@ -1902,7 +1512,7 @@
     {
         "path": "/dorehami-01/index.html",
         "type": "file",
-        "md5": "3970437aeeac913943bfbd692d29d308"
+        "md5": "46d597b63fa3740dfa549ced3dcf907a"
     },
     {
         "path": "dorehami-02",
@@ -1922,7 +1532,7 @@
     {
         "path": "/dorehami-dev/index.html",
         "type": "file",
-        "md5": "8bfe85d12de482af6df46cd0077279ed"
+        "md5": "4d9d28c8492d07184f1bff1cbf7b333d"
     },
     {
         "path": "escape-to-freedom",
@@ -1932,7 +1542,7 @@
     {
         "path": "/escape-to-freedom/index.html",
         "type": "file",
-        "md5": "826f21a831f94bf054ff5828917f75eb"
+        "md5": "04d84495062fd731474733f8d11a9bd1"
     },
     {
         "path": "event-01",
@@ -1942,7 +1552,7 @@
     {
         "path": "/event-01/index.html",
         "type": "file",
-        "md5": "40b5c1891aa7346fc5b0ef4ffb24c643"
+        "md5": "ae85711d66953c1639cc841009ceffe2"
     },
     {
         "path": "event-02",
@@ -1952,7 +1562,7 @@
     {
         "path": "/event-02/index.html",
         "type": "file",
-        "md5": "b5e7c73d7004a48b91447fe53b99ed3d"
+        "md5": "423e3a697447a997bb1b4816bbe8ee8c"
     },
     {
         "path": "event-03",
@@ -1962,7 +1572,7 @@
     {
         "path": "/event-03/index.html",
         "type": "file",
-        "md5": "07cd949ab16b378e805d83957fc136a3"
+        "md5": "ad2606d30eb5dfcf7f443909216f928c"
     },
     {
         "path": "event-04",
@@ -1972,7 +1582,7 @@
     {
         "path": "/event-04/index.html",
         "type": "file",
-        "md5": "c5d874e21d943a34e20c5b052279d2c1"
+        "md5": "f0b33b8cfe61a985065808edcc20d5ff"
     },
     {
         "path": "event-05",
@@ -1982,7 +1592,7 @@
     {
         "path": "/event-05/index.html",
         "type": "file",
-        "md5": "ff50c8a39465ac3e5dc87e740cb55a05"
+        "md5": "c812f964f8e2c201eefa3aff51be9448"
     },
     {
         "path": "event-06",
@@ -1992,7 +1602,7 @@
     {
         "path": "/event-06/index.html",
         "type": "file",
-        "md5": "c08ddca5de68cf17403b10eca54506be"
+        "md5": "8bf8f8130d8f917702680f024b8a1b2a"
     },
     {
         "path": "event-07",
@@ -2002,7 +1612,7 @@
     {
         "path": "/event-07/index.html",
         "type": "file",
-        "md5": "1281e8ae2068b1d5a3314e6f8b7209a8"
+        "md5": "7d31c161bda7bc180018a161d79c4be0"
     },
     {
         "path": "event-08",
@@ -2012,7 +1622,7 @@
     {
         "path": "/event-08/index.html",
         "type": "file",
-        "md5": "6dbcd8488d9692a60ee002a98f212206"
+        "md5": "be6097dee3992f561927d839af7473de"
     },
     {
         "path": "event-09",
@@ -2022,7 +1632,7 @@
     {
         "path": "/event-09/index.html",
         "type": "file",
-        "md5": "5f93e5383e2cc720a056a75bcc162ee2"
+        "md5": "5f601e89c3d8f67050e781de3573cc66"
     },
     {
         "path": "event-10",
@@ -2032,7 +1642,7 @@
     {
         "path": "/event-10/index.html",
         "type": "file",
-        "md5": "a717e90dda733574de446753e755eb44"
+        "md5": "40150e3b688f154aec94e89209d88ec1"
     },
     {
         "path": "event-11",
@@ -2042,7 +1652,7 @@
     {
         "path": "/event-11/index.html",
         "type": "file",
-        "md5": "c69acd34f6c04c90ec6a971e402b940c"
+        "md5": "099ce3d63e3e8143b12ba7d1dc8c0e0b"
     },
     {
         "path": "event-12",
@@ -2052,7 +1662,7 @@
     {
         "path": "/event-12/index.html",
         "type": "file",
-        "md5": "05463644d83cf0d4355f593b390ca197"
+        "md5": "ccf923040bec40868e7f3c9605474465"
     },
     {
         "path": "event-13",
@@ -2062,7 +1672,7 @@
     {
         "path": "/event-13/index.html",
         "type": "file",
-        "md5": "233c506dde4fa7dfae31f07889e54640"
+        "md5": "efe94fd55de86a7320b5743b1b0d8f01"
     },
     {
         "path": "event-14",
@@ -2072,7 +1682,7 @@
     {
         "path": "/event-14/index.html",
         "type": "file",
-        "md5": "74fbe925cb78106f3db79f7a32c4ccd2"
+        "md5": "6d84e3c036e07425c3b9a9859f7621b6"
     },
     {
         "path": "event-15",
@@ -2082,7 +1692,7 @@
     {
         "path": "/event-15/index.html",
         "type": "file",
-        "md5": "0c7a4c302d7d47592252c69dca645ec2"
+        "md5": "ccfbe894e4687706d244e7a10a1abd34"
     },
     {
         "path": "event-16",
@@ -2092,7 +1702,7 @@
     {
         "path": "/event-16/index.html",
         "type": "file",
-        "md5": "9d57aee5c906da1b82919dddfd706447"
+        "md5": "d0fc4704e0e2c43d4da00e90cc9f08e5"
     },
     {
         "path": "event-17",
@@ -2102,7 +1712,7 @@
     {
         "path": "/event-17/index.html",
         "type": "file",
-        "md5": "0ef1f96fc63faf7468db4dc269f08513"
+        "md5": "a1ce826a626d5277b42756838590a6de"
     },
     {
         "path": "event-18",
@@ -2112,7 +1722,7 @@
     {
         "path": "/event-18/index.html",
         "type": "file",
-        "md5": "a47e329d59f734241e7556776e952e69"
+        "md5": "057652d00c6700e253d0323b528e5db5"
     },
     {
         "path": "event-19",
@@ -2122,7 +1732,7 @@
     {
         "path": "/event-19/index.html",
         "type": "file",
-        "md5": "ce91f30c4745da2b6e68847ff984d897"
+        "md5": "23e38a06372c2effa0c3e6ae28f0fdfc"
     },
     {
         "path": "fanoos-qalam-conf",
@@ -2152,7 +1762,7 @@
     {
         "path": "/first-hackers-coferece-1984/index.html",
         "type": "file",
-        "md5": "cadff6cf9b6577c60e43b2905c8c7c7f"
+        "md5": "9dc9217a8bc71f0bfc54b6c66231d57e"
     },
     {
         "path": "fixing.svg",
@@ -2167,7 +1777,7 @@
     {
         "path": "/font-arad/index.html",
         "type": "file",
-        "md5": "05971814536e99a5448e06b4f06bff43"
+        "md5": "de6e666c07ab192dfe939ebe77c5cf86"
     },
     {
         "path": "free-android",
@@ -2177,7 +1787,7 @@
     {
         "path": "/free-android/index.html",
         "type": "file",
-        "md5": "42b82215cc268519275c0f8604e138d3"
+        "md5": "f344972ee3ee92e1e0d484ab529ab171"
     },
     {
         "path": "free-android-software-contribution-guide",
@@ -2707,7 +2317,7 @@
     {
         "path": "/freedom-day/index.html",
         "type": "file",
-        "md5": "32cf7b1d39ff2958f94cc83cea5c3624"
+        "md5": "19da952c94365e9d42947766c1c126d6"
     },
     {
         "path": "freefont",
@@ -2727,7 +2337,7 @@
     {
         "path": "/fsf-1403/index.html",
         "type": "file",
-        "md5": "83248c8ee48dad982ea7d4e3673db191"
+        "md5": "5b7821459bc7c6db04fcc99ab47eb355"
     },
     {
         "path": "fsf-history-redirect",
@@ -2737,7 +2347,7 @@
     {
         "path": "/fsf-history-redirect/index.html",
         "type": "file",
-        "md5": "061e913a62b42d2e02d12636bb1f6e24"
+        "md5": "ce7e376c6938183afb1b1c99a147564f"
     },
     {
         "path": "fsf40",
@@ -2747,7 +2357,7 @@
     {
         "path": "/fsf40/index.html",
         "type": "file",
-        "md5": "17cb42f667aefd69a3f0c6bb2ce4ca32"
+        "md5": "9372ab6bf7f81ba1d87d0f246ca46a6b"
     },
     {
         "path": "fsfp-culture",
@@ -2757,7 +2367,7 @@
     {
         "path": "/fsfp-culture/index.html",
         "type": "file",
-        "md5": "60072cf29c3e2f10040649e1c9459e59"
+        "md5": "9b8476516df72d67e9ef1f599876a719"
     },
     {
         "path": "fsiran",
@@ -2767,7 +2377,7 @@
     {
         "path": "/fsiran/index.html",
         "type": "file",
-        "md5": "d605873f714e6f7dc032b9e4770deac2"
+        "md5": "0408374f5cb353d296db0175ebab0750"
     },
     {
         "path": "ftthyh-lg-fs",
@@ -2787,7 +2397,7 @@
     {
         "path": "/glbh-br-mnswkh-shdn-nrmfzr-b-nrmfzr-azd/index.html",
         "type": "file",
-        "md5": "37ae376e91fab29ef7e7e12b6b432cf7"
+        "md5": "d8c225851c301a72b785524632b9afc0"
     },
     {
         "path": "gnulinux-conf",
@@ -2797,7 +2407,7 @@
     {
         "path": "/gnulinux-conf/index.html",
         "type": "file",
-        "md5": "84bab0a4a41672a1c8078500a2340530"
+        "md5": "54aef77c95b30e033baa359be0e7de84"
     },
     {
         "path": "hack-sec-conf",
@@ -2807,7 +2417,7 @@
     {
         "path": "/hack-sec-conf/index.html",
         "type": "file",
-        "md5": "2799ddfd1b25dbba32d35418a35cd6d9"
+        "md5": "a1344d933d718c3e0a07fb643b6ee364"
     },
     {
         "path": "hero-txt-style",
@@ -2827,7 +2437,7 @@
     {
         "path": "/how-create-community/index.html",
         "type": "file",
-        "md5": "fee143708a9457762776b6816b8f7232"
+        "md5": "8ee9ea3dc3193db0b2bb6a5072edf556"
     },
     {
         "path": "how-install-asahilinux",
@@ -2847,7 +2457,7 @@
     {
         "path": "/how-matrix/index.html",
         "type": "file",
-        "md5": "10d3d5c6b3959272499356ea1b69a1ea"
+        "md5": "982c6f350d67188727b610f58863cf0b"
     },
     {
         "path": "howtolug",
@@ -2877,7 +2487,7 @@
     {
         "path": "/ilovefs/index.html",
         "type": "file",
-        "md5": "f23caddb4843df14e51072b798746eb0"
+        "md5": "e24190d588347ff3d65d05af07fb06dc"
     },
     {
         "path": "index.html",
@@ -2917,7 +2527,7 @@
     {
         "path": "/isfehan-conf/index.html",
         "type": "file",
-        "md5": "1bc9545c3555408a2154d601ceed99cc"
+        "md5": "208fad09b0f7592be07b4881b8d1982e"
     },
     {
         "path": "lan-party",
@@ -2927,7 +2537,7 @@
     {
         "path": "/lan-party/index.html",
         "type": "file",
-        "md5": "34db8ecf287118055482e2bb5f52248e"
+        "md5": "7d4f9246963760e5d9c123c3071fc17d"
     },
     {
         "path": "learn-gimp",
@@ -2937,7 +2547,7 @@
     {
         "path": "/learn-gimp/index.html",
         "type": "file",
-        "md5": "a5f28a8e2a1a9796aa9df10aaf54e7be"
+        "md5": "95e8bea8e01ed6b999b2d6e9bb1cee85"
     },
     {
         "path": "liberate-your-phone",
@@ -2947,7 +2557,7 @@
     {
         "path": "/liberate-your-phone/index.html",
         "type": "file",
-        "md5": "6567e9021a01720b81d8d4e60a27e420"
+        "md5": "8e2eaa86525830bc6eef58b7d3a240f7"
     },
     {
         "path": "libremobileos",
@@ -2967,7 +2577,7 @@
     {
         "path": "/libreplanet2025/index.html",
         "type": "file",
-        "md5": "0ff1cf209f1894894b6401b17f703ad2"
+        "md5": "cc72285aecf72ef6fd3a95dd331f9e33"
     },
     {
         "path": "librepllant",
@@ -2977,7 +2587,7 @@
     {
         "path": "/librepllant/index.html",
         "type": "file",
-        "md5": "7a5266bc79a61859f84805ff8db563ec"
+        "md5": "31bbb56d1a4939f6632ad1adc64a7172"
     },
     {
         "path": "license-ofl",
@@ -2987,7 +2597,7 @@
     {
         "path": "/license-ofl/index.html",
         "type": "file",
-        "md5": "15680f397f3d0a0dbfb134aeda14d2e5"
+        "md5": "32344d5e141bd150d3690ffca05e0f17"
     },
     {
         "path": "license-opensource",
@@ -3017,7 +2627,7 @@
     {
         "path": "/linux-workhsop/index.html",
         "type": "file",
-        "md5": "1a60cb430d2018eb304c69d6bc598fac"
+        "md5": "383ee2c6adf52e2261ea49ee878ff019"
     },
     {
         "path": "lmo",
@@ -3027,7 +2637,7 @@
     {
         "path": "/lmo/index.html",
         "type": "file",
-        "md5": "220fcdd0eb5b199ffa1d7c52fa9e6deb"
+        "md5": "3d9a2d1149c1e3c30ef833849b351cd0"
     },
     {
         "path": "loop",
@@ -3067,7 +2677,7 @@
     {
         "path": "/mastadon/index.html",
         "type": "file",
-        "md5": "1b6fc35c82f9f63cffb897353332d2c3"
+        "md5": "5c5aa161ea404161488e848f4f02db55"
     },
     {
         "path": "matrix",
@@ -3087,7 +2697,7 @@
     {
         "path": "/matrix-user-guide/index.html",
         "type": "file",
-        "md5": "1526b4aff11dfda72db037cd45cddac9"
+        "md5": "85a92a20114984017ea5f2b5b06d4c60"
     },
     {
         "path": "media",
@@ -11532,7 +11142,7 @@
     {
         "path": "/metro-shiraz/index.html",
         "type": "file",
-        "md5": "d7e0ac7148461d139b52752e6eab8d6a"
+        "md5": "159cc2f3017b036595512bb0bfbcc337"
     },
     {
         "path": "obs-studio",
@@ -11552,7 +11162,7 @@
     {
         "path": "/parch-linux/index.html",
         "type": "file",
-        "md5": "6b35a7e9500a224291c5300268786079"
+        "md5": "7258b123eea5ebe93969ddbd1d4c914c"
     },
     {
         "path": "people.png",
@@ -11597,7 +11207,7 @@
     {
         "path": "/post-rc6/index.html",
         "type": "file",
-        "md5": "237c5049db5d0114e1e210937a73c937"
+        "md5": "dfb52c8959a8df57ad68d814d6005614"
     },
     {
         "path": "post-xia",
@@ -11607,7 +11217,7 @@
     {
         "path": "/post-xia/index.html",
         "type": "file",
-        "md5": "63a0ed84a21b54de2fd757c702719fb7"
+        "md5": "95f27868065e92d373d93f8f2d18b577"
     },
     {
         "path": "post-xia-2",
@@ -11637,7 +11247,7 @@
     {
         "path": "/register-in-matrix/index.html",
         "type": "file",
-        "md5": "995cc7209cf6e207a6809344dfec3708"
+        "md5": "50624fb49ed606b008d1ddbfbe5e731d"
     },
     {
         "path": "report-saber-rastikerdar",
@@ -11647,7 +11257,7 @@
     {
         "path": "/report-saber-rastikerdar/index.html",
         "type": "file",
-        "md5": "f8251742ea822fc8494fe509c5899417"
+        "md5": "a22e91fdea5fff2138b88ad39b30f6f9"
     },
     {
         "path": "rewind",
@@ -11687,7 +11297,7 @@
     {
         "path": "/sfd-2025/index.html",
         "type": "file",
-        "md5": "52fb35466c8a91ed6729d8187c7de71c"
+        "md5": "a0089fcb3e60fea932a825ffb8d28699"
     },
     {
         "path": "shirazlinux-2year-report",
@@ -11697,7 +11307,7 @@
     {
         "path": "/shirazlinux-2year-report/index.html",
         "type": "file",
-        "md5": "e15dee362c05f21742d5f26ea70548bd"
+        "md5": "fe80b2e226a8b52d3a1e3f91fcad476d"
     },
     {
         "path": "shoestool",
@@ -11747,7 +11357,7 @@
     {
         "path": "/syncthing/index.html",
         "type": "file",
-        "md5": "4817f21ef0c206e4fc80a46feb808a62"
+        "md5": "da4f1892ba84e7312a4ff4c8016714af"
     },
     {
         "path": "tags",
@@ -12422,7 +12032,7 @@
     {
         "path": "/tehran-metro/index.html",
         "type": "file",
-        "md5": "c875b5a8b41356fcf7d86602f072d2c0"
+        "md5": "97ceada7a7ef20afd57a90705fdf98ce"
     },
     {
         "path": "terror-active",
@@ -12432,7 +12042,7 @@
     {
         "path": "/terror-active/index.html",
         "type": "file",
-        "md5": "9c3d7b209117c199915d7ab5d6576460"
+        "md5": "a01de1612ca1aeb642fcb92372f49620"
     },
     {
         "path": "the-university-costumed",
@@ -12487,7 +12097,7 @@
     {
         "path": "/user-liberation/index.html",
         "type": "file",
-        "md5": "28bbe55286257fa37858dc9ae57169af"
+        "md5": "2d6c85b7f58e36b550b34b8c8f9beec0"
     },
     {
         "path": "valentine-day",
@@ -12507,7 +12117,7 @@
     {
         "path": "/vazir-font-conf/index.html",
         "type": "file",
-        "md5": "7d7c7afcde0773f99e95539135daf250"
+        "md5": "454158ee5e9b3f353a8ba35407dd996b"
     },
     {
         "path": "vazir-font-conf-report",
@@ -12517,7 +12127,7 @@
     {
         "path": "/vazir-font-conf-report/index.html",
         "type": "file",
-        "md5": "dfecab846bed4d7d1b0d898d36278006"
+        "md5": "ae3b0666bb88cd44f02b03b60b1f5eac"
     },
     {
         "path": "website.png",
@@ -12532,7 +12142,7 @@
     {
         "path": "/what-is-community/index.html",
         "type": "file",
-        "md5": "96c7cc0f6bb04e586837b73e7576278a"
+        "md5": "3f7c16b68f47522727f40732d92031bd"
     },
     {
         "path": "what-is-free-software",
@@ -12542,7 +12152,7 @@
     {
         "path": "/what-is-free-software/index.html",
         "type": "file",
-        "md5": "b85ed9b730583eb58dd4b37c76372069"
+        "md5": "a0f3671431bf1e178a54a007d36a360e"
     },
     {
         "path": "why-should-we-not-say-linux",
@@ -12552,7 +12162,7 @@
     {
         "path": "/why-should-we-not-say-linux/index.html",
         "type": "file",
-        "md5": "0591be23d888dbc2eb75f769938294ad"
+        "md5": "0460a85b6d5c8344efa2bba48047ed95"
     },
     {
         "path": "widgetify",
@@ -12572,7 +12182,7 @@
     {
         "path": "/wikipedia-celebration20/index.html",
         "type": "file",
-        "md5": "5d11e1171116c5d44bf2d494eb1f5d65"
+        "md5": "1c09e016782a7070c0e9e9071df80ad0"
     },
     {
         "path": "wikipedia-celebration21",
@@ -12582,7 +12192,7 @@
     {
         "path": "/wikipedia-celebration21/index.html",
         "type": "file",
-        "md5": "080c855d4b13651219a26e8203a88eb7"
+        "md5": "d47d9b64748dc45b3394467c2f33b27d"
     },
     {
         "path": "workshop-archlinux",
@@ -12592,7 +12202,7 @@
     {
         "path": "/workshop-archlinux/index.html",
         "type": "file",
-        "md5": "0f22bf3190aefb2f1d363a82fa81c226"
+        "md5": "fee440d34f59466ead7b6045100867ae"
     },
     {
         "path": "workshop-linux-lpi",
@@ -12602,7 +12212,7 @@
     {
         "path": "/workshop-linux-lpi/index.html",
         "type": "file",
-        "md5": "50566151952b5177ad90625bc4ea2bd2"
+        "md5": "a24f4ea57d18a349e32471d970b51f76"
     },
     {
         "path": "wrong-digiato",
@@ -12622,6 +12232,6 @@
     {
         "path": "/yek-sal-ba-shirazlinux/index.html",
         "type": "file",
-        "md5": "334020c247122a243d636eab8f3ceb88"
+        "md5": "86e54cf0199b76fb60c4f6e289194acf"
     }
 ]
