@@ -144,6 +144,9 @@
         line-height: 1.5em;
     }
     article h1 {
-        text-align: right;
+        text-align: center;
+    }
+    article .auteur {
+        text-align: center;
     }
 }
