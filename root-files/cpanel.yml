@@ -1,0 +1,4 @@
+depsloyment:
+  tasks:
+    - export DEPLOYPATH=/home/sudoshzi/public_html
+    - /bin/cp -R * $DEPLOYPATH
