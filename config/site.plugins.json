@@ -7,7 +7,7 @@
     "cusdisComments": false,
     "disable-right-click": false,
     "docSearch": false,
-    "easy-htaccess": true,
+    "easy-htaccess": false,
     "emailAddressObfuscation": false,
     "externalLinks": true,
     "featherIcons": false,
