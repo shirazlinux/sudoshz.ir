@@ -1,3 +1,7 @@
 [submodule "root-files/ada-zangeman"]
 	path = root-files/ada-zangeman
 	url = https://github.com/shirazlinux/ada-zangemann.git
+
+[submodule "root-files/deltachat-list"]
+	path = root-files/deltachat-list
+	url = https://git.libremobileos.com/abbasdp/deltachat-list.git
