@@ -1,0 +1,500 @@
+/* ==========================================================================
+   ShirazLinux — فقط استایل باکس‌ها و کارت‌ها (روشن، بدون تم دارک اجباری)
+   ========================================================================== */
+
+/* سکشن‌های معرفی / محتوا روی صفحه اصلی */
+.content-section,
+.examples-section {
+  background-color: #ffffff !important;
+  color: #2d2a26 !important;
+  border: 1px solid #ebe6e0;
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(40, 30, 20, 0.06);
+  padding: 1.25rem 1.35rem;
+  margin-bottom: 2rem;
+}
+
+.content-section > p,
+.content-section p {
+  color: #3f3a36 !important;
+  font-size: 1.05rem;
+  line-height: 1.85;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.content-section p:last-child {
+  margin-bottom: 0;
+}
+
+.content-section a {
+  color: #c2410c;
+  font-weight: 600;
+}
+
+/* تیتر سکشن‌ها */
+.main-heading {
+  text-align: center;
+  color: #c2410c;
+  margin-bottom: 1.5rem;
+  font-size: clamp(1.5rem, 3.5vw, 2.2rem);
+  line-height: 1.3;
+}
+
+/* کارت چهار آزادی */
+.freedom-card {
+  background: #ffffff !important;
+  color: #2d2a26 !important;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(40, 30, 20, 0.07);
+  padding: 1.75rem 1.35rem;
+  text-align: center;
+  transition: transform 0.22s ease, box-shadow 0.22s ease;
+  border: 1px solid #ebe6e0;
+  border-top: 4px solid #e85d04;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.freedom-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 14px 32px rgba(40, 30, 20, 0.1);
+}
+
+.freedom-icon {
+  width: 64px;
+  height: 64px;
+  margin: 0 auto 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff7ed;
+  border-radius: 50%;
+  padding: 12px;
+}
+
+.freedom-icon svg {
+  width: 100%;
+  height: 100%;
+  fill: #c2410c;
+}
+
+.freedom-number {
+  color: #78716c;
+  margin-bottom: 0.4rem;
+  font-size: 0.95rem;
+}
+
+.freedom-title {
+  color: #c2410c;
+  margin-bottom: 0.75rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  min-height: 3rem;
+}
+
+.freedom-description {
+  color: #57534e;
+  font-size: 0.95rem;
+  line-height: 1.7;
+  flex-grow: 1;
+}
+
+.freedoms-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.25rem;
+  margin-top: 1.5rem;
+}
+
+/* باکس‌های «چرا نرم‌افزار آزاد» */
+.freedoms-grid > .box {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 1.35rem 1.15rem;
+  text-align: center;
+  box-shadow: 0 6px 18px rgba(40, 30, 20, 0.06);
+  border: 1px solid #ebe6e0;
+  border-top: 4px solid #e85d04;
+  transition: transform 0.22s ease, box-shadow 0.22s ease;
+}
+
+.freedoms-grid > .box:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 28px rgba(40, 30, 20, 0.1);
+}
+
+.freedoms-grid > .box h3 {
+  color: #c2410c;
+  margin: 0.5rem 0;
+  font-size: 1.1rem;
+}
+
+.freedoms-grid > .box p {
+  color: #57534e;
+  font-size: 0.92rem;
+  line-height: 1.75;
+  margin: 0;
+}
+
+.freedoms-grid > .box img {
+  width: 52px;
+  height: 52px;
+  margin: 0 auto 0.65rem;
+  display: block;
+}
+
+/* کارت نمونه‌های اختصاصی */
+.example-card {
+  background-color: #fff7ed;
+  border-radius: 10px;
+  padding: 1.2rem 1.3rem;
+  margin-bottom: 1rem;
+  border: 1px solid #fed7aa;
+  border-inline-start: 4px solid #e85d04;
+}
+
+.example-card:last-child {
+  margin-bottom: 0;
+}
+
+.example-title {
+  color: #c2410c;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  font-size: 1.1rem;
+}
+
+.example-description {
+  color: #44403c;
+  line-height: 1.8;
+}
+
+.examples-section h2,
+.examples-section h3 {
+  color: #c2410c;
+  text-align: center;
+  margin-bottom: 1.15rem;
+}
+
+/* جمع‌بندی */
+.conclusion {
+  background-color: #fff7ed;
+  border-radius: 10px;
+  padding: 1.1rem 1.25rem;
+  margin-top: 1rem;
+  text-align: center;
+  font-weight: 500;
+  border: 1px solid #fed7aa;
+  border-inline-start: 4px solid #e85d04;
+  color: #3f3a36;
+}
+
+.conclusion > p {
+  margin-top: 0 !important;
+  margin-bottom: 0;
+  color: #3f3a36;
+}
+
+/* کارت‌های لیست پست (فقط ظاهر باکس، بدون اجباری کردن تاریخ) */
+.c-card {
+  border-radius: 12px;
+  border: 1px solid #ebe6e0;
+  box-shadow: 0 6px 18px rgba(40, 30, 20, 0.05);
+  overflow: hidden;
+  background: #fff;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.c-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 28px rgba(40, 30, 20, 0.09);
+}
+
+.c-card__title a:hover {
+  color: #c2410c;
+}
+
+/* گرید واکنش‌گرا */
+@media (max-width: 1200px) {
+  .freedoms-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .freedoms-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .content-section,
+  .examples-section {
+    padding: 1.05rem 1.1rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .freedom-card,
+  .freedoms-grid > .box,
+  .c-card {
+    transition: none;
+  }
+
+  .freedom-card:hover,
+  .freedoms-grid > .box:hover,
+  .c-card:hover {
+    transform: none;
+  }
+}
+
+/* ==========================================================================
+   Disqus — minimal reserved area (no heavy chrome)
+   ========================================================================== */
+
+.comments-area,
+.comments.comments--disqus,
+.comments {
+  margin-top: 2.5rem;
+  margin-bottom: 2rem;
+  padding: 0;
+  border: none;
+  border-top: 1px solid #e7e5e4;
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
+  clear: both;
+}
+
+.comments-area::before,
+.comments.comments--disqus::before {
+  display: none;
+}
+
+.comments-wrapper {
+  position: relative;
+  padding: 1.25rem 0 0.5rem;
+  min-height: 280px;
+}
+
+.comments-area .comments__title,
+.comments .comments__title,
+.comments-wrapper > h2,
+.comments-area > h2,
+.comments > h2 {
+  margin: 0 0 1rem !important;
+  padding: 0 !important;
+  border: none !important;
+  color: #292524 !important;
+  font-size: 1.15rem !important;
+  font-weight: 700 !important;
+  line-height: 1.4 !important;
+  letter-spacing: -0.01em;
+  display: block;
+}
+
+.comments-area .comments__title::before,
+.comments .comments__title::before,
+.comments-wrapper > h2::before,
+.comments-area .comments__title::after,
+.comments .comments__title::after,
+.comments-wrapper > h2::after {
+  content: none !important;
+  display: none !important;
+}
+
+.comments-wrapper::before {
+  content: none !important;
+  display: none !important;
+}
+
+#disqus_thread {
+  min-height: 260px;
+  position: relative;
+  border-radius: 0;
+  background: transparent;
+  border: none;
+  overflow: visible;
+}
+
+/* quiet placeholder only while empty */
+#disqus_thread:empty {
+  background: #fafaf9;
+  border: 1px solid #e7e5e4;
+  border-radius: 8px;
+  animation: none;
+}
+
+#disqus_thread:empty::before {
+  content: "بارگذاری نظرات…";
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #a8a29e;
+  font-size: 0.9rem;
+  font-weight: 500;
+  pointer-events: none;
+}
+
+#disqus_thread:empty::after {
+  display: none !important;
+}
+
+#disqus_thread:not(:empty) {
+  background: transparent;
+  border: none;
+  min-height: 180px;
+  padding: 0;
+  animation: none;
+}
+
+#disqus_thread:not(:empty)::before,
+#disqus_thread:not(:empty)::after {
+  display: none !important;
+}
+
+.comments-wrapper noscript,
+.comments noscript {
+  display: block;
+  margin-top: 0.75rem;
+  color: #78716c;
+  font-size: 0.9rem;
+  text-align: center;
+  background: none;
+  border: none;
+  padding: 0.5rem;
+}
+
+@media (max-width: 48em) {
+  .comments-wrapper {
+    padding-top: 1rem;
+    min-height: 240px;
+  }
+
+  #disqus_thread {
+    min-height: 220px;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .comments-area,
+  .comments.comments--disqus,
+  .comments {
+    border-top-color: #44403c;
+  }
+
+  .comments-area .comments__title,
+  .comments .comments__title,
+  .comments-wrapper > h2 {
+    color: #f5f5f4 !important;
+  }
+
+  #disqus_thread:empty {
+    background: #1c1917;
+    border-color: #44403c;
+  }
+
+  #disqus_thread:empty::before {
+    color: #78716c;
+  }
+}
+
+
+
+/* ==========================================================================
+   OpenStreetMap — original box layout, refined
+   Map preview (same size) on top, route button centered below
+   ========================================================================== */
+
+#map,
+.osm-map {
+  margin: 1.1rem auto 1.6rem !important;
+  max-width: 640px !important;
+  width: 100%;
+  border: 2px solid #e6dede !important;
+  padding: 14px 12px 16px !important;
+  background: linear-gradient(180deg, #f3f1f1 0%, #eeecec 100%) !important;
+  border-radius: 12px !important;
+  text-align: center !important;
+  box-shadow: 0 6px 18px rgba(40, 30, 20, 0.06);
+  box-sizing: border-box;
+  display: block !important;
+  flex-direction: unset !important;
+  align-items: unset !important;
+  gap: 0 !important;
+  overflow: hidden;
+}
+
+#map .osm-map__frame,
+.osm-map__frame {
+  width: 100%;
+  border-radius: 10px;
+  overflow: hidden;
+  line-height: 0;
+  border: 2px solid #8a7e7e;
+  background: #d6d3d1;
+}
+
+#map iframe,
+#map .osm-map__frame iframe,
+.osm-map iframe {
+  display: block !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  height: 220px !important;
+  border: none !important;
+  border-radius: 0 !important;
+  margin: 0 auto !important;
+  background: #d6d3d1;
+}
+
+#map > a,
+#map .osm-map__btn,
+.osm-map .osm-map__btn,
+#map a.osm-map__btn {
+  display: inline-block !important;
+  margin: 14px auto 0 !important;
+  color: #f0f0f0 !important;
+  text-decoration: none !important;
+  background-color: #4f5053 !important;
+  padding: 11px 24px !important;
+  border-radius: 10px !important;
+  font-weight: 700 !important;
+  font-size: 0.95rem !important;
+  letter-spacing: 0.01em;
+  box-shadow: 0 2px 0 #3a3b3e;
+  transition: background-color 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
+  white-space: normal;
+}
+
+#map > a:hover,
+#map .osm-map__btn:hover,
+.osm-map .osm-map__btn:hover {
+  background-color: #e85d04 !important;
+  color: #fff !important;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(232, 93, 4, 0.28);
+}
+
+/* kill previous flex "side by side" rules if any linger */
+.event-location {
+  max-width: 640px;
+  margin: 1.1rem auto 1.6rem;
+}
+
+@media (max-width: 48em) {
+  #map,
+  .osm-map {
+    max-width: 100% !important;
+    padding: 12px 10px 14px !important;
+  }
+
+  #map iframe,
+  #map .osm-map__frame iframe,
+  .osm-map iframe {
+    height: 200px !important;
+  }
+}
