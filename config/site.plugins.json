@@ -24,7 +24,7 @@
     "telegramComments": false,
     "collapsibleToC": false,
     "mermaidSupport": false,
-    "comeBackBrowserTab": true,
+    "comeBackBrowserTab": false,
     "disqusComments": true,
     "metaTabColors": true,
     "umamiAnalyticsIntegration": true,

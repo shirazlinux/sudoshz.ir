@@ -1,336 +1,336 @@
 [
-    {
-        "name": "منو اصلی",
-        "position": "mainMenu",
-        "items": [
-            {
-                "id": 1735478552937,
-                "label": "خانه",
-                "title": "",
-                "type": "frontpage",
-                "target": "_self",
-                "rel": "",
-                "link": "empty",
-                "cssClass": "",
-                "isHidden": false,
-                "items": []
-            },
-            {
-                "id": 1753670579057,
-                "label": "رویدادها",
-                "title": "",
-                "type": "separator",
-                "target": "_self",
-                "rel": "",
-                "link": "",
-                "cssClass": "",
-                "isHidden": false,
-                "items": [
-                    {
-                        "id": 1749089881742,
-                        "label": "دورهمی‌ها",
-                        "title": "",
-                        "type": "tag",
-                        "target": "_self",
-                        "rel": "",
-                        "link": 7,
-                        "cssClass": "",
-                        "isHidden": false,
-                        "items": []
-                    },
-                    {
-                        "id": 1735740332484,
-                        "label": "نشست‌ها",
-                        "title": "",
-                        "type": "tag",
-                        "target": "_self",
-                        "rel": "",
-                        "link": 3,
-                        "cssClass": "",
-                        "isHidden": false,
-                        "items": []
-                    },
-                    {
-                        "id": 1735938213442,
-                        "label": "کارگاه‌ها",
-                        "title": "",
-                        "type": "tag",
-                        "target": "_self",
-                        "rel": "",
-                        "link": 6,
-                        "cssClass": "",
-                        "isHidden": false,
-                        "items": []
-                    },
-                    {
-                        "id": 1735740371585,
-                        "label": "همایش‌ها",
-                        "title": "",
-                        "type": "tag",
-                        "target": "_self",
-                        "rel": "",
-                        "link": 4,
-                        "cssClass": "",
-                        "isHidden": false,
-                        "items": []
-                    },
-                    {
-                        "id": 1762833187766,
-                        "label": "گفتمان نرم‌افزار آزاد",
-                        "title": "",
-                        "type": "tag",
-                        "target": "_self",
-                        "rel": "",
-                        "link": 43,
-                        "cssClass": "",
-                        "isHidden": false,
-                        "items": []
-                    }
-                ]
-            },
-            {
-                "id": 1735942626280,
-                "label": "پست آزاد",
-                "title": "",
-                "type": "separator",
-                "target": "_self",
-                "rel": "",
-                "link": "",
-                "cssClass": "",
-                "isHidden": false,
-                "items": [
-                    {
-                        "id": 1758583421250,
-                        "label": "پست‌ها و مقالات آموزشی",
-                        "title": "",
-                        "type": "tag",
-                        "target": "_self",
-                        "rel": "",
-                        "link": 5,
-                        "cssClass": "",
-                        "isHidden": false,
-                        "items": []
-                    },
-                    {
-                        "id": 1758583385930,
-                        "label": "ویدیوها",
-                        "title": "",
-                        "type": "tag",
-                        "target": "_self",
-                        "rel": "",
-                        "link": 41,
-                        "cssClass": "",
-                        "isHidden": false,
-                        "items": []
-                    }
-                ]
-            },
-            {
-                "id": 1755569179687,
-                "label": "دوره آموزشی",
-                "title": "",
-                "type": "tag",
-                "target": "_self",
-                "rel": "",
-                "link": 40,
-                "cssClass": "",
-                "isHidden": false,
-                "items": []
-            },
-            {
-                "id": 1753593319085,
-                "label": "راهنمای جامعه",
-                "title": "",
-                "type": "tag",
-                "target": "_self",
-                "rel": "",
-                "link": 36,
-                "cssClass": "",
-                "isHidden": false,
-                "items": []
-            },
-            {
-                "id": 1735740539076,
-                "label": "درباره ما",
-                "title": "",
-                "type": "separator",
-                "target": "_self",
-                "rel": "",
-                "link": "",
-                "cssClass": "",
-                "isHidden": false,
-                "items": [
-                    {
-                        "id": 1753670972882,
-                        "label": "درباره شیرازلینوکس",
-                        "title": "",
-                        "type": "page",
-                        "target": "_self",
-                        "rel": "",
-                        "link": 78,
-                        "cssClass": "",
-                        "isHidden": false,
-                        "items": []
-                    },
-                    {
-                        "id": 1762313545633,
-                        "label": "خط مشی اجرایی",
-                        "title": "",
-                        "type": "page",
-                        "target": "_self",
-                        "rel": "",
-                        "link": 165,
-                        "cssClass": "",
-                        "isHidden": false,
-                        "items": []
-                    },
-                    {
-                        "id": 1762465724557,
-                        "label": "کد رفتاری شبکه‌های اجتماعی",
-                        "title": "",
-                        "type": "page",
-                        "target": "_self",
-                        "rel": "",
-                        "link": 170,
-                        "cssClass": "",
-                        "isHidden": false,
-                        "items": []
-                    },
-                    {
-                        "id": 1762474176019,
-                        "label": "سیاست‌های حمایتی و تبلیغاتی",
-                        "title": "",
-                        "type": "page",
-                        "target": "_self",
-                        "rel": "",
-                        "link": 169,
-                        "cssClass": "",
-                        "isHidden": false,
-                        "items": []
-                    },
-                    {
-                        "id": 1762291654469,
-                        "label": "گزارشات فعالیت شیرازلینوکس",
-                        "title": "",
-                        "type": "tag",
-                        "target": "_self",
-                        "rel": "",
-                        "link": 42,
-                        "cssClass": "",
-                        "isHidden": false,
-                        "items": []
-                    },
-                    {
-                        "id": 1766179384273,
-                        "label": "گزارش مالی شیرازلینوکس",
-                        "title": "",
-                        "type": "page",
-                        "target": "_self",
-                        "rel": "",
-                        "link": 181,
-                        "cssClass": "",
-                        "isHidden": false,
-                        "items": []
-                    },
-                    {
-                        "id": 1735813585899,
-                        "label": "تیم اجرایی",
-                        "title": "",
-                        "type": "page",
-                        "target": "_self",
-                        "rel": "",
-                        "link": 72,
-                        "cssClass": "",
-                        "isHidden": false,
-                        "items": []
-                    }
-                ]
-            },
-            {
-                "id": 1749089915210,
-                "label": "فروشگاه",
-                "title": "",
-                "type": "page",
-                "target": "_self",
-                "rel": "",
-                "link": 114,
-                "cssClass": "",
-                "isHidden": false,
-                "items": []
-            },
-            {
-                "id": 1758281319267,
-                "label": "حمایت",
-                "title": "",
-                "type": "page",
-                "target": "_self",
-                "rel": "",
-                "link": 151,
-                "cssClass": "",
-                "isHidden": false,
-                "items": []
-            }
-        ],
-        "maxLevels": "-1"
-    },
-    {
-        "name": "منو فوت",
-        "position": "footerMenu",
-        "items": [
-            {
-                "id": 1736554445801,
-                "label": "تاریخچه‌ی نرم‌افزار آزاد",
-                "title": "",
-                "type": "post",
-                "target": "_self",
-                "rel": "",
-                "link": 133,
-                "cssClass": "",
-                "isHidden": false,
-                "items": []
-            },
-            {
-                "id": 17365544522361,
-                "label": "جنبش نرم‌افزار آزاد",
-                "title": "جنبش نرم‌افزار آزاد",
-                "type": "external",
-                "target": "_self",
-                "rel": "",
-                "link": "https://free.sudoshz.ir",
-                "cssClass": "",
-                "isHidden": false,
-                "items": []
-            },
-            {
-                "id": 17365544516751,
-                "label": "نرم‌افزار آزاد چیه؟",
-                "title": "",
-                "type": "post",
-                "target": "_self",
-                "rel": "",
-                "link": 125,
-                "cssClass": "",
-                "isHidden": false,
-                "items": []
-            },
-            {
-                "id": 1766179685004,
-                "label": "حمایت از ما",
-                "title": "",
-                "type": "page",
-                "target": "_self",
-                "rel": "",
-                "link": 151,
-                "cssClass": "",
-                "isHidden": false,
-                "items": []
-            }
-        ],
-        "maxLevels": "-1"
-    },
-    {
-        "name": "قوانین و شرایط حمایت",
-        "position": "",
+  {
+    "name": "منو اصلی",
+    "position": "mainMenu",
+    "items": [
+      {
+        "id": 1735478552937,
+        "label": "خانه",
+        "title": "",
+        "type": "frontpage",
+        "target": "_self",
+        "rel": "",
+        "link": "empty",
+        "cssClass": "",
+        "isHidden": false,
         "items": []
-    }
+      },
+      {
+        "id": 1753670579057,
+        "label": "رویدادها",
+        "title": "",
+        "type": "separator",
+        "target": "_self",
+        "rel": "",
+        "link": "",
+        "cssClass": "",
+        "isHidden": false,
+        "items": [
+          {
+            "id": 1749089881742,
+            "label": "دورهمی‌ها",
+            "title": "",
+            "type": "tag",
+            "target": "_self",
+            "rel": "",
+            "link": 7,
+            "cssClass": "",
+            "isHidden": false,
+            "items": []
+          },
+          {
+            "id": 1735740332484,
+            "label": "نشست‌ها",
+            "title": "",
+            "type": "tag",
+            "target": "_self",
+            "rel": "",
+            "link": 3,
+            "cssClass": "",
+            "isHidden": false,
+            "items": []
+          },
+          {
+            "id": 1735938213442,
+            "label": "کارگاه‌ها",
+            "title": "",
+            "type": "tag",
+            "target": "_self",
+            "rel": "",
+            "link": 6,
+            "cssClass": "",
+            "isHidden": false,
+            "items": []
+          },
+          {
+            "id": 1735740371585,
+            "label": "همایش‌ها",
+            "title": "",
+            "type": "tag",
+            "target": "_self",
+            "rel": "",
+            "link": 4,
+            "cssClass": "",
+            "isHidden": false,
+            "items": []
+          },
+          {
+            "id": 1762833187766,
+            "label": "گفتمان نرم‌افزار آزاد",
+            "title": "",
+            "type": "tag",
+            "target": "_self",
+            "rel": "",
+            "link": 43,
+            "cssClass": "",
+            "isHidden": false,
+            "items": []
+          }
+        ]
+      },
+      {
+        "id": 1735942626280,
+        "label": "پست آزاد",
+        "title": "",
+        "type": "separator",
+        "target": "_self",
+        "rel": "",
+        "link": "",
+        "cssClass": "",
+        "isHidden": false,
+        "items": [
+          {
+            "id": 1758583421250,
+            "label": "پست‌ها و مقالات آموزشی",
+            "title": "",
+            "type": "tag",
+            "target": "_self",
+            "rel": "",
+            "link": 5,
+            "cssClass": "",
+            "isHidden": false,
+            "items": []
+          },
+          {
+            "id": 1758583385930,
+            "label": "ویدیوها",
+            "title": "",
+            "type": "tag",
+            "target": "_self",
+            "rel": "",
+            "link": 41,
+            "cssClass": "",
+            "isHidden": false,
+            "items": []
+          }
+        ]
+      },
+      {
+        "id": 1755569179687,
+        "label": "دوره آموزشی",
+        "title": "",
+        "type": "tag",
+        "target": "_self",
+        "rel": "",
+        "link": 40,
+        "cssClass": "",
+        "isHidden": false,
+        "items": []
+      },
+      {
+        "id": 1753593319085,
+        "label": "راهنمای جامعه",
+        "title": "",
+        "type": "tag",
+        "target": "_self",
+        "rel": "",
+        "link": 36,
+        "cssClass": "",
+        "isHidden": false,
+        "items": []
+      },
+      {
+        "id": 1735740539076,
+        "label": "درباره ما",
+        "title": "",
+        "type": "separator",
+        "target": "_self",
+        "rel": "",
+        "link": "",
+        "cssClass": "",
+        "isHidden": false,
+        "items": [
+          {
+            "id": 1753670972882,
+            "label": "درباره شیرازلینوکس",
+            "title": "",
+            "type": "page",
+            "target": "_self",
+            "rel": "",
+            "link": 78,
+            "cssClass": "",
+            "isHidden": false,
+            "items": []
+          },
+          {
+            "id": 1762313545633,
+            "label": "خط مشی اجرایی",
+            "title": "",
+            "type": "page",
+            "target": "_self",
+            "rel": "",
+            "link": 165,
+            "cssClass": "",
+            "isHidden": false,
+            "items": []
+          },
+          {
+            "id": 1762465724557,
+            "label": "کد رفتاری شبکه‌های اجتماعی",
+            "title": "",
+            "type": "page",
+            "target": "_self",
+            "rel": "",
+            "link": 170,
+            "cssClass": "",
+            "isHidden": false,
+            "items": []
+          },
+          {
+            "id": 1762474176019,
+            "label": "سیاست‌های حمایتی و تبلیغاتی",
+            "title": "",
+            "type": "page",
+            "target": "_self",
+            "rel": "",
+            "link": 169,
+            "cssClass": "",
+            "isHidden": false,
+            "items": []
+          },
+          {
+            "id": 1762291654469,
+            "label": "گزارشات فعالیت شیرازلینوکس",
+            "title": "",
+            "type": "tag",
+            "target": "_self",
+            "rel": "",
+            "link": 42,
+            "cssClass": "",
+            "isHidden": false,
+            "items": []
+          },
+          {
+            "id": 1766179384273,
+            "label": "گزارش مالی شیرازلینوکس",
+            "title": "",
+            "type": "page",
+            "target": "_self",
+            "rel": "",
+            "link": 181,
+            "cssClass": "",
+            "isHidden": false,
+            "items": []
+          },
+          {
+            "id": 1735813585899,
+            "label": "تیم اجرایی",
+            "title": "",
+            "type": "page",
+            "target": "_self",
+            "rel": "",
+            "link": 72,
+            "cssClass": "",
+            "isHidden": true,
+            "items": []
+          }
+        ]
+      },
+      {
+        "id": 1749089915210,
+        "label": "فروشگاه",
+        "title": "",
+        "type": "page",
+        "target": "_self",
+        "rel": "",
+        "link": 114,
+        "cssClass": "",
+        "isHidden": false,
+        "items": []
+      },
+      {
+        "id": 1758281319267,
+        "label": "حمایت",
+        "title": "",
+        "type": "page",
+        "target": "_self",
+        "rel": "",
+        "link": 151,
+        "cssClass": "",
+        "isHidden": false,
+        "items": []
+      }
+    ],
+    "maxLevels": "-1"
+  },
+  {
+    "name": "منو فوت",
+    "position": "footerMenu",
+    "items": [
+      {
+        "id": 1736554445801,
+        "label": "تاریخچه‌ی نرم‌افزار آزاد",
+        "title": "",
+        "type": "post",
+        "target": "_self",
+        "rel": "",
+        "link": 133,
+        "cssClass": "",
+        "isHidden": false,
+        "items": []
+      },
+      {
+        "id": 17365544522361,
+        "label": "جنبش نرم‌افزار آزاد",
+        "title": "جنبش نرم‌افزار آزاد",
+        "type": "external",
+        "target": "_self",
+        "rel": "",
+        "link": "https://free.sudoshz.ir",
+        "cssClass": "",
+        "isHidden": false,
+        "items": []
+      },
+      {
+        "id": 17365544516751,
+        "label": "نرم‌افزار آزاد چیه؟",
+        "title": "",
+        "type": "post",
+        "target": "_self",
+        "rel": "",
+        "link": 125,
+        "cssClass": "",
+        "isHidden": false,
+        "items": []
+      },
+      {
+        "id": 1766179685004,
+        "label": "حمایت از ما",
+        "title": "",
+        "type": "page",
+        "target": "_self",
+        "rel": "",
+        "link": 151,
+        "cssClass": "",
+        "isHidden": false,
+        "items": []
+      }
+    ],
+    "maxLevels": "-1"
+  },
+  {
+    "name": "قوانین و شرایط حمایت",
+    "position": "",
+    "items": []
+  }
 ]

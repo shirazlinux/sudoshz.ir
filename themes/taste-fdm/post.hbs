@@ -1,6 +1,6 @@
 {{> head}}
 {{> navbar}}
-<main class="post">
+<main class="post" id="main-content">
    <div class="wrapper">
       {{#if @customHTML.beforePost}}
          <div class="banner banner--before-content">
@@ -93,11 +93,13 @@
                         {{#if modifiedAt}}
                            <p class="content__last-updated">
                               {{ translate 'post.lastUpdatedDate' }}
-                              {{#checkIf @config.custom.formatDate '!=' 'custom'}}
-                                 {{date modifiedAt @config.custom.formatDate}}
-                              {{else}}
-                                 {{date modifiedAt @config.custom.formatDateCustom}}
-                              {{/checkIf}}
+                              <time datetime="{{date modifiedAt 'YYYY-MM-DDTHH:mm'}}">
+                                 {{#checkIf @config.custom.formatDate '!=' 'custom'}}
+                                    {{date modifiedAt @config.custom.formatDate}}
+                                 {{else}}
+                                    {{date modifiedAt @config.custom.formatDateCustom}}
+                                 {{/checkIf}}
+                              </time>
                            </p>
                         {{/if}}
                      {{/if}}
@@ -185,7 +187,7 @@
       {{/post}}
 
       {{#if @config.post.displayComments}}
-         <div class="comments-area content__inner" id="comments">
+         <div class="comments-area content__inner" id="comments" aria-label="بخش نظرات">
             {{{@commentsCustomCode}}}
          </div>
       {{/if}}

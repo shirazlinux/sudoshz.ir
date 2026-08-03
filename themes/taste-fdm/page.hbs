@@ -1,6 +1,6 @@
 {{> head}}
 {{> navbar}}
-<main class="page">
+<main class="page" id="main-content">
    <div class="wrapper">
       {{#if @customHTML.beforePage}}
          <div class="banner banner--before-content">
@@ -79,11 +79,13 @@
                         {{#if modifiedAt}}
                            <p class="content__last-updated">
                               {{ translate 'post.lastUpdatedDate' }}
-                              {{#checkIf @config.custom.formatDate '!=' 'custom'}}
-                                 {{date modifiedAt @config.custom.formatDate}}
-                              {{else}}
-                                 {{date modifiedAt @config.custom.formatDateCustom}}
-                              {{/checkIf}}
+                              <time datetime="{{date modifiedAt 'YYYY-MM-DDTHH:mm'}}">
+                                 {{#checkIf @config.custom.formatDate '!=' 'custom'}}
+                                    {{date modifiedAt @config.custom.formatDate}}
+                                 {{else}}
+                                    {{date modifiedAt @config.custom.formatDateCustom}}
+                                 {{/checkIf}}
+                              </time>
                            </p>
                         {{/if}}
                      {{/if}}

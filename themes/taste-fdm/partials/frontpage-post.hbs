@@ -83,11 +83,13 @@
                         {{#if modifiedAt}}
                            <p class="post__last-updated">
                               {{ translate 'post.lastUpdatedDate' }}
-                              {{#checkIf @config.custom.formatDate '!=' 'custom'}}
-                                 {{date modifiedAt @config.custom.formatDate}}
-                              {{else}}
-                                 {{date modifiedAt @config.custom.formatDateCustom}}
-                              {{/checkIf}}
+                              <time datetime="{{date modifiedAt 'YYYY-MM-DDTHH:mm'}}">
+                                 {{#checkIf @config.custom.formatDate '!=' 'custom'}}
+                                    {{date modifiedAt @config.custom.formatDate}}
+                                 {{else}}
+                                    {{date modifiedAt @config.custom.formatDateCustom}}
+                                 {{/checkIf}}
+                              </time>
                            </p>
                         {{/if}}
                      {{/if}}
@@ -140,7 +142,7 @@
   
 
          {{#if postViewConfig.displayComments}}
-            <div class="comments-area post__inner" id="comments">
+            <div class="comments-area post__inner" id="comments" aria-label="بخش نظرات">
                {{{@commentsCustomCode}}}
             </div>
          {{/if}}
