@@ -1,0 +1,287 @@
+/**
+ * Visual polish for book "info" pages only (body.page).
+ * Does NOT apply to body.az (read / slideshow) — those keep original layout.
+ */
+
+/* —— Page shell —— */
+body.page {
+  text-align: right;
+}
+
+body.page article {
+  max-width: 52rem;
+  margin: 2.5rem auto 1.5rem;
+  padding: 2rem 6vw 2.5rem;
+  background: rgba(255, 255, 255, 0.72);
+  border: 2px solid rgba(255, 231, 105, 0.75);
+  border-radius: 16px;
+  box-shadow: 0 8px 28px rgba(20, 53, 48, 0.12);
+  font-size: clamp(1.05rem, 1.6vw, 1.25rem);
+  line-height: 1.75;
+}
+
+body.page article h1 {
+  text-align: center;
+  margin: 0 0 1rem;
+  font-size: 1.85em;
+  line-height: 1.25;
+  color: #143530;
+}
+
+body.page article h2 {
+  margin: 1.4rem 0 0.6rem;
+  font-size: 1.25em;
+  line-height: 1.3;
+  color: #1a3d38;
+  padding-bottom: 0.3rem;
+  border-bottom: 2px solid rgba(77, 172, 162, 0.4);
+}
+
+body.page article h3 {
+  text-align: center;
+  font-weight: 600;
+  line-height: 1.4;
+  color: #244843;
+}
+
+body.page article p {
+  margin-bottom: 0.9em;
+  text-align: justify;
+}
+
+body.page article ul {
+  margin: 0.5em 0 1em;
+  padding-right: 1.35em;
+  line-height: 1.7;
+}
+
+body.page article a:not(.cta) {
+  color: #0d5c9e;
+  font-weight: 600;
+  text-underline-offset: 2px;
+}
+
+body.page article a:not(.cta):hover {
+  color: #c43741;
+}
+
+/* —— Home of digital book —— */
+body.page.index article {
+  max-width: 40rem;
+  text-align: center;
+}
+
+body.page.index .auteur {
+  text-align: center;
+  font-size: 1.05em;
+  line-height: 1.5;
+  color: #1f4540;
+  margin-bottom: 0.5rem;
+}
+
+body.page.index h1 {
+  font-size: 2.1em;
+  margin-bottom: 0.35rem;
+}
+
+body.page.index h3 {
+  margin: 0 0 1.25rem;
+  font-size: 1.05em;
+}
+
+body.page.index figure {
+  margin: 0.5rem 0 1.25rem;
+}
+
+body.page.index figure img {
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(20, 53, 48, 0.15);
+  max-width: min(100%, 22rem);
+}
+
+body.page.index .back-pitch,
+body.page.index .back-text {
+  text-align: justify;
+  margin: 1rem auto;
+  max-width: 36rem;
+}
+
+body.page.index .back-pitch p,
+body.page.index .back-text p {
+  text-align: justify;
+}
+
+body.page.index .editions figure {
+  background: transparent;
+  margin-top: 1.25rem;
+}
+
+body.page.index .editions figure img {
+  max-width: min(100%, 28rem);
+  border-radius: 10px;
+  box-shadow: 0 4px 14px rgba(20, 53, 48, 0.12);
+}
+
+/* —— CTA button —— */
+body.page a.cta {
+  display: inline-block;
+  margin: 1em 0.35em;
+  padding: 0.75em 1.6em;
+  font-weight: 700;
+  font-size: 1.05em;
+  color: #143530;
+  background: #ffe769;
+  border: 2px solid #f0d23a;
+  border-radius: 999px;
+  text-decoration: none;
+  box-shadow: 0 3px 10px rgba(20, 53, 48, 0.12);
+  transition: background 0.2s ease, color 0.2s ease, transform 0.15s ease;
+}
+
+body.page a.cta:hover,
+body.page a.cta:focus {
+  background: #4daca2;
+  border-color: #3d9a90;
+  color: #fff;
+  transform: translateY(-1px);
+}
+
+/* —— Authors —— */
+body.page.auteurs .ada-bio {
+  text-align: justify;
+  background: rgba(255, 255, 255, 0.55);
+  padding: 0.85rem 1rem;
+  border-radius: 10px;
+  border-right: 4px solid #4daca2;
+}
+
+body.page.auteurs img.ada-portrait-matthias,
+body.page.auteurs img.ada-portrait-sandra {
+  border-radius: 12px;
+  border: 2px solid rgba(255, 231, 105, 0.8);
+  box-shadow: 0 4px 12px rgba(20, 53, 48, 0.1);
+}
+
+/* —— Footer —— */
+body.page footer#footer-content {
+  max-width: 52rem;
+  margin: 0 auto 2rem;
+  padding: 1.25rem 6vw 1.5rem;
+  background: rgba(255, 255, 255, 0.55);
+  border: 2px solid rgba(255, 231, 105, 0.65);
+  border-radius: 14px;
+  font-size: 0.95rem;
+  line-height: 1.65;
+}
+
+body.page footer#footer-content ul {
+  list-style: none;
+  columns: 1;
+  margin: 0 0 1rem;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.75rem;
+  justify-content: center;
+  text-align: center;
+}
+
+body.page footer#footer-content ul li {
+  margin: 0;
+}
+
+body.page footer#footer-content a {
+  color: #0d5c9e;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+body.page footer#footer-content a:hover {
+  color: #c43741;
+  text-decoration: underline;
+}
+
+body.page footer#footer-content li.livre a {
+  height: auto;
+  width: auto;
+  background: none;
+  color: #143530;
+  background-color: #ffe769;
+  padding: 0.35em 0.85em;
+  border-radius: 999px;
+  display: inline-block;
+}
+
+body.page footer#footer-content .soutien {
+  margin: 0;
+  padding-top: 0.85rem;
+  border-top: 1px solid rgba(20, 53, 48, 0.12);
+  text-align: center;
+  color: #1f4540;
+  font-size: 0.95em;
+}
+
+body.page footer#footer-content .soutien a {
+  color: #0d5c9e;
+}
+
+/* —— Menu panel polish (all book pages with .main-menu, safe) —— */
+nav.main-menu ul {
+  border: 2px solid rgba(255, 231, 105, 0.85);
+  box-shadow: 0 8px 24px rgba(20, 53, 48, 0.15);
+}
+
+nav.main-menu a:hover {
+  color: #2d8a80;
+}
+
+nav.main-menu li.livre a {
+  color: transparent;
+  /* keep book cover image behavior in menu */
+}
+
+/* —— Colophon / license lists —— */
+body.page.colophon .book-metadata,
+body.page.colophon .translation-metadata {
+  margin: 1rem 0;
+  padding: 0.85rem 1rem;
+  background: rgba(255, 255, 255, 0.45);
+  border-radius: 10px;
+  border: 1px solid rgba(77, 172, 162, 0.35);
+}
+
+body.page.colophon h2 {
+  margin-top: 0;
+}
+
+@media only screen and (min-width: 768px) {
+  body.page article {
+    padding: 2.25rem 2.5rem 2.75rem;
+  }
+
+  body.page footer#footer-content {
+    padding: 1.35rem 2rem 1.6rem;
+  }
+
+  body.page footer#footer-content ul {
+    columns: 2;
+    display: block;
+    text-align: right;
+  }
+
+  body.page footer#footer-content ul li {
+    break-inside: avoid;
+  }
+}
+
+@media only screen and (max-width: 760px) {
+  body.page article {
+    margin: 1.25rem 0.75rem;
+    padding: 1.25rem 1rem 1.5rem;
+    font-size: 1.05rem;
+  }
+
+  body.page footer#footer-content {
+    margin: 0 0.75rem 1.5rem;
+  }
+}

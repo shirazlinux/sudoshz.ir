@@ -1,0 +1,3 @@
+# IndexNow API key for Bing/Yandex
+# Key file served at: https://sudoshz.ir/0eab16b3181429aa0f359e9627cd9e4c.txt
+KEY=0eab16b3181429aa0f359e9627cd9e4c
