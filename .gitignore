@@ -1,3 +1,9 @@
 .deploy_counnter
 *.DS_Store
 
+
+# Local DB / editor backups
+*.bak
+*.bak-*
+db.sqlite.bak*
+.DS_Store
