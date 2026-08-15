@@ -56,3 +56,6 @@ git push github main
 echo "successfully pushed deploy to github (main)"
 
 echo "Deploy Number $DEPLOY_NUM successfully."
+
+# Notify Bing after deploy
+sh "$SCRIPT_DIR/indexnow.sh" || true

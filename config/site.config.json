@@ -106,7 +106,7 @@
             "errorPage": "404.html",
             "searchPage": "search.html"
         },
-        "customHeadCode": "<meta name=\"fediverse:creator\" content=\"@Shirazlinux@mastodon.social\">\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"شیرازلینوکس RSS\" href=\"https://sudoshz.ir/feed.xml\">\n<link rel=\"alternate\" type=\"application/feed+json\" title=\"شیرازلینوکس JSON Feed\" href=\"https://sudoshz.ir/feed.json\">\n",
+        "customHeadCode": "<meta name=\"msvalidate.01\" content=\"856949C9A8BB83C8A707E0D2208E5FAA\">\n<meta name=\"fediverse:creator\" content=\"@Shirazlinux@mastodon.social\">\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"شیرازلینوکس RSS\" href=\"https://sudoshz.ir/feed.xml\">\n<link rel=\"alternate\" type=\"application/feed+json\" title=\"شیرازلینوکس JSON Feed\" href=\"https://sudoshz.ir/feed.json\">\n",
         "customBodyCode": "",
         "customCommentsCode": "",
         "customSearchInput": "",
