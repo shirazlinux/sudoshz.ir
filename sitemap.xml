@@ -5,54 +5,6 @@
 <loc>https://sudoshz.ir/</loc>
 </url>
 <url>
-<loc>https://sudoshz.ir/aakhs-h/</loc>
-<lastmod>2026-02-21T09:54:12-05:00</lastmod>
-<image:image>
-<image:loc>https://sudoshz.ir/media/posts/130/IMG_20250117_073118_090.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://sudoshz.ir/media/posts/130/setayesh.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://sudoshz.ir/media/posts/130/photo_2025-08-03_13-31-45.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://sudoshz.ir/media/posts/130/photo_2025-08-03_13-21-18.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://sudoshz.ir/media/posts/130/hosein-salmani-240.png</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://sudoshz.ir/media/posts/130/ru-na.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://sudoshz.ir/media/posts/130/photo_2025-08-03_13-39-00.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://sudoshz.ir/media/posts/130/kasri.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://sudoshz.ir/media/posts/130/sahar-garmsiri-3.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://sudoshz.ir/media/posts/130/FSF40-banner-2.png</image:loc>
-<image:title><![CDATA[بنیاد نرم‌افزار آزاد]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://sudoshz.ir/media/posts/130/shirazweb-logo-transparent-background.png</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-</url>
-<url>
 <loc>https://sudoshz.ir/about/</loc>
 <lastmod>2025-12-14T14:38:24-05:00</lastmod>
 <image:image>
@@ -148,6 +100,54 @@
 </url>
 <url>
 <loc>https://sudoshz.ir/ada-zangeman/ressources/remix/</loc>
+</url>
+<url>
+<loc>https://sudoshz.ir/aks-ha/</loc>
+<lastmod>2026-08-14T18:17:59-04:00</lastmod>
+<image:image>
+<image:loc>https://sudoshz.ir/media/posts/130/IMG_20250117_073118_090.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://sudoshz.ir/media/posts/130/setayesh.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://sudoshz.ir/media/posts/130/photo_2025-08-03_13-31-45.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://sudoshz.ir/media/posts/130/photo_2025-08-03_13-21-18.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://sudoshz.ir/media/posts/130/hosein-salmani-240.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://sudoshz.ir/media/posts/130/ru-na.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://sudoshz.ir/media/posts/130/photo_2025-08-03_13-39-00.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://sudoshz.ir/media/posts/130/kasri.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://sudoshz.ir/media/posts/130/sahar-garmsiri-3.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://sudoshz.ir/media/posts/130/FSF40-banner-2.png</image:loc>
+<image:title><![CDATA[بنیاد نرم‌افزار آزاد]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://sudoshz.ir/media/posts/130/shirazweb-logo-transparent-background.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://sudoshz.ir/authors/abbas-davarpanah/</loc>
@@ -256,6 +256,10 @@
 <image:loc>https://sudoshz.ir/media/posts/101/photo_2025-03-18_21-15-17.jpg</image:loc>
 <image:title><![CDATA[چهارشنبه سوری مبارک]]></image:title>
 </image:image>
+</url>
+<url>
+<loc>https://sudoshz.ir/contact/</loc>
+<lastmod>2026-08-14T18:17:59-04:00</lastmod>
 </url>
 <url>
 <loc>https://sudoshz.ir/create-table/</loc>
@@ -726,8 +730,8 @@
 </image:image>
 </url>
 <url>
-<loc>https://sudoshz.ir/first-hackers-coferece-1984/</loc>
-<lastmod>2025-08-22T15:05:51-04:00</lastmod>
+<loc>https://sudoshz.ir/first-hackers-conference-1984/</loc>
+<lastmod>2026-08-14T18:17:59-04:00</lastmod>
 <image:image>
 <image:loc>https://sudoshz.ir/media/posts/123/image.jpg</image:loc>
 <image:title><![CDATA[اعلامیه اولیه ریچارد استالمن]]></image:title>
@@ -970,7 +974,7 @@
 </url>
 <url>
 <loc>https://sudoshz.ir/hero-txt-style/</loc>
-<lastmod>2025-08-22T03:52:08-04:00</lastmod>
+<lastmod>2026-08-14T18:17:59-04:00</lastmod>
 </url>
 <url>
 <loc>https://sudoshz.ir/how-create-community/</loc>
@@ -1033,8 +1037,8 @@
 </image:image>
 </url>
 <url>
-<loc>https://sudoshz.ir/isfehan-conf/</loc>
-<lastmod>2025-07-26T22:39:43-04:00</lastmod>
+<loc>https://sudoshz.ir/isfahan-conf/</loc>
+<lastmod>2026-08-14T18:17:59-04:00</lastmod>
 <image:image>
 <image:loc>https://sudoshz.ir/media/posts/25/IMG_20250104_005102_631.jpg</image:loc>
 <image:title><![CDATA[گردهمایی لینوکسی اصفهان]]></image:title>
@@ -1129,19 +1133,19 @@
 </image:image>
 </url>
 <url>
+<loc>https://sudoshz.ir/libreplanet/</loc>
+<lastmod>2026-08-14T18:17:59-04:00</lastmod>
+<image:image>
+<image:loc>https://sudoshz.ir/media/posts/91/photo_2025-02-09_22-41-30.jpg</image:loc>
+<image:title><![CDATA[نمایشگاه نرم‌افزار آزاد]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://sudoshz.ir/libreplanet2025/</loc>
 <lastmod>2025-07-28T19:14:31-04:00</lastmod>
 <image:image>
 <image:loc>https://sudoshz.ir/media/posts/110/1080-poster-sudoshz.ir.jpg</image:loc>
 <image:title><![CDATA[همایش بین‌المللی لیبره پلنت]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://sudoshz.ir/librepllant/</loc>
-<lastmod>2025-07-28T18:49:31-04:00</lastmod>
-<image:image>
-<image:loc>https://sudoshz.ir/media/posts/91/photo_2025-02-09_22-41-30.jpg</image:loc>
-<image:title><![CDATA[نمایشگاه نرم‌افزار آزاد]]></image:title>
 </image:image>
 </url>
 <url>
@@ -1169,8 +1173,8 @@
 </image:image>
 </url>
 <url>
-<loc>https://sudoshz.ir/linux-workhsop/</loc>
-<lastmod>2025-07-26T22:37:01-04:00</lastmod>
+<loc>https://sudoshz.ir/linux-workshop/</loc>
+<lastmod>2026-08-14T18:17:59-04:00</lastmod>
 <image:image>
 <image:loc>https://sudoshz.ir/media/posts/20/IMG_20250104_003209_849-2.jpg</image:loc>
 <image:title><![CDATA[کارگاه گنولینوس و نرم‌افزار آزاد شیراز]]></image:title>
@@ -1249,8 +1253,8 @@
 </image:image>
 </url>
 <url>
-<loc>https://sudoshz.ir/mastadon/</loc>
-<lastmod>2025-07-28T18:53:36-04:00</lastmod>
+<loc>https://sudoshz.ir/mastodon/</loc>
+<lastmod>2026-08-14T18:17:59-04:00</lastmod>
 <image:image>
 <image:loc>https://sudoshz.ir/media/posts/99/mastadon-photo.jpg</image:loc>
 <image:title><![CDATA[ماستادون]]></image:title>
@@ -1346,6 +1350,34 @@
 <image:image>
 <image:loc>https://sudoshz.ir/media/posts/87/deepseek.jpeg</image:loc>
 <image:title><![CDATA[هوش مصنوعی آزاد دیپ سیک]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://sudoshz.ir/projects/</loc>
+<lastmod>2026-08-14T21:45:34-04:00</lastmod>
+<image:image>
+<image:loc>https://sudoshz.ir/media/posts/185/yavar.jpg</image:loc>
+<image:title><![CDATA[پروژه یاور]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://sudoshz.ir/media/posts/185/mizgerd.jpg</image:loc>
+<image:title><![CDATA[پروژه میزگرد]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://sudoshz.ir/media/posts/185/nadanban.jpg</image:loc>
+<image:title><![CDATA[پروژه نادان‌بان]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://sudoshz.ir/media/posts/185/ada-zangeman.jpg</image:loc>
+<image:title><![CDATA[اِدا و زنگِمن]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://sudoshz.ir/media/posts/185/fs-history.jpg</image:loc>
+<image:title><![CDATA[تاریخچه نرم‌افزار آزاد]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://sudoshz.ir/media/posts/185/deltachat.jpg</image:loc>
+<image:title><![CDATA[فهرست کلاینت‌های دلتاچت]]></image:title>
 </image:image>
 </url>
 <url>
@@ -1501,10 +1533,6 @@
 </image:image>
 </url>
 <url>
-<loc>https://sudoshz.ir/shop/</loc>
-<lastmod>2025-08-01T08:27:53-04:00</lastmod>
-</url>
-<url>
 <loc>https://sudoshz.ir/supertuxkart-15/</loc>
 <lastmod>2025-10-26T20:01:37-04:00</lastmod>
 <image:image>
@@ -1571,7 +1599,19 @@
 <loc>https://sudoshz.ir/tags/free-knowledge/</loc>
 </url>
 <url>
-<loc>https://sudoshz.ir/tags/free-softwaare-community-guide/</loc>
+<loc>https://sudoshz.ir/tags/free-software/</loc>
+</url>
+<url>
+<loc>https://sudoshz.ir/tags/free-software/page/2/</loc>
+</url>
+<url>
+<loc>https://sudoshz.ir/tags/free-software/page/3/</loc>
+</url>
+<url>
+<loc>https://sudoshz.ir/tags/free-software/page/4/</loc>
+</url>
+<url>
+<loc>https://sudoshz.ir/tags/free-software/page/5/</loc>
 </url>
 <url>
 <loc>https://sudoshz.ir/tags/free-software-community/</loc>
@@ -1583,25 +1623,13 @@
 <loc>https://sudoshz.ir/tags/free-software-community/page/3/</loc>
 </url>
 <url>
+<loc>https://sudoshz.ir/tags/free-software-community-guide/</loc>
+</url>
+<url>
 <loc>https://sudoshz.ir/tags/free-software-culture/</loc>
 </url>
 <url>
 <loc>https://sudoshz.ir/tags/free-software-culture/page/2/</loc>
-</url>
-<url>
-<loc>https://sudoshz.ir/tags/free-sotware/</loc>
-</url>
-<url>
-<loc>https://sudoshz.ir/tags/free-sotware/page/2/</loc>
-</url>
-<url>
-<loc>https://sudoshz.ir/tags/free-sotware/page/3/</loc>
-</url>
-<url>
-<loc>https://sudoshz.ir/tags/free-sotware/page/4/</loc>
-</url>
-<url>
-<loc>https://sudoshz.ir/tags/free-sotware/page/5/</loc>
 </url>
 <url>
 <loc>https://sudoshz.ir/tags/freesoftwaretalks/</loc>
@@ -1622,9 +1650,6 @@
 <loc>https://sudoshz.ir/tags/golang/</loc>
 </url>
 <url>
-<loc>https://sudoshz.ir/tags/ibre-fonts/</loc>
-</url>
-<url>
 <loc>https://sudoshz.ir/tags/ilovefs/</loc>
 </url>
 <url>
@@ -1632,6 +1657,9 @@
 </url>
 <url>
 <loc>https://sudoshz.ir/tags/libre-android/</loc>
+</url>
+<url>
+<loc>https://sudoshz.ir/tags/libre-fonts/</loc>
 </url>
 <url>
 <loc>https://sudoshz.ir/tags/libre-learn/</loc>
