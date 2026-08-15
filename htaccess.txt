@@ -1,14 +1,44 @@
-## Recommended Apache rules for sudoshz.ir
-## Rename to .htaccess only if your host uses Apache and you need these rules.
+## Apache rules for sudoshz.ir
+## Rename to .htaccess on the host if Apache is in use.
 
-## HTTPS redirect (correct direction)
 RewriteEngine On
+
+## HTTPS
 RewriteCond %{HTTPS} !=on
 RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
-## Prefer non-www → apex (optional; enable if both hostnames exist)
-# RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
-# RewriteRule ^ https://%1%{REQUEST_URI} [L,R=301]
+## www → apex
+RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+RewriteRule ^ https://%1%{REQUEST_URI} [L,R=301]
+
+## Never expose Publii publish folder
+RewriteRule ^main-sudoshz/(.*)$ /$1 [L,R=301]
+
+## index.html → /
+RewriteRule ^index\.html$ / [L,R=301]
+
+## Trailing slash for extensionless URLs (direct, no internal folder leak)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} !/$
+RewriteCond %{REQUEST_URI} !\.[a-zA-Z0-9]{1,8}$
+RewriteRule ^(.*)$ /$1/ [L,R=301]
+
+## Typo / old slugs
+Redirect 301 /aakhs-h/ /aks-ha/
+Redirect 301 /first-hackers-coferece-1984/ /first-hackers-conference-1984/
+Redirect 301 /linux-workhsop/ /linux-workshop/
+Redirect 301 /mastadon/ /mastodon/
+Redirect 301 /librepllant/ /libreplanet/
+Redirect 301 /isfehan-conf/ /isfahan-conf/
+Redirect 301 /tags/free-sotware/ /tags/free-software/
+Redirect 301 /tags/free-sotware/page/2/ /tags/free-software/page/2/
+Redirect 301 /tags/free-sotware/page/3/ /tags/free-software/page/3/
+Redirect 301 /tags/free-sotware/page/4/ /tags/free-software/page/4/
+Redirect 301 /tags/free-sotware/page/5/ /tags/free-software/page/5/
+Redirect 301 /tags/free-softwaare-community-guide/ /tags/free-software-community-guide/
+Redirect 301 /tags/ibre-fonts/ /tags/libre-fonts/
+Redirect 301 /fsf-history-redirect/ /free-software-history/
 
 ## Compression
 <IfModule mod_deflate.c>
@@ -29,7 +59,6 @@ RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
   ExpiresByType font/woff2 "access plus 180 days"
 </IfModule>
 
-## Block Publii internal inventory file if present
 <Files "files.publii.json">
   Require all denied
 </Files>
