@@ -4,11 +4,8 @@ Allow: /
 Disallow: /search.html
 Disallow: /search/
 
-# Sitemaps
 Sitemap: https://sudoshz.ir/sitemap.xml
-Sitemap: https://sudoshz.ir/feed.xml
 
-# Explicit allow for major crawlers (Bing / Microsoft ecosystem)
 User-agent: bingbot
 Allow: /
 Crawl-delay: 1

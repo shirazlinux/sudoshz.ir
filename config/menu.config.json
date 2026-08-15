@@ -243,6 +243,18 @@
             "cssClass": "",
             "isHidden": true,
             "items": []
+          },
+          {
+            "id": 1786745879155,
+            "label": "تماس",
+            "title": "تماس با شیرازلینوکس",
+            "type": "page",
+            "target": "_self",
+            "rel": "",
+            "link": 184,
+            "cssClass": "",
+            "isHidden": false,
+            "items": []
           }
         ]
       },
@@ -255,7 +267,7 @@
         "rel": "",
         "link": 114,
         "cssClass": "",
-        "isHidden": false,
+        "isHidden": true,
         "items": []
       },
       {
@@ -321,6 +333,18 @@
         "target": "_self",
         "rel": "",
         "link": 151,
+        "cssClass": "",
+        "isHidden": false,
+        "items": []
+      },
+      {
+        "id": 1786745879156,
+        "label": "تماس",
+        "title": "تماس با شیرازلینوکس",
+        "type": "page",
+        "target": "_self",
+        "rel": "",
+        "link": 184,
         "cssClass": "",
         "isHidden": false,
         "items": []
